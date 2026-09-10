@@ -1,0 +1,76 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: android-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      # `android/` is git-ignored (regenerated on demand, like `ios/`), so CI has to
+      # generate it fresh from app.json before Gradle has anything to build.
+      # `--no-install` skips the redundant `npm install` prebuild would otherwise
+      # run (npm ci above already did it); CI=true makes the Expo CLI skip any
+      # interactive prompts, though app.json already has everything it needs
+      # (android.package is set) so none are expected here anyway.
+      - name: Generate native android/ project
+        run: npx expo prebuild --platform android --no-install
+        env:
+          CI: true
+
+      - name: Cache Gradle
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ runner.os }}-${{ hashFiles('android/gradle/wrapper/gradle-wrapper.properties') }}
+          restore-keys: |
+            gradle-${{ runner.os }}-
+
+      # No release keystore is configured, so the release build type falls back to
+      # the auto-generated debug keystore (see android/app/build.gradle) — fine for
+      # side-loading/testing, not for a Play Store submission.
+      - name: Build release APK
+        working-directory: android
+        run: ./gradlew assembleRelease --no-daemon
+
+      - name: Upload APK as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: englishvoice-android-${{ github.sha }}
+          path: android/app/build/outputs/apk/release/*.apk
+          retention-days: 30
+
+      - name: Publish "latest" GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: android-latest
+          name: Android (latest)
+          body: Auto-built from commit ${{ github.sha }}. Debug-signed APK for side-loading — not a Play Store release.
+          make_latest: false
+          overwrite_files: true
+          files: android/app/build/outputs/apk/release/*.apk
