@@ -6,83 +6,303 @@ export const divisionOfLabour: Chapter = {
   passages: [
     {
       id: 'b1c1-1',
-      title: '分工喺瑣碎行業同大型製造業嘅分別',
+      title: '分工嘅效果要睇個別製造業先明白',
       original:
-        'The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour. The effects of the division of labour, in the general business of society, will be more easily understood, by considering in what manner it operates in some particular manufactures. It is commonly supposed to be carried furthest in some very trifling ones; not perhaps that it really is carried further in them than in others of more importance: but in those trifling manufactures which are destined to supply the small wants of but a small number of people, the whole number of workmen must necessarily be small; and those employed in every different branch of the work can often be collected into the same workhouse, and placed at once under the view of the spectator.\nIn those great manufactures, on the contrary, which are destined to supply the great wants of the great body of the people, every different branch of the work employs so great a number of workmen, that it is impossible to collect them all into the same workhouse. We can seldom see more, at one time, than those employed in one single branch. Though in such manufactures, therefore, the work may really be divided into a much greater number of parts, than in those of a more trifling nature, the division is not near so obvious, and has accordingly been much less observed.',
+        'The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour. The effects of the division of labour, in the general business of society, will be more easily understood, by considering in what manner it operates in some particular manufactures.',
       vernacular:
-        '勞動生產力嘅最大改善,同埋佢喺任何地方所展現嘅技巧、熟練程度同判斷力嘅大部分,睇嚟都係分工嘅成果。分工喺社會一般事務入面嘅效果,如果考察吓佢喺某啲特定製造業入面點樣運作,就會更加容易理解。一般人都認為,分工喺一啲好瑣碎嘅行業入面推行得最徹底;或者唔係話呢啲行業真係比其他更重要嘅行業推行得更徹底,而係因為嗰啲瑣碎嘅製造業,只係供應少數人嘅小量需求,所以工人嘅總數必然好少;而每個唔同工序所僱用嘅工人,往往可以聚集埋喺同一間工場入面,一齊俾人睇到。\n相反,喺嗰啲用嚟供應廣大人民重大需求嘅大型製造業入面,每一個唔同嘅工序所僱用嘅工人數量咁多,以致冇可能將佢哋全部聚集喺同一間工場入面。我哋一次通常都睇唔到多過一個工序所僱用嘅工人。所以,雖然喺呢類製造業入面,工作實際上可能分成咗比瑣碎製造業更加多嘅部分,但係呢種分工就冇咁明顯,結果亦都好少人留意到。',
+        '勞動生產力嘅最大改善,同埋佢喺任何地方所展現嘅技巧、熟練程度同判斷力嘅大部分,睇嚟都係分工嘅成果。分工喺社會一般事務入面嘅效果,如果考察吓佢喺某啲特定製造業入面點樣運作,就會更加容易理解。',
       vernacularMandarin:
-        '勞動生產力的最大改善,以及它在任何地方所展現的技巧、熟練程度同判斷力的大部分,看來都是分工的成果。分工在社會一般事務裡面的效果,如果考察一下它在某些特定製造業裡面怎樣運作,就會更容易理解。一般人都認為,分工在一些很瑣碎的行業裡面推行得最徹底;或者不是說這些行業真的比其他更重要的行業推行得更徹底,而是因為那些瑣碎的製造業,只是供應少數人的小量需求,所以工人的總數必然很少;而每個不同工序所僱用的工人,往往可以聚集在同一間工場裡面,一齊給人看到。\n相反,在那些用來供應廣大人民重大需求的大型製造業裡面,每一個不同的工序所僱用的工人數量那麼多,以致沒可能將他們全部聚集在同一間工場裡面。我們一次通常都看不到多過一個工序所僱用的工人。所以,雖然在這類製造業裡面,工作實際上可能分成了比瑣碎製造業更加多的部分,但是這種分工就沒那麼明顯,結果也很少人留意到。',
+        '勞動生產力的最大改善,以及它在任何地方所展現的技巧、熟練程度同判斷力的大部分,看來都是分工的成果。分工在社會一般事務裡面的效果,如果考察一下它在某些特定製造業裡面怎樣運作,就會更容易理解。',
     },
     {
       id: 'b1c1-2',
-      title: '製針業嘅著名例子',
+      title: '瑣碎行業入面分工睇得更清楚',
       original:
-        'To take an example, therefore, from a very trifling manufacture, but one in which the division of labour has been very often taken notice of, the trade of a pin-maker: a workman not educated to this business (which the division of labour has rendered a distinct trade), nor acquainted with the use of the machinery employed in it (to the invention of which the same division of labour has probably given occasion), could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty. But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades. One man draws out the wire; another straights it; a third cuts it; a fourth points it; a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another; it is even a trade by itself to put them into the paper; and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, which, in some manufactories, are all performed by distinct hands, though in others the same man will sometimes perform two or three of them. I have seen a small manufactory of this kind, where ten men only were employed, and where some of them consequently performed two or three distinct operations. But though they were very poor, and therefore but indifferently accommodated with the necessary machinery, they could, when they exerted themselves, make among them about twelve pounds of pins in a day. There are in a pound upwards of four thousand pins of a middling size. Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day. But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day; that is, certainly, not the two hundred and fortieth, perhaps not the four thousand eight hundredth, part of what they are at present capable of performing, in consequence of a proper division and combination of their different operations.',
+        'It is commonly supposed to be carried furthest in some very trifling ones; not perhaps that it really is carried further in them than in others of more importance: but in those trifling manufactures which are destined to supply the small wants of but a small number of people, the whole number of workmen must necessarily be small; and those employed in every different branch of the work can often be collected into the same workhouse, and placed at once under the view of the spectator.',
       vernacular:
-        '所以,等我哋以一個好瑣碎嘅製造業做例子啦,呢個行業嘅分工亦都經常俾人提及,就係製針呢行:一個未受過呢行訓練嘅工人(分工已經令呢行成為一門獨立嘅行業),又唔熟悉呢行所用機械嘅工人(呢啲機械嘅發明,好可能亦都係分工帶嚟嘅結果),就算佢用盡全力,一日都未必整到一支針,肯定整唔到二十支。但係以而家嘅經營方式,唔單止成件事係一門獨立嘅行業,仲分咗做好多分支,而大部分分支本身又係獨立嘅行業。一個人拉鐵線;另一個人拉直佢;第三個人剪斷佢;第四個人削尖佢;第五個人磨尖頂端方便裝針頭;整針頭就要用兩三個獨立嘅工序;裝針頭係另一門獨立嘅工夫;漂白支針又係另一門;甚至將啲針裝入紙包都係一門獨立嘅行業;就係咁,整一支針呢件重要嘅事,就分咗做大約十八個獨立嘅工序,喺有啲工廠入面,呢啲工序全部由唔同嘅人分別負責,但喺其他工廠,可能同一個人有時要負責兩三個工序。我見過一間呢類嘅細工廠,只僱用咗十個人,所以佢哋當中有啲人自然要負責兩三個獨立嘅工序。但係雖然佢哋好窮,冇乜完備嘅機械,但只要佢哋盡力做,一齊都可以一日整到大約十二磅嘅針。一磅有四千幾支中等size嘅針。所以呢十個人一齊一日就整到成四萬八千幾支針。即係話,每個人平均整緊四萬八千支針嘅十分之一,即係好似一個人一日整緊四千八百支針咁。但係如果佢哋各自獨立咁做,又冇一個受過呢行嘅專門訓練,佢哋每人一日肯定整唔到二十支,可能連一支都整唔到;即係話,肯定唔到佢哋而家因為適當分工同組合唔同工序而能夠整到嘅數量嘅二百四十分之一,可能連四千八百分之一都唔到。',
+        '一般人都認為,分工喺一啲好瑣碎嘅行業入面推行得最徹底;或者唔係話呢啲行業真係比其他更重要嘅行業推行得更徹底,而係因為嗰啲瑣碎嘅製造業,只係供應少數人嘅小量需求,所以工人嘅總數必然好少;而每個唔同工序所僱用嘅工人,往往可以聚集埋喺同一間工場入面,一齊俾人睇到。',
       vernacularMandarin:
-        '所以,讓我們以一個很瑣碎的製造業做例子吧,這個行業的分工也經常被人提及,就是製針這行:一個未受過這行訓練的工人(分工已經令這行成為一門獨立的行業),又不熟悉這行所用機械的工人(這些機械的發明,很可能也是分工帶來的結果),就算他用盡全力,一天都未必做到一支針,肯定做不到二十支。但是以現在的經營方式,不單止整件事是一門獨立的行業,還分成了很多分支,而大部分分支本身又是獨立的行業。一個人拉鐵線;另一個人拉直它;第三個人剪斷它;第四個人削尖它;第五個人磨尖頂端方便裝針頭;做針頭就要用兩三個獨立的工序;裝針頭是另一門獨立的工夫;漂白針又是另一門;甚至將針裝入紙包都是一門獨立的行業;就這樣,做一支針這件重要的事,就分成了大約十八個獨立的工序,在有些工廠裡面,這些工序全部由不同的人分別負責,但在其他工廠,可能同一個人有時要負責兩三個工序。我見過一間這類的小工廠,只僱用了十個人,所以他們當中有些人自然要負責兩三個獨立的工序。但是雖然他們很窮,沒甚麼完備的機械,但只要他們盡力做,一齊都可以一天做到大約十二磅的針。一磅有四千多支中等大小的針。所以這十個人一齊一天就做到共四萬八千多支針。也就是說,每個人平均做著四萬八千支針的十分之一,即好像一個人一天做著四千八百支針那樣。但是如果他們各自獨立地做,又沒有一個受過這行的專門訓練,他們每人一天肯定做不到二十支,可能連一支都做不到;也就是說,肯定不到他們現在因為適當分工同組合不同工序而能夠做到的數量的二百四十分之一,可能連四千八百分之一都不到。',
+        '一般人都認為,分工在一些很瑣碎的行業裡面推行得最徹底;或者不是說這些行業真的比其他更重要的行業推行得更徹底,而是因為那些瑣碎的製造業,只是供應少數人的小量需求,所以工人的總數必然很少;而每個不同工序所僱用的工人,往往可以聚集在同一間工場裡面,一齊給人看到。',
     },
     {
       id: 'b1c1-3',
-      title: '製造業同農業嘅分工差異',
+      title: '大型製造業嘅分工反而唔明顯',
       original:
-        'In every other art and manufacture, the effects of the division of labour are similar to what they are in this very trifling one, though, in many of them, the labour can neither be so much subdivided, nor reduced to so great a simplicity of operation. The division of labour, however, so far as it can be introduced, occasions, in every art, a proportionable increase of the productive powers of labour. The separation of different trades and employments from one another, seems to have taken place in consequence of this advantage. This separation, too, is generally carried furthest in those countries which enjoy the highest degree of industry and improvement; what is the work of one man, in a rude state of society, being generally that of several in an improved one. In every improved society, the farmer is generally nothing but a farmer; the manufacturer, nothing but a manufacturer. The labour, too, which is necessary to produce any one complete manufacture, is almost always divided among a great number of hands. How many different trades are employed in each branch of the linen and woollen manufactures, from the growers of the flax and the wool, to the bleachers and smoothers of the linen, or to the dyers and dressers of the cloth! The nature of agriculture, indeed, does not admit of so many subdivisions of labour, nor of so complete a separation of one business from another, as manufactures. It is impossible to separate so entirely the business of the grazier from that of the corn-farmer, as the trade of the carpenter is commonly separated from that of the smith. The spinner is almost always a distinct person from the weaver; but the ploughman, the harrower, the sower of the seed, and the reaper of the corn, are often the same. The occasions for those different sorts of labour returning with the different seasons of the year, it is impossible that one man should be constantly employed in any one of them. This impossibility of making so complete and entire a separation of all the different branches of labour employed in agriculture, is perhaps the reason why the improvement of the productive powers of labour, in this art, does not always keep pace with their improvement in manufactures. The most opulent nations, indeed, generally excel all their neighbours in agriculture as well as in manufactures; but they are commonly more distinguished by their superiority in the latter than in the former. Their lands are in general better cultivated, and having more labour and expense bestowed upon them, produce more in proportion to the extent and natural fertility of the ground. But this superiority of produce is seldom much more than in proportion to the superiority of labour and expense. In agriculture, the labour of the rich country is not always much more productive than that of the poor; or, at least, it is never so much more productive, as it commonly is in manufactures. The corn of the rich country, therefore, will not always, in the same degree of goodness, come cheaper to market than that of the poor. The corn of Poland, in the same degree of goodness, is as cheap as that of France, notwithstanding the superior opulence and improvement of the latter country. The corn of France is, in the corn-provinces, fully as good, and in most years nearly about the same price with the corn of England, though, in opulence and improvement, France is perhaps inferior to England. The corn-lands of England, however, are better cultivated than those of France, and the corn-lands of France are said to be much better cultivated than those of Poland. But though the poor country, notwithstanding the inferiority of its cultivation, can, in some measure, rival the rich in the cheapness and goodness of its corn, it can pretend to no such competition in its manufactures, at least if those manufactures suit the soil, climate, and situation, of the rich country. The silks of France are better and cheaper than those of England, because the silk manufacture, at least under the present high duties upon the importation of raw silk, does not so well suit the climate of England as that of France. But the hardware and the coarse woollens of England are beyond all comparison superior to those of France, and much cheaper, too, in the same degree of goodness. In Poland there are said to be scarce any manufactures of any kind, a few of those coarser household manufactures excepted, without which no country can well subsist.',
+        'In those great manufactures, on the contrary, which are destined to supply the great wants of the great body of the people, every different branch of the work employs so great a number of workmen, that it is impossible to collect them all into the same workhouse. We can seldom see more, at one time, than those employed in one single branch. Though in such manufactures, therefore, the work may really be divided into a much greater number of parts, than in those of a more trifling nature, the division is not near so obvious, and has accordingly been much less observed.',
       vernacular:
-        '喺其他任何工藝同製造業入面,分工嘅效果同呢個好瑣碎嘅例子都差唔多,雖然好多行業入面,勞動都冇可能咁細緻咁分工,亦冇可能將工序簡化到咁簡單。但係只要能夠引入分工,喺任何工藝入面,都會令勞動生產力相應咁提升。唔同行業同職業之間嘅分離,睇嚟就係呢種優勢帶嚟嘅結果。而呢種分離,一般喺工業同技術最發達嘅國家推行得最徹底;喺未開化嘅社會,一個人做嘅工作,喺已開化嘅社會,一般就會由好幾個人分工做。喺任何已開化嘅社會,農夫一般就淨係做農夫;製造業者就淨係做製造業者。而要生產一件完整嘅製造品所需嘅勞動,幾乎都係分俾大量嘅人手嚟做。亞麻布同毛織品每個分支入面,由種植亞麻同羊毛嘅人,到漂白同熨平亞麻布嘅人,又或者染色同整理布匹嘅人,涉及到幾多唔同嘅行業啊!事實上,農業嘅性質就唔容許咁多分工,亦唔容許好似製造業咁完全分離開唔同嘅工作。畜牧業同種穀業唔可能好似木匠同鐵匠嘅行業咁完全分開。紡紗嘅同織布嘅幾乎總係唔同嘅人;但係耕田嘅、耙田嘅、播種嘅同收割穀物嘅,就經常係同一個人。因為呢啲唔同種類嘅勞動係跟住一年四季輪流出現,所以一個人唔可能長期固定做其中一種。呢種喺農業入面冇可能將所有唔同勞動分支完全徹底分離嘅特點,可能就係點解呢種工藝嘅生產力改善,唔一定可以趕得上製造業嘅生產力改善嘅原因。事實上,最富裕嘅國家,一般喺農業同製造業方面都勝過鄰國;但佢哋通常喺後者方面嘅優勢,比喺前者方面嘅優勢更加顯著。佢哋嘅土地一般耕種得更好,由於投入咗更多勞動同成本,按照土地嘅面積同天然肥沃程度嚟計算,生產都更多。但係呢種產出嘅優勢,好少會超過勞動同成本優勢嘅比例。喺農業方面,富裕國家嘅勞動,並唔一定比貧窮國家嘅生產力高好多;或者至少,佢絕對唔會好似喺製造業咁,生產力高咁多。所以,富裕國家嘅穀物,喺同等品質下,唔一定會喺市場上賣得比貧窮國家嘅平。波蘭嘅穀物,喺同等品質下,同法國嘅一樣平,儘管法國嘅富裕同進步程度都高過波蘭。法國嘅穀物,喺產糧省份,質素完全唔差,大部分年份嘅價格都同英國嘅穀物差唔多,雖然喺富裕同進步程度方面,法國可能不及英國。不過,英國嘅穀田耕種得比法國好,而法國嘅穀田又據講耕種得比波蘭好好多。但係雖然貧窮國家儘管耕種較差,喺穀物嘅平同靚方面某程度上都可以同富裕國家一較高下,但係喺製造業方面就完全冇得比,至少如果嗰啲製造業啱富裕國家嘅土壤、氣候同形勢嘅話。法國嘅絲綢比英國嘅更靚更平,因為絲綢製造業,至少喺目前對進口生絲徵收重稅嘅情況下,唔太啱英國嘅氣候,反而好啱法國嘅氣候。但係英國嘅五金同粗毛織品,就遠遠優勝過法國嘅,而且喺同等品質下平好多。而波蘭,據講幾乎冇任何種類嘅製造業,除咗少數任何國家生存都必需嘅粗糙家庭手工業之外。',
+        '相反,喺嗰啲用嚟供應廣大人民重大需求嘅大型製造業入面,每一個唔同嘅工序所僱用嘅工人數量咁多,以致冇可能將佢哋全部聚集喺同一間工場入面。我哋一次通常都睇唔到多過一個工序所僱用嘅工人。所以,雖然喺呢類製造業入面,工作實際上可能分成咗比瑣碎製造業更加多嘅部分,但係呢種分工就冇咁明顯,結果亦都好少人留意到。',
       vernacularMandarin:
-        '在其他任何工藝同製造業裡面,分工的效果同這個很瑣碎的例子都差不多,雖然很多行業裡面,勞動都沒可能這麼細緻地分工,也沒可能將工序簡化到這麼簡單。但是只要能夠引入分工,在任何工藝裡面,都會令勞動生產力相應地提升。不同行業同職業之間的分離,看來就是這種優勢帶來的結果。而這種分離,一般在工業同技術最發達的國家推行得最徹底;在未開化的社會,一個人做的工作,在已開化的社會,一般就會由好幾個人分工做。在任何已開化的社會,農夫一般就只做農夫;製造業者就只做製造業者。而要生產一件完整的製造品所需的勞動,幾乎都是分給大量的人手來做。亞麻布同毛織品每個分支裡面,從種植亞麻同羊毛的人,到漂白同熨平亞麻布的人,又或者染色同整理布匹的人,涉及到多少不同的行業啊!事實上,農業的性質就不容許這麼多分工,也不容許好像製造業那樣完全分離不同的工作。畜牧業同種穀業不可能好像木匠同鐵匠的行業那樣完全分開。紡紗的同織布的幾乎總是不同的人;但是耕田的、耙田的、播種的同收割穀物的,就經常是同一個人。因為這些不同種類的勞動是跟著一年四季輪流出現,所以一個人不可能長期固定做其中一種。這種在農業裡面沒可能將所有不同勞動分支完全徹底分離的特點,可能就是為何這種工藝的生產力改善,不一定可以趕得上製造業的生產力改善的原因。事實上,最富裕的國家,一般在農業同製造業方面都勝過鄰國;但他們通常在後者方面的優勢,比在前者方面的優勢更加顯著。他們的土地一般耕種得更好,由於投入了更多勞動同成本,按照土地的面積同天然肥沃程度來計算,生產都更多。但是這種產出的優勢,很少會超過勞動同成本優勢的比例。在農業方面,富裕國家的勞動,並不一定比貧窮國家的生產力高很多;或者至少,它絕對不會好像在製造業那樣,生產力高那麼多。所以,富裕國家的穀物,在同等品質下,不一定會在市場上賣得比貧窮國家的便宜。波蘭的穀物,在同等品質下,同法國的一樣便宜,儘管法國的富裕同進步程度都高過波蘭。法國的穀物,在產糧省份,質素完全不差,大部分年份的價格都同英國的穀物差不多,雖然在富裕同進步程度方面,法國可能不及英國。不過,英國的穀田耕種得比法國好,而法國的穀田又據說耕種得比波蘭好很多。但是雖然貧窮國家儘管耕種較差,在穀物的便宜同優質方面某程度上都可以同富裕國家一較高下,但是在製造業方面就完全沒得比,至少如果那些製造業適合富裕國家的土壤、氣候同形勢的話。法國的絲綢比英國的更好更便宜,因為絲綢製造業,至少在目前對進口生絲徵收重稅的情況下,不太適合英國的氣候,反而很適合法國的氣候。但是英國的五金同粗毛織品,就遠遠優勝過法國的,而且在同等品質下便宜很多。而波蘭,據說幾乎沒有任何種類的製造業,除了少數任何國家生存都必需的粗糙家庭手工業之外。',
+        '相反,在那些用來供應廣大人民重大需求的大型製造業裡面,每一個不同的工序所僱用的工人數量那麼多,以致沒可能將他們全部聚集在同一間工場裡面。我們一次通常都看不到多過一個工序所僱用的工人。所以,雖然在這類製造業裡面,工作實際上可能分成了比瑣碎製造業更加多的部分,但是這種分工就沒那麼明顯,結果也很少人留意到。',
     },
     {
       id: 'b1c1-4',
-      title: '分工帶嚟嘅三大好處(一):技巧提升',
+      title: '製針業:未受訓嘅工人一日整唔到一支針',
       original:
-        'This great increase in the quantity of work, which, in consequence of the division of labour, the same number of people are capable of performing, is owing to three different circumstances; first, to the increase of dexterity in every particular workman; secondly, to the saving of the time which is commonly lost in passing from one species of work to another; and, lastly, to the invention of a great number of machines which facilitate and abridge labour, and enable one man to do the work of many.\nFirst, the improvement of the dexterity of the workmen, necessarily increases the quantity of the work he can perform; and the division of labour, by reducing every man’s business to some one simple operation, and by making this operation the sole employment of his life, necessarily increases very much the dexterity of the workman. A common smith, who, though accustomed to handle the hammer, has never been used to make nails, if, upon some particular occasion, he is obliged to attempt it, will scarce, I am assured, be able to make above two or three hundred nails in a day, and those, too, very bad ones. A smith who has been accustomed to make nails, but whose sole or principal business has not been that of a nailer, can seldom, with his utmost diligence, make more than eight hundred or a thousand nails in a day. I have seen several boys, under twenty years of age, who had never exercised any other trade but that of making nails, and who, when they exerted themselves, could make, each of them, upwards of two thousand three hundred nails in a day. The making of a nail, however, is by no means one of the simplest operations. The same person blows the bellows, stirs or mends the fire as there is occasion, heats the iron, and forges every part of the nail: in forging the head, too, he is obliged to change his tools. The different operations into which the making of a pin, or of a metal button, is subdivided, are all of them much more simple, and the dexterity of the person, of whose life it has been the sole business to perform them, is usually much greater. The rapidity with which some of the operations of those manufactures are performed, exceeds what the human hand could, by those who had never seen them, be supposed capable of acquiring.',
+        'To take an example, therefore, from a very trifling manufacture, but one in which the division of labour has been very often taken notice of, the trade of a pin-maker: a workman not educated to this business (which the division of labour has rendered a distinct trade), nor acquainted with the use of the machinery employed in it (to the invention of which the same division of labour has probably given occasion), could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty.',
       vernacular:
-        '由於分工,同樣人數所能夠完成嘅工作量會大幅增加,呢個係基於三種唔同嘅情況:第一,係每個工人熟練程度嘅提升;第二,係節省咗通常喺由一種工作轉去另一種工作嗰陣所浪費嘅時間;最後,係大量機械嘅發明,呢啲機械令勞動更加容易同簡便,令一個人可以做到好多人嘅工作。\n第一,工人熟練程度嘅提升,必然會增加佢所能夠完成嘅工作量;而分工透過將每個人嘅工作簡化為某一單一嘅工序,並令呢個工序成為佢一生唯一嘅職業,必然會大大提升工人嘅熟練程度。一個普通鐵匠,雖然慣咗用鐵鎚,但從未整過釘,如果因為某啲特別場合要佢試下整,我肯定佢一日都好難整到超過二三百支釘,而且仲整得好差。一個慣咗整釘、但唔係以整釘為唯一或主要職業嘅鐵匠,就算佢已經盡力,通常一日都好難整到超過八百至一千支釘。我見過幾個未夠二十歲嘅少年,佢哋除咗整釘之外從未做過其他行業,只要佢哋盡力,每人一日都可以整到超過二千三百支釘。不過,整釘絕對唔係最簡單嘅工序之一。同一個人要拉風箱,視乎需要撥火或者添柴,燒紅鐵,再鍛打釘嘅每一個部分:鍛打釘頭嗰陣,佢仲要更換工具。相比之下,整針或者金屬鈕嗰啲分工出嚟嘅唔同工序,全部都簡單好多,而以此為終身職業嘅人,熟練程度通常都高好多。呢啲製造業入面某啲工序完成嘅速度,快到冇見過嘅人根本諗唔到人手可以做到咁快。',
+        '所以,等我哋以一個好瑣碎嘅製造業做例子啦,呢個行業嘅分工亦都經常俾人提及,就係製針呢行:一個未受過呢行訓練嘅工人(分工已經令呢行成為一門獨立嘅行業),又唔熟悉呢行所用機械嘅工人(呢啲機械嘅發明,好可能亦都係分工帶嚟嘅結果),就算佢用盡全力,一日都未必整到一支針,肯定整唔到二十支。',
       vernacularMandarin:
-        '由於分工,同樣人數所能夠完成的工作量會大幅增加,這是基於三種不同的情況:第一,是每個工人熟練程度的提升;第二,是節省了通常在由一種工作轉去另一種工作時所浪費的時間;最後,是大量機械的發明,這些機械令勞動更加容易同簡便,令一個人可以做到很多人的工作。\n第一,工人熟練程度的提升,必然會增加他所能夠完成的工作量;而分工透過將每個人的工作簡化為某一單一的工序,並令這個工序成為他一生唯一的職業,必然會大大提升工人的熟練程度。一個普通鐵匠,雖然習慣用鐵鎚,但從未做過釘,如果因為某些特別場合要他試著做,我肯定他一天都很難做到超過二三百支釘,而且還做得很差。一個習慣做釘、但不是以做釘為唯一或主要職業的鐵匠,就算他已經盡力,通常一天都很難做到超過八百至一千支釘。我見過幾個未滿二十歲的少年,他們除了做釘之外從未做過其他行業,只要他們盡力,每人一天都可以做到超過二千三百支釘。不過,做釘絕對不是最簡單的工序之一。同一個人要拉風箱,視乎需要撥火或者添柴,燒紅鐵,再鍛打釘的每一個部分:鍛打釘頭時,他還要更換工具。相比之下,做針或者金屬鈕那些分工出來的不同工序,全部都簡單很多,而以此為終身職業的人,熟練程度通常都高很多。這些製造業裡面某些工序完成的速度,快到沒見過的人根本想不到人手可以做到這麼快。',
+        '所以,讓我們以一個很瑣碎的製造業做例子吧,這個行業的分工也經常被人提及,就是製針這行:一個未受過這行訓練的工人(分工已經令這行成為一門獨立的行業),又不熟悉這行所用機械的工人(這些機械的發明,很可能也是分工帶來的結果),就算他用盡全力,一天都未必做到一支針,肯定做不到二十支。',
     },
     {
       id: 'b1c1-5',
-      title: '分工帶嚟嘅三大好處(二):節省轉換工作嘅時間',
+      title: '製針業:十八道獨立工序',
       original:
-        'Secondly, the advantage which is gained by saving the time commonly lost in passing from one sort of work to another, is much greater than we should at first view be apt to imagine it. It is impossible to pass very quickly from one kind of work to another, that is carried on in a different place, and with quite different tools. A country weaver, who cultivates a small farm, must lose a good deal of time in passing from his loom to the field, and from the field to his loom. When the two trades can be carried on in the same workhouse, the loss of time is, no doubt, much less. It is, even in this case, however, very considerable. A man commonly saunters a little in turning his hand from one sort of employment to another. When he first begins the new work, he is seldom very keen and hearty; his mind, as they say, does not go to it, and for some time he rather trifles than applies to good purpose. The habit of sauntering, and of indolent careless application, which is naturally, or rather necessarily, acquired by every country workman who is obliged to change his work and his tools every half hour, and to apply his hand in twenty different ways almost every day of his life, renders him almost always slothful and lazy, and incapable of any vigorous application, even on the most pressing occasions. Independent, therefore, of his deficiency in point of dexterity, this cause alone must always reduce considerably the quantity of work which he is capable of performing.',
+        'But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades. One man draws out the wire; another straights it; a third cuts it; a fourth points it; a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another; it is even a trade by itself to put them into the paper; and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, which, in some manufactories, are all performed by distinct hands, though in others the same man will sometimes perform two or three of them.',
       vernacular:
-        '第二,由於節省咗通常喺由一種工作轉去另一種工作嗰陣所浪費嘅時間所得到嘅好處,遠遠大過我哋初時所諗嘅。由一種工作轉去另一種喺唔同地方、要用完全唔同工具嘅工作,係唔可能好快轉換嘅。一個兼耕小農田嘅鄉村織工,由織布機轉去田地,同由田地返去織布機,都一定會浪費好多時間。如果兩種行業可以喺同一間工場度做,浪費嘅時間毫無疑問就會少好多。但即使係咁,浪費嘅時間都仍然相當可觀。一個人由一種工作轉去另一種工作嗰陣,通常都會有少少散漫拖延。佢啱啱開始新工作嗰陣,好少會即刻好落力好起勁;正如人哋所講,佢嘅心思都仲未投入,有一段時間都係心不在焉多過認真做嘢。呢種散漫、懶散馬虎嘅習慣,係每個鄉村工人自然,或者不如講係必然會養成嘅,因為佢哋幾乎日日都要每半個鐘就要轉工具轉工作,一日之內要用二十種唔同方式運用雙手,呢個習慣令佢哋幾乎總係懶懶散散,就算喺最緊急嘅場合都冇能力全力以赴。所以,單單呢個原因,先唔講熟練程度上嘅不足,已經必然會大大減少佢所能夠完成嘅工作量。',
+        '但係以而家嘅經營方式,唔單止成件事係一門獨立嘅行業,仲分咗做好多分支,而大部分分支本身又係獨立嘅行業。一個人拉鐵線;另一個人拉直佢;第三個人剪斷佢;第四個人削尖佢;第五個人磨尖頂端方便裝針頭;整針頭就要用兩三個獨立嘅工序;裝針頭係另一門獨立嘅工夫;漂白支針又係另一門;甚至將啲針裝入紙包都係一門獨立嘅行業;就係咁,整一支針呢件重要嘅事,就分咗做大約十八個獨立嘅工序,喺有啲工廠入面,呢啲工序全部由唔同嘅人分別負責,但喺其他工廠,可能同一個人有時要負責兩三個工序。',
       vernacularMandarin:
-        '第二,由於節省了通常在由一種工作轉去另一種工作時所浪費的時間所得到的好處,遠遠大過我們最初所想的。由一種工作轉去另一種在不同地方、要用完全不同工具的工作,是不可能很快轉換的。一個兼耕小農田的鄉村織工,由織布機轉去田地,同由田地返去織布機,都一定會浪費很多時間。如果兩種行業可以在同一間工場做,浪費的時間毫無疑問就會少很多。但即使這樣,浪費的時間都仍然相當可觀。一個人由一種工作轉去另一種工作時,通常都會有少少散漫拖延。他剛開始新工作時,很少會立刻很賣力很起勁;正如人們所說,他的心思都還未投入,有一段時間都是心不在焉多過認真做事。這種散漫、懶散馬虎的習慣,是每個鄉村工人自然,或者不如說是必然會養成的,因為他們幾乎每天都要每半小時就要換工具換工作,一天之內要用二十種不同方式運用雙手,這個習慣令他們幾乎總是懶懶散散,就算在最緊急的場合都沒能力全力以赴。所以,單單這個原因,先不講熟練程度上的不足,已經必然會大大減少他所能夠完成的工作量。',
+        '但是以現在的經營方式,不單止整件事是一門獨立的行業,還分成了很多分支,而大部分分支本身又是獨立的行業。一個人拉鐵線;另一個人拉直它;第三個人剪斷它;第四個人削尖它;第五個人磨尖頂端方便裝針頭;做針頭就要用兩三個獨立的工序;裝針頭是另一門獨立的工夫;漂白針又是另一門;甚至將針裝入紙包都是一門獨立的行業;就這樣,做一支針這件重要的事,就分成了大約十八個獨立的工序,在有些工廠裡面,這些工序全部由不同的人分別負責,但在其他工廠,可能同一個人有時要負責兩三個工序。',
     },
     {
       id: 'b1c1-6',
-      title: '分工帶嚟嘅三大好處(三):機械嘅發明(蒸汽機童工嘅故事)',
+      title: '製針業:十個人一日整到四萬八千支針',
       original:
-        'Thirdly, and lastly, everybody must be sensible how much labour is facilitated and abridged by the application of proper machinery. It is unnecessary to give any example. I shall only observe, therefore, that the invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour. Men are much more likely to discover easier and readier methods of attaining any object, when the whole attention of their minds is directed towards that single object, than when it is dissipated among a great variety of things. But, in consequence of the division of labour, the whole of every man’s attention comes naturally to be directed towards some one very simple object. It is naturally to be expected, therefore, that some one or other of those who are employed in each particular branch of labour should soon find out easier and readier methods of performing their own particular work, whenever the nature of it admits of such improvement. A great part of the machines made use of in those manufactures in which labour is most subdivided, were originally the invention of common workmen, who, being each of them employed in some very simple operation, naturally turned their thoughts towards finding out easier and readier methods of performing it. Whoever has been much accustomed to visit such manufactures, must frequently have been shewn very pretty machines, which were the inventions of such workmen, in order to facilitate and quicken their own particular part of the work. In the first fire engines, a boy was constantly employed to open and shut alternately the communication between the boiler and the cylinder, according as the piston either ascended or descended. One of those boys, who loved to play with his companions, observed that, by tying a string from the handle of the valve which opened this communication to another part of the machine, the valve would open and shut without his assistance, and leave him at liberty to divert himself with his play-fellows. One of the greatest improvements that has been made upon this machine, since it was first invented, was in this manner the discovery of a boy who wanted to save his own labour.\nAll the improvements in machinery, however, have by no means been the inventions of those who had occasion to use the machines. Many improvements have been made by the ingenuity of the makers of the machines, when to make them became the business of a peculiar trade; and some by that of those who are called philosophers, or men of speculation, whose trade it is not to do any thing, but to observe every thing, and who, upon that account, are often capable of combining together the powers of the most distant and dissimilar objects.',
+        'I have seen a small manufactory of this kind, where ten men only were employed, and where some of them consequently performed two or three distinct operations. But though they were very poor, and therefore but indifferently accommodated with the necessary machinery, they could, when they exerted themselves, make among them about twelve pounds of pins in a day. There are in a pound upwards of four thousand pins of a middling size. Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day.',
       vernacular:
-        '第三,亦係最後一點,人人都一定感受到,運用適當嘅機械可以令勞動變得幾咁容易同省力。呢點根本唔使舉例。所以我淨係想指出,所有嗰啲令勞動大幅省力嘅機械嘅發明,睇嚟最初都係源於分工。當一個人嘅全部心思都集中喺一個單一嘅目標嗰陣,佢發現更容易更快捷達成目標嘅方法嘅機會,遠遠高過心思分散喺好多唔同嘅事情上面嗰陣。但係由於分工,每個人嘅全部注意力自然而然就會集中喺某一個好簡單嘅目標上面。所以自然可以預期,只要工作嘅性質容許改進,每個特定分工嘅工作入面,遲早都會有人發現更容易更快捷完成自己嗰份工作嘅方法。喺分工最細嘅製造業入面所使用嘅好多機械,最初都係普通工人發明嘅,佢哋因為各自負責一項好簡單嘅工序,自然就會諗辦法搵更容易更快捷嘅方法嚟完成佢。凡係經常出入呢類製造業嘅人,一定經常見過工人為咗方便加快自己嗰部分工作而發明嘅好精巧嘅機械。喺最早期嘅蒸汽機入面,有個童工要成日負責交替開關鍋爐同汽缸之間嘅通道,睇活塞係上升定係落降。有個鍾意同同伴玩嘅童工,發現只要用條繩由開關呢個通道嘅閥門手柄,綁去機器嘅另一部分,閥門就可以自動開關,唔使佢幫手,咁佢就可以走去同玩伴玩耍。自呢部機器發明以嚟,其中一個最大嘅改良,就係咁樣由一個想慳返自己工夫嘅童工發現出嚟。\n不過,機械嘅所有改良,絕對唔全部都係嗰啲有機會使用機械嘅人發明嘅。好多改良都係出於機械製造者嘅巧思,當製造機械本身成為一門專門行業嗰陣;亦有啲改良係出於所謂哲學家或者思辨家嘅巧思,佢哋嘅本行唔係做任何事,而係觀察一切事物,所以佢哋往往有能力將睇似最風馬牛不相及嘅事物嘅力量結合埋一齊。',
+        '我見過一間呢類嘅細工廠,只僱用咗十個人,所以佢哋當中有啲人自然要負責兩三個獨立嘅工序。但係雖然佢哋好窮,冇乜完備嘅機械,但只要佢哋盡力做,一齊都可以一日整到大約十二磅嘅針。一磅有四千幾支中等size嘅針。所以呢十個人一齊一日就整到成四萬八千幾支針。即係話,每個人平均整緊四萬八千支針嘅十分之一,即係好似一個人一日整緊四千八百支針咁。',
       vernacularMandarin:
-        '第三,也是最後一點,人人都一定感受到,運用適當的機械可以令勞動變得多麼容易同省力。這點根本不用舉例。所以我只想指出,所有那些令勞動大幅省力的機械的發明,看來最初都是源於分工。當一個人的全部心思都集中在一個單一的目標時,他發現更容易更快捷達成目標的方法的機會,遠遠高過心思分散在很多不同的事情上面時。但是由於分工,每個人的全部注意力自然而然就會集中在某一個很簡單的目標上面。所以自然可以預期,只要工作的性質容許改進,每個特定分工的工作裡面,遲早都會有人發現更容易更快捷完成自己那份工作的方法。在分工最細的製造業裡面所使用的很多機械,最初都是普通工人發明的,他們因為各自負責一項很簡單的工序,自然就會想辦法找更容易更快捷的方法來完成它。凡是經常出入這類製造業的人,一定經常見過工人為了方便加快自己那部分工作而發明的很精巧的機械。在最早期的蒸汽機裡面,有個童工要整天負責交替開關鍋爐同汽缸之間的通道,看活塞是上升還是下降。有個喜歡同同伴玩的童工,發現只要用條繩把開關這個通道的閥門手柄,綁去機器的另一部分,閥門就可以自動開關,不用他幫忙,這樣他就可以走去同玩伴玩耍。自這部機器發明以來,其中一個最大的改良,就是這樣由一個想省下自己工夫的童工發現出來的。\n不過,機械的所有改良,絕對不全部都是那些有機會使用機械的人發明的。很多改良都是出於機械製造者的巧思,當製造機械本身成為一門專門行業時;也有些改良是出於所謂哲學家或者思辨家的巧思,他們的本行不是做任何事,而是觀察一切事物,所以他們往往有能力將看似最風馬牛不相及的事物的力量結合在一起。',
+        '我見過一間這類的小工廠,只僱用了十個人,所以他們當中有些人自然要負責兩三個獨立的工序。但是雖然他們很窮,沒甚麼完備的機械,但只要他們盡力做,一齊都可以一天做到大約十二磅的針。一磅有四千多支中等大小的針。所以這十個人一齊一天就做到共四萬八千多支針。也就是說,每個人平均做著四萬八千支針的十分之一,即好像一個人一天做著四千八百支針那樣。',
     },
     {
       id: 'b1c1-7',
-      title: '分工令社會普遍富足',
+      title: '如果冇分工,一日整唔到一支',
       original:
-        'As the progress of society, philosophy or speculation becomes, like every other employment, the principal or sole trade and occupation of a particular class of citizens. Like every other employment, too, it is subdivided into a great number of different branches, each of which affords occupation to a peculiar tribe or class of philosophers; and this subdivision of employment in philosophy, as well as in every other business, improves dexterity, and saves time. Each individual becomes more expert in his own peculiar branch, more work is done upon the whole, and the quantity of science is considerably increased by it.\nIt is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people. Every workman has a great quantity of his own work to dispose of beyond what he himself has occasion for; and every other workman being exactly in the same situation, he is enabled to exchange a great quantity of his own goods for a great quantity or, what comes to the same thing, for the price of a great quantity of theirs. He supplies them abundantly with what they have occasion for, and they accommodate him as amply with what he has occasion for, and a general plenty diffuses itself through all the different ranks of the society.',
+        'But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day; that is, certainly, not the two hundred and fortieth, perhaps not the four thousand eight hundredth, part of what they are at present capable of performing, in consequence of a proper division and combination of their different operations.',
       vernacular:
-        '隨住社會嘅進步,哲學或者思辨,同其他任何職業一樣,都會成為某個特定公民階層主要或者唯一嘅行業同職業。同其他任何職業一樣,佢亦都分成咗好多唔同嘅分支,每一個分支都俾一個特定嘅哲學家群體或者階層有事做;而呢種喺哲學上,同喺其他任何行業一樣嘅分工,都會提升熟練程度、節省時間。每個人喺自己嗰個特定分支入面都會變得更加專精,整體完成嘅工作亦都更加多,學問嘅總量亦因此而大大增加。\n就係由於分工令各種工藝嘅產物大量增加,先至喺一個治理良好嘅社會入面,產生咗惠及最底層人民嘅普遍富足。每個工人自己所生產嘅嘢,除咗自己需要嘅之外仲有大量剩餘可以拿嚟交易;而由於其他工人都處於同樣嘅境況,佢就可以用大量自己嘅產品,去換取大量其他人嘅產品,或者換句話講,就係換取大量其他人產品嘅價值。佢豐富咁供應其他人所需要嘅嘢,其他人亦都同樣豐富咁供應佢所需要嘅嘢,咁樣就令普遍嘅富足散布喺社會嘅各個唔同階層。',
+        '但係如果佢哋各自獨立咁做,又冇一個受過呢行嘅專門訓練,佢哋每人一日肯定整唔到二十支,可能連一支都整唔到;即係話,肯定唔到佢哋而家因為適當分工同組合唔同工序而能夠整到嘅數量嘅二百四十分之一,可能連四千八百分之一都唔到。',
       vernacularMandarin:
-        '隨著社會的進步,哲學或者思辨,同其他任何職業一樣,都會成為某個特定公民階層主要或者唯一的行業同職業。同其他任何職業一樣,它也分成了很多不同的分支,每一個分支都給一個特定的哲學家群體或者階層有事做;而這種在哲學上,同在其他任何行業一樣的分工,都會提升熟練程度、節省時間。每個人在自己那個特定分支裡面都會變得更加專精,整體完成的工作也更加多,學問的總量也因此而大大增加。\n就是由於分工令各種工藝的產物大量增加,才在一個治理良好的社會裡面,產生了惠及最底層人民的普遍富足。每個工人自己所生產的東西,除了自己需要的之外還有大量剩餘可以拿來交易;而由於其他工人都處於同樣的境況,他就可以用大量自己的產品,去換取大量其他人的產品,或者換句話說,就是換取大量其他人產品的價值。他豐富地供應其他人所需要的東西,其他人也同樣豐富地供應他所需要的東西,這樣就令普遍的富足散布在社會的各個不同階層。',
+        '但是如果他們各自獨立地做,又沒有一個受過這行的專門訓練,他們每人一天肯定做不到二十支,可能連一支都做不到;也就是說,肯定不到他們現在因為適當分工同組合不同工序而能夠做到的數量的二百四十分之一,可能連四千八百分之一都不到。',
     },
     {
       id: 'b1c1-8',
-      title: '一件粗呢外套背後嘅千萬人協作',
+      title: '其他行業嘅分工同樣有效,但農業例外',
       original:
-        'Observe the accommodation of the most common artificer or daylabourer in a civilized and thriving country, and you will perceive that the number of people, of whose industry a part, though but a small part, has been employed in procuring him this accommodation, exceeds all computation. The woollen coat, for example, which covers the day-labourer, as coarse and rough as it may appear, is the produce of the joint labour of a great multitude of workmen. The shepherd, the sorter of the wool, the wool-comber or carder, the dyer, the scribbler, the spinner, the weaver, the fuller, the dresser, with many others, must all join their different arts in order to complete even this homely production. How many merchants and carriers, besides, must have been employed in transporting the materials from some of those workmen to others who often live in a very distant part of the country? How much commerce and navigation in particular, how many ship-builders, sailors, sail-makers, rope-makers, must have been employed in order to bring together the different drugs made use of by the dyer, which often come from the remotest corners of the world? What a variety of labour, too, is necessary in order to produce the tools of the meanest of those workmen! To say nothing of such complicated machines as the ship of the sailor, the mill of the fuller, or even the loom of the weaver, let us consider only what a variety of labour is requisite in order to form that very simple machine, the shears with which the shepherd clips the wool. The miner, the builder of the furnace for smelting the ore, the feller of the timber, the burner of the charcoal to be made use of in the smelting-house, the brickmaker, the bricklayer, the workmen who attend the furnace, the millwright, the forger, the smith, must all of them join their different arts in order to produce them. Were we to examine, in the same manner, all the different parts of his dress and household furniture, the coarse linen shirt which he wears next his skin, the shoes which cover his feet, the bed which he lies on, and all the different parts which compose it, the kitchen-grate at which he prepares his victuals, the coals which he makes use of for that purpose, dug from the bowels of the earth, and brought to him, perhaps, by a long sea and a long land-carriage, all the other utensils of his kitchen, all the furniture of his table, the knives and forks, the earthen or pewter plates upon which he serves up and divides his victuals, the different hands employed in preparing his bread and his beer, the glass window which lets in the heat and the light, and keeps out the wind and the rain; if we examine, I say, all these things, and consider what a variety of labour is employed about each of them, we shall be sensible that, without the assistance and co-operation of many thousands, the very meanest person in a civilized country could not be provided, even according to, what we very falsely imagine, the easy and simple manner in which he is commonly accommodated. Compared, indeed, with the more extravagant luxury of the great, his accommodation must no doubt appear extremely simple and easy; and yet it may be true, perhaps, that the accommodation of an European prince does not always so much exceed that of an industrious and frugal peasant, as the accommodation of the latter exceeds that of many an African king, the absolute masters of the lives and liberties of ten thousand naked savages.',
+        'In every other art and manufacture, the effects of the division of labour are similar to what they are in this very trifling one, though, in many of them, the labour can neither be so much subdivided, nor reduced to so great a simplicity of operation. The division of labour, however, so far as it can be introduced, occasions, in every art, a proportionable increase of the productive powers of labour. The separation of different trades and employments from one another, seems to have taken place in consequence of this advantage.',
       vernacular:
-        '睇下一個文明而繁榮國家入面最普通嘅工匠或者散工嘅生活條件,你就會發現,用嚟令佢得到呢種生活條件嘅人數,即使每個人只不過付出咗一小部分嘅勞動,加埋都多到冇辦法計算。舉個例,遮住散工身體嘅粗呢外套,雖然睇落好粗糙,但都係大量工人共同勞動嘅成果。牧羊人、揀羊毛嘅人、梳毛或者刷毛嘅人、染色師傅、粗紡工、紡紗工、織布工、縮絨工、整理工,同好多其他人,都要各展所長,先至可以完成呢件好平凡嘅產品。除此之外,重要有幾多商人同運輸工人,負責將材料由某啲工人嗰度運去經常住喺好遠地方嘅其他工人嗰度?要將染色師傅所用嘅、往往來自世界最偏遠角落嘅各種染料收集埋一齊,又要幾多商業貿易同航海活動,幾多造船工人、水手、造帆工人、造繩工人?而製造呢啲工人當中最低微嘅工具,又需要幾咁多樣化嘅勞動!就算唔講水手嘅船、縮絨工嘅磨坊,或者織布工嘅織布機呢類複雜機械,我哋淨係諗吓,製造牧羊人用嚟剪羊毛嗰把好簡單嘅剪刀,都需要幾咁多樣化嘅勞動。礦工、建造冶煉爐嘅工人、伐木工、燒製冶煉時所用木炭嘅工人、製磚工、砌磚工、看爐嘅工人、機械師、鍛工、鐵匠,都要各展所長先至可以製造出嚟。如果我哋同樣咁檢視佢衣着同家具嘅每一個部分:貼身着嘅粗麻布恤衫,包住雙腳嘅鞋,佢瞓嘅床同組成呢張床嘅所有部分,佢煮飯用嘅爐灶,佢用嚟燒飯、可能經過漫長海路同陸路運輸、由地底挖出嚟嘅煤炭,佢廚房嘅其他一切用具,佢飯枱上所有嘅家具,刀叉,佢用嚟上菜同分派食物嘅陶器或者錫器碟,製作佢麵包同啤酒所用嘅唔同人手,同埋透光透熱、遮風擋雨嘅玻璃窗;我話,如果我哋逐一檢視呢啲嘢,諗吓製作每一樣所需要嘅各種勞動,我哋就會意識到,冇成千上萬人嘅協助同合作,一個文明國家入面最卑微嘅人,都唔可能得到我哋錯誤以為佢通常過得幾咁簡單容易嘅生活條件。當然,同權貴嘅奢華生活相比,佢嘅生活條件肯定顯得極之簡樸而普通;但係或者事實係,一位歐洲王侯嘅生活條件,同一個勤儉農民嘅生活條件相比之下超出嘅程度,都未必大過後者嘅生活條件,同好多非洲部落酋長相比嘅超出程度——呢啲酋長雖然係一萬個赤身露體嘅野蠻人生命同自由嘅絕對主宰。',
+        '喺其他任何工藝同製造業入面,分工嘅效果同呢個好瑣碎嘅例子都差唔多,雖然好多行業入面,勞動都冇可能咁細緻咁分工,亦冇可能將工序簡化到咁簡單。但係只要能夠引入分工,喺任何工藝入面,都會令勞動生產力相應咁提升。唔同行業同職業之間嘅分離,睇嚟就係呢種優勢帶嚟嘅結果。',
       vernacularMandarin:
-        '看看一個文明而繁榮國家裡面最普通的工匠或者散工的生活條件,你就會發現,用來令他得到這種生活條件的人數,即使每個人只不過付出了一小部分的勞動,加起來都多到沒辦法計算。舉個例,遮住散工身體的粗呢外套,雖然看起來很粗糙,但都是大量工人共同勞動的成果。牧羊人、揀羊毛的人、梳毛或者刷毛的人、染色師傅、粗紡工、紡紗工、織布工、縮絨工、整理工,同很多其他人,都要各展所長,才可以完成這件很平凡的產品。除此之外,還要有多少商人同運輸工人,負責將材料從某些工人那裡運去經常住在很遠地方的其他工人那裡?要將染色師傅所用的、往往來自世界最偏遠角落的各種染料收集在一起,又要多少商業貿易同航海活動,多少造船工人、水手、造帆工人、造繩工人?而製造這些工人當中最低微的工具,又需要多麼多樣化的勞動!就算不講水手的船、縮絨工的磨坊,或者織布工的織布機這類複雜機械,我們只想想,製造牧羊人用來剪羊毛那把很簡單的剪刀,都需要多麼多樣化的勞動。礦工、建造冶煉爐的工人、伐木工、燒製冶煉時所用木炭的工人、製磚工、砌磚工、看爐的工人、機械師、鍛工、鐵匠,都要各展所長才可以製造出來。如果我們同樣地檢視他衣著同家具的每一個部分:貼身穿的粗麻布襯衫,包住雙腳的鞋,他睡的床同組成這張床的所有部分,他煮飯用的爐灶,他用來燒飯、可能經過漫長海路同陸路運輸、從地底挖出來的煤炭,他廚房的其他一切用具,他飯桌上所有的家具,刀叉,他用來上菜同分派食物的陶器或者錫器碟,製作他麵包同啤酒所用的不同人手,以及透光透熱、遮風擋雨的玻璃窗;我說,如果我們逐一檢視這些東西,想想製作每一樣所需要的各種勞動,我們就會意識到,沒有成千上萬人的協助同合作,一個文明國家裡面最卑微的人,都不可能得到我們錯誤以為他通常過得多麼簡單容易的生活條件。當然,同權貴的奢華生活相比,他的生活條件肯定顯得極其簡樸而普通;但是或許事實是,一位歐洲王侯的生活條件,同一個勤儉農民的生活條件相比之下超出的程度,都未必大過後者的生活條件,同很多非洲部落酋長相比的超出程度——這些酋長雖然是一萬個赤身露體的野蠻人生命同自由的絕對主宰。',
+        '在其他任何工藝同製造業裡面,分工的效果同這個很瑣碎的例子都差不多,雖然很多行業裡面,勞動都沒可能這麼細緻地分工,也沒可能將工序簡化到這麼簡單。但是只要能夠引入分工,在任何工藝裡面,都會令勞動生產力相應地提升。不同行業同職業之間的分離,看來就是這種優勢帶來的結果。',
+    },
+    {
+      id: 'b1c1-9',
+      title: '已開化社會:農夫淨係做農夫',
+      original:
+        'This separation, too, is generally carried furthest in those countries which enjoy the highest degree of industry and improvement; what is the work of one man, in a rude state of society, being generally that of several in an improved one. In every improved society, the farmer is generally nothing but a farmer; the manufacturer, nothing but a manufacturer. The labour, too, which is necessary to produce any one complete manufacture, is almost always divided among a great number of hands. How many different trades are employed in each branch of the linen and woollen manufactures, from the growers of the flax and the wool, to the bleachers and smoothers of the linen, or to the dyers and dressers of the cloth!',
+      vernacular:
+        '而呢種分離,一般喺工業同技術最發達嘅國家推行得最徹底;喺未開化嘅社會,一個人做嘅工作,喺已開化嘅社會,一般就會由好幾個人分工做。喺任何已開化嘅社會,農夫一般就淨係做農夫;製造業者就淨係做製造業者。而要生產一件完整嘅製造品所需嘅勞動,幾乎都係分俾大量嘅人手嚟做。亞麻布同毛織品每個分支入面,由種植亞麻同羊毛嘅人,到漂白同熨平亞麻布嘅人,又或者染色同整理布匹嘅人,涉及到幾多唔同嘅行業啊!',
+      vernacularMandarin:
+        '而這種分離,一般在工業同技術最發達的國家推行得最徹底;在未開化的社會,一個人做的工作,在已開化的社會,一般就會由好幾個人分工做。在任何已開化的社會,農夫一般就只做農夫;製造業者就只做製造業者。而要生產一件完整的製造品所需的勞動,幾乎都是分給大量的人手來做。亞麻布同毛織品每個分支裡面,從種植亞麻同羊毛的人,到漂白同熨平亞麻布的人,又或者染色同整理布匹的人,涉及到多少不同的行業啊!',
+    },
+    {
+      id: 'b1c1-10',
+      title: '農業嘅性質唔容許咁徹底分工',
+      original:
+        'The nature of agriculture, indeed, does not admit of so many subdivisions of labour, nor of so complete a separation of one business from another, as manufactures. It is impossible to separate so entirely the business of the grazier from that of the corn-farmer, as the trade of the carpenter is commonly separated from that of the smith. The spinner is almost always a distinct person from the weaver; but the ploughman, the harrower, the sower of the seed, and the reaper of the corn, are often the same. The occasions for those different sorts of labour returning with the different seasons of the year, it is impossible that one man should be constantly employed in any one of them.',
+      vernacular:
+        '事實上,農業嘅性質就唔容許咁多分工,亦唔容許好似製造業咁完全分離開唔同嘅工作。畜牧業同種穀業唔可能好似木匠同鐵匠嘅行業咁完全分開。紡紗嘅同織布嘅幾乎總係唔同嘅人;但係耕田嘅、耙田嘅、播種嘅同收割穀物嘅,就經常係同一個人。因為呢啲唔同種類嘅勞動係跟住一年四季輪流出現,所以一個人唔可能長期固定做其中一種。',
+      vernacularMandarin:
+        '事實上,農業的性質就不容許這麼多分工,也不容許好像製造業那樣完全分離不同的工作。畜牧業同種穀業不可能好像木匠同鐵匠的行業那樣完全分開。紡紗的同織布的幾乎總是不同的人;但是耕田的、耙田的、播種的同收割穀物的,就經常是同一個人。因為這些不同種類的勞動是跟著一年四季輪流出現,所以一個人不可能長期固定做其中一種。',
+    },
+    {
+      id: 'b1c1-11',
+      title: '呢個係農業生產力進步較慢嘅原因',
+      original:
+        'This impossibility of making so complete and entire a separation of all the different branches of labour employed in agriculture, is perhaps the reason why the improvement of the productive powers of labour, in this art, does not always keep pace with their improvement in manufactures. The most opulent nations, indeed, generally excel all their neighbours in agriculture as well as in manufactures; but they are commonly more distinguished by their superiority in the latter than in the former. Their lands are in general better cultivated, and having more labour and expense bestowed upon them, produce more in proportion to the extent and natural fertility of the ground. But this superiority of produce is seldom much more than in proportion to the superiority of labour and expense.',
+      vernacular:
+        '呢種喺農業入面冇可能將所有唔同勞動分支完全徹底分離嘅特點,可能就係點解呢種工藝嘅生產力改善,唔一定可以趕得上製造業嘅生產力改善嘅原因。事實上,最富裕嘅國家,一般喺農業同製造業方面都勝過鄰國;但佢哋通常喺後者方面嘅優勢,比喺前者方面嘅優勢更加顯著。佢哋嘅土地一般耕種得更好,由於投入咗更多勞動同成本,按照土地嘅面積同天然肥沃程度嚟計算,生產都更多。但係呢種產出嘅優勢,好少會超過勞動同成本優勢嘅比例。',
+      vernacularMandarin:
+        '這種在農業裡面沒可能將所有不同勞動分支完全徹底分離的特點,可能就是為何這種工藝的生產力改善,不一定可以趕得上製造業的生產力改善的原因。事實上,最富裕的國家,一般在農業同製造業方面都勝過鄰國;但他們通常在後者方面的優勢,比在前者方面的優勢更加顯著。他們的土地一般耕種得更好,由於投入了更多勞動同成本,按照土地的面積同天然肥沃程度來計算,生產都更多。但是這種產出的優勢,很少會超過勞動同成本優勢的比例。',
+    },
+    {
+      id: 'b1c1-12',
+      title: '窮國嘅穀物都可以同富國一樣平',
+      original:
+        'In agriculture, the labour of the rich country is not always much more productive than that of the poor; or, at least, it is never so much more productive, as it commonly is in manufactures. The corn of the rich country, therefore, will not always, in the same degree of goodness, come cheaper to market than that of the poor. The corn of Poland, in the same degree of goodness, is as cheap as that of France, notwithstanding the superior opulence and improvement of the latter country. The corn of France is, in the corn-provinces, fully as good, and in most years nearly about the same price with the corn of England, though, in opulence and improvement, France is perhaps inferior to England. The corn-lands of England, however, are better cultivated than those of France, and the corn-lands of France are said to be much better cultivated than those of Poland.',
+      vernacular:
+        '喺農業方面,富裕國家嘅勞動,並唔一定比貧窮國家嘅生產力高好多;或者至少,佢絕對唔會好似喺製造業咁,生產力高咁多。所以,富裕國家嘅穀物,喺同等品質下,唔一定會喺市場上賣得比貧窮國家嘅平。波蘭嘅穀物,喺同等品質下,同法國嘅一樣平,儘管法國嘅富裕同進步程度都高過波蘭。法國嘅穀物,喺產糧省份,質素完全唔差,大部分年份嘅價格都同英國嘅穀物差唔多,雖然喺富裕同進步程度方面,法國可能不及英國。不過,英國嘅穀田耕種得比法國好,而法國嘅穀田又據講耕種得比波蘭好好多。',
+      vernacularMandarin:
+        '在農業方面,富裕國家的勞動,並不一定比貧窮國家的生產力高很多;或者至少,它絕對不會好像在製造業那樣,生產力高那麼多。所以,富裕國家的穀物,在同等品質下,不一定會在市場上賣得比貧窮國家的便宜。波蘭的穀物,在同等品質下,同法國的一樣便宜,儘管法國的富裕同進步程度都高過波蘭。法國的穀物,在產糧省份,質素完全不差,大部分年份的價格都同英國的穀物差不多,雖然在富裕同進步程度方面,法國可能不及英國。不過,英國的穀田耕種得比法國好,而法國的穀田又據說耕種得比波蘭好很多。',
+    },
+    {
+      id: 'b1c1-13',
+      title: '製造業就冇得比:法國絲綢vs英國五金',
+      original:
+        'But though the poor country, notwithstanding the inferiority of its cultivation, can, in some measure, rival the rich in the cheapness and goodness of its corn, it can pretend to no such competition in its manufactures, at least if those manufactures suit the soil, climate, and situation, of the rich country. The silks of France are better and cheaper than those of England, because the silk manufacture, at least under the present high duties upon the importation of raw silk, does not so well suit the climate of England as that of France. But the hardware and the coarse woollens of England are beyond all comparison superior to those of France, and much cheaper, too, in the same degree of goodness. In Poland there are said to be scarce any manufactures of any kind, a few of those coarser household manufactures excepted, without which no country can well subsist.',
+      vernacular:
+        '但係雖然貧窮國家儘管耕種較差,喺穀物嘅平同靚方面某程度上都可以同富裕國家一較高下,但係喺製造業方面就完全冇得比,至少如果嗰啲製造業啱富裕國家嘅土壤、氣候同形勢嘅話。法國嘅絲綢比英國嘅更靚更平,因為絲綢製造業,至少喺目前對進口生絲徵收重稅嘅情況下,唔太啱英國嘅氣候,反而好啱法國嘅氣候。但係英國嘅五金同粗毛織品,就遠遠優勝過法國嘅,而且喺同等品質下平好多。而波蘭,據講幾乎冇任何種類嘅製造業,除咗少數任何國家生存都必需嘅粗糙家庭手工業之外。',
+      vernacularMandarin:
+        '但是雖然貧窮國家儘管耕種較差,在穀物的便宜同優質方面某程度上都可以同富裕國家一較高下,但是在製造業方面就完全沒得比,至少如果那些製造業適合富裕國家的土壤、氣候同形勢的話。法國的絲綢比英國的更好更便宜,因為絲綢製造業,至少在目前對進口生絲徵收重稅的情況下,不太適合英國的氣候,反而很適合法國的氣候。但是英國的五金同粗毛織品,就遠遠優勝過法國的,而且在同等品質下便宜很多。而波蘭,據說幾乎沒有任何種類的製造業,除了少數任何國家生存都必需的粗糙家庭手工業之外。',
+    },
+    {
+      id: 'b1c1-14',
+      title: '分工帶嚟嘅三大好處(概述)',
+      original:
+        'This great increase in the quantity of work, which, in consequence of the division of labour, the same number of people are capable of performing, is owing to three different circumstances; first, to the increase of dexterity in every particular workman; secondly, to the saving of the time which is commonly lost in passing from one species of work to another; and, lastly, to the invention of a great number of machines which facilitate and abridge labour, and enable one man to do the work of many.',
+      vernacular:
+        '由於分工,同樣人數所能夠完成嘅工作量會大幅增加,呢個係基於三種唔同嘅情況:第一,係每個工人熟練程度嘅提升;第二,係節省咗通常喺由一種工作轉去另一種工作嗰陣所浪費嘅時間;最後,係大量機械嘅發明,呢啲機械令勞動更加容易同簡便,令一個人可以做到好多人嘅工作。',
+      vernacularMandarin:
+        '由於分工,同樣人數所能夠完成的工作量會大幅增加,這是基於三種不同的情況:第一,是每個工人熟練程度的提升;第二,是節省了通常在由一種工作轉去另一種工作時所浪費的時間;最後,是大量機械的發明,這些機械令勞動更加容易同簡便,令一個人可以做到很多人的工作。',
+    },
+    {
+      id: 'b1c1-15',
+      title: '好處一:熟練程度提升(鐵匠整釘嘅例子)',
+      original:
+        'First, the improvement of the dexterity of the workmen, necessarily increases the quantity of the work he can perform; and the division of labour, by reducing every man’s business to some one simple operation, and by making this operation the sole employment of his life, necessarily increases very much the dexterity of the workman. A common smith, who, though accustomed to handle the hammer, has never been used to make nails, if, upon some particular occasion, he is obliged to attempt it, will scarce, I am assured, be able to make above two or three hundred nails in a day, and those, too, very bad ones. A smith who has been accustomed to make nails, but whose sole or principal business has not been that of a nailer, can seldom, with his utmost diligence, make more than eight hundred or a thousand nails in a day. I have seen several boys, under twenty years of age, who had never exercised any other trade but that of making nails, and who, when they exerted themselves, could make, each of them, upwards of two thousand three hundred nails in a day.',
+      vernacular:
+        '第一,工人熟練程度嘅提升,必然會增加佢所能夠完成嘅工作量;而分工透過將每個人嘅工作簡化為某一單一嘅工序,並令呢個工序成為佢一生唯一嘅職業,必然會大大提升工人嘅熟練程度。一個普通鐵匠,雖然慣咗用鐵鎚,但從未整過釘,如果因為某啲特別場合要佢試下整,我肯定佢一日都好難整到超過二三百支釘,而且仲整得好差。一個慣咗整釘、但唔係以整釘為唯一或主要職業嘅鐵匠,就算佢已經盡力,通常一日都好難整到超過八百至一千支釘。我見過幾個未夠二十歲嘅少年,佢哋除咗整釘之外從未做過其他行業,只要佢哋盡力,每人一日都可以整到超過二千三百支釘。',
+      vernacularMandarin:
+        '第一,工人熟練程度的提升,必然會增加他所能夠完成的工作量;而分工透過將每個人的工作簡化為某一單一的工序,並令這個工序成為他一生唯一的職業,必然會大大提升工人的熟練程度。一個普通鐵匠,雖然習慣用鐵鎚,但從未做過釘,如果因為某些特別場合要他試著做,我肯定他一天都很難做到超過二三百支釘,而且還做得很差。一個習慣做釘、但不是以做釘為唯一或主要職業的鐵匠,就算他已經盡力,通常一天都很難做到超過八百至一千支釘。我見過幾個未滿二十歲的少年,他們除了做釘之外從未做過其他行業,只要他們盡力,每人一天都可以做到超過二千三百支釘。',
+    },
+    {
+      id: 'b1c1-16',
+      title: '整釘其實幾複雜,唔算最簡單嘅工序',
+      original:
+        'The making of a nail, however, is by no means one of the simplest operations. The same person blows the bellows, stirs or mends the fire as there is occasion, heats the iron, and forges every part of the nail: in forging the head, too, he is obliged to change his tools. The different operations into which the making of a pin, or of a metal button, is subdivided, are all of them much more simple, and the dexterity of the person, of whose life it has been the sole business to perform them, is usually much greater. The rapidity with which some of the operations of those manufactures are performed, exceeds what the human hand could, by those who had never seen them, be supposed capable of acquiring.',
+      vernacular:
+        '不過,整釘絕對唔係最簡單嘅工序之一。同一個人要拉風箱,視乎需要撥火或者添柴,燒紅鐵,再鍛打釘嘅每一個部分:鍛打釘頭嗰陣,佢仲要更換工具。相比之下,整針或者金屬鈕嗰啲分工出嚟嘅唔同工序,全部都簡單好多,而以此為終身職業嘅人,熟練程度通常都高好多。呢啲製造業入面某啲工序完成嘅速度,快到冇見過嘅人根本諗唔到人手可以做到咁快。',
+      vernacularMandarin:
+        '不過,做釘絕對不是最簡單的工序之一。同一個人要拉風箱,視乎需要撥火或者添柴,燒紅鐵,再鍛打釘的每一個部分:鍛打釘頭時,他還要更換工具。相比之下,做針或者金屬鈕那些分工出來的不同工序,全部都簡單很多,而以此為終身職業的人,熟練程度通常都高很多。這些製造業裡面某些工序完成的速度,快到沒見過的人根本想不到人手可以做到這麼快。',
+    },
+    {
+      id: 'b1c1-17',
+      title: '好處二:節省轉換工作嘅時間',
+      original:
+        'Secondly, the advantage which is gained by saving the time commonly lost in passing from one sort of work to another, is much greater than we should at first view be apt to imagine it. It is impossible to pass very quickly from one kind of work to another, that is carried on in a different place, and with quite different tools. A country weaver, who cultivates a small farm, must lose a good deal of time in passing from his loom to the field, and from the field to his loom. When the two trades can be carried on in the same workhouse, the loss of time is, no doubt, much less. It is, even in this case, however, very considerable.',
+      vernacular:
+        '第二,由於節省咗通常喺由一種工作轉去另一種工作嗰陣所浪費嘅時間所得到嘅好處,遠遠大過我哋初時所諗嘅。由一種工作轉去另一種喺唔同地方、要用完全唔同工具嘅工作,係唔可能好快轉換嘅。一個兼耕小農田嘅鄉村織工,由織布機轉去田地,同由田地返去織布機,都一定會浪費好多時間。如果兩種行業可以喺同一間工場度做,浪費嘅時間毫無疑問就會少好多。但即使係咁,浪費嘅時間都仍然相當可觀。',
+      vernacularMandarin:
+        '第二,由於節省了通常在由一種工作轉去另一種工作時所浪費的時間所得到的好處,遠遠大過我們最初所想的。由一種工作轉去另一種在不同地方、要用完全不同工具的工作,是不可能很快轉換的。一個兼耕小農田的鄉村織工,由織布機轉去田地,同由田地返去織布機,都一定會浪費很多時間。如果兩種行業可以在同一間工場做,浪費的時間毫無疑問就會少很多。但即使這樣,浪費的時間都仍然相當可觀。',
+    },
+    {
+      id: 'b1c1-18',
+      title: '散漫拖延嘅習慣令生產力大減',
+      original:
+        'A man commonly saunters a little in turning his hand from one sort of employment to another. When he first begins the new work, he is seldom very keen and hearty; his mind, as they say, does not go to it, and for some time he rather trifles than applies to good purpose. The habit of sauntering, and of indolent careless application, which is naturally, or rather necessarily, acquired by every country workman who is obliged to change his work and his tools every half hour, and to apply his hand in twenty different ways almost every day of his life, renders him almost always slothful and lazy, and incapable of any vigorous application, even on the most pressing occasions. Independent, therefore, of his deficiency in point of dexterity, this cause alone must always reduce considerably the quantity of work which he is capable of performing.',
+      vernacular:
+        '一個人由一種工作轉去另一種工作嗰陣,通常都會有少少散漫拖延。佢啱啱開始新工作嗰陣,好少會即刻好落力好起勁;正如人哋所講,佢嘅心思都仲未投入,有一段時間都係心不在焉多過認真做嘢。呢種散漫、懶散馬虎嘅習慣,係每個鄉村工人自然,或者不如講係必然會養成嘅,因為佢哋幾乎日日都要每半個鐘就要轉工具轉工作,一日之內要用二十種唔同方式運用雙手,呢個習慣令佢哋幾乎總係懶懶散散,就算喺最緊急嘅場合都冇能力全力以赴。所以,單單呢個原因,先唔講熟練程度上嘅不足,已經必然會大大減少佢所能夠完成嘅工作量。',
+      vernacularMandarin:
+        '一個人由一種工作轉去另一種工作時,通常都會有少少散漫拖延。他剛開始新工作時,很少會立刻很賣力很起勁;正如人們所說,他的心思都還未投入,有一段時間都是心不在焉多過認真做事。這種散漫、懶散馬虎的習慣,是每個鄉村工人自然,或者不如說是必然會養成的,因為他們幾乎每天都要每半小時就要換工具換工作,一天之內要用二十種不同方式運用雙手,這個習慣令他們幾乎總是懶懶散散,就算在最緊急的場合都沒能力全力以赴。所以,單單這個原因,先不講熟練程度上的不足,已經必然會大大減少他所能夠完成的工作量。',
+    },
+    {
+      id: 'b1c1-19',
+      title: '好處三:機械嘅發明(概述)',
+      original:
+        'Thirdly, and lastly, everybody must be sensible how much labour is facilitated and abridged by the application of proper machinery. It is unnecessary to give any example. I shall only observe, therefore, that the invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour. Men are much more likely to discover easier and readier methods of attaining any object, when the whole attention of their minds is directed towards that single object, than when it is dissipated among a great variety of things.',
+      vernacular:
+        '第三,亦係最後一點,人人都一定感受到,運用適當嘅機械可以令勞動變得幾咁容易同省力。呢點根本唔使舉例。所以我淨係想指出,所有嗰啲令勞動大幅省力嘅機械嘅發明,睇嚟最初都係源於分工。當一個人嘅全部心思都集中喺一個單一嘅目標嗰陣,佢發現更容易更快捷達成目標嘅方法嘅機會,遠遠高過心思分散喺好多唔同嘅事情上面嗰陣。',
+      vernacularMandarin:
+        '第三,也是最後一點,人人都一定感受到,運用適當的機械可以令勞動變得多麼容易同省力。這點根本不用舉例。所以我只想指出,所有那些令勞動大幅省力的機械的發明,看來最初都是源於分工。當一個人的全部心思都集中在一個單一的目標時,他發現更容易更快捷達成目標的方法的機會,遠遠高過心思分散在很多不同的事情上面時。',
+    },
+    {
+      id: 'b1c1-20',
+      title: '普通工人自己發明機械',
+      original:
+        'But, in consequence of the division of labour, the whole of every man’s attention comes naturally to be directed towards some one very simple object. It is naturally to be expected, therefore, that some one or other of those who are employed in each particular branch of labour should soon find out easier and readier methods of performing their own particular work, whenever the nature of it admits of such improvement. A great part of the machines made use of in those manufactures in which labour is most subdivided, were originally the invention of common workmen, who, being each of them employed in some very simple operation, naturally turned their thoughts towards finding out easier and readier methods of performing it. Whoever has been much accustomed to visit such manufactures, must frequently have been shewn very pretty machines, which were the inventions of such workmen, in order to facilitate and quicken their own particular part of the work.',
+      vernacular:
+        '但係由於分工,每個人嘅全部注意力自然而然就會集中喺某一個好簡單嘅目標上面。所以自然可以預期,只要工作嘅性質容許改進,每個特定分工嘅工作入面,遲早都會有人發現更容易更快捷完成自己嗰份工作嘅方法。喺分工最細嘅製造業入面所使用嘅好多機械,最初都係普通工人發明嘅,佢哋因為各自負責一項好簡單嘅工序,自然就會諗辦法搵更容易更快捷嘅方法嚟完成佢。凡係經常出入呢類製造業嘅人,一定經常見過工人為咗方便加快自己嗰部分工作而發明嘅好精巧嘅機械。',
+      vernacularMandarin:
+        '但是由於分工,每個人的全部注意力自然而然就會集中在某一個很簡單的目標上面。所以自然可以預期,只要工作的性質容許改進,每個特定分工的工作裡面,遲早都會有人發現更容易更快捷完成自己那份工作的方法。在分工最細的製造業裡面所使用的很多機械,最初都是普通工人發明的,他們因為各自負責一項很簡單的工序,自然就會想辦法找更容易更快捷的方法來完成它。凡是經常出入這類製造業的人,一定經常見過工人為了方便加快自己那部分工作而發明的很精巧的機械。',
+    },
+    {
+      id: 'b1c1-21',
+      title: '想同伴玩耍嘅童工發明咗蒸汽機自動閥門',
+      original:
+        'In the first fire engines, a boy was constantly employed to open and shut alternately the communication between the boiler and the cylinder, according as the piston either ascended or descended. One of those boys, who loved to play with his companions, observed that, by tying a string from the handle of the valve which opened this communication to another part of the machine, the valve would open and shut without his assistance, and leave him at liberty to divert himself with his play-fellows. One of the greatest improvements that has been made upon this machine, since it was first invented, was in this manner the discovery of a boy who wanted to save his own labour.',
+      vernacular:
+        '喺最早期嘅蒸汽機入面,有個童工要成日負責交替開關鍋爐同汽缸之間嘅通道,睇活塞係上升定係落降。有個鍾意同同伴玩嘅童工,發現只要用條繩由開關呢個通道嘅閥門手柄,綁去機器嘅另一部分,閥門就可以自動開關,唔使佢幫手,咁佢就可以走去同玩伴玩耍。自呢部機器發明以嚟,其中一個最大嘅改良,就係咁樣由一個想慳返自己工夫嘅童工發現出嚟。',
+      vernacularMandarin:
+        '在最早期的蒸汽機裡面,有個童工要整天負責交替開關鍋爐同汽缸之間的通道,看活塞是上升還是下降。有個喜歡同同伴玩的童工,發現只要用條繩把開關這個通道的閥門手柄,綁去機器的另一部分,閥門就可以自動開關,不用他幫忙,這樣他就可以走去同玩伴玩耍。自這部機器發明以來,其中一個最大的改良,就是這樣由一個想省下自己工夫的童工發現出來的。',
+    },
+    {
+      id: 'b1c1-22',
+      title: '機械製造商同哲學家嘅貢獻',
+      original:
+        'All the improvements in machinery, however, have by no means been the inventions of those who had occasion to use the machines. Many improvements have been made by the ingenuity of the makers of the machines, when to make them became the business of a peculiar trade; and some by that of those who are called philosophers, or men of speculation, whose trade it is not to do any thing, but to observe every thing, and who, upon that account, are often capable of combining together the powers of the most distant and dissimilar objects.',
+      vernacular:
+        '不過,機械嘅所有改良,絕對唔全部都係嗰啲有機會使用機械嘅人發明嘅。好多改良都係出於機械製造者嘅巧思,當製造機械本身成為一門專門行業嗰陣;亦有啲改良係出於所謂哲學家或者思辨家嘅巧思,佢哋嘅本行唔係做任何事,而係觀察一切事物,所以佢哋往往有能力將睇似最風馬牛不相及嘅事物嘅力量結合埋一齊。',
+      vernacularMandarin:
+        '不過,機械的所有改良,絕對不全部都是那些有機會使用機械的人發明的。很多改良都是出於機械製造者的巧思,當製造機械本身成為一門專門行業時;也有些改良是出於所謂哲學家或者思辨家的巧思,他們的本行不是做任何事,而是觀察一切事物,所以他們往往有能力將看似最風馬牛不相及的事物的力量結合在一起。',
+    },
+    {
+      id: 'b1c1-23',
+      title: '哲學本身都係一門分工出嚟嘅職業',
+      original:
+        'As the progress of society, philosophy or speculation becomes, like every other employment, the principal or sole trade and occupation of a particular class of citizens. Like every other employment, too, it is subdivided into a great number of different branches, each of which affords occupation to a peculiar tribe or class of philosophers; and this subdivision of employment in philosophy, as well as in every other business, improves dexterity, and saves time. Each individual becomes more expert in his own peculiar branch, more work is done upon the whole, and the quantity of science is considerably increased by it.',
+      vernacular:
+        '隨住社會嘅進步,哲學或者思辨,同其他任何職業一樣,都會成為某個特定公民階層主要或者唯一嘅行業同職業。同其他任何職業一樣,佢亦都分成咗好多唔同嘅分支,每一個分支都俾一個特定嘅哲學家群體或者階層有事做;而呢種喺哲學上,同喺其他任何行業一樣嘅分工,都會提升熟練程度、節省時間。每個人喺自己嗰個特定分支入面都會變得更加專精,整體完成嘅工作亦都更加多,學問嘅總量亦因此而大大增加。',
+      vernacularMandarin:
+        '隨著社會的進步,哲學或者思辨,同其他任何職業一樣,都會成為某個特定公民階層主要或者唯一的行業同職業。同其他任何職業一樣,它也分成了很多不同的分支,每一個分支都給一個特定的哲學家群體或者階層有事做;而這種在哲學上,同在其他任何行業一樣的分工,都會提升熟練程度、節省時間。每個人在自己那個特定分支裡面都會變得更加專精,整體完成的工作也更加多,學問的總量也因此而大大增加。',
+    },
+    {
+      id: 'b1c1-24',
+      title: '分工令社會普遍富足',
+      original:
+        'It is the great multiplication of the productions of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people. Every workman has a great quantity of his own work to dispose of beyond what he himself has occasion for; and every other workman being exactly in the same situation, he is enabled to exchange a great quantity of his own goods for a great quantity or, what comes to the same thing, for the price of a great quantity of theirs. He supplies them abundantly with what they have occasion for, and they accommodate him as amply with what he has occasion for, and a general plenty diffuses itself through all the different ranks of the society.',
+      vernacular:
+        '就係由於分工令各種工藝嘅產物大量增加,先至喺一個治理良好嘅社會入面,產生咗惠及最底層人民嘅普遍富足。每個工人自己所生產嘅嘢,除咗自己需要嘅之外仲有大量剩餘可以拿嚟交易;而由於其他工人都處於同樣嘅境況,佢就可以用大量自己嘅產品,去換取大量其他人嘅產品,或者換句話講,就係換取大量其他人產品嘅價值。佢豐富咁供應其他人所需要嘅嘢,其他人亦都同樣豐富咁供應佢所需要嘅嘢,咁樣就令普遍嘅富足散布喺社會嘅各個唔同階層。',
+      vernacularMandarin:
+        '就是由於分工令各種工藝的產物大量增加,才在一個治理良好的社會裡面,產生了惠及最底層人民的普遍富足。每個工人自己所生產的東西,除了自己需要的之外還有大量剩餘可以拿來交易;而由於其他工人都處於同樣的境況,他就可以用大量自己的產品,去換取大量其他人的產品,或者換句話說,就是換取大量其他人產品的價值。他豐富地供應其他人所需要的東西,其他人也同樣豐富地供應他所需要的東西,這樣就令普遍的富足散布在社會的各個不同階層。',
+    },
+    {
+      id: 'b1c1-25',
+      title: '一件粗呢外套已經涉及大量工人',
+      original:
+        'Observe the accommodation of the most common artificer or daylabourer in a civilized and thriving country, and you will perceive that the number of people, of whose industry a part, though but a small part, has been employed in procuring him this accommodation, exceeds all computation. The woollen coat, for example, which covers the day-labourer, as coarse and rough as it may appear, is the produce of the joint labour of a great multitude of workmen. The shepherd, the sorter of the wool, the wool-comber or carder, the dyer, the scribbler, the spinner, the weaver, the fuller, the dresser, with many others, must all join their different arts in order to complete even this homely production.',
+      vernacular:
+        '睇下一個文明而繁榮國家入面最普通嘅工匠或者散工嘅生活條件,你就會發現,用嚟令佢得到呢種生活條件嘅人數,即使每個人只不過付出咗一小部分嘅勞動,加埋都多到冇辦法計算。舉個例,遮住散工身體嘅粗呢外套,雖然睇落好粗糙,但都係大量工人共同勞動嘅成果。牧羊人、揀羊毛嘅人、梳毛或者刷毛嘅人、染色師傅、粗紡工、紡紗工、織布工、縮絨工、整理工,同好多其他人,都要各展所長,先至可以完成呢件好平凡嘅產品。',
+      vernacularMandarin:
+        '看看一個文明而繁榮國家裡面最普通的工匠或者散工的生活條件,你就會發現,用來令他得到這種生活條件的人數,即使每個人只不過付出了一小部分的勞動,加起來都多到沒辦法計算。舉個例,遮住散工身體的粗呢外套,雖然看起來很粗糙,但都是大量工人共同勞動的成果。牧羊人、揀羊毛的人、梳毛或者刷毛的人、染色師傅、粗紡工、紡紗工、織布工、縮絨工、整理工,同很多其他人,都要各展所長,才可以完成這件很平凡的產品。',
+    },
+    {
+      id: 'b1c1-26',
+      title: '商人、水手、染料——一件外套背後嘅全球分工',
+      original:
+        'How many merchants and carriers, besides, must have been employed in transporting the materials from some of those workmen to others who often live in a very distant part of the country? How much commerce and navigation in particular, how many ship-builders, sailors, sail-makers, rope-makers, must have been employed in order to bring together the different drugs made use of by the dyer, which often come from the remotest corners of the world? What a variety of labour, too, is necessary in order to produce the tools of the meanest of those workmen!',
+      vernacular:
+        '除此之外,重要有幾多商人同運輸工人,負責將材料由某啲工人嗰度運去經常住喺好遠地方嘅其他工人嗰度?要將染色師傅所用嘅、往往來自世界最偏遠角落嘅各種染料收集埋一齊,又要幾多商業貿易同航海活動,幾多造船工人、水手、造帆工人、造繩工人?而製造呢啲工人當中最低微嘅工具,又需要幾咁多樣化嘅勞動!',
+      vernacularMandarin:
+        '除此之外,還要有多少商人同運輸工人,負責將材料從某些工人那裡運去經常住在很遠地方的其他工人那裡?要將染色師傅所用的、往往來自世界最偏遠角落的各種染料收集在一起,又要多少商業貿易同航海活動,多少造船工人、水手、造帆工人、造繩工人?而製造這些工人當中最低微的工具,又需要多麼多樣化的勞動!',
+    },
+    {
+      id: 'b1c1-27',
+      title: '一把剪羊毛嘅剪刀都要一大堆工匠',
+      original:
+        'To say nothing of such complicated machines as the ship of the sailor, the mill of the fuller, or even the loom of the weaver, let us consider only what a variety of labour is requisite in order to form that very simple machine, the shears with which the shepherd clips the wool. The miner, the builder of the furnace for smelting the ore, the feller of the timber, the burner of the charcoal to be made use of in the smelting-house, the brickmaker, the bricklayer, the workmen who attend the furnace, the millwright, the forger, the smith, must all of them join their different arts in order to produce them.',
+      vernacular:
+        '就算唔講水手嘅船、縮絨工嘅磨坊,或者織布工嘅織布機呢類複雜機械,我哋淨係諗吓,製造牧羊人用嚟剪羊毛嗰把好簡單嘅剪刀,都需要幾咁多樣化嘅勞動。礦工、建造冶煉爐嘅工人、伐木工、燒製冶煉時所用木炭嘅工人、製磚工、砌磚工、看爐嘅工人、機械師、鍛工、鐵匠,都要各展所長先至可以製造出嚟。',
+      vernacularMandarin:
+        '就算不講水手的船、縮絨工的磨坊,或者織布工的織布機這類複雜機械,我們只想想,製造牧羊人用來剪羊毛那把很簡單的剪刀,都需要多麼多樣化的勞動。礦工、建造冶煉爐的工人、伐木工、燒製冶煉時所用木炭的工人、製磚工、砌磚工、看爐的工人、機械師、鍛工、鐵匠,都要各展所長才可以製造出來。',
+    },
+    {
+      id: 'b1c1-28',
+      title: '衫、鞋、床、爐灶、煤炭……逐樣檢視都係一樣',
+      original:
+        'Were we to examine, in the same manner, all the different parts of his dress and household furniture, the coarse linen shirt which he wears next his skin, the shoes which cover his feet, the bed which he lies on, and all the different parts which compose it, the kitchen-grate at which he prepares his victuals, the coals which he makes use of for that purpose, dug from the bowels of the earth, and brought to him, perhaps, by a long sea and a long land-carriage, all the other utensils of his kitchen, all the furniture of his table, the knives and forks, the earthen or pewter plates upon which he serves up and divides his victuals, the different hands employed in preparing his bread and his beer, the glass window which lets in the heat and the light, and keeps out the wind and the rain;',
+      vernacular:
+        '如果我哋同樣咁檢視佢衣着同家具嘅每一個部分:貼身着嘅粗麻布恤衫,包住雙腳嘅鞋,佢瞓嘅床同組成呢張床嘅所有部分,佢煮飯用嘅爐灶,佢用嚟燒飯、可能經過漫長海路同陸路運輸、由地底挖出嚟嘅煤炭,佢廚房嘅其他一切用具,佢飯枱上所有嘅家具,刀叉,佢用嚟上菜同分派食物嘅陶器或者錫器碟,製作佢麵包同啤酒所用嘅唔同人手,同埋透光透熱、遮風擋雨嘅玻璃窗——',
+      vernacularMandarin:
+        '如果我們同樣地檢視他衣著同家具的每一個部分:貼身穿的粗麻布襯衫,包住雙腳的鞋,他睡的床同組成這張床的所有部分,他煮飯用的爐灶,他用來燒飯、可能經過漫長海路同陸路運輸、從地底挖出來的煤炭,他廚房的其他一切用具,他飯桌上所有的家具,刀叉,他用來上菜同分派食物的陶器或者錫器碟,製作他麵包同啤酒所用的不同人手,以及透光透熱、遮風擋雨的玻璃窗——',
+    },
+    {
+      id: 'b1c1-29',
+      title: '冇成千上萬人協作,最卑微嘅人都活唔到而家咁',
+      original:
+        'if we examine, I say, all these things, and consider what a variety of labour is employed about each of them, we shall be sensible that, without the assistance and co-operation of many thousands, the very meanest person in a civilized country could not be provided, even according to, what we very falsely imagine, the easy and simple manner in which he is commonly accommodated. Compared, indeed, with the more extravagant luxury of the great, his accommodation must no doubt appear extremely simple and easy;',
+      vernacular:
+        '我話,如果我哋逐一檢視呢啲嘢,諗吓製作每一樣所需要嘅各種勞動,我哋就會意識到,冇成千上萬人嘅協助同合作,一個文明國家入面最卑微嘅人,都唔可能得到我哋錯誤以為佢通常過得幾咁簡單容易嘅生活條件。當然,同權貴嘅奢華生活相比,佢嘅生活條件肯定顯得極之簡樸而普通;',
+      vernacularMandarin:
+        '我說,如果我們逐一檢視這些東西,想想製作每一樣所需要的各種勞動,我們就會意識到,沒有成千上萬人的協助同合作,一個文明國家裡面最卑微的人,都不可能得到我們錯誤以為他通常過得多麼簡單容易的生活條件。當然,同權貴的奢華生活相比,他的生活條件肯定顯得極其簡樸而普通;',
+    },
+    {
+      id: 'b1c1-30',
+      title: '歐洲王侯vs農民vs非洲酋長',
+      original:
+        'and yet it may be true, perhaps, that the accommodation of an European prince does not always so much exceed that of an industrious and frugal peasant, as the accommodation of the latter exceeds that of many an African king, the absolute masters of the lives and liberties of ten thousand naked savages.',
+      vernacular:
+        '但係或者事實係,一位歐洲王侯嘅生活條件,同一個勤儉農民嘅生活條件相比之下超出嘅程度,都未必大過後者嘅生活條件,同好多非洲部落酋長相比嘅超出程度——呢啲酋長雖然係一萬個赤身露體嘅野蠻人生命同自由嘅絕對主宰。',
+      vernacularMandarin:
+        '但是或許事實是,一位歐洲王侯的生活條件,同一個勤儉農民的生活條件相比之下超出的程度,都未必大過後者的生活條件,同很多非洲部落酋長相比的超出程度——這些酋長雖然是一萬個赤身露體的野蠻人生命同自由的絕對主宰。',
     },
   ],
 };
