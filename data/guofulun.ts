@@ -5,6 +5,7 @@ import { principleOfExchange } from './guofulun/02-principle-of-exchange';
 import { limitedByMarket } from './guofulun/03-limited-by-market';
 import { originOfMoney } from './guofulun/04-origin-of-money';
 import { naturalMarketPrice } from './guofulun/05-natural-market-price';
+import { invisibleHand } from './guofulun/06-invisible-hand';
 
 export const guofulun: Book = {
   id: 'guofulun',
@@ -12,5 +13,13 @@ export const guofulun: Book = {
   author: 'Adam Smith 亞當史密夫',
   description:
     '1776年出版嘅經濟學經典,原名《An Inquiry into the Nature and Causes of the Wealth of Nations》,現代經濟學嘅奠基之作。呢度精選最經典嘅篇章,原文英文對照廣東話/普通話翻譯。',
-  chapters: [introduction, divisionOfLabour, principleOfExchange, limitedByMarket, originOfMoney, naturalMarketPrice],
+  chapters: [
+    introduction,
+    divisionOfLabour,
+    principleOfExchange,
+    limitedByMarket,
+    originOfMoney,
+    naturalMarketPrice,
+    invisibleHand,
+  ],
 };
