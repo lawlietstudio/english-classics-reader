@@ -9,6 +9,8 @@ import { seventhBook } from './meditations/07-seventh-book';
 import { eighthBook } from './meditations/08-eighth-book';
 import { ninthBook } from './meditations/09-ninth-book';
 import { tenthBook } from './meditations/10-tenth-book';
+import { eleventhBook } from './meditations/11-eleventh-book';
+import { twelfthBook } from './meditations/12-twelfth-book';
 
 export const meditations: Book = {
   id: 'meditations',
@@ -27,5 +29,7 @@ export const meditations: Book = {
     eighthBook,
     ninthBook,
     tenthBook,
+    eleventhBook,
+    twelfthBook,
   ],
 };
