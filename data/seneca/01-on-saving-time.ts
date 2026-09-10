@@ -1,0 +1,85 @@
+import { Chapter } from '../types';
+
+export const onSavingTime: Chapter = {
+  id: 'sen-c1',
+  title: 'Letter I: On Saving Time 論珍惜光陰',
+  passages: [
+    {
+      id: 's1-1',
+      title: '繼續咁做,盧齊利烏斯——為咗自己而爭取自由',
+      original: 'Continue to act thus, my dear Lucilius—set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands.',
+      vernacular: '繼續咁樣做落去啦,我親愛嘅盧齊利烏斯——為咗自己而爭取自由;好好收集同儲起你嘅時間,直到最近為止,呢啲時間仲係俾人搶咗去、偷咗去,或者只係由你手上溜走。',
+      vernacularMandarin: '繼續這樣做下去吧,我親愛的盧齊利烏斯——為了自己而爭取自由;好好收集同儲起你的時間,直到最近為止,這些時間還是被人搶走了、偷走了,或者只是從你手上溜走。',
+    },
+    {
+      id: 's1-2',
+      title: '有啲時光係硬搶,有啲係悄悄溜走;但最可恥嘅係因為疏忽而流失',
+      original: 'Make yourself believe the truth of my words,—that certain moments are torn from us, that some are gently removed, and that others glide beyond our reach. The most disgraceful kind of loss, however, is that due to carelessness.',
+      vernacular: '要令自己相信我呢番話係真嘅——有啲時刻係硬生生由我哋身上扯走,有啲就係悄悄咁被取走,重有啲就喺我哋觸及唔到嘅地方溜走。但最可恥嘅損失,係因為疏忽大意而流失嘅時間。',
+      vernacularMandarin: '要令自己相信我這番話是真的——有些時刻是硬生生從我們身上扯走,有些就是悄悄地被取走,還有些就在我們觸及不到的地方溜走。但最可恥的損失,是因為疏忽大意而流失的時間。',
+    },
+    {
+      id: 's1-3',
+      title: '人生大部分時間都花喺做壞事、做冇意義嘅事、做無關重要嘅事',
+      original: 'Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose.',
+      vernacular: '再者,如果你認真審視呢個問題,你就會發現,我哋人生最大部分嘅時間,都係喺做壞事嗰陣度過;好大一部分,係喺乜都冇做嗰陣度過;而全部嘅時間,都係喺做啲同目標無關嘅事嗰陣度過。',
+      vernacularMandarin: '再者,如果你認真審視這個問題,你就會發現,我們人生最大部分的時間,都是在做壞事的時候度過;很大一部分,是在甚麼都沒做的時候度過;而全部的時間,都是在做些同目標無關的事的時候度過。',
+    },
+    {
+      id: 's1-4',
+      title: '有邊個真正珍惜時間、明白自己每日都喺死緊?',
+      original: 'What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death’s hands.',
+      vernacular: '你可以指俾我睇,邊個真係珍惜自己嘅時間、計算每一日嘅價值、明白自己其實每一日都喺死緊呢?因為我哋成日誤以為死亡仲遠喺前頭;其實死亡嘅大部分,已經過去咗。凡係喺我哋身後嘅歲月,都已經歸死亡所有。',
+      vernacularMandarin: '你可以指給我看,誰真的珍惜自己的時間、計算每一日的價值、明白自己其實每一日都在死著呢?因為我們常常誤以為死亡還遠在前頭;其實死亡的大部分,已經過去了。凡是在我們身後的歲月,都已經歸死亡所有。',
+    },
+    {
+      id: 's1-5',
+      title: '所以要緊握每一個鐘頭,做好今日嘅事,唔好靠聽日',
+      original: 'Therefore, Lucilius, do as you write me that you are doing: hold every hour in your grasp. Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by.',
+      vernacular: '所以,盧齊利烏斯,要好似你信入面講嘅咁樣去做:緊握住每一個鐘頭。做好今日嘅事,你就唔使咁依賴聽日嘅事。我哋一路拖延,人生就一路飛逝。',
+      vernacularMandarin: '所以,盧齊利烏斯,要好似你信裡講的那樣去做:緊握住每一個鐘頭。做好今日的事,你就不用這麼依賴明日的事。我們一路拖延,人生就一路飛逝。',
+    },
+    {
+      id: 's1-6',
+      title: '除咗時間,冇一樣嘢真正屬於我哋',
+      original: 'Nothing, Lucilius, is ours, except time. We were entrusted by nature with the ownership of this single thing, so fleeting and slippery that anyone who will can oust us from possession.',
+      vernacular: '盧齊利烏斯,除咗時間,冇一樣嘢真正屬於我哋。自然將呢一樣咁飄忽、咁滑不溜手嘅嘢託付俾我哋,任何有心嘅人都可以將佢由我哋手上奪走。',
+      vernacularMandarin: '盧齊利烏斯,除了時間,沒有一樣東西真正屬於我們。自然把這一樣如此飄忽、如此滑不溜手的東西託付給我們,任何有心的人都可以把它從我們手上奪走。',
+    },
+    {
+      id: 's1-7',
+      title: '世人幾咁傻!對最廉價嘅嘢斤斤計較,對最珍貴嘅時間卻毫不在意',
+      original: 'What fools these mortals be! They allow the cheapest and most useless things, which can easily be replaced, to be charged in the reckoning, after they have acquired them; but they never regard themselves as in debt when they have received some of that precious commodity,—time! And yet time is the one loan which even a grateful recipient cannot repay.',
+      vernacular: '凡人幾咁傻呀!佢哋一攞到手,就會將最廉價、最冇用、隨時可以補返嘅嘢計得清清楚楚;但當佢哋領受咗最珍貴嘅嘢——時間——嗰陣,卻從來唔覺得自己欠咗債!但時間,恰恰係就算再感恩嘅人都無法償還嘅一筆借貸。',
+      vernacularMandarin: '凡人多麼傻啊!他們一拿到手,就會把最廉價、最沒用、隨時可以補回的東西算得清清楚楚;但當他們領受了最珍貴的東西——時間——的時候,卻從來不覺得自己欠了債!但時間,恰恰是就算再感恩的人都無法償還的一筆借貸。',
+    },
+    {
+      id: 's1-8',
+      title: '你可能想知,我呢個成日教訓你嘅人,自己又做成點',
+      original: 'You may desire to know how I, who preach to you so freely, am practising. I confess frankly: my expense account balances, as you would expect from one who is free-handed but careful.',
+      vernacular: '你可能想知道,我呢個咁自由咁教訓你嘅人,自己身體力行又做成點呢?我坦白同你講:我嘅收支係平衡嘅,正如你會由一個慷慨但謹慎嘅人身上所預期嘅咁。',
+      vernacularMandarin: '你可能想知道,我這個這麼自由地教訓你的人,自己身體力行又做成怎樣呢?我坦白告訴你:我的收支是平衡的,正如你會從一個慷慨但謹慎的人身上所預期的那樣。',
+    },
+    {
+      id: 's1-9',
+      title: '我唔敢話自己冇浪費過,但至少可以話俾你知浪費咗啲乜、點解會浪費',
+      original: 'I cannot boast that I waste nothing, but I can at least tell you what I am wasting, and the cause and manner of the loss; I can give you the reasons why I am a poor man. My situation, however, is the same as that of many who are reduced to slender means through no fault of their own: every one forgives them, but no one comes to their rescue.',
+      vernacular: '我唔敢誇口話自己乜都冇浪費,但我至少可以話俾你知,我浪費咗啲乜、原因係咩、方式又係點;我可以話俾你知我點解會咁窮。但我嘅處境,同好多因為非自己過錯而陷入拮据嘅人一樣:人人都原諒佢哋,但冇一個會出手相救。',
+      vernacularMandarin: '我不敢誇口說自己甚麼都沒浪費,但我至少可以告訴你,我浪費了些甚麼、原因是甚麼、方式又是怎樣;我可以告訴你我為甚麼會這麼窮。但我的處境,同很多因為非自己過錯而陷入拮据的人一樣:人人都原諒他們,但沒有一個會出手相救。',
+    },
+    {
+      id: 's1-10',
+      title: '咁到底而家嘅情況係點?只要餘低嘅仍然夠用,我就唔會當佢窮',
+      original: 'What is the state of things, then? It is this: I do not regard a man as poor, if the little which remains is enough for him.',
+      vernacular: '咁樣,而家嘅情況到底係點呢?就係咁樣:我唔會將一個人視為貧窮,只要佢餘低嘅一啲仍然夠佢用。',
+      vernacularMandarin: '這樣,現在的情況到底是怎樣呢?就是這樣:我不會把一個人視為貧窮,只要他餘下的一點仍然夠他用。',
+    },
+    {
+      id: 's1-11',
+      title: '但我勸你,要守住真正屬於你嘅嘢,越早開始越好;桶到見底就慳唔切喇',
+      original: 'I advise you, however, to keep what is really yours; and you cannot begin too early. For, as our ancestors believed, it is too late to spare when you reach the dregs of the cask. Of that which remains at the bottom, the amount is slight, and the quality is vile. Farewell.',
+      vernacular: '但我勸你,要好好守住真正屬於你自己嘅嘢;而呢件事,你越早開始越好。因為正如我哋祖先所信奉嘅咁,等到酒桶見底先至慳,已經太遲。桶底剩返嘅嗰啲,份量既少,質素又劣。珍重。',
+      vernacularMandarin: '但我勸你,要好好守住真正屬於你自己的東西;而這件事,你越早開始越好。因為正如我們祖先所信奉的那樣,等到酒桶見底才省,已經太遲。桶底剩下的那些,份量既少,質素又劣。珍重。',
+    },
+  ],
+};

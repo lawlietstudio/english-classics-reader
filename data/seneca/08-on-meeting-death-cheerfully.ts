@@ -1,0 +1,85 @@
+import { Chapter } from '../types';
+
+export const onMeetingDeathCheerfully: Chapter = {
+  id: 'sen-c8',
+  title: 'Letter LXI: On Meeting Death Cheerfully 論欣然面對死亡',
+  passages: [
+    {
+      id: 's8-1',
+      title: '等我哋停止渴求以前渴求嘅嘢啦——我步入晚年,已經停止渴求細路嗰陣所渴求嘅',
+      original: 'Let us cease to desire that which we have been desiring. I, at least, am doing this: in my old age I have ceased to desire what I desired when a boy.',
+      vernacular: '等我哋停止渴求我哋一直以嚟所渴求嘅嘢啦。至少我自己就係咁做嘅:步入晚年之後,我已經停止渴求細路仔嗰陣所渴求嘅嘢。',
+      vernacularMandarin: '讓我們停止渴求我們一直以來所渴求的東西吧。至少我自己就是這樣做的:步入晚年之後,我已經停止渴求小時候所渴求的東西。',
+    },
+    {
+      id: 's8-2',
+      title: '我嘅日日夜夜都用嚟做一件事——終結我長年累積嘅弊病',
+      original: 'To this single end my days and my nights are passed; this is my task, this the object of my thoughts,—to put an end to my chronic ills.',
+      vernacular: '我嘅每日每夜,都只係為咗呢個單一嘅目標而度過;呢個就係我嘅任務,呢個就係我思緒所繫嘅嘢——就係要終結我長年累積落嚟嘅弊病。',
+      vernacularMandarin: '我的每日每夜,都只是為了這個單一的目標而度過;這個就是我的任務,這個就是我思緒所繫的東西——就是要終結我長年累積下來的弊病。',
+    },
+    {
+      id: 's8-3',
+      title: '我努力將每一日都當做完整嘅一生咁去活;唔係好似最後一日咁匆忙抓緊,而係好似佢隨時可能係最後一日咁對待',
+      original: 'I am endeavouring to live every day as if it were a complete life. I do not indeed snatch it up as if it were my last; I do regard it, however, as if it might even be my last.',
+      vernacular: '我努力將每一日,都當做完整嘅一生咁樣去度過。我唔係好似對住人生最後一日咁樣去匆匆忙忙地抓緊佢;但我確實會將佢當做隨時可能係最後一日咁樣去對待。',
+      vernacularMandarin: '我努力把每一日,都當作完整的一生那樣去度過。我不是好似對著人生最後一日那樣去匆匆忙忙地抓緊它;但我確實會把它當作隨時可能是最後一日那樣去對待。',
+    },
+    {
+      id: 's8-4',
+      title: '我寫呢封信俾你,心入面就抱住呢個念頭——就好似死亡即將喺我寫緊信嘅呢一刻嚟召喚我咁',
+      original: 'The present letter is written to you with this in mind,—as if death were about to call me away in the very act of writing.',
+      vernacular: '我寫呢封信俾你嗰陣,心入面就係抱住呢個念頭——好似死亡即將喺我落筆嘅呢一刻嚟召喚我離開咁樣。',
+      vernacularMandarin: '我寫這封信給你的時候,心裡就是抱住這個念頭——好似死亡即將在我落筆的這一刻來召喚我離開那樣。',
+    },
+    {
+      id: 's8-5',
+      title: '我已經準備好離去,亦都正正因為我唔會過分焦慮自己離去嘅日期,我先至可以享受人生',
+      original: 'I am ready to depart, and I shall enjoy life just because I am not over-anxious as to the future date of my departure.',
+      vernacular: '我已經準備好離開呢個世界,而正正因為我唔會過分焦慮自己離開嘅日期會喺幾時,我先至可以真正咁享受人生。',
+      vernacularMandarin: '我已經準備好離開這個世界,而正正因為我不會過分焦慮自己離開的日期會在何時,我才可以真正地享受人生。',
+    },
+    {
+      id: 's8-6',
+      title: '未老嗰陣我努力生活得好;而家老咗,我要努力死得好——死得好即係死得心甘情願;唔好做任何唔情願嘅事',
+      original: 'Before I became old I tried to live well; now that I am old, I shall try to die well; but dying well means dying gladly. See to it that you never do anything unwillingly.',
+      vernacular: '喺我未老嗰陣,我努力過生活得好;而家我老咗,我就要努力做到死得好——而死得好,即係死得心甘情願。你要留意,永遠都唔好做任何唔情願嘅事。',
+      vernacularMandarin: '在我未老的時候,我努力過生活得好;現在我老了,我就要努力做到死得好——而死得好,就是死得心甘情願。你要留意,永遠都不要做任何不情願的事。',
+    },
+    {
+      id: 's8-7',
+      title: '如果你反抗,一件必然會發生嘅事就會變成強迫;但如果你心甘情願,佢就唔再係強迫——樂意接受命令,就可以逃過奴役嘅最苦部分',
+      original: 'That which is bound to be a necessity if you rebel, is not a necessity if you desire it. This is what I mean: he who takes his orders gladly, escapes the bitterest part of slavery,—doing what one does not want to do.',
+      vernacular: '一件注定會發生嘅事,如果你反抗佢,就會變成一種強逼;但如果你甘願接受佢,佢就唔再係強逼。我嘅意思係咁:一個心甘情願接受命令嘅人,就可以逃過奴役之中最痛苦嘅部分——即係做自己唔想做嘅事。',
+      vernacularMandarin: '一件注定會發生的事,如果你反抗它,就會變成一種強迫;但如果你甘願接受它,它就不再是強迫。我的意思是這樣:一個心甘情願接受命令的人,就可以逃過奴役之中最痛苦的部分——也就是做自己不想做的事。',
+    },
+    {
+      id: 's8-8',
+      title: '奉命而行嘅人唔係不幸;違背自己意願而行嘅人先至係不幸——我哋要令自己心靈能夠渴求境況所要求嘅一切,坦然面對自己嘅終結',
+      original: 'The man who does something under orders is not unhappy; he is unhappy who does something against his will. Let us therefore so set our minds in order that we may desire whatever is demanded of us by circumstances, and above all that we may reflect upon our end without sadness.',
+      vernacular: '奉命行事嘅人並唔係不幸嘅;真正不幸嘅係違背自己意願而行嘅人。所以我哋應該咁樣調整好自己嘅心靈,令自己可以渴求境況所要求嘅任何嘢,而最重要嘅係,可以坦然、冇悲傷咁去省思自己嘅終結。',
+      vernacularMandarin: '奉命行事的人並不是不幸的;真正不幸的是違背自己意願而行的人。所以我們應該這樣調整好自己的心靈,令自己可以渴求境況所要求的任何東西,而最重要的是,可以坦然、沒有悲傷地去省思自己的終結。',
+    },
+    {
+      id: 's8-9',
+      title: '我哋要喺為生活做好準備之前,先為死亡做好準備;人生本身已經裝備得夠好,但我哋對其中嘅裝備太過貪心,永遠都覺得唔夠',
+      original: 'We must make ready for death before we make ready for life. Life is well enough furnished, but we are too greedy with regard to its furnishings; something always seems to us lacking, and will always seem lacking.',
+      vernacular: '我哋一定要喺為生活做好準備之前,先為死亡做好準備。人生本身其實已經裝備得夠好嘅喇,但我哋對呢啲裝備太過貪心,總係覺得仲欠缺啲乜,而且會一直覺得欠缺落去。',
+      vernacularMandarin: '我們一定要在為生活做好準備之前,先為死亡做好準備。人生本身其實已經裝備得夠好的了,但我們對這些裝備太過貪心,總是覺得還欠缺些甚麼,而且會一直覺得欠缺下去。',
+    },
+    {
+      id: 's8-10',
+      title: '活得夠唔夠耐,唔係取決於年月或者日子,而係取決於我哋嘅心靈',
+      original: 'To have lived long enough depends neither upon our years nor upon our days, but upon our minds.',
+      vernacular: '一個人係咪已經活得夠耐,唔係取決於佢嘅年歲,亦唔係取決於佢嘅日子,而係取決於佢嘅心靈。',
+      vernacularMandarin: '一個人是否已經活得夠久,不是取決於他的年歲,也不是取決於他的日子,而是取決於他的心靈。',
+    },
+    {
+      id: 's8-11',
+      title: '我親愛嘅盧齊利烏斯,我已經活得夠耐,我已經心滿意足;我而家等待住死亡',
+      original: 'I have lived, my dear friend Lucilius, long enough. I have had my fill; I await death. Farewell.',
+      vernacular: '我親愛嘅朋友盧齊利烏斯,我已經活得夠耐喇。我已經心滿意足;我而家喺度等待住死亡嘅來臨。珍重。',
+      vernacularMandarin: '我親愛的朋友盧齊利烏斯,我已經活得夠久了。我已經心滿意足;我現在在等待著死亡的來臨。珍重。',
+    },
+  ],
+};

@@ -1,0 +1,92 @@
+import { Chapter } from '../types';
+
+export const onDiscursivenessInReading: Chapter = {
+  id: 'sen-c2',
+  title: 'Letter II: On Discursiveness in Reading 論博覽群書嘅通病',
+  passages: [
+    {
+      id: 's2-1',
+      title: '睇你封信同聽到嘅消息,我對你嘅將來有好嘅睇法',
+      original: 'Judging by what you write me, and by what I hear, I am forming a good opinion regarding your future. You do not run hither and thither and distract yourself by changing your abode; for such restlessness is the sign of a disordered spirit.',
+      vernacular: '睇吓你寫俾我嘅信,再聽吓人哋講,我對你嘅將來有一個良好嘅睇法。你唔會呢度走嗰度走、成日搬嚟搬去咁分散自己嘅心神;呢種浮躁不安,正正係心靈失調嘅表現。',
+      vernacularMandarin: '看看你寫給我的信,再聽聽別人講,我對你的將來有一個良好的看法。你不會這裡走那裡走、常常搬來搬去這樣分散自己的心神;這種浮躁不安,正正是心靈失調的表現。',
+    },
+    {
+      id: 's2-2',
+      title: '心靈有條理嘅首要標誌,就係識得留守一處,同自己嘅陪伴相處',
+      original: 'The primary indication, to my thinking, of a well-ordered mind is a man’s ability to remain in one place and linger in his own company.',
+      vernacular: '我認為,一個心靈井然有序嘅人,首要嘅標誌,就係識得留守一處,識得同自己嘅陪伴好好相處。',
+      vernacularMandarin: '我認為,一個心靈井然有序的人,首要的標誌,就是懂得留守一處,懂得同自己的陪伴好好相處。',
+    },
+    {
+      id: 's2-3',
+      title: '亂咁讀好多唔同作者嘅著作,會令你變得浮泛游離',
+      original: 'Be careful, however, lest this reading of many authors and books of every sort may tend to make you discursive and unsteady. You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind.',
+      vernacular: '但係要小心,唔好因為亂咁讀晒各式各樣嘅作者同書籍,而變得心思紛雜、搖擺不定。如果你想得到真正紮根喺你心中嘅見解,你就要專注喺少數幾位大師嘅作品上面,好好消化佢哋。',
+      vernacularMandarin: '但是要小心,不要因為亂讀了各式各樣的作者同書籍,而變得心思紛雜、搖擺不定。如果你想得到真正紮根在你心中的見解,你就要專注在少數幾位大師的作品上面,好好消化他們。',
+    },
+    {
+      id: 's2-4',
+      title: '去到處處,即係去到冇處——成日出遊嘅人識好多熟人,但冇一個朋友',
+      original: 'Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends. And the same thing must hold true of men who seek intimate acquaintance with no single author, but visit them all in a hasty and hurried manner.',
+      vernacular: '去到處處,即係去到冇處。一個人如果將所有時間都花喺周遊列國,佢最終只會識到好多相識,但冇一個真正嘅朋友。同樣道理,一個人如果唔肯同任何一位作者深交,而只係匆匆忙忙咁逐個逐個拜訪,結果都係一樣。',
+      vernacularMandarin: '去到處處,就是去到無處。一個人如果把所有時間都花在周遊列國,他最終只會認識很多相識,但沒有一個真正的朋友。同樣道理,一個人如果不肯同任何一位作者深交,而只是匆匆忙忙地逐個逐個拜訪,結果都是一樣。',
+    },
+    {
+      id: 's2-5',
+      title: '食物一入口就出返嚟,對身體冇益;藥物頻頻轉,病都醫唔好',
+      original: 'Food does no good and is not assimilated into the body if it leaves the stomach as soon as it is eaten; nothing hinders a cure so much as frequent change of medicine; no wound will heal when one salve is tried after another; a plant which is often moved can never grow strong.',
+      vernacular: '食物如果一入肚就即刻排出嚟,咁就對身體冇任何益處,亦都吸收唔到;冇乜嘢比頻頻轉藥更加阻礙康復;傷口如果一味咁換來換去搽藥膏,永遠都好唔返;植物如果成日搬嚟搬去,就永遠都長唔壯。',
+      vernacularMandarin: '食物如果一入肚就立刻排出來,那就對身體沒有任何益處,也吸收不到;沒有甚麼比頻頻換藥更加阻礙康復;傷口如果一味這樣換來換去搽藥膏,永遠都好不了;植物如果經常搬來搬去,就永遠都長不壯。',
+    },
+    {
+      id: 's2-6',
+      title: '邊有嘢係喺不斷搬動之中都仲有效嘅呢?讀書太多都係一種分心;有幾多書就要讀幾多',
+      original: 'There is nothing so efficacious that it can be helpful while it is being shifted about. And in reading of many books is distraction. Accordingly, since you cannot read all the books which you may possess, it is enough to possess only as many books as you can read.',
+      vernacular: '冇一樣嘢係咁有效,可以喺不斷被搬動嗰陣仍然有幫助。而讀太多唔同嘅書,本身就係一種分心。所以,既然你唔可能讀晒你所擁有嘅每一本書,咁你只需要擁有你讀得完嘅書量就夠。',
+      vernacularMandarin: '沒有一樣東西是這麼有效,可以在不斷被搬動的時候仍然有幫助。而讀太多不同的書,本身就是一種分心。所以,既然你不可能讀完你所擁有的每一本書,那你只需要擁有你讀得完的書量就夠。',
+    },
+    {
+      id: 's2-7',
+      title: '「但我想呢本掀吓、嗰本又掀吓」——好似人揀飲擇食,樣樣試就樣樣都冇滋味',
+      original: '“But,” you reply, “I wish to dip first into one book and then into another.” I tell you that it is the sign of an overnice appetite to toy with many dishes; for when they are manifold and varied, they cloy but do not nourish.',
+      vernacular: '「但係,」你可能會咁樣答我,「我想先掀吓呢本書,再掀吓嗰本。」我話你知,咁樣淺嚐輒止好多本書,正正就係一種挑剔嘅胃口嘅表現;因為當道菜樣樣式式又多變化,結果只會令人吃滯,而唔會滋養身體。',
+      vernacularMandarin: '「但是,」你可能會這樣回答我,「我想先翻一翻這本書,再翻一翻那本。」我告訴你,這樣淺嚐輒止很多本書,正正就是一種挑剔的胃口的表現;因為當菜式樣樣式式又多變化,結果只會令人吃滯,而不會滋養身體。',
+    },
+    {
+      id: 's2-8',
+      title: '要經常讀返經典作家;每日汲取一啲可以抵禦貧窮死亡嘅嘢',
+      original: 'So you should always read standard authors; and when you crave a change, fall back upon those whom you read before. Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes as well; and after you have run over many thoughts, select one to be thoroughly digested that day.',
+      vernacular: '所以你應該經常閱讀公認嘅經典作家;想轉換口味嗰陣,就返去重讀你之前讀過嗰啲。每一日都要汲取一啲可以令你抵禦貧窮、抵禦死亡、甚至抵禦其他各種不幸嘅嘢;喺快速瀏覽過好多諗法之後,揀返一個,喺當日將佢徹底消化。',
+      vernacularMandarin: '所以你應該經常閱讀公認的經典作家;想轉換口味的時候,就回去重讀你之前讀過那些。每一日都要汲取一些可以令你抵禦貧窮、抵禦死亡、甚至抵禦其他各種不幸的東西;在快速瀏覽過很多想法之後,選回一個,在當日將它徹底消化。',
+    },
+    {
+      id: 's2-9',
+      title: '呢個正正係我自己嘅習慣;由所讀嘅眾多嘢入面,揀返一部分屬於自己',
+      original: 'This is my own custom; from the many things which I have read, I claim some one part for myself. The thought for to-day is one which I discovered in Epicurus; for I am wont to cross over even into the enemy’s camp,—not as a deserter, but as a scout.',
+      vernacular: '呢個正正係我自己嘅習慣;由我所讀過嘅眾多嘢入面,我會揀返一部分,真正歸為己有。今日呢個念頭,係我喺伊壁鳩魯嗰度發現嘅——因為我習慣咗連敵方嘅陣營都會踏足,唔係做叛徒,而係做探子。',
+      vernacularMandarin: '這正正是我自己的習慣;由我所讀過的眾多東西裡面,我會選回一部分,真正歸為己有。今日這個念頭,是我在伊壁鳩魯那裡發現的——因為我習慣了連敵方的陣營都會踏足,不是做叛徒,而是做探子。',
+    },
+    {
+      id: 's2-10',
+      title: '伊壁鳩魯話:知足嘅貧窮先至係光榮嘅——貪心先至係真正嘅窮',
+      original: 'He says: “Contented poverty is an honourable estate.” Indeed, if it be contented, it is not poverty at all. It is not the man who has too little, but the man who craves more, that is poor.',
+      vernacular: '佢話:「知足嘅貧窮,係一種光榮嘅境況。」的確,如果真係知足,咁根本就唔算得上係貧窮。真正窮嘅唔係擁有得太少嘅人,而係渴求更多嘅人。',
+      vernacularMandarin: '他說:「知足的貧窮,是一種光榮的境況。」的確,如果真的知足,那根本就不算得上是貧窮。真正窮的不是擁有得太少的人,而是渴求更多的人。',
+    },
+    {
+      id: 's2-11',
+      title: '貪圖鄰居嘅財產、只計掛住未來嘅收穫,再多財富都冇意義',
+      original: 'What does it matter how much a man has laid up in his safe, or in his warehouse, how large are his flocks and how fat his dividends, if he covets his neighbour’s property, and reckons, not his past gains, but his hopes of gains to come?',
+      vernacular: '一個人喺自己保險箱或者倉庫入面積咗幾多財,佢嘅羊群有幾大、股息有幾豐厚,呢啲又有咩相干呢,如果佢仍然貪圖鄰居嘅財產,並且唔計算過去嘅收穫,反而只計算住將來嘅盼望呢?',
+      vernacularMandarin: '一個人在自己保險箱或者倉庫裡面積了多少財,他的羊群有多大、股息有多豐厚,這些又有甚麼相干呢,如果他仍然貪圖鄰居的財產,並且不計算過去的收穫,反而只計算著將來的盼望呢?',
+    },
+    {
+      id: 's2-12',
+      title: '財富嘅適當界限係:首先擁有必需嘅,其次擁有夠用嘅',
+      original: 'Do you ask what is the proper limit to wealth? It is, first, to have what is necessary, and, second, to have what is enough. Farewell.',
+      vernacular: '你問我財富嘅合理界限應該係點呢?就係:第一,擁有必需嘅嘢;第二,擁有夠用嘅嘢。珍重。',
+      vernacularMandarin: '你問我財富的合理界限應該是怎樣呢?就是:第一,擁有必需的東西;第二,擁有夠用的東西。珍重。',
+    },
+  ],
+};
