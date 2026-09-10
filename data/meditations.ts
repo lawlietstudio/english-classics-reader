@@ -7,6 +7,7 @@ import { fifthBook } from './meditations/05-fifth-book';
 import { sixthBook } from './meditations/06-sixth-book';
 import { seventhBook } from './meditations/07-seventh-book';
 import { eighthBook } from './meditations/08-eighth-book';
+import { ninthBook } from './meditations/09-ninth-book';
 
 export const meditations: Book = {
   id: 'meditations',
@@ -14,5 +15,5 @@ export const meditations: Book = {
   author: 'Marcus Aurelius 馬可・奧勒留',
   description:
     '羅馬皇帝馬可・奧勒留(公元121-180年)喺行軍途中寫俾自己睇嘅私人札記,原名《Ta eis heauton》,即「致自己」,係斯多葛哲學嘅經典之作。全書共12卷,原文英文對照廣東話/普通話翻譯。',
-  chapters: [firstBook, secondBook, thirdBook, fourthBook, fifthBook, sixthBook, seventhBook, eighthBook],
+  chapters: [firstBook, secondBook, thirdBook, fourthBook, fifthBook, sixthBook, seventhBook, eighthBook, ninthBook],
 };
