@@ -1,0 +1,190 @@
+import { Chapter } from '../types';
+
+export const declaration: Chapter = {
+  id: 'rom-declaration',
+  title: 'Declaration of the Rights of Man and of the Citizen 人權和公民權宣言',
+  passages: [
+    {
+      id: 'rom-preamble',
+      title: '序言:忽視、遺忘或者輕視人權係公共災禍嘅唯一原因',
+      original:
+        'The representatives of the French people, organized as a National Assembly, believing that the ignorance, neglect, or contempt of the rights of man are the sole cause of public calamities and of the corruption of governments, have determined to set forth in a solemn declaration the natural, unalienable, and sacred rights of man, in order that this declaration, being constantly before all the members of the Social body, shall remind them continually of their rights and duties; in order that the acts of the legislative power, as well as those of the executive power, may be compared at any moment with the objects and purposes of all political institutions and may thus be more respected, and, lastly, in order that the grievances of the citizens, based hereafter upon simple and incontestable principles, shall tend to the maintenance of the constitution and redound to the happiness of all.',
+      vernacular:
+        '法國人民嘅代表,組織成國民議會,認為對人權嘅無知、遺忘或者輕視,係公共災難同政府腐敗嘅唯一原因,因此決定用一份莊嚴嘅宣言,闡明人與生俱來、不可剝奪、神聖嘅權利,等呢份宣言可以不斷擺喺社會全體成員面前,持續提醒佢哋自己嘅權利同義務;等立法權同行政權嘅一切行為,隨時都可以同一切政治制度嘅目標同宗旨互相對照,從而得到更多嘅尊重;最後,等公民嘅訴求,今後都可以建基於簡單而無可爭辯嘅原則之上,從而有助維護憲法,並且為全體人民帶嚟幸福。',
+      vernacularMandarin:
+        '法國人民的代表,組織成國民議會,認為對人權的無知、遺忘或者輕視,是公共災難同政府腐敗的唯一原因,因此決定用一份莊嚴的宣言,闡明人與生俱來、不可剝奪、神聖的權利,讓這份宣言可以不斷擺在社會全體成員面前,持續提醒他們自己的權利同義務;讓立法權同行政權的一切行為,隨時都可以同一切政治制度的目標同宗旨互相對照,從而得到更多的尊重;最後,讓公民的訴求,今後都可以建基於簡單而無可爭辯的原則之上,從而有助維護憲法,並且為全體人民帶來幸福。',
+    },
+    {
+      id: 'rom-1',
+      title: '第一條:人生而自由平等',
+      original: 'Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good.',
+      vernacular: '人生而自由,喺權利上永遠平等。社會嘅差別,淨係可以建基於共同福祉之上。',
+      vernacularMandarin: '人生而自由,在權利上永遠平等。社會的差別,只可以建基於共同福祉之上。',
+    },
+    {
+      id: 'rom-2',
+      title: '第二條:一切政治結合嘅目的都係保存人嘅自然權利',
+      original:
+        'The aim of all political association is the preservation of the natural and imprescriptible rights of man. These rights are liberty, property, security, and resistance to oppression.',
+      vernacular:
+        '一切政治結合嘅目的,都係喺於保存人與生俱來、不可褫奪嘅權利。呢啲權利就係自由、財產、安全,同埋反抗壓迫嘅權利。',
+      vernacularMandarin:
+        '一切政治結合的目的,都在於保存人與生俱來、不可褫奪的權利。這些權利就是自由、財產、安全,同反抗壓迫的權利。',
+    },
+    {
+      id: 'rom-3',
+      title: '第三條:一切主權嘅本源都喺於國民',
+      original:
+        'The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation.',
+      vernacular:
+        '一切主權嘅本原,根本上都存在於國民之中。任何團體、任何個人,都唔可以行使並非直接源自國民嘅權力。',
+      vernacularMandarin:
+        '一切主權的本原,根本上都存在於國民之中。任何團體、任何個人,都不可以行使並非直接源自國民的權力。',
+    },
+    {
+      id: 'rom-4',
+      title: '第四條:自由就係唔傷害他人嘅前提下做任何事',
+      original:
+        'Liberty consists in the freedom to do everything which injures no one else; hence the exercise of the natural rights of each man has no limits except those which assure to the other members of the society the enjoyment of the same rights. These limits can only be determined by law.',
+      vernacular:
+        '自由,就係可以做一切唔傷害到第個人嘅事;因此,每個人行使自然權利嘅限制,就淨係喺確保社會其他成員都可以享受同樣權利呢一點。呢啲限制,只可以由法律嚟決定。',
+      vernacularMandarin:
+        '自由,就是可以做一切不傷害到別人的事;因此,每個人行使自然權利的限制,就只在確保社會其他成員都可以享受同樣權利這一點。這些限制,只可以由法律來決定。',
+    },
+    {
+      id: 'rom-5',
+      title: '第五條:法律只可以禁止對社會有害嘅行為',
+      original:
+        'Law can only prohibit such actions as are hurtful to society. Nothing may be prevented which is not forbidden by law, and no one may be forced to do anything not provided for by law.',
+      vernacular:
+        '法律,只可以禁止對社會有害嘅行為。凡係法律冇禁止嘅事,就唔可以受到阻止;凡係法律冇規定嘅事,就冇人可以被迫去做。',
+      vernacularMandarin:
+        '法律,只可以禁止對社會有害的行為。凡是法律沒有禁止的事,就不可以受到阻止;凡是法律沒有規定的事,就沒有人可以被迫去做。',
+    },
+    {
+      id: 'rom-6',
+      title: '第六條:法律面前人人平等',
+      original:
+        'Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. It must be the same for all, whether it protects or punishes.',
+      vernacular:
+        '法律,係公共意志嘅表現。每個公民都有權親自參與,或者透過代表參與,法律嘅制訂。無論係保護定係懲罰,法律對於所有人都必須一視同仁。',
+      vernacularMandarin:
+        '法律,是公共意志的表現。每個公民都有權親自參與,或者透過代表參與,法律的制訂。無論是保護或者懲罰,法律對於所有人都必須一視同仁。',
+    },
+    {
+      id: 'rom-6b',
+      title: '一切公民,除咗德行同才能嘅分別,一律有平等機會擔任公職',
+      original:
+        'All citizens, being equal in the eyes of the law, are equally eligible to all dignities and to all public positions and occupations, according to their abilities, and without distinction except that of their virtues and talents.',
+      vernacular:
+        '一切公民喺法律面前一律平等,因此都可以憑住自己嘅能力,平等咁擔任一切榮譽職位、公共職務同職業,而唔受任何區別對待,除咗以德行同才能嚟區分之外。',
+      vernacularMandarin:
+        '一切公民在法律面前一律平等,因此都可以憑著自己的能力,平等地擔任一切榮譽職位、公共職務同職業,而不受任何區別對待,除了以德行同才能來區分之外。',
+    },
+    {
+      id: 'rom-7',
+      title: '第七條:任何人非依法律規定唔得被控告、逮捕或者拘禁',
+      original:
+        'No person shall be accused, arrested, or imprisoned except in the cases and according to the forms prescribed by law. Any one soliciting, transmitting, executing, or causing to be executed, any arbitrary order, shall be punished.',
+      vernacular:
+        '除咗喺法律規定嘅情況下、並且依照法律規定嘅程序之外,任何人都唔得被控告、逮捕或者拘禁。凡係請求、發布、執行或者令人執行任何專斷命令嘅人,都應該受到處罰。',
+      vernacularMandarin:
+        '除了在法律規定的情況下、並且依照法律規定的程序之外,任何人都不得被控告、逮捕或者拘禁。凡是請求、發布、執行或者令人執行任何專斷命令的人,都應該受到處罰。',
+    },
+    {
+      id: 'rom-8',
+      title: '第八條:刑罰要嚴格必要,罪刑要法定',
+      original:
+        'The law shall provide for such punishments only as are strictly and obviously necessary, and no one shall suffer punishment except it be legally inflicted in virtue of a law passed and promulgated before the commission of the offense.',
+      vernacular:
+        '法律只可以規定確實同明顯必要嘅刑罰,而且任何人只可以按照犯罪之前已經制訂同公布嘅法律,依法受罰。',
+      vernacularMandarin:
+        '法律只可以規定確實同明顯必要的刑罰,而且任何人只可以按照犯罪之前已經制訂同公布的法律,依法受罰。',
+    },
+    {
+      id: 'rom-9',
+      title: '第九條:未經判罪之前,人人都推定無罪',
+      original:
+        'As all persons are held innocent until they shall have been declared guilty, if arrest shall be deemed indispensable, all harshness not essential to the securing of the prisoner\'s person shall be severely repressed by law.',
+      vernacular:
+        '既然任何人喺未被判罪之前,都應該被推定為無罪,咁如果認為逮捕係必要嘅,凡係為咗控制被捕者人身以外嘅一切過度嚴苛做法,都應該受到法律嚴厲鎮壓。',
+      vernacularMandarin:
+        '既然任何人在未被判罪之前,都應該被推定為無罪,那如果認為逮捕是必要的,凡是為了控制被捕者人身以外的一切過度嚴苛做法,都應該受到法律嚴厲鎮壓。',
+    },
+    {
+      id: 'rom-10',
+      title: '第十條:任何人唔應該因為自己嘅見解而受到干擾',
+      original:
+        'No one shall be disquieted on account of his opinions, including his religious views, provided their manifestation does not disturb the public order established by law.',
+      vernacular:
+        '任何人都唔應該因為自己嘅見解——包括宗教見解——而受到干擾,只要呢啲見解嘅表達冇擾亂法律所確立嘅公共秩序。',
+      vernacularMandarin:
+        '任何人都不應該因為自己的見解——包括宗教見解——而受到干擾,只要這些見解的表達沒有擾亂法律所確立的公共秩序。',
+    },
+    {
+      id: 'rom-11',
+      title: '第十一條:思想同意見嘅自由溝通係人最寶貴嘅權利之一',
+      original:
+        'The free communication of ideas and opinions is one of the most precious of the rights of man. Every citizen may, accordingly, speak, write, and print with freedom, but shall be responsible for such abuses of this freedom as shall be defined by law.',
+      vernacular:
+        '思想同意見嘅自由溝通,係人最寶貴嘅權利之一。因此,每個公民都可以自由咁講話、書寫同出版,但係要為法律所定義嘅呢種自由嘅濫用負責。',
+      vernacularMandarin:
+        '思想同意見的自由溝通,是人最寶貴的權利之一。因此,每個公民都可以自由地講話、書寫同出版,但是要為法律所定義的這種自由的濫用負責。',
+    },
+    {
+      id: 'rom-12',
+      title: '第十二條:公共武力係為咗全民福祉而設立',
+      original:
+        'The security of the rights of man and of the citizen requires public military forces. These forces are, therefore, established for the good of all and not for the personal advantage of those to whom they shall be intrusted.',
+      vernacular:
+        '保障人權同公民權,需要公共武力。所以,呢啲武力嘅設立係為咗全體人民嘅福祉,而唔係為咗畀托付呢啲武力嘅人謀取私人利益。',
+      vernacularMandarin:
+        '保障人權同公民權,需要公共武力。所以,這些武力的設立是為了全體人民的福祉,而不是為了給托付這些武力的人謀取私人利益。',
+    },
+    {
+      id: 'rom-13',
+      title: '第十三條:公共稅款要按能力比例分擔',
+      original:
+        'A common contribution is essential for the maintenance of the public forces and for the cost of administration. This should be equitably distributed among all the citizens in proportion to their means.',
+      vernacular:
+        '維持公共武力同行政開支,都需要共同嘅稅款。呢啲稅款應該按照全體公民各自嘅能力,公平咁分攤。',
+      vernacularMandarin:
+        '維持公共武力同行政開支,都需要共同的稅款。這些稅款應該按照全體公民各自的能力,公平地分攤。',
+    },
+    {
+      id: 'rom-14',
+      title: '第十四條:公民有權決定稅款嘅必要性同用途',
+      original:
+        'All the citizens have a right to decide, either personally or by their representatives, as to the necessity of the public contribution; to grant this freely; to know to what uses it is put; and to fix the proportion, the mode of assessment and of collection and the duration of the taxes.',
+      vernacular:
+        '全體公民都有權——親自或者透過代表——去決定公共稅款嘅必要性;自願咁批准徵稅;知悉稅款嘅用途;並且訂定稅率、徵收方式,同埋徵稅嘅期限。',
+      vernacularMandarin:
+        '全體公民都有權——親自或者透過代表——去決定公共稅款的必要性;自願地批准徵稅;知悉稅款的用途;並且訂定稅率、徵收方式,同徵稅的期限。',
+    },
+    {
+      id: 'rom-15',
+      title: '第十五條:社會有權向公職人員問責',
+      original: 'Society has the right to require of every public agent an account of his administration.',
+      vernacular: '社會有權要求每一位公職人員,交代自己嘅施政情況。',
+      vernacularMandarin: '社會有權要求每一位公職人員,交代自己的施政情況。',
+    },
+    {
+      id: 'rom-16',
+      title: '第十六條:冇分權、冇保障權利就冇憲法',
+      original:
+        'A society in which the observance of the law is not assured, nor the separation of powers defined, has no constitution at all.',
+      vernacular: '任何社會,如果冇確保法律得到遵守,又冇明確劃分權力分立,咁就根本冇憲法可言。',
+      vernacularMandarin: '任何社會,如果沒有確保法律得到遵守,又沒有明確劃分權力分立,那就根本沒有憲法可言。',
+    },
+    {
+      id: 'rom-17',
+      title: '第十七條:財產係神聖不可侵犯嘅權利',
+      original:
+        'Since property is an inviolable and sacred right, no one shall be deprived thereof except where public necessity, legally determined, shall clearly demand it, and then only on condition that the owner shall have been previously and equitably indemnified.',
+      vernacular:
+        '既然財產係一種神聖不可侵犯嘅權利,除非有依法認定嘅公共需要明確咁要求,任何人嘅財產都唔得被剝奪;而且即使咁樣,亦都必須事先俾予公平嘅補償先可以進行。',
+      vernacularMandarin:
+        '既然財產是一種神聖不可侵犯的權利,除非有依法認定的公共需要明確地要求,任何人的財產都不得被剝奪;而且即使這樣,也必須事先給予公平的補償才可以進行。',
+    },
+  ],
+};
