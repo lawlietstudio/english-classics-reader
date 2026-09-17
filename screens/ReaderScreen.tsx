@@ -1,6 +1,7 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Modal, Platform, Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
 import * as Speech from 'expo-speech';
+import { setAudioModeAsync } from 'expo-audio';
 import { Chapter, Passage } from '../data/types';
 import { FONT_SIZE_VALUES, useReaderPrefs } from '../hooks/useReaderPrefs';
 import { SpeechLang } from '../hooks/useSpeechLang';
@@ -162,6 +163,21 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     };
   }, [chapter.id, clearWatchdog, clearBgWatchdog, stopKeepAlive]);
 
+  // On native platforms, this is the real fix for screen-lock playback: it configures the
+  // app's shared AVAudioSession (iOS) / audio focus (Android) for background playback, which
+  // `useApplicationAudioSession: true` below then tells the speech synthesizer to use instead
+  // of its own short-lived session. Requires the `expo-audio` config plugin's
+  // `enableBackgroundPlayback` (adds the `audio` UIBackgroundMode) and a native rebuild — it
+  // has no effect on web, where the keep-alive/watchdog approach above is the only option.
+  useEffect(() => {
+    if (Platform.OS === 'web') return;
+    setAudioModeAsync({
+      playsInSilentMode: true,
+      shouldPlayInBackground: true,
+      interruptionMode: 'doNotMix',
+    }).catch(() => {});
+  }, []);
+
   const vernacularFor = useCallback(
     (passage: Passage) =>
       lang === 'zh-CN' && passage.vernacularMandarin ? passage.vernacularMandarin : passage.vernacular,
@@ -182,6 +198,10 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
         language: speechLang,
         voice: voiceId,
         rate,
+        // Tells AVSpeechSynthesizer to use the app's own AVAudioSession (configured for
+        // background playback above via expo-audio) instead of managing a short-lived one
+        // of its own, which is what actually lets speech continue with the screen locked.
+        ...(Platform.OS === 'ios' ? { useApplicationAudioSession: true } : null),
         onStart: () => {
           setPlayingPassageId(passage.id);
           pausedRef.current = false;
