@@ -62,6 +62,18 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
   const activePassageIdRef = useRef<string | null>(null);
   const pendingOnEndRef = useRef<(() => void) | null>(null);
   const watchdogRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  // iOS Safari/Chrome (both WebKit) heavily throttle a locked-screen tab's JavaScript unless
+  // the tab is recognised as actively playing media — otherwise the utterance's completion
+  // event can arrive very late or never, silently stalling chapter auto-advance. Holding an
+  // actually-playing (silent) audio graph open for the duration of chapter playback, plus a
+  // Media Session registration, is what earns that background-audio allowance.
+  const keepAliveRef = useRef<{ stop: () => void } | null>(null);
+  const bgWatchdogRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  // Media Session action handlers are registered once per `startKeepAlive()` call but need to
+  // invoke whichever handler closure is current (they capture `isPaused` etc.), hence indirection
+  // through refs kept up to date below rather than calling `handlePauseResume`/`handleStop` directly.
+  const handlePauseResumeRef = useRef<(() => void) | null>(null);
+  const handleStopRef = useRef<(() => void) | null>(null);
   // The original text here is always English; only the vernacular (Cantonese/Mandarin)
   // reading uses the app-wide `lang` toggle. Which voice pool to draw from therefore
   // depends on what's about to be read, not just on `lang` alone.
@@ -76,13 +88,79 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     }
   }, []);
 
+  const clearBgWatchdog = useCallback(() => {
+    if (bgWatchdogRef.current != null) {
+      clearInterval(bgWatchdogRef.current);
+      bgWatchdogRef.current = null;
+    }
+  }, []);
+
+  const stopKeepAlive = useCallback(() => {
+    keepAliveRef.current?.stop();
+    keepAliveRef.current = null;
+    if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+      try {
+        (navigator as any).mediaSession.playbackState = 'none';
+      } catch {}
+    }
+  }, []);
+
+  // Must be called from inside a user-gesture handler (the play/pause button), since iOS
+  // requires an AudioContext to be created or resumed synchronously within a tap in order to
+  // actually run rather than stay suspended.
+  const startKeepAlive = useCallback(() => {
+    if (Platform.OS !== 'web' || keepAliveRef.current) return;
+    const AudioCtx =
+      typeof window !== 'undefined' ? (window as any).AudioContext || (window as any).webkitAudioContext : null;
+    if (AudioCtx) {
+      try {
+        const ctx = new AudioCtx();
+        const buffer = ctx.createBuffer(1, ctx.sampleRate, ctx.sampleRate); // 1s of silence
+        const source = ctx.createBufferSource();
+        source.buffer = buffer;
+        source.loop = true;
+        source.connect(ctx.destination);
+        source.start(0);
+        if (ctx.state === 'suspended') ctx.resume();
+        keepAliveRef.current = {
+          stop: () => {
+            try {
+              source.stop();
+            } catch {}
+            try {
+              ctx.close();
+            } catch {}
+          },
+        };
+      } catch {
+        keepAliveRef.current = null;
+      }
+    }
+    if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+      try {
+        const ms: any = (navigator as any).mediaSession;
+        ms.metadata = new (window as any).MediaMetadata({ title: chapter.title, artist: bookTitle });
+        ms.playbackState = 'playing';
+        ms.setActionHandler('play', () => {
+          if (supportsPauseResume) handlePauseResumeRef.current?.();
+        });
+        ms.setActionHandler('pause', () => {
+          if (supportsPauseResume) handlePauseResumeRef.current?.();
+        });
+        ms.setActionHandler('stop', () => handleStopRef.current?.());
+      } catch {}
+    }
+  }, [bookTitle, chapter.title, supportsPauseResume]);
+
   useEffect(() => {
     return () => {
       stopRequestedRef.current = true;
       clearWatchdog();
+      clearBgWatchdog();
+      stopKeepAlive();
       Speech.stop();
     };
-  }, [chapter.id, clearWatchdog]);
+  }, [chapter.id, clearWatchdog, clearBgWatchdog, stopKeepAlive]);
 
   const vernacularFor = useCallback(
     (passage: Passage) =>
@@ -133,6 +211,10 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
           setPlayingPassageId(null);
           pausedRef.current = false;
           setIsPaused(false);
+          // A single passage erroring out (e.g. the TTS engine hiccupping while the tab is
+          // backgrounded) shouldn't silently kill the rest of chapter playback — skip ahead
+          // instead, matching onDone's behaviour.
+          onEnd?.();
         },
       });
     },
@@ -144,11 +226,13 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
       if (stopRequestedRef.current) return;
       if (index >= chapter.passages.length) {
         setIsPlayingChapter(false);
+        clearBgWatchdog();
+        stopKeepAlive();
         return;
       }
       speakOne(chapter.passages[index], () => playChapterFrom(index + 1));
     },
-    [chapter.passages, speakOne]
+    [chapter.passages, speakOne, clearBgWatchdog, stopKeepAlive]
   );
 
   const handlePlayChapter = () => {
@@ -156,12 +240,15 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     setIsPlayingChapter(true);
     pausedRef.current = false;
     setIsPaused(false);
+    startKeepAlive();
     playChapterFrom(0);
   };
 
   const handleStop = () => {
     stopRequestedRef.current = true;
     clearWatchdog();
+    clearBgWatchdog();
+    stopKeepAlive();
     activePassageIdRef.current = null;
     pendingOnEndRef.current = null;
     Speech.stop();
@@ -170,6 +257,7 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     pausedRef.current = false;
     setIsPaused(false);
   };
+  handleStopRef.current = handleStop;
 
   const handlePlayFrom = (passage: Passage) => {
     const index = chapter.passages.findIndex((p) => p.id === passage.id);
@@ -183,6 +271,7 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     pausedRef.current = false;
     setIsPaused(false);
     setIsPlayingChapter(true);
+    startKeepAlive();
     playChapterFrom(index);
   };
 
@@ -221,6 +310,40 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
       Speech.pause();
     }
   }, [clearWatchdog, isPaused]);
+  handlePauseResumeRef.current = handlePauseResume;
+
+  // Defense in depth for the case above: even with the keep-alive audio graph and Media
+  // Session registered, some browser/OS combinations still drop the utterance's completion
+  // event specifically while the tab is hidden (screen locked or app backgrounded). While
+  // hidden and mid-chapter, poll the engine directly and manually advance if it has gone idle
+  // without onDone/onError having cleared the in-flight passage. This mirrors the existing
+  // pause/resume watchdog above, but is scoped to backgrounding rather than a manual resume.
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
+    const handleVisibilityChange = () => {
+      if (document.hidden) {
+        if (!isPlayingChapter || pausedRef.current) return;
+        clearBgWatchdog();
+        bgWatchdogRef.current = setInterval(() => {
+          const watchedPassageId = activePassageIdRef.current;
+          if (watchedPassageId == null) return;
+          Speech.isSpeakingAsync().then((speaking) => {
+            if (speaking || activePassageIdRef.current !== watchedPassageId) return;
+            clearBgWatchdog();
+            const onEnd = pendingOnEndRef.current;
+            activePassageIdRef.current = null;
+            pendingOnEndRef.current = null;
+            setPlayingPassageId(null);
+            onEnd?.();
+          });
+        }, 1000);
+      } else {
+        clearBgWatchdog();
+      }
+    };
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    return () => document.removeEventListener('visibilitychange', handleVisibilityChange);
+  }, [isPlayingChapter, clearBgWatchdog]);
 
   const adjustRate = (delta: number) => {
     setRate((r) => r + delta);
