@@ -1,5 +1,17 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { Modal, Platform, Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
+import {
+  Animated,
+  Dimensions,
+  Modal,
+  PanResponder,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Switch,
+  Text,
+  View,
+} from 'react-native';
 import * as Speech from 'expo-speech';
 import { setAudioModeAsync } from 'expo-audio';
 import { Chapter, Passage } from '../data/types';
@@ -34,9 +46,22 @@ type Props = {
   onChangeLang: (lang: SpeechLang) => void;
   onBack: () => void;
   colors: ThemeColors;
+  // Undefined when there's no neighbouring chapter (first/last in the book) — swiping in that
+  // direction rubber-bands back to centre instead of navigating.
+  onPrevChapter?: () => void;
+  onNextChapter?: () => void;
 };
 
-export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, onBack, colors }: Props) {
+export default function ReaderScreen({
+  bookTitle,
+  chapter,
+  lang,
+  onChangeLang,
+  onBack,
+  colors,
+  onPrevChapter,
+  onNextChapter,
+}: Props) {
   const {
     textSource,
     toggleTextSource,
@@ -369,6 +394,65 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
     setRate((r) => r + delta);
   };
 
+  // Swipe-to-change-chapter, similar to SwiftUI's page-style TabView: drag horizontally to
+  // preview the transition, release past a distance/velocity threshold to commit it, otherwise
+  // spring back. At the first/last chapter (no handler for that direction) the drag is heavily
+  // damped so it still moves a little (rubber-band feedback) but never actually navigates.
+  const screenWidth = Dimensions.get('window').width;
+  const translateX = useRef(new Animated.Value(0)).current;
+  const SWIPE_COMMIT_DISTANCE = 70;
+  const SWIPE_COMMIT_VELOCITY = 0.5;
+  // The PanResponder's callbacks below are created once (via the useRef further down) and would
+  // otherwise close over the `onPrevChapter`/`onNextChapter` props from that first render only;
+  // refs let them always see the current chapter's neighbours as the user navigates.
+  const onPrevChapterRef = useRef(onPrevChapter);
+  onPrevChapterRef.current = onPrevChapter;
+  const onNextChapterRef = useRef(onNextChapter);
+  onNextChapterRef.current = onNextChapter;
+  const panResponder = useRef(
+    PanResponder.create({
+      onStartShouldSetPanResponder: () => false,
+      onMoveShouldSetPanResponder: (_evt, gestureState) =>
+        Math.abs(gestureState.dx) > 12 && Math.abs(gestureState.dx) > Math.abs(gestureState.dy) * 1.5,
+      onPanResponderMove: (_evt, gestureState) => {
+        const movingToNext = gestureState.dx < 0;
+        const hasTarget = movingToNext ? !!onNextChapterRef.current : !!onPrevChapterRef.current;
+        translateX.setValue(hasTarget ? gestureState.dx : gestureState.dx * 0.3);
+      },
+      onPanResponderRelease: (_evt, gestureState) => {
+        const movingToNext = gestureState.dx < 0;
+        const target = movingToNext ? onNextChapterRef.current : onPrevChapterRef.current;
+        const committed =
+          !!target &&
+          (Math.abs(gestureState.dx) > SWIPE_COMMIT_DISTANCE ||
+            Math.abs(gestureState.vx) > SWIPE_COMMIT_VELOCITY);
+        if (committed) {
+          Animated.timing(translateX, {
+            toValue: movingToNext ? -screenWidth : screenWidth,
+            duration: 220,
+            useNativeDriver: Platform.OS !== 'web',
+          }).start(() => {
+            translateX.setValue(0);
+            target!();
+          });
+        } else {
+          Animated.spring(translateX, {
+            toValue: 0,
+            useNativeDriver: Platform.OS !== 'web',
+            bounciness: 8,
+          }).start();
+        }
+      },
+      onPanResponderTerminate: () => {
+        Animated.spring(translateX, {
+          toValue: 0,
+          useNativeDriver: Platform.OS !== 'web',
+          bounciness: 8,
+        }).start();
+      },
+    })
+  ).current;
+
   return (
     <View style={styles.container}>
       <View style={styles.topBar}>
@@ -444,7 +528,11 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
         </Text>
       )}
 
-      <ScrollView style={styles.scroll} contentContainerStyle={styles.scrollContent}>
+      <Animated.View
+        style={[styles.scroll, { transform: [{ translateX }] }]}
+        {...panResponder.panHandlers}
+      >
+      <ScrollView style={styles.scrollInner} contentContainerStyle={styles.scrollContent}>
         {chapter.passages.map((passage) => {
           const active = playingPassageId === passage.id;
           return (
@@ -483,6 +571,7 @@ export default function ReaderScreen({ bookTitle, chapter, lang, onChangeLang, o
           );
         })}
       </ScrollView>
+      </Animated.View>
 
       <Modal
         visible={voicePickerOpen}
@@ -570,7 +659,16 @@ const createStyles = (c: ThemeColors, passageFontSize: number) =>
     switchRow: { flexDirection: 'row', alignItems: 'center', marginLeft: 'auto', gap: 8 },
     switchLabel: { fontSize: 13, color: c.textMuted },
     hint: { fontSize: 11, color: c.accent, paddingHorizontal: 20, marginTop: 8 },
-    scroll: { flex: 1, marginTop: 16 },
+    scroll: {
+      flex: 1,
+      marginTop: 16,
+      // Without this, a desktop mouse-drag (or a touch-drag that starts on selectable text)
+      // triggers the browser's native text-selection instead of the swipe-to-change-chapter
+      // gesture. Native iOS/Android are unaffected since there's no text-selection concept
+      // competing with the responder there.
+      ...(Platform.OS === 'web' ? ({ userSelect: 'none' } as any) : null),
+    },
+    scrollInner: { flex: 1 },
     scrollContent: { paddingHorizontal: 20, paddingBottom: 60 },
     passageCard: {
       backgroundColor: c.surface,

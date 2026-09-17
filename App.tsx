@@ -87,8 +87,11 @@ export default function App() {
       {view.screen === 'reader' &&
         (() => {
           const book = getBook(view.bookId);
-          const chapter = book?.chapters.find((c) => c.id === view.chapterId);
+          const chapterIndex = book?.chapters.findIndex((c) => c.id === view.chapterId) ?? -1;
+          const chapter = book && chapterIndex >= 0 ? book.chapters[chapterIndex] : undefined;
           if (!book || !chapter) return null;
+          const prevChapter = book.chapters[chapterIndex - 1];
+          const nextChapter = book.chapters[chapterIndex + 1];
           return (
             <ReaderScreen
               bookTitle={book.title}
@@ -103,6 +106,8 @@ export default function App() {
                     : { screen: 'chapters', bookId: view.bookId }
                 )
               }
+              onPrevChapter={prevChapter ? () => openChapter(view.bookId, prevChapter.id) : undefined}
+              onNextChapter={nextChapter ? () => openChapter(view.bookId, nextChapter.id) : undefined}
             />
           );
         })()}
