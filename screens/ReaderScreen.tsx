@@ -165,6 +165,17 @@ export default function ReaderScreen({
     scheduleSnap();
   }, [scheduleSnap]);
 
+  // Match the classical reader: keep the spoken passage visible on both a
+  // manual play tap and automatic chapter playback, independently of drag snapping.
+  useEffect(() => {
+    if (playingPassageId == null) return;
+    if (!chapter.passages.some((passage) => passage.id === playingPassageId)) return;
+    const offset = passageOffsetsRef.current[playingPassageId];
+    if (offset == null) return;
+    clearScrollTimer();
+    scrollRef.current?.scrollTo({ y: offset, animated: true });
+  }, [playingPassageId, chapter.passages, clearScrollTimer]);
+
   const clearWatchdog = useCallback(() => {
     if (watchdogRef.current != null) {
       clearInterval(watchdogRef.current);
