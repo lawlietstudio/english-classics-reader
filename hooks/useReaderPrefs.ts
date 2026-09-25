@@ -5,6 +5,7 @@ const TEXT_SOURCE_KEY = 'reader-text-source';
 const SHOW_VERNACULAR_KEY = 'reader-show-vernacular';
 const FONT_SIZE_KEY = 'reader-font-size';
 const RATE_KEY = 'reader-speech-rate';
+const SNAP_SCROLL_KEY = 'reader-snap-scroll';
 
 export type TextSource = 'original' | 'vernacular';
 
@@ -43,6 +44,7 @@ export function useReaderPrefs() {
   const [showVernacular, setShowVernacularState] = useState(true);
   const [fontSize, setFontSizeState] = useState<FontSize>('medium');
   const [rate, setRateState] = useState(DEFAULT_RATE);
+  const [snapScroll, setSnapScrollState] = useState(false);
 
   useEffect(() => {
     AsyncStorage.getItem(TEXT_SOURCE_KEY).then((raw) => {
@@ -57,6 +59,9 @@ export function useReaderPrefs() {
     AsyncStorage.getItem(RATE_KEY).then((raw) => {
       const parsed = raw != null ? Number(raw) : NaN;
       if (!Number.isNaN(parsed)) setRateState(clampRate(parsed));
+    });
+    AsyncStorage.getItem(SNAP_SCROLL_KEY).then((raw) => {
+      if (raw === 'true' || raw === 'false') setSnapScrollState(raw === 'true');
     });
   }, []);
 
@@ -87,6 +92,11 @@ export function useReaderPrefs() {
     });
   }, []);
 
+  const setSnapScroll = useCallback((next: boolean) => {
+    setSnapScrollState(next);
+    AsyncStorage.setItem(SNAP_SCROLL_KEY, String(next)).catch(() => {});
+  }, []);
+
   return {
     textSource,
     setTextSource,
@@ -97,5 +107,7 @@ export function useReaderPrefs() {
     setFontSize,
     rate,
     setRate,
+    snapScroll,
+    setSnapScroll,
   };
 }

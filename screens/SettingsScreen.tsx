@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Platform, Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
 import { SchemeMode, ThemeScheme } from '../hooks/useTheme';
 import { FONT_SIZE_OPTIONS, FONT_SIZE_VALUES, useReaderPrefs } from '../hooks/useReaderPrefs';
 import { Palette, PaletteId, ThemeColors } from '../theme/colors';
@@ -32,7 +32,7 @@ export default function SettingsScreen({
   palettes,
 }: Props) {
   const styles = useMemo(() => createStyles(colors), [colors]);
-  const { fontSize, setFontSize } = useReaderPrefs();
+  const { fontSize, setFontSize, snapScroll, setSnapScroll } = useReaderPrefs();
 
   return (
     <View style={styles.container}>
@@ -115,6 +115,15 @@ export default function SettingsScreen({
         >
           原文同白話都會用呢個大小顯示。
         </Text>
+
+        <Text style={[styles.sectionTitle, styles.sectionTitleSpaced]}>捲動</Text>
+        <View style={styles.switchCard}>
+          <View style={styles.switchCardText}>
+            <Text style={styles.switchCardLabel}>自動貼齊段落</Text>
+            <Text style={styles.hint}>停止捲動之後,自動滑去最近一段嘅頂部。</Text>
+          </View>
+          <Switch value={snapScroll} onValueChange={setSnapScroll} />
+        </View>
       </ScrollView>
     </View>
   );
@@ -172,4 +181,16 @@ const createStyles = (c: ThemeColors) =>
     paletteName: { fontSize: 15, fontWeight: '600', color: c.textPrimary, flex: 1 },
     paletteCheck: { fontSize: 16, color: c.accentStrong, fontWeight: '700' },
     fontPreview: { color: c.textPrimary, marginTop: 12 },
+    switchCard: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      backgroundColor: c.surface,
+      borderRadius: 14,
+      padding: 14,
+      borderWidth: 1,
+      borderColor: c.surfaceBorder,
+      gap: 12,
+    },
+    switchCardText: { flex: 1 },
+    switchCardLabel: { fontSize: 15, fontWeight: '600', color: c.textPrimary, marginBottom: 4 },
   });

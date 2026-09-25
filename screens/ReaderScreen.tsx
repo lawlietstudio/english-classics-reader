@@ -2,7 +2,10 @@ import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import {
   Animated,
   Dimensions,
+  LayoutChangeEvent,
   Modal,
+  NativeScrollEvent,
+  NativeSyntheticEvent,
   PanResponder,
   Platform,
   Pressable,
@@ -70,6 +73,7 @@ export default function ReaderScreen({
     fontSize,
     rate,
     setRate,
+    snapScroll,
   } = useReaderPrefs();
   const hasTranslation = chapter.passages.every((passage) => passage.vernacular.trim().length > 0);
   const textSource = hasTranslation ? preferredTextSource : 'original';
@@ -108,6 +112,58 @@ export default function ReaderScreen({
   const speechLang: EffectiveSpeechLang = textSource === 'original' ? 'en-US' : lang;
   const { voices, voiceId, checked: voiceChecked, selectVoice } = useSpeechVoice(speechLang);
   const [voicePickerOpen, setVoicePickerOpen] = useState(false);
+
+  const scrollRef = useRef<ScrollView>(null);
+  const passageOffsetsRef = useRef<Record<string, number>>({});
+  const lastScrollYRef = useRef(0);
+  const maxScrollYRef = useRef(0);
+  const draggingRef = useRef(false);
+  const scrollEndTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const clearScrollTimer = useCallback(() => {
+    if (scrollEndTimerRef.current != null) {
+      clearTimeout(scrollEndTimerRef.current);
+      scrollEndTimerRef.current = null;
+    }
+  }, []);
+
+  // Cancel work from the previous chapter or preference when navigation changes.
+  useEffect(() => {
+    clearScrollTimer();
+    return clearScrollTimer;
+  }, [chapter.id, snapScroll, clearScrollTimer]);
+
+  const handlePassageLayout = useCallback((id: string, e: LayoutChangeEvent) => {
+    passageOffsetsRef.current[id] = e.nativeEvent.layout.y;
+  }, []);
+
+  const scheduleSnap = useCallback(() => {
+    clearScrollTimer();
+    if (!snapScroll || draggingRef.current) return;
+    scrollEndTimerRef.current = setTimeout(() => {
+      scrollEndTimerRef.current = null;
+      const offsets = chapter.passages
+        .map((passage) => passageOffsetsRef.current[passage.id])
+        .filter((offset): offset is number => offset != null);
+      if (!offsets.length) return;
+      const y = lastScrollYRef.current;
+      const nearest = offsets.reduce((best, offset) =>
+        Math.abs(offset - y) < Math.abs(best - y) ? offset : best
+      );
+      // The last card may not reach the top; clamp to avoid repeated snapping at the bottom.
+      const target = Math.max(0, Math.min(nearest, maxScrollYRef.current));
+      if (Math.abs(target - y) > 1) {
+        scrollRef.current?.scrollTo({ y: target, animated: true });
+      }
+    }, 120);
+  }, [chapter.passages, snapScroll, clearScrollTimer]);
+
+  const handleScroll = useCallback((e: NativeSyntheticEvent<NativeScrollEvent>) => {
+    const { contentOffset, contentSize, layoutMeasurement } = e.nativeEvent;
+    lastScrollYRef.current = contentOffset.y;
+    maxScrollYRef.current = Math.max(0, contentSize.height - layoutMeasurement.height);
+    scheduleSnap();
+  }, [scheduleSnap]);
 
   const clearWatchdog = useCallback(() => {
     if (watchdogRef.current != null) {
@@ -535,11 +591,30 @@ export default function ReaderScreen({
         style={[styles.scroll, { transform: [{ translateX }] }]}
         {...panResponder.panHandlers}
       >
-      <ScrollView style={styles.scrollInner} contentContainerStyle={styles.scrollContent}>
+      <ScrollView
+        key={chapter.id}
+        ref={scrollRef}
+        style={styles.scrollInner}
+        contentContainerStyle={styles.scrollContent}
+        onScroll={handleScroll}
+        scrollEventThrottle={16}
+        onScrollBeginDrag={() => {
+          draggingRef.current = true;
+          clearScrollTimer();
+        }}
+        onScrollEndDrag={() => {
+          draggingRef.current = false;
+          scheduleSnap();
+        }}
+      >
         {chapter.passages.map((passage) => {
           const active = playingPassageId === passage.id;
           return (
-            <View key={passage.id} style={[styles.passageCard, active && styles.passageCardActive]}>
+            <View
+              key={passage.id}
+              style={[styles.passageCard, active && styles.passageCardActive]}
+              onLayout={(e) => handlePassageLayout(passage.id, e)}
+            >
               <View style={styles.passageHeader}>
                 {passage.title ? (
                   <Text style={styles.passageTitle}>{passage.title}</Text>
