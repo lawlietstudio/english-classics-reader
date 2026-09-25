@@ -44,7 +44,7 @@ const createStyles = (c: ThemeColors) =>
       paddingTop: Platform.OS === 'web' ? 24 : 64,
       paddingHorizontal: 20,
     },
-    back: { fontSize: 16, color: c.textSecondary, marginBottom: 12 },
+    back: { fontSize: 16, lineHeight: 24, color: c.textSecondary, marginBottom: 12 },
     header: { fontSize: 26, fontWeight: '700', color: c.textPrimary },
     subheader: { fontSize: 13, color: c.textSecondary, marginTop: 4, marginBottom: 16 },
     list: { paddingBottom: 40 },
@@ -59,6 +59,6 @@ const createStyles = (c: ThemeColors) =>
       justifyContent: 'space-between',
       alignItems: 'center',
     },
-    chapterTitle: { fontSize: 17, fontWeight: '600', color: c.textPrimary },
-    chapterCount: { fontSize: 12, color: c.textSecondary },
+    chapterTitle: { flex: 1, minWidth: 0, marginRight: 12, fontSize: 17, fontWeight: '600', color: c.textPrimary },
+    chapterCount: { flexShrink: 0, fontSize: 12, color: c.textSecondary },
   });

@@ -645,11 +645,20 @@ export default function ReaderScreen({
                       handleStop();
                     }
                   }}
-                  hitSlop={10}
+                  style={styles.passagePlayButton}
+                  accessibilityRole="button"
+                  accessibilityLabel={!active ? '播放段落' : supportsPauseResume ? (isPaused ? '繼續播放' : '暫停播放') : '停止播放'}
                 >
-                  <Text style={styles.playIcon}>
-                    {!active ? '▶' : supportsPauseResume ? (isPaused ? '▶' : '⏸') : '■'}
-                  </Text>
+                  {!active || (supportsPauseResume && isPaused) ? (
+                    <View style={styles.playTriangle} />
+                  ) : supportsPauseResume ? (
+                    <View style={styles.pauseIcon}>
+                      <View style={styles.pauseBar} />
+                      <View style={styles.pauseBar} />
+                    </View>
+                  ) : (
+                    <View style={styles.stopIcon} />
+                  )}
                 </Pressable>
               </View>
               <Text style={styles.originalText}>{passage.original}</Text>
@@ -700,15 +709,15 @@ export default function ReaderScreen({
 
 const createStyles = (c: ThemeColors, passageFontSize: number) =>
   StyleSheet.create({
-    container: { flex: 1, backgroundColor: c.background, paddingTop: Platform.OS === 'web' ? 24 : 56 },
+    container: { flex: 1, backgroundColor: c.background, paddingTop: Platform.OS === 'web' ? 24 : 64 },
     topBar: {
       flexDirection: 'row',
       alignItems: 'center',
       justifyContent: 'space-between',
       paddingHorizontal: 20,
     },
-    back: { fontSize: 16, color: c.textSecondary, width: 60 },
-    topTitle: { fontSize: 15, fontWeight: '600', color: c.textPrimary, flex: 1, textAlign: 'center' },
+    back: { fontSize: 16, lineHeight: 24, color: c.textSecondary, width: 60 },
+    topTitle: { fontSize: 15, lineHeight: 24, fontWeight: '600', color: c.textPrimary, flex: 1, textAlign: 'center' },
     controlsRow: {
       flexDirection: 'row',
       flexWrap: 'wrap',
@@ -719,6 +728,7 @@ const createStyles = (c: ThemeColors, passageFontSize: number) =>
       rowGap: 8,
     },
     pill: {
+      maxWidth: '100%',
       backgroundColor: c.pill,
       paddingHorizontal: 12,
       paddingVertical: 6,
@@ -774,8 +784,30 @@ const createStyles = (c: ThemeColors, passageFontSize: number) =>
       alignItems: 'center',
       marginBottom: 4,
     },
-    passageTitle: { fontSize: 13, fontWeight: '700', color: c.accent },
-    playIcon: { fontSize: 16 },
+    passageTitle: { flex: 1, minWidth: 0, marginRight: 12, fontSize: 13, fontWeight: '700', color: c.accent },
+    passagePlayButton: {
+      width: 44,
+      height: 44,
+      flexShrink: 0,
+      alignItems: 'center',
+      justifyContent: 'center',
+      borderRadius: 22,
+      backgroundColor: c.pill,
+    },
+    playTriangle: {
+      width: 0,
+      height: 0,
+      borderTopWidth: 8,
+      borderBottomWidth: 8,
+      borderLeftWidth: 13,
+      borderTopColor: 'transparent',
+      borderBottomColor: 'transparent',
+      borderLeftColor: c.textPrimary,
+      marginLeft: 3,
+    },
+    pauseIcon: { flexDirection: 'row', gap: 4 },
+    pauseBar: { width: 4, height: 16, backgroundColor: c.textPrimary },
+    stopIcon: { width: 14, height: 14, backgroundColor: c.textPrimary },
     originalText: {
       fontSize: passageFontSize,
       lineHeight: Math.round(passageFontSize * 1.6),
