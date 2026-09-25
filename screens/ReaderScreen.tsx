@@ -63,7 +63,7 @@ export default function ReaderScreen({
   onNextChapter,
 }: Props) {
   const {
-    textSource,
+    textSource: preferredTextSource,
     toggleTextSource,
     showVernacular,
     setShowVernacular,
@@ -71,6 +71,8 @@ export default function ReaderScreen({
     rate,
     setRate,
   } = useReaderPrefs();
+  const hasTranslation = chapter.passages.every((passage) => passage.vernacular.trim().length > 0);
+  const textSource = hasTranslation ? preferredTextSource : 'original';
   const styles = useMemo(() => createStyles(colors, FONT_SIZE_VALUES[fontSize]), [colors, fontSize]);
   const [playingPassageId, setPlayingPassageId] = useState<string | null>(null);
   const [isPlayingChapter, setIsPlayingChapter] = useState(false);
@@ -468,11 +470,12 @@ export default function ReaderScreen({
       <View style={styles.controlsRow}>
         <Pressable
           style={[styles.pill, textSource !== 'vernacular' && styles.pillDim]}
+          disabled={!hasTranslation}
           onPress={() => onChangeLang(lang === 'zh-CN' ? 'zh-HK' : 'zh-CN')}
         >
           <Text style={styles.pillText}>{lang === 'zh-CN' ? '普通話' : '廣東話'}</Text>
         </Pressable>
-        <Pressable style={styles.pill} onPress={toggleTextSource}>
+        <Pressable style={styles.pill} onPress={toggleTextSource} disabled={!hasTranslation}>
           <Text style={styles.pillText}>朗讀:{textSource === 'original' ? '英文' : '中文'}</Text>
         </Pressable>
         {voices.length > 1 && (
@@ -511,8 +514,8 @@ export default function ReaderScreen({
           </Pressable>
         )}
         <View style={styles.switchRow}>
-          <Text style={styles.switchLabel}>顯示中文</Text>
-          <Switch value={showVernacular} onValueChange={setShowVernacular} />
+          <Text style={styles.switchLabel}>{hasTranslation ? '顯示中文' : '暫無中文翻譯'}</Text>
+          <Switch value={hasTranslation && showVernacular} onValueChange={setShowVernacular} disabled={!hasTranslation} />
         </View>
       </View>
 
@@ -564,7 +567,7 @@ export default function ReaderScreen({
                 </Pressable>
               </View>
               <Text style={styles.originalText}>{passage.original}</Text>
-              {showVernacular && (
+              {showVernacular && !!vernacularFor(passage) && (
                 <Text style={styles.vernacularText}>{vernacularFor(passage)}</Text>
               )}
             </View>

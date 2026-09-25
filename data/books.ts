@@ -12,6 +12,7 @@ import { manifesto } from './manifesto';
 import { commonsense } from './commonsense';
 import { onliberty } from './onliberty';
 import { socialcontract } from './socialcontract';
+import { justforfun } from './justforfun';
 
 export const books: Book[] = [
   guofulun,
@@ -27,6 +28,7 @@ export const books: Book[] = [
   commonsense,
   onliberty,
   socialcontract,
+  justforfun,
 ];
 
 export function getBook(id: string): Book | undefined {
