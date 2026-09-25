@@ -36,8 +36,8 @@ def translate(text):
             with urllib.request.urlopen(request, timeout=45) as response:
                 result = json.load(response)
             translated = ''.join(part[0] for part in result[0] if part[0]).strip()
-            if not translated or not re.search(r'[\u3400-\u9fff]', translated):
-                raise ValueError('Translation contains no Chinese text')
+            if not translated:
+                raise ValueError('Translation is empty')
             return translated
         except Exception:
             if attempt == 4:
@@ -45,42 +45,69 @@ def translate(text):
             time.sleep(2 ** attempt)
 
 
+def translate_batch(batch):
+    # Newlines keep each sentence aligned while giving the service nearby context.
+    result = translate('\n'.join(text for _, text in batch))
+    lines = result.splitlines()
+    if len(lines) == len(batch) and all(line.strip() for line in lines):
+        return {key: line.strip() for (key, _), line in zip(batch, lines)}
+    # Never guess alignment if the service merges or splits a line.
+    return {key: translate(text) for key, text in batch}
+
+
 book = json.loads(BOOK.read_text(encoding='utf-8').split('export const justforfun: Book = ', 1)[1].rstrip(';\n'))
 cache = json.loads(CACHE.read_text(encoding='utf-8')) if CACHE.exists() else {}
 passages = [p for c in book['chapters'] for p in c['passages']]
+for passage in passages:
+    if passage['vernacular']:
+        cache[hashlib.sha256(passage['original'].encode()).hexdigest()] = passage['vernacular']
 jobs = {hashlib.sha256(p['original'].encode()).hexdigest(): p['original'] for p in passages}
 CACHE.parent.mkdir(parents=True, exist_ok=True)
 pending = {key: text for key, text in jobs.items() if key not in cache}
 print(f'Translating {len(pending)} passages; {len(jobs) - len(pending)} cached.', flush=True)
+batches, batch, size = [], [], 0
+for key, text in pending.items():
+    if batch and (size + len(text) > 2500 or len(batch) >= 25):
+        batches.append(batch)
+        batch, size = [], 0
+    batch.append((key, text))
+    size += len(text) + 1
+if batch:
+    batches.append(batch)
 with ThreadPoolExecutor(max_workers=4) as pool:
-    futures = {pool.submit(translate, text): key for key, text in pending.items()}
-    for count, future in enumerate(as_completed(futures), 1):
-        cache[futures[future]] = future.result()
+    futures = [pool.submit(translate_batch, batch) for batch in batches]
+    count = 0
+    for future in as_completed(futures):
+        completed = future.result()
+        count += len(completed)
+        cache.update(completed)
         CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding='utf-8')
-        if count % 25 == 0:
-            print(f'{count}/{len(pending)} translated', flush=True)
+        print(f'{count}/{len(pending)} translated', flush=True)
 
 for passage in passages:
     key = hashlib.sha256(passage['original'].encode()).hexdigest()
     passage['vernacular'] = cache[key]
     # Standard written Chinese is shared by both reading voices.
     passage['vernacularMandarin'] = cache[key]
+    if 'dunk-tank' in passage['original']:
+        passage['vernacular'] = '因此，當有人試圖說服他在大型活動上演講，說他的數百萬追隨者至少想親眼見到他本人時，林納斯和氣地提議，改為參加投球落水的募款遊戲。'
+    if passage['original'] == 'So young and already such a health food nut.':
+        passage['vernacular'] = '年紀輕輕就已經是個「健康食品狂熱分子」了。'
+    if passage['original'].startswith('The accidental revolutionary started Linux'):
+        passage['vernacular'] = '這位意外成為革命者的人開始開發 Linux，是因為玩電腦很有趣（而且其他選擇也不太吸引人）。'
+    corrections = {
+        'Now, when somebody "fingers" a machine under Linux, or Unix, they are checking to see who\'s logged on to that machine.': '在 Linux 或 Unix 上，對某台電腦執行 finger 指令，就是查詢誰登入了那台電腦。',
+        "Due to the advent of firewalls, the act of fingering doesn't take place much anymore.": '由於防火牆普及，這種 finger 查詢已不再常見。',
+        "But years ago people would finger another's machine to see if the user had logged on or had read his email.": '但幾年前，人們會用 finger 查詢別人的電腦，看看使用者是否已登入，或有沒有讀過電子郵件。',
+        'So one way for people to figure out the version of the day was to finger my machine.': '所以，人們要查詢當天的版本，其中一種方法就是對我的電腦執行 finger 指令。',
+    }
+    passage['vernacular'] = corrections.get(passage['original'], passage['vernacular'])
+    passage['vernacularMandarin'] = passage['vernacular']
 for chapter in book['chapters']:
     heading, pages = chapter['title'].split(' · PDF ', 1)
     english = heading.split('｜', 1)[0]
     chapter['title'] = f'{english}｜{CHAPTER_TITLES[english]} · PDF {pages}'
-# Reviewed correction: a dunk tank is a fundraising game, not basketball.
-for passage in passages:
-    if passage['id'] == 'jff-p8-1':
-        passage['vernacular'] = '推動了這場革命，而且實際上成了它的領袖。問題是，Linux 和開放原始碼越成功，他就越不想談論它。這位意外成為革命者的人開始開發 Linux，是因為玩電腦很有趣（而且其他選擇也不太吸引人）。有人試圖說服他在一場大型活動上演講，說他的數百萬追隨者只是想親眼見見他本人。林納斯便和氣地提議，改為參加投球落水的募款遊戲。他解釋說，那樣會更好玩，也可以籌款。對方拒絕了。這可不是他們心目中領導革命的方式。革命者不是天生的。革命無法預先計劃，也無法加以管理。革命就這樣發生了……——大衛·戴蒙'
-        passage['vernacularMandarin'] = passage['vernacular']
-    if passage['id'] == 'jff-p41-2':
-        passage['vernacular'] = passage['vernacular'].replace('這麼年輕就已經是個保健食品堅果了。', '年紀輕輕就已經是個「健康食品狂熱分子」了。')
-        passage['vernacularMandarin'] = passage['vernacular']
-    if passage['id'] == 'jff-p203-1':
-        passage['vernacular'] = '十。走出臥室、來到聚光燈下後，我很快就得學會一些別人大概上幼稚園時已經懂得的生活技巧。例如，我從沒料到，人們竟會如此認真看待我的一舉一動。以下兩件事，其實都是同一個主題的不同版本。還在大學時，我的電腦上有一個 root 帳號。每個帳號都有一個附帶的名稱，用來提供使用者資訊。因此，我把自己電腦上的 root 帳號命名為 Linus「God」Torvalds。我就是那台放在大學辦公室的電腦的上帝。有甚麼大不了的？在 Linux 或 Unix 上，對某台電腦執行 finger 指令，就是查詢誰登入了那台電腦。由於防火牆普及，這種查詢已不再常見。但幾年前，大家會用 finger 查詢別人的電腦，看看使用者是否已登入，或有沒有讀過電子郵件。這也是查看某人「plan」的方法；那是使用者放在電腦上的個人資訊，有點像網頁的前身。我的 plan 一直列有最新的核心版本。所以，人們查詢的其中一種方法就是'
-        passage['vernacularMandarin'] = passage['vernacular']
 book['title'] = 'Just for Fun（中英對照）'
-book['description'] = '《Just for Fun: The Story of an Accidental Revolutionary》。由使用者提供嘅 PDF 匯入，收錄導言、正文及索引，按 PDF 頁碼分節。英文對照繁體書面中文，支援英文、廣東話及普通話朗讀。中文為機器翻譯，未經完整校訂；掃描原文亦可能有辨識錯誤。'
+book['description'] = '《Just for Fun: The Story of an Accidental Revolutionary》。按句分段，保留 PDF 頁碼，英文對照繁體書面中文，支援英文、廣東話及普通話朗讀。中文為機器翻譯，未經完整校訂；掃描原文亦可能有辨識錯誤。'
 BOOK.write_text(PREFIX + json.dumps(book, ensure_ascii=False, indent=2) + ';\n', encoding='utf-8')
 print(f'Saved {len(passages)} translated passages.', flush=True)
