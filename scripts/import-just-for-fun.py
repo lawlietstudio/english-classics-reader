@@ -62,5 +62,22 @@ book = {'id': 'justforfun', 'title': 'Just for Fun（英文版）',
         'description': '《Just for Fun: The Story of an Accidental Revolutionary》。由使用者提供嘅 PDF 匯入，收錄導言、正文及索引，按 PDF 頁碼分節。英文閱讀及朗讀，暫無中文翻譯；掃描文字可能有辨識錯誤。',
         'chapters': chapters}
 output = ROOT / 'data' / 'justforfun.ts'
+if output.exists():
+    previous = json.loads(output.read_text(encoding='utf-8').split('export const justforfun: Book = ', 1)[1].rstrip(';\n'))
+    translations = {p['original']: p for c in previous['chapters'] for p in c['passages'] if p['vernacular']}
+    previous_chapters = {c['id']: c for c in previous['chapters']}
+    for chapter in chapters:
+        old_chapter = previous_chapters.get(chapter['id'])
+        if old_chapter and '｜' in old_chapter['title']:
+            chapter['title'] = old_chapter['title']
+        for passage in chapter['passages']:
+            old = translations.get(passage['original'])
+            if old:
+                passage['vernacular'] = old['vernacular']
+                if old.get('vernacularMandarin'):
+                    passage['vernacularMandarin'] = old['vernacularMandarin']
+    if all(p['vernacular'] for c in chapters for p in c['passages']):
+        book['title'] = previous['title']
+        book['description'] = previous['description']
 output.write_text("import { Book } from './types';\n\n// Extracted from the user-provided PDF; not a proofread edition.\nexport const justforfun: Book = " + json.dumps(book, ensure_ascii=False, indent=2) + ';\n', encoding='utf-8')
 print(f'Imported {len(chapters)} sections, {sum(len(c["passages"]) for c in chapters)} passages.')
