@@ -1,0 +1,1218 @@
+{
+  "id": "seneca-letters",
+  "title": "Letters to Lucilius 致盧齊利烏斯書",
+  "author": "Seneca 塞內卡",
+  "description": "古羅馬斯多葛派哲學家塞內卡(公元前4年-公元65年)晚年寫俾好友盧齊利烏斯嘅書信集,原名《Epistulae Morales ad Lucilium》,原著共124封信。呢度精選最經典嘅書信,涵蓋珍惜光陰、閱讀、友誼、避開人群、面對死亡等主題。原文英文對照廣東話/普通話翻譯,譯自Richard M. Gummere嘅英譯本。",
+  "chapters": [
+    {
+      "id": "sen-c1",
+      "title": "Letter I: On Saving Time 論珍惜光陰",
+      "passages": [
+        {
+          "id": "s1-1",
+          "title": "繼續咁做,盧齊利烏斯——為咗自己而爭取自由",
+          "original": "Continue to act thus, my dear Lucilius—set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands.",
+          "vernacular": "繼續咁樣做落去啦,我親愛嘅盧齊利烏斯——為咗自己而爭取自由;好好收集同儲起你嘅時間,直到最近為止,呢啲時間仲係俾人搶咗去、偷咗去,或者只係由你手上溜走。",
+          "vernacularMandarin": "繼續這樣做下去吧,我親愛的盧齊利烏斯——為了自己而爭取自由;好好收集同儲起你的時間,直到最近為止,這些時間還是被人搶走了、偷走了,或者只是從你手上溜走。"
+        },
+        {
+          "id": "s1-2",
+          "title": "有啲時光係硬搶,有啲係悄悄溜走;但最可恥嘅係因為疏忽而流失",
+          "original": "Make yourself believe the truth of my words,—that certain moments are torn from us, that some are gently removed, and that others glide beyond our reach. The most disgraceful kind of loss, however, is that due to carelessness.",
+          "vernacular": "要令自己相信我呢番話係真嘅——有啲時刻係硬生生由我哋身上扯走,有啲就係悄悄咁被取走,重有啲就喺我哋觸及唔到嘅地方溜走。但最可恥嘅損失,係因為疏忽大意而流失嘅時間。",
+          "vernacularMandarin": "要令自己相信我這番話是真的——有些時刻是硬生生從我們身上扯走,有些就是悄悄地被取走,還有些就在我們觸及不到的地方溜走。但最可恥的損失,是因為疏忽大意而流失的時間。"
+        },
+        {
+          "id": "s1-3",
+          "title": "人生大部分時間都花喺做壞事、做冇意義嘅事、做無關重要嘅事",
+          "original": "Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose.",
+          "vernacular": "再者,如果你認真審視呢個問題,你就會發現,我哋人生最大部分嘅時間,都係喺做壞事嗰陣度過;好大一部分,係喺乜都冇做嗰陣度過;而全部嘅時間,都係喺做啲同目標無關嘅事嗰陣度過。",
+          "vernacularMandarin": "再者,如果你認真審視這個問題,你就會發現,我們人生最大部分的時間,都是在做壞事的時候度過;很大一部分,是在甚麼都沒做的時候度過;而全部的時間,都是在做些同目標無關的事的時候度過。"
+        },
+        {
+          "id": "s1-4",
+          "title": "有邊個真正珍惜時間、明白自己每日都喺死緊?",
+          "original": "What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death’s hands.",
+          "vernacular": "你可以指俾我睇,邊個真係珍惜自己嘅時間、計算每一日嘅價值、明白自己其實每一日都喺死緊呢?因為我哋成日誤以為死亡仲遠喺前頭;其實死亡嘅大部分,已經過去咗。凡係喺我哋身後嘅歲月,都已經歸死亡所有。",
+          "vernacularMandarin": "你可以指給我看,誰真的珍惜自己的時間、計算每一日的價值、明白自己其實每一日都在死著呢?因為我們常常誤以為死亡還遠在前頭;其實死亡的大部分,已經過去了。凡是在我們身後的歲月,都已經歸死亡所有。"
+        },
+        {
+          "id": "s1-5",
+          "title": "所以要緊握每一個鐘頭,做好今日嘅事,唔好靠聽日",
+          "original": "Therefore, Lucilius, do as you write me that you are doing: hold every hour in your grasp. Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by.",
+          "vernacular": "所以,盧齊利烏斯,要好似你信入面講嘅咁樣去做:緊握住每一個鐘頭。做好今日嘅事,你就唔使咁依賴聽日嘅事。我哋一路拖延,人生就一路飛逝。",
+          "vernacularMandarin": "所以,盧齊利烏斯,要好似你信裡講的那樣去做:緊握住每一個鐘頭。做好今日的事,你就不用這麼依賴明日的事。我們一路拖延,人生就一路飛逝。"
+        },
+        {
+          "id": "s1-6",
+          "title": "除咗時間,冇一樣嘢真正屬於我哋",
+          "original": "Nothing, Lucilius, is ours, except time. We were entrusted by nature with the ownership of this single thing, so fleeting and slippery that anyone who will can oust us from possession.",
+          "vernacular": "盧齊利烏斯,除咗時間,冇一樣嘢真正屬於我哋。自然將呢一樣咁飄忽、咁滑不溜手嘅嘢託付俾我哋,任何有心嘅人都可以將佢由我哋手上奪走。",
+          "vernacularMandarin": "盧齊利烏斯,除了時間,沒有一樣東西真正屬於我們。自然把這一樣如此飄忽、如此滑不溜手的東西託付給我們,任何有心的人都可以把它從我們手上奪走。"
+        },
+        {
+          "id": "s1-7",
+          "title": "世人幾咁傻!對最廉價嘅嘢斤斤計較,對最珍貴嘅時間卻毫不在意",
+          "original": "What fools these mortals be! They allow the cheapest and most useless things, which can easily be replaced, to be charged in the reckoning, after they have acquired them; but they never regard themselves as in debt when they have received some of that precious commodity,—time! And yet time is the one loan which even a grateful recipient cannot repay.",
+          "vernacular": "凡人幾咁傻呀!佢哋一攞到手,就會將最廉價、最冇用、隨時可以補返嘅嘢計得清清楚楚;但當佢哋領受咗最珍貴嘅嘢——時間——嗰陣,卻從來唔覺得自己欠咗債!但時間,恰恰係就算再感恩嘅人都無法償還嘅一筆借貸。",
+          "vernacularMandarin": "凡人多麼傻啊!他們一拿到手,就會把最廉價、最沒用、隨時可以補回的東西算得清清楚楚;但當他們領受了最珍貴的東西——時間——的時候,卻從來不覺得自己欠了債!但時間,恰恰是就算再感恩的人都無法償還的一筆借貸。"
+        },
+        {
+          "id": "s1-8",
+          "title": "你可能想知,我呢個成日教訓你嘅人,自己又做成點",
+          "original": "You may desire to know how I, who preach to you so freely, am practising. I confess frankly: my expense account balances, as you would expect from one who is free-handed but careful.",
+          "vernacular": "你可能想知道,我呢個咁自由咁教訓你嘅人,自己身體力行又做成點呢?我坦白同你講:我嘅收支係平衡嘅,正如你會由一個慷慨但謹慎嘅人身上所預期嘅咁。",
+          "vernacularMandarin": "你可能想知道,我這個這麼自由地教訓你的人,自己身體力行又做成怎樣呢?我坦白告訴你:我的收支是平衡的,正如你會從一個慷慨但謹慎的人身上所預期的那樣。"
+        },
+        {
+          "id": "s1-9",
+          "title": "我唔敢話自己冇浪費過,但至少可以話俾你知浪費咗啲乜、點解會浪費",
+          "original": "I cannot boast that I waste nothing, but I can at least tell you what I am wasting, and the cause and manner of the loss; I can give you the reasons why I am a poor man. My situation, however, is the same as that of many who are reduced to slender means through no fault of their own: every one forgives them, but no one comes to their rescue.",
+          "vernacular": "我唔敢誇口話自己乜都冇浪費,但我至少可以話俾你知,我浪費咗啲乜、原因係咩、方式又係點;我可以話俾你知我點解會咁窮。但我嘅處境,同好多因為非自己過錯而陷入拮据嘅人一樣:人人都原諒佢哋,但冇一個會出手相救。",
+          "vernacularMandarin": "我不敢誇口說自己甚麼都沒浪費,但我至少可以告訴你,我浪費了些甚麼、原因是甚麼、方式又是怎樣;我可以告訴你我為甚麼會這麼窮。但我的處境,同很多因為非自己過錯而陷入拮据的人一樣:人人都原諒他們,但沒有一個會出手相救。"
+        },
+        {
+          "id": "s1-10",
+          "title": "咁到底而家嘅情況係點?只要餘低嘅仍然夠用,我就唔會當佢窮",
+          "original": "What is the state of things, then? It is this: I do not regard a man as poor, if the little which remains is enough for him.",
+          "vernacular": "咁樣,而家嘅情況到底係點呢?就係咁樣:我唔會將一個人視為貧窮,只要佢餘低嘅一啲仍然夠佢用。",
+          "vernacularMandarin": "這樣,現在的情況到底是怎樣呢?就是這樣:我不會把一個人視為貧窮,只要他餘下的一點仍然夠他用。"
+        },
+        {
+          "id": "s1-11",
+          "title": "但我勸你,要守住真正屬於你嘅嘢,越早開始越好;桶到見底就慳唔切喇",
+          "original": "I advise you, however, to keep what is really yours; and you cannot begin too early. For, as our ancestors believed, it is too late to spare when you reach the dregs of the cask. Of that which remains at the bottom, the amount is slight, and the quality is vile. Farewell.",
+          "vernacular": "但我勸你,要好好守住真正屬於你自己嘅嘢;而呢件事,你越早開始越好。因為正如我哋祖先所信奉嘅咁,等到酒桶見底先至慳,已經太遲。桶底剩返嘅嗰啲,份量既少,質素又劣。珍重。",
+          "vernacularMandarin": "但我勸你,要好好守住真正屬於你自己的東西;而這件事,你越早開始越好。因為正如我們祖先所信奉的那樣,等到酒桶見底才省,已經太遲。桶底剩下的那些,份量既少,質素又劣。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c2",
+      "title": "Letter II: On Discursiveness in Reading 論博覽群書嘅通病",
+      "passages": [
+        {
+          "id": "s2-1",
+          "title": "睇你封信同聽到嘅消息,我對你嘅將來有好嘅睇法",
+          "original": "Judging by what you write me, and by what I hear, I am forming a good opinion regarding your future. You do not run hither and thither and distract yourself by changing your abode; for such restlessness is the sign of a disordered spirit.",
+          "vernacular": "睇吓你寫俾我嘅信,再聽吓人哋講,我對你嘅將來有一個良好嘅睇法。你唔會呢度走嗰度走、成日搬嚟搬去咁分散自己嘅心神;呢種浮躁不安,正正係心靈失調嘅表現。",
+          "vernacularMandarin": "看看你寫給我的信,再聽聽別人講,我對你的將來有一個良好的看法。你不會這裡走那裡走、常常搬來搬去這樣分散自己的心神;這種浮躁不安,正正是心靈失調的表現。"
+        },
+        {
+          "id": "s2-2",
+          "title": "心靈有條理嘅首要標誌,就係識得留守一處,同自己嘅陪伴相處",
+          "original": "The primary indication, to my thinking, of a well-ordered mind is a man’s ability to remain in one place and linger in his own company.",
+          "vernacular": "我認為,一個心靈井然有序嘅人,首要嘅標誌,就係識得留守一處,識得同自己嘅陪伴好好相處。",
+          "vernacularMandarin": "我認為,一個心靈井然有序的人,首要的標誌,就是懂得留守一處,懂得同自己的陪伴好好相處。"
+        },
+        {
+          "id": "s2-3",
+          "title": "亂咁讀好多唔同作者嘅著作,會令你變得浮泛游離",
+          "original": "Be careful, however, lest this reading of many authors and books of every sort may tend to make you discursive and unsteady. You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind.",
+          "vernacular": "但係要小心,唔好因為亂咁讀晒各式各樣嘅作者同書籍,而變得心思紛雜、搖擺不定。如果你想得到真正紮根喺你心中嘅見解,你就要專注喺少數幾位大師嘅作品上面,好好消化佢哋。",
+          "vernacularMandarin": "但是要小心,不要因為亂讀了各式各樣的作者同書籍,而變得心思紛雜、搖擺不定。如果你想得到真正紮根在你心中的見解,你就要專注在少數幾位大師的作品上面,好好消化他們。"
+        },
+        {
+          "id": "s2-4",
+          "title": "去到處處,即係去到冇處——成日出遊嘅人識好多熟人,但冇一個朋友",
+          "original": "Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends. And the same thing must hold true of men who seek intimate acquaintance with no single author, but visit them all in a hasty and hurried manner.",
+          "vernacular": "去到處處,即係去到冇處。一個人如果將所有時間都花喺周遊列國,佢最終只會識到好多相識,但冇一個真正嘅朋友。同樣道理,一個人如果唔肯同任何一位作者深交,而只係匆匆忙忙咁逐個逐個拜訪,結果都係一樣。",
+          "vernacularMandarin": "去到處處,就是去到無處。一個人如果把所有時間都花在周遊列國,他最終只會認識很多相識,但沒有一個真正的朋友。同樣道理,一個人如果不肯同任何一位作者深交,而只是匆匆忙忙地逐個逐個拜訪,結果都是一樣。"
+        },
+        {
+          "id": "s2-5",
+          "title": "食物一入口就出返嚟,對身體冇益;藥物頻頻轉,病都醫唔好",
+          "original": "Food does no good and is not assimilated into the body if it leaves the stomach as soon as it is eaten; nothing hinders a cure so much as frequent change of medicine; no wound will heal when one salve is tried after another; a plant which is often moved can never grow strong.",
+          "vernacular": "食物如果一入肚就即刻排出嚟,咁就對身體冇任何益處,亦都吸收唔到;冇乜嘢比頻頻轉藥更加阻礙康復;傷口如果一味咁換來換去搽藥膏,永遠都好唔返;植物如果成日搬嚟搬去,就永遠都長唔壯。",
+          "vernacularMandarin": "食物如果一入肚就立刻排出來,那就對身體沒有任何益處,也吸收不到;沒有甚麼比頻頻換藥更加阻礙康復;傷口如果一味這樣換來換去搽藥膏,永遠都好不了;植物如果經常搬來搬去,就永遠都長不壯。"
+        },
+        {
+          "id": "s2-6",
+          "title": "邊有嘢係喺不斷搬動之中都仲有效嘅呢?讀書太多都係一種分心;有幾多書就要讀幾多",
+          "original": "There is nothing so efficacious that it can be helpful while it is being shifted about. And in reading of many books is distraction. Accordingly, since you cannot read all the books which you may possess, it is enough to possess only as many books as you can read.",
+          "vernacular": "冇一樣嘢係咁有效,可以喺不斷被搬動嗰陣仍然有幫助。而讀太多唔同嘅書,本身就係一種分心。所以,既然你唔可能讀晒你所擁有嘅每一本書,咁你只需要擁有你讀得完嘅書量就夠。",
+          "vernacularMandarin": "沒有一樣東西是這麼有效,可以在不斷被搬動的時候仍然有幫助。而讀太多不同的書,本身就是一種分心。所以,既然你不可能讀完你所擁有的每一本書,那你只需要擁有你讀得完的書量就夠。"
+        },
+        {
+          "id": "s2-7",
+          "title": "「但我想呢本掀吓、嗰本又掀吓」——好似人揀飲擇食,樣樣試就樣樣都冇滋味",
+          "original": "“But,” you reply, “I wish to dip first into one book and then into another.” I tell you that it is the sign of an overnice appetite to toy with many dishes; for when they are manifold and varied, they cloy but do not nourish.",
+          "vernacular": "「但係,」你可能會咁樣答我,「我想先掀吓呢本書,再掀吓嗰本。」我話你知,咁樣淺嚐輒止好多本書,正正就係一種挑剔嘅胃口嘅表現;因為當道菜樣樣式式又多變化,結果只會令人吃滯,而唔會滋養身體。",
+          "vernacularMandarin": "「但是,」你可能會這樣回答我,「我想先翻一翻這本書,再翻一翻那本。」我告訴你,這樣淺嚐輒止很多本書,正正就是一種挑剔的胃口的表現;因為當菜式樣樣式式又多變化,結果只會令人吃滯,而不會滋養身體。"
+        },
+        {
+          "id": "s2-8",
+          "title": "要經常讀返經典作家;每日汲取一啲可以抵禦貧窮死亡嘅嘢",
+          "original": "So you should always read standard authors; and when you crave a change, fall back upon those whom you read before. Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes as well; and after you have run over many thoughts, select one to be thoroughly digested that day.",
+          "vernacular": "所以你應該經常閱讀公認嘅經典作家;想轉換口味嗰陣,就返去重讀你之前讀過嗰啲。每一日都要汲取一啲可以令你抵禦貧窮、抵禦死亡、甚至抵禦其他各種不幸嘅嘢;喺快速瀏覽過好多諗法之後,揀返一個,喺當日將佢徹底消化。",
+          "vernacularMandarin": "所以你應該經常閱讀公認的經典作家;想轉換口味的時候,就回去重讀你之前讀過那些。每一日都要汲取一些可以令你抵禦貧窮、抵禦死亡、甚至抵禦其他各種不幸的東西;在快速瀏覽過很多想法之後,選回一個,在當日將它徹底消化。"
+        },
+        {
+          "id": "s2-9",
+          "title": "呢個正正係我自己嘅習慣;由所讀嘅眾多嘢入面,揀返一部分屬於自己",
+          "original": "This is my own custom; from the many things which I have read, I claim some one part for myself. The thought for to-day is one which I discovered in Epicurus; for I am wont to cross over even into the enemy’s camp,—not as a deserter, but as a scout.",
+          "vernacular": "呢個正正係我自己嘅習慣;由我所讀過嘅眾多嘢入面,我會揀返一部分,真正歸為己有。今日呢個念頭,係我喺伊壁鳩魯嗰度發現嘅——因為我習慣咗連敵方嘅陣營都會踏足,唔係做叛徒,而係做探子。",
+          "vernacularMandarin": "這正正是我自己的習慣;由我所讀過的眾多東西裡面,我會選回一部分,真正歸為己有。今日這個念頭,是我在伊壁鳩魯那裡發現的——因為我習慣了連敵方的陣營都會踏足,不是做叛徒,而是做探子。"
+        },
+        {
+          "id": "s2-10",
+          "title": "伊壁鳩魯話:知足嘅貧窮先至係光榮嘅——貪心先至係真正嘅窮",
+          "original": "He says: “Contented poverty is an honourable estate.” Indeed, if it be contented, it is not poverty at all. It is not the man who has too little, but the man who craves more, that is poor.",
+          "vernacular": "佢話:「知足嘅貧窮,係一種光榮嘅境況。」的確,如果真係知足,咁根本就唔算得上係貧窮。真正窮嘅唔係擁有得太少嘅人,而係渴求更多嘅人。",
+          "vernacularMandarin": "他說:「知足的貧窮,是一種光榮的境況。」的確,如果真的知足,那根本就不算得上是貧窮。真正窮的不是擁有得太少的人,而是渴求更多的人。"
+        },
+        {
+          "id": "s2-11",
+          "title": "貪圖鄰居嘅財產、只計掛住未來嘅收穫,再多財富都冇意義",
+          "original": "What does it matter how much a man has laid up in his safe, or in his warehouse, how large are his flocks and how fat his dividends, if he covets his neighbour’s property, and reckons, not his past gains, but his hopes of gains to come?",
+          "vernacular": "一個人喺自己保險箱或者倉庫入面積咗幾多財,佢嘅羊群有幾大、股息有幾豐厚,呢啲又有咩相干呢,如果佢仍然貪圖鄰居嘅財產,並且唔計算過去嘅收穫,反而只計算住將來嘅盼望呢?",
+          "vernacularMandarin": "一個人在自己保險箱或者倉庫裡面積了多少財,他的羊群有多大、股息有多豐厚,這些又有甚麼相干呢,如果他仍然貪圖鄰居的財產,並且不計算過去的收穫,反而只計算著將來的盼望呢?"
+        },
+        {
+          "id": "s2-12",
+          "title": "財富嘅適當界限係:首先擁有必需嘅,其次擁有夠用嘅",
+          "original": "Do you ask what is the proper limit to wealth? It is, first, to have what is necessary, and, second, to have what is enough. Farewell.",
+          "vernacular": "你問我財富嘅合理界限應該係點呢?就係:第一,擁有必需嘅嘢;第二,擁有夠用嘅嘢。珍重。",
+          "vernacularMandarin": "你問我財富的合理界限應該是怎樣呢?就是:第一,擁有必需的東西;第二,擁有夠用的東西。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c3",
+      "title": "Letter III: On True and False Friendship 論真偽友誼",
+      "passages": [
+        {
+          "id": "s3-1",
+          "title": "你話佢係朋友,但又話唔慣同佢講晒自己啲事——咁到底佢係唔係朋友?",
+          "original": "You have sent a letter to me through the hand of a “friend” of yours, as you call him. And in your very next sentence you warn me not to discuss with him all the matters that concern you, saying that even you yourself are not accustomed to do this; in other words, you have in the same letter affirmed and denied that he is your friend.",
+          "vernacular": "你託你嗰位所謂「朋友」帶咗封信俾我。但係喺同一封信入面,你緊接住就叫我唔好同佢傾晒同你有關嘅事,仲話你自己都冇咁樣做慣。換句話講,你喺同一封信入面,既肯定咗佢係你嘅朋友,又否定咗呢一點。",
+          "vernacularMandarin": "你託你那位所謂「朋友」帶了封信給我。但是在同一封信裡面,你緊接著就叫我不要同他談光同你有關的事,還說你自己都沒有這樣做慣。換句話說,你在同一封信裡面,既肯定了他是你的朋友,又否定了這一點。"
+        },
+        {
+          "id": "s3-2",
+          "title": "如果你只係按世俗嘅用法叫佢做「朋友」,咁又另作別論",
+          "original": "Now if you used this word of ours in the popular sense, and called him “friend” in the same way in which we speak of all candidates for election as “honourable gentlemen,” and as we greet all men whom we meet casually, if their names slip us for the moment, with the salutation “my dear sir,”—so be it.",
+          "vernacular": "如果你係按照我哋呢個詞喺世俗上嘅用法,好似我哋將所有競選人叫做「閣下」、又或者將所有偶遇、記唔起個名嘅人一律叫做「先生」咁樣去用呢個「朋友」嘅稱呼,咁又另作別論。",
+          "vernacularMandarin": "如果你是按照我們這個詞在世俗上的用法,好似我們把所有競選人叫做「閣下」、又或者把所有偶遇、記不起名字的人一律叫做「先生」那樣去用這個「朋友」的稱呼,那又另作別論。"
+        },
+        {
+          "id": "s3-3",
+          "title": "如果一個人你唔可以好似信自己咁信佢,你就大錯特錯,仲未明白真正嘅友誼",
+          "original": "But if you consider any man a friend whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true friendship means. Indeed, I would have you discuss everything with a friend; but first of all discuss the man himself.",
+          "vernacular": "但如果你將一個你唔會好似信自己咁樣信任嘅人視為朋友,咁你就大錯特錯,亦都未夠深入理解真正嘅友誼係咩。我當然希望你可以同朋友傾晒所有嘢;但首先,要先審視佢呢個人本身。",
+          "vernacularMandarin": "但如果你把一個你不會好似信自己那樣信任的人視為朋友,那你就大錯特錯,也未夠深入理解真正的友誼是甚麼。我當然希望你可以同朋友談光所有事;但首先,要先審視他這個人本身。"
+        },
+        {
+          "id": "s3-4",
+          "title": "友誼一旦確立就要信任;友誼未確立之前就要判斷——次序唔可以掉轉",
+          "original": "When friendship is settled, you must trust; before friendship is formed, you must pass judgment. Those persons indeed put last first and confound their duties, who, violating the rules of Theophrastus, judge a man after they have made him their friend, instead of making him their friend after they have judged him.",
+          "vernacular": "友誼一旦確立,你就要信任;友誼未確立之前,你就要判斷。有啲人喺呢件事上本末倒置、混淆咗自己嘅本份,違反咗泰奧弗拉斯托斯嘅法則——佢哋先將一個人結為朋友,然後先至去判斷佢,而唔係先判斷佢,先至同佢結為朋友。",
+          "vernacularMandarin": "友誼一旦確立,你就要信任;友誼未確立之前,你就要判斷。有些人在這件事上本末倒置、混淆了自己的本份,違反了泰奧弗拉斯托斯的法則——他們先把一個人結為朋友,然後才去判斷他,而不是先判斷他,才同他結為朋友。"
+        },
+        {
+          "id": "s3-5",
+          "title": "決定接納一個人做朋友之前要細心思量,一旦決定就要全心全意接納佢",
+          "original": "Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul. Speak as boldly with him as with yourself.",
+          "vernacular": "喺決定接納一個人做朋友之前,要用長時間細心思量;但一旦你決定接納佢,就要全心全意咁歡迎佢。同佢傾偈嗰陣,要好似同自己傾偈一樣咁坦率。",
+          "vernacularMandarin": "在決定接納一個人做朋友之前,要用長時間細心思量;但一旦你決定接納他,就要全心全意地歡迎他。同他談話的時候,要好似同自己談話一樣坦率。"
+        },
+        {
+          "id": "s3-6",
+          "title": "你自己嘅一切,連敵人都可以知——但至少要同朋友分享你嘅憂慮同思緒",
+          "original": "As to yourself, although you should live in such a way that you trust your own self with nothing which you could not entrust even to your enemy, yet, since certain matters occur which convention keeps secret, you should share with a friend at least all your worries and reflections.",
+          "vernacular": "至於你自己,你應該活得咁樣:就算係敵人知道咗,你都冇嘢好信自己唔過嘅。但既然有啲事因為世俗慣例而要保密,你至少都應該同一位朋友分享你所有嘅憂慮同思緒。",
+          "vernacularMandarin": "至於你自己,你應該活得這樣:就算是敵人知道了,你都沒有甚麼過不去的。但既然有些事因為世俗慣例而要保密,你至少都應該同一位朋友分享你所有的憂慮同思緒。"
+        },
+        {
+          "id": "s3-7",
+          "title": "將佢當做忠誠嘅人,你就會令佢變得忠誠",
+          "original": "Regard him as loyal, and you will make him loyal. Some, for example, fearing to be deceived, have taught men to deceive; by their suspicions they have given their friend the right to do wrong.",
+          "vernacular": "將佢視為忠誠,你就會令佢變得忠誠。有啲人因為驚俾人呃,反而教識咗人點樣呃人;佢哋嘅猜忌,反而俾咗自己朋友做壞事嘅權利。",
+          "vernacularMandarin": "把他視為忠誠,你就會令他變得忠誠。有些人因為怕被人騙,反而教會了人怎樣騙人;他們的猜忌,反而給了自己朋友做壞事的權利。"
+        },
+        {
+          "id": "s3-8",
+          "title": "點解要喺朋友面前有所保留?點解唔可以喺佢面前好似獨處一樣?",
+          "original": "Why need I keep back any words in the presence of my friend? Why should I not regard myself as alone when in his company?",
+          "vernacular": "我又何需喺朋友面前保留任何說話呢?我點解唔可以喺佢面前,好似獨處一樣咁自在呢?",
+          "vernacularMandarin": "我又何需在朋友面前保留任何說話呢?我為甚麼不可以在他面前,好似獨處一樣自在呢?"
+        },
+        {
+          "id": "s3-9",
+          "title": "有啲人逢人就講心事,遇到邊個都要卸低自己嘅煩惱",
+          "original": "There is a class of men who communicate, to anyone whom they meet, matters which should be revealed to friends alone, and unload upon the chance listener whatever irks them.",
+          "vernacular": "有一類人,凡係遇到嘅人,都會將本應只講俾朋友知嘅事講晒俾佢聽,將自己嘅煩惱卸晒俾任何一個偶遇嘅聽眾。",
+          "vernacularMandarin": "有一類人,凡是遇到的人,都會把本應只講給朋友知的事講光給他聽,把自己的煩惱卸光給任何一個偶遇的聽眾。"
+        },
+        {
+          "id": "s3-10",
+          "title": "另一類人就連最親密嘅人都唔敢傾訴,甚至連自己都唔信——事事都過猶不及",
+          "original": "Others, again, fear to confide in their closest intimates; and if it were possible, they would not trust even themselves, burying their secrets deep in their hearts. But we should do neither. It is equally faulty to trust everyone and to trust no one.",
+          "vernacular": "另一類人就正好相反,連自己最親密嘅密友都唔敢傾訴;如果可以嘅話,佢哋連自己都唔會信任,將秘密深深埋藏喺心底。但呢兩種做法我哋都唔應該採取。凡事都信同凡事都唔信,兩者同樣係缺點。",
+          "vernacularMandarin": "另一類人就正好相反,連自己最親密的密友都不敢傾訴;如果可以的話,他們連自己都不會信任,把秘密深深埋藏在心底。但這兩種做法我們都不應該採取。凡事都信同凡事都不信,兩者同樣是缺點。"
+        },
+        {
+          "id": "s3-11",
+          "title": "凡事都信係比較率真嘅缺點,凡事都唔信就比較安全",
+          "original": "Yet the former fault is, I should say, the more ingenuous, the latter the more safe.",
+          "vernacular": "不過,前者呢種缺點,我會話係比較率真嘅;而後者,就比較安全。",
+          "vernacularMandarin": "不過,前者這種缺點,我會說是比較率真的;而後者,就比較安全。"
+        },
+        {
+          "id": "s3-12",
+          "title": "你都要責備呢兩種人——成日靜唔落嘅,同成日一味安逸嘅",
+          "original": "In like manner you should rebuke these two kinds of men,—both those who always lack repose, and those who are always in repose. For love of bustle is not industry,—it is only the restlessness of a hunted mind.",
+          "vernacular": "同樣道理,你都應該責備呢兩種人——成日靜唔落嚟嘅人,同成日安於逸樂嘅人。因為熱衷於忙碌並唔係勤奮,只不過係一個被追逼嘅心靈嘅浮躁不安。",
+          "vernacularMandarin": "同樣道理,你都應該責備這兩種人——常常靜不下來的人,同常常安於逸樂的人。因為熱衷於忙碌並不是勤奮,只不過是一個被追逼的心靈的浮躁不安。"
+        },
+        {
+          "id": "s3-13",
+          "title": "真正嘅安逸並唔係將一切動作都當做煩擾嚟摒棄——嗰種只係懶惰同怠惰",
+          "original": "And true repose does not consist in condemning all motion as merely vexation; that kind of repose is slackness and inertia.",
+          "vernacular": "而真正嘅安逸,亦都唔在於將一切動作一概當做煩擾嚟摒棄;嗰種所謂安逸,其實只係懶散同怠惰。",
+          "vernacularMandarin": "而真正的安逸,也不在於把一切動作一概當作煩擾來摒棄;那種所謂安逸,其實只是懶散同怠惰。"
+        },
+        {
+          "id": "s3-14",
+          "title": "龐波尼烏斯嘅名言:有啲人退縮入陰暗角落,以致光天化日之下都睇嘢矇矓",
+          "original": "Therefore, you should note the following saying, taken from my reading in Pomponius: “Some men shrink into dark corners, to such a degree that they see darkly by day.”",
+          "vernacular": "所以你要留意以下呢句,係我喺龐波尼烏斯嘅著作入面讀到嘅:「有啲人退縮入陰暗嘅角落,退縮到甚至喺光天化日之下,佢哋嘅視野都矇矓一片。」",
+          "vernacularMandarin": "所以你要留意以下這句,是我在龐波尼烏斯的著作裡面讀到的:「有些人退縮進陰暗的角落,退縮到甚至在光天化日之下,他們的視野都矇矓一片。」"
+        },
+        {
+          "id": "s3-15",
+          "title": "唔係——安逸嘅人要有所作為,行動嘅人都要有所安逸;自然創造咗日,亦都創造咗夜",
+          "original": "No, men should combine these tendencies, and he who reposes should act and he who acts should take repose. Discuss the problem with Nature; she will tell you that she has created both day and night. Farewell.",
+          "vernacular": "唔係咁樣嘅;人應該將呢兩種傾向結合起嚟——安逸嘅人要有所作為,行動嘅人亦都要有所安逸。將呢個問題交俾自然去解答啦;佢會話你知,佢創造咗日,亦都創造咗夜。珍重。",
+          "vernacularMandarin": "不是這樣的;人應該把這兩種傾向結合起來——安逸的人要有所作為,行動的人也要有所安逸。把這個問題交給自然去解答吧;她會告訴你,她創造了日,也創造了夜。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c4",
+      "title": "Letter V: On the Philosopher’s Mean 論哲人嘅中庸之道",
+      "passages": [
+        {
+          "id": "s4-1",
+          "title": "我讚賞你,亦為你孜孜不倦嘅治學而高興",
+          "original": "I commend you and rejoice in the fact that you are persistent in your studies, and that, putting all else aside, you make it each day your endeavour to become a better man.",
+          "vernacular": "我讚賞你,亦都為你嘅堅持而高興——你將其他一切放低,每日以成為一個更加好嘅人為己任。",
+          "vernacularMandarin": "我讚賞你,也為你的堅持而高興——你把其他一切放下,每日以成為一個更好的人為己任。"
+        },
+        {
+          "id": "s4-2",
+          "title": "我唔單止勸你堅持,我更加係懇求你咁做;但唔好為咗惹人注目而扮嘢",
+          "original": "I do not merely exhort you to keep at it; I actually beg you to do so. I warn you, however, not to act after the fashion of those who desire to be conspicuous rather than to improve, by doing things which will rouse comment as regards your dress or general way of living.",
+          "vernacular": "我唔單止勸你要堅持落去,我更加係懇求你咁做。但我要警告你,唔好好似某啲人咁樣,寧願惹人注目都唔願意求真正嘅進步,靠住啲會令人議論你衣著或者生活方式嘅嘢嚟博出位。",
+          "vernacularMandarin": "我不單止勸你要堅持下去,我更加是懇求你這樣做。但我要警告你,不要好似某些人那樣,寧願惹人注目都不願意求真正的進步,靠著些會令人議論你衣著或者生活方式的東西來博出位。"
+        },
+        {
+          "id": "s4-3",
+          "title": "邋遢嘅衣著、蓬亂嘅頭髮鬍鬚、公然鄙視銀器,呢啲都要避免",
+          "original": "Repellent attire, unkempt hair, slovenly beard, open scorn of silver dishes, a couch on the bare earth, and any other perverted forms of self-display, are to be avoided.",
+          "vernacular": "令人反感嘅衣著、蓬頭垢面、邋遢嘅鬍鬚、公然鄙視銀製食具、瞓喺光禿禿嘅地上,以及其他任何扭曲嘅自我展示形式,都應該避免。",
+          "vernacularMandarin": "令人反感的衣著、蓬頭垢面、邋遢的鬍鬚、公然鄙視銀製食具、睡在光禿禿的地上,以及其他任何扭曲的自我展示形式,都應該避免。"
+        },
+        {
+          "id": "s4-4",
+          "title": "哲學單單呢個名,已經夠俾人鄙視——我哋內心要與眾不同,但外表要合乎世俗",
+          "original": "The mere name of philosophy, however quietly pursued, is an object of sufficient scorn; and what would happen if we should begin to separate ourselves from the customs of our fellow-men? Inwardly, we ought to be different in all respects, but our exterior should conform to society.",
+          "vernacular": "「哲學」呢個名,就算你只係靜靜咁修習,都已經夠俾人鄙視;如果我哋開始同同胞嘅習俗劃清界線,又會發生咩事呢?我哋應該喺內心嘅各方面都與眾不同,但外表就應該符合社會常規。",
+          "vernacularMandarin": "「哲學」這個名,就算你只是靜靜地修習,都已經夠被人鄙視;如果我們開始同同胞的習俗劃清界線,又會發生甚麼事呢?我們應該在內心的各方面都與眾不同,但外表就應該符合社會常規。"
+        },
+        {
+          "id": "s4-5",
+          "title": "袍唔好著得太靚都唔好著得太襤褸;唔使有鑲金嵌銀嘅餐具",
+          "original": "Do not wear too fine, nor yet too frowzy, a toga. One needs no silver plate, encrusted and embossed in solid gold; but we should not believe the lack of silver and gold to be proof of the simple life.",
+          "vernacular": "唔好著得太過華麗,亦都唔好著得太過襤褸嘅托加袍。一個人唔需要鑲金嵌銀嘅銀器;但我哋亦都唔應該以為冇金冇銀,就係樸素生活嘅證明。",
+          "vernacularMandarin": "不要穿得太過華麗,也不要穿得太過襤褸的托加袍。一個人不需要鑲金嵌銀的銀器;但我們也不應該以為沒金沒銀,就是樸素生活的證明。"
+        },
+        {
+          "id": "s4-6",
+          "title": "要比大眾嘅生活水平高,但唔好走向相反嘅極端——否則會嚇走想改變嘅人",
+          "original": "Let us try to maintain a higher standard of life than that of the multitude, but not a contrary standard; otherwise, we shall frighten away and repel the very persons whom we are trying to improve. We also bring it about that they are unwilling to imitate us in anything, because they are afraid lest they might be compelled to imitate us in everything.",
+          "vernacular": "我哋應該努力保持一種比大眾高嘅生活水平,但唔應該走向同大眾相反嘅極端;否則,我哋就會嚇走、趕走我哋想要改變嘅人。呢樣做仲會令佢哋乜都唔想仿效我哋,因為佢哋驚會俾人逼住事事都要仿效我哋。",
+          "vernacularMandarin": "我們應該努力保持一種比大眾高的生活水平,但不應該走向同大眾相反的極端;否則,我們就會嚇走、趕走我們想要改變的人。這樣做還會令他們甚麼都不想仿效我們,因為他們怕會被人逼著事事都要仿效我們。"
+        },
+        {
+          "id": "s4-7",
+          "title": "哲學首要嘅嘢係培養同眾人相通嘅心——即係同情心同合群性",
+          "original": "The first thing which philosophy undertakes to give is fellow-feeling with all men; in other words, sympathy and sociability. We part company with our promise if we are unlike other men. We must see to it that the means by which we wish to draw admiration be not absurd and odious.",
+          "vernacular": "哲學首先要教俾我哋嘅,係一種同眾人相通嘅心——換句話講,就係同情心同合群性。如果我哋同其他人與眾不同,我哋就違背咗呢個承諾。我哋要小心,唔好用荒謬同可憎嘅方式嚟贏取人哋嘅敬佩。",
+          "vernacularMandarin": "哲學首先要教給我們的,是一種同眾人相通的心——換句話說,就是同情心同合群性。如果我們同其他人與眾不同,我們就違背了這個承諾。我們要小心,不要用荒謬同可憎的方式來贏取別人的敬佩。"
+        },
+        {
+          "id": "s4-8",
+          "title": "我哋嘅座右銘係「順應自然而活」;但折磨身體、扮邋遢就正正係違反自然",
+          "original": "Our motto, as you know, is “Live according to Nature”; but it is quite contrary to nature to torture the body, to hate unlaboured elegance, to be dirty on purpose, to eat food that is not only plain, but disgusting and forbidding.",
+          "vernacular": "你都知,我哋嘅座右銘係「順應自然而活」;但折磨自己嘅身體、憎惡天然嘅優雅、故意扮到污糟邋遢、食啲唔單止簡樸、仲要令人反感厭惡嘅食物,呢啲正正就係違反自然嘅做法。",
+          "vernacularMandarin": "你都知道,我們的座右銘是「順應自然而活」;但折磨自己的身體、憎惡天然的優雅、故意扮得污糟邋遢、吃些不單止簡樸、還要令人反感厭惡的食物,這些正正就是違反自然的做法。"
+        },
+        {
+          "id": "s4-9",
+          "title": "追求珍饈係奢華嘅表現,刻意逃避平常唾手可得嘅嘢就係瘋癲",
+          "original": "Just as it is a sign of luxury to seek out dainties, so it is madness to avoid that which is customary and can be purchased at no great price. Philosophy calls for plain living, but not for penance; and we may perfectly well be plain and neat at the same time.",
+          "vernacular": "正如刻意搜羅珍饈美食係奢華嘅表現咁,刻意逃避尋常、唔使幾多錢就可以買到嘅嘢,亦都係一種瘋癲。哲學要求嘅係樸素嘅生活,而唔係苦修;而我哋完全可以做到既樸素又整潔。",
+          "vernacularMandarin": "正如刻意搜羅珍饈美食是奢華的表現那樣,刻意逃避尋常、不用花多少錢就可以買到的東西,也是一種瘋癲。哲學要求的是樸素的生活,而不是苦修;而我們完全可以做到既樸素又整潔。"
+        },
+        {
+          "id": "s4-10",
+          "title": "呢個就係我贊同嘅折衷之道——喺智者同世俗之間取得幸福嘅平衡",
+          "original": "This is the mean of which I approve; our life should observe a happy medium between the ways of a sage and the ways of the world at large; all men should admire it, but they should understand it also.",
+          "vernacular": "呢個就係我所贊同嘅折衷之道;我哋嘅生活應該喺智者嘅方式同世俗大眾嘅方式之間,取得一種幸福嘅平衡——令所有人都欣賞我哋嘅生活,但同時亦都可以理解我哋嘅生活。",
+          "vernacularMandarin": "這個就是我所贊同的折衷之道;我們的生活應該在智者的方式同世俗大眾的方式之間,取得一種幸福的平衡——令所有人都欣賞我們的生活,但同時也可以理解我們的生活。"
+        },
+        {
+          "id": "s4-11",
+          "title": "咁我哋就要同其他人一樣咩?我哋同世俗就冇分別咩?——有,而且係好大嘅分別",
+          "original": "“Well then, shall we act like other men? Shall there be no distinction between ourselves and the world?” Yes, a very great one; let men find that we are unlike the common herd, if they look closely.",
+          "vernacular": "「咁樣嘅話,我哋豈唔係要同其他人一樣咁做嘢?我哋同世俗之間就冇任何分別咩?」有嘅,而且係好大嘅分別;只不過要令人仔細觀察之後,先發現我哋同凡夫俗子唔一樣。",
+          "vernacularMandarin": "「這樣的話,我們豈不是要同其他人一樣這樣做事?我們同世俗之間就沒有任何分別嗎?」有的,而且是很大的分別;只不過要令人仔細觀察之後,才發現我們同凡夫俗子不一樣。"
+        },
+        {
+          "id": "s4-12",
+          "title": "來我哋屋企嘅人應該欣賞我哋本身,而唔係我哋嘅家當;識用瓦器好似銀器咁,同識用銀器好似瓦器咁,同樣係偉大",
+          "original": "If they visit us at home, they should admire us, rather than our household appointments. He is a great man who uses earthenware dishes as if they were silver; but he is equally great who uses silver as if it were earthenware. It is the sign of an unstable mind not to be able to endure riches.",
+          "vernacular": "如果人哋嚟我哋屋企探訪,佢哋應該欣賞我哋呢個人,而唔係欣賞我哋屋企嘅擺設。一個人用瓦器嘅時候好似用緊銀器咁,佢就係偉大;但一個人用銀器嘅時候好似用緊瓦器咁,佢都係一樣偉大。承受唔起財富,正正係心志不穩嘅表現。",
+          "vernacularMandarin": "如果別人來我們家探訪,他們應該欣賞我們這個人,而不是欣賞我們家的擺設。一個人用瓦器的時候好似用著銀器那樣,他就是偉大;但一個人用銀器的時候好似用著瓦器那樣,他都是一樣偉大。承受不起財富,正正是心志不穩的表現。"
+        },
+        {
+          "id": "s4-13",
+          "title": "我想分享今日嘅收穫——赫卡托話:節制渴求都有助於治癒恐懼",
+          "original": "But I wish to share with you to-day’s profit also. I find in the writings of our Hecato that the limiting of desires helps also to cure fears: “Cease to hope,” he says, “and you will cease to fear.”",
+          "vernacular": "但我今日仲想同你分享一啲收穫。我喺我哋赫卡托嘅著作入面讀到,節制渴求都有助於治癒恐懼。佢話:「停止盼望,你就會停止恐懼。」",
+          "vernacularMandarin": "但我今日還想同你分享一些收穫。我在我們赫卡托的著作裡面讀到,節制渴求也有助於治癒恐懼。他說:「停止盼望,你就會停止恐懼。」"
+        },
+        {
+          "id": "s4-14",
+          "title": "呢兩樣咁唔同嘅嘢又點會並肩而行呢?——盧齊利烏斯,佢哋雖然睇落矛盾,其實係一體嘅",
+          "original": "“But how,” you will reply, “can things so different go side by side?” In this way, my dear Lucilius: though they do seem at variance, yet they are really united. Just as the same chain fastens the prisoner and the soldier who guards him, so hope and fear, dissimilar as they are, keep step together; fear follows hope.",
+          "vernacular": "「但係,」你可能會咁樣回應,「呢兩樣咁唔同嘅嘢,又點會並肩而行呢?」我親愛嘅盧齊利烏斯,道理係咁嘅:佢哋雖然睇落相互矛盾,但其實係緊密結合嘅。正如同一條鎖鏈,既拴住咗囚犯,亦都拴住咗睇守佢嘅士兵——盼望同恐懼,雖然性質截然不同,卻會同步而行;恐懼緊隨住盼望嘅腳步。",
+          "vernacularMandarin": "「但是,」你可能會這樣回應,「這兩樣如此不同的東西,又怎會並肩而行呢?」我親愛的盧齊利烏斯,道理是這樣的:它們雖然看起來相互矛盾,但其實是緊密結合的。正如同一條鎖鏈,既拴住了囚犯,也拴住了看守他的士兵——盼望同恐懼,雖然性質截然不同,卻會同步而行;恐懼緊隨著盼望的腳步。"
+        },
+        {
+          "id": "s4-15",
+          "title": "呢兩樣都屬於一顆懸而未決、為未來煩憂嘅心;因為我哋唔肯安於當下,反而將思緒送到好遠嘅將來",
+          "original": "I am not surprised that they proceed in this way; each alike belongs to a mind that is in suspense, a mind that is fretted by looking forward to the future. But the chief cause of both these ills is that we do not adapt ourselves to the present, but send our thoughts a long way ahead. And so foresight, the noblest blessing of the human race, becomes perverted.",
+          "vernacular": "我對佢哋咁樣運作並唔感到驚訝;因為佢哋兩者同樣屬於一顆懸而未決、因為期盼將來而焦慮不安嘅心。但呢兩種弊病嘅主要成因,係我哋唔肯安於當下,反而將自己嘅思緒送到好遠嘅將來。於是,人類至為高貴嘅福分——先見之明——就變得扭曲變質。",
+          "vernacularMandarin": "我對它們這樣運作並不感到驚訝;因為它們兩者同樣屬於一顆懸而未決、因為期盼將來而焦慮不安的心。但這兩種弊病的主要成因,是我們不肯安於當下,反而把自己的思緒送到很遠的將來。於是,人類至為高貴的福分——先見之明——就變得扭曲變質。"
+        },
+        {
+          "id": "s4-16",
+          "title": "野獸只會避開見到嘅危險,一旦脫險就冇再憂慮;但人類卻為將來同過去嘅事而折磨自己",
+          "original": "Beasts avoid the dangers which they see, and when they have escaped them are free from care; but we men torment ourselves over that which is to come as well as over that which is past.",
+          "vernacular": "野獸只會避開自己親眼見到嘅危險,一旦脫險就冇再憂慮;但我哋人類,卻同時為將要來臨嘅事、同埋已經過去嘅事而折磨自己。",
+          "vernacularMandarin": "野獸只會避開自己親眼見到的危險,一旦脫險就沒再憂慮;但我們人類,卻同時為將要來臨的事、以及已經過去的事而折磨自己。"
+        },
+        {
+          "id": "s4-17",
+          "title": "我哋好多福分反而為我哋帶嚟禍害——記憶勾起恐懼嘅折磨,先見之明又預先招惹佢;唯獨當下唔會令人不幸",
+          "original": "Many of our blessings bring bane to us; for memory recalls the tortures of fear, while foresight anticipates them. The present alone can make no man wretched. Farewell.",
+          "vernacular": "我哋好多福分,反而為我哋帶嚟禍害;因為記憶會勾起恐懼嘅折磨,而先見之明就預先招惹嗰種折磨。唯獨當下,先至冇辦法令任何人不幸。珍重。",
+          "vernacularMandarin": "我們很多福分,反而為我們帶來禍害;因為記憶會勾起恐懼的折磨,而先見之明就預先招惹那種折磨。唯獨當下,才沒有辦法令任何人不幸。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c5",
+      "title": "Letter VII: On Crowds 論避開人群",
+      "passages": [
+        {
+          "id": "s5-1",
+          "title": "你問我最應該避免嘅係咩?我話你知:人群",
+          "original": "Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety. I shall admit my own weakness, at any rate; for I never bring back home the same character that I took abroad with me.",
+          "vernacular": "你問我,你應該特別要避開嘅係咩呢?我話你知:人群。因為到目前為止,你都仲未可以安全咁將自己交俾佢哋。至少,我要承認自己嘅弱點:我從嚟都冇試過帶住出門嗰陣一樣嘅品性返到屋企。",
+          "vernacularMandarin": "你問我,你應該特別要避開的是甚麼呢?我告訴你:人群。因為到目前為止,你都還未可以安全地把自己交給他們。至少,我要承認自己的弱點:我從來都沒有試過帶著出門時一樣的品性回到家裡。"
+        },
+        {
+          "id": "s5-2",
+          "title": "我內心強迫平靜落嚟嘅嘢會俾人擾亂;我制服返嘅敵人又會捲土重來",
+          "original": "Something of that which I have forced to be calm within me is disturbed; some of the foes that I have routed return again.",
+          "vernacular": "我內心入面努力保持平靜嘅嘢,總會有部分俾人擾亂;我曾經制服咗嘅嗰啲敵人,又會捲土重來。",
+          "vernacularMandarin": "我內心裡面努力保持平靜的東西,總會有部分被人擾亂;我曾經制服了的那些敵人,又會捲土重來。"
+        },
+        {
+          "id": "s5-3",
+          "title": "病咗好耐嘅人一出門就會復發;我哋嘅靈魂由沉痾中康復,都係咁樣脆弱",
+          "original": "Just as the sick man, who has been weak for a long time, is in such a condition that he cannot be taken out of the house without suffering a relapse, so we ourselves are affected when our souls are recovering from a lingering disease. To consort with the crowd is harmful; there is no person who does not make some vice attractive to us, or stamp it upon us, or taint us unconsciously therewith. Certainly, the greater the mob with which we mingle, the greater the danger.",
+          "vernacular": "正如一個長期病弱嘅人,佢嘅狀況一旦離開屋企就會復發咁,我哋嘅靈魂喺由一場纏綿嘅疾病康復嗰陣,亦都係一樣容易受影響。同群眾混埋一齊係有害嘅;冇一個人唔會用某種惡習嚟吸引我哋,或者將惡習烙印喺我哋身上,或者喺我哋唔為意嗰陣污染咗我哋。人群越大,危險就必然越大。",
+          "vernacularMandarin": "正如一個長期病弱的人,他的狀況一旦離開家裡就會復發那樣,我們的靈魂在由一場纏綿的疾病康復的時候,也是一樣容易受影響。同群眾混在一起是有害的;沒有一個人不會用某種惡習來吸引我們,或者把惡習烙印在我們身上,或者在我們不為意的時候污染了我們。人群越大,危險就必然越大。"
+        },
+        {
+          "id": "s5-4",
+          "title": "但最傷害品格嘅,莫過於流連喺競技場嘅習慣——惡習透過歡愉悄悄滲入",
+          "original": "But nothing is so damaging to good character as the habit of lounging at the games; for then it is that vice steals subtly upon one through the avenue of pleasure. What do you think I mean? I mean that I come home more greedy, more ambitious, more voluptuous, and even more cruel and inhuman,—because I have been among human beings.",
+          "vernacular": "但冇一樣嘢比流連喺競技場嘅習慣,更加損害良好嘅品格;因為正正就係喺嗰陣,惡習會透過歡愉呢條途徑,悄悄咁滲透我哋。你以為我講緊咩意思?我嘅意思係:我返到屋企嗰陣,會變得更加貪婪、更加野心勃勃、更加放縱聲色,甚至更加殘忍冷酷——只因為我曾經置身喺人群之中。",
+          "vernacularMandarin": "但沒有一樣東西比流連在競技場的習慣,更加損害良好的品格;因為正正就是在那時,惡習會透過歡愉這條途徑,悄悄地滲透我們。你以為我在講甚麼意思?我的意思是:我回到家裡的時候,會變得更加貪婪、更加野心勃勃、更加放縱聲色,甚至更加殘忍冷酷——只因為我曾經置身在人群之中。"
+        },
+        {
+          "id": "s5-5",
+          "title": "我偶然去咗一場正午嘅表演,本來以為會輕鬆有趣——點知完全相反",
+          "original": "By chance I attended a mid-day exhibition, expecting some fun, wit, and relaxation,—an exhibition at which men’s eyes have respite from the slaughter of their fellow-men. But it was quite the reverse. The previous combats were the essence of compassion; but now all the trifling is put aside and it is pure murder. The men have no defensive armour. They are exposed to blows at all points, and no one ever strikes in vain.",
+          "vernacular": "有一次我偶然去咗一場正午嘅表演,以為可以睇到啲逗趣、機智嘅娛樂,可以令觀眾嘅眼睛,暫時擺脫同類相殘嘅慘況——點知完全相反。之前嘅搏鬥仲算得上係仁慈嘅表現;但而家一切嘅花巧都摒棄晒,剩返純粹嘅屠殺。呢啲人完全冇任何防護裝備,四面八方都可以中招,亦都冇一招會落空。",
+          "vernacularMandarin": "有一次我偶然去了一場正午的表演,以為可以看到些逗趣、機智的娛樂,可以令觀眾的眼睛,暫時擺脫同類相殘的慘況——點知完全相反。之前的搏鬥還算得上是仁慈的表現;但現在一切的花巧都摒棄了,剩下純粹的屠殺。這些人完全沒有任何防護裝備,四面八方都可以中招,也沒有一招會落空。"
+        },
+        {
+          "id": "s5-6",
+          "title": "好多人更加鍾意呢種節目——因為冇頭盔盾牌可以擋開武器,乜都拖延唔到死亡",
+          "original": "Many persons prefer this programme to the usual pairs and to the bouts “by request.” Of course they do; there is no helmet or shield to deflect the weapon. What is the need of defensive armour, or of skill? All these mean delaying death. In the morning they throw men to the lions and the bears; at noon, they throw them to the spectators.",
+          "vernacular": "比起平常嘅雙人對決同「應觀眾要求」嘅回合,好多人更加鍾意呢種節目。當然啦,因為呢度冇頭盔或者盾牌可以擋開武器。防護裝備定係技巧,又有咩需要呢?呢一切,只不過係延遲死亡嘅到來。清晨嗰陣,佢哋將人拋俾獅子同熊;正午嗰陣,佢哋就將人拋俾觀眾。",
+          "vernacularMandarin": "比起平常的雙人對決同「應觀眾要求」的回合,很多人更加喜歡這種節目。當然啦,因為這裡沒有頭盔或者盾牌可以擋開武器。防護裝備還是技巧,又有甚麼需要呢?這一切,只不過是延遲死亡的到來。清晨的時候,他們把人拋給獅子同熊;正午的時候,他們就把人拋給觀眾。"
+        },
+        {
+          "id": "s5-7",
+          "title": "觀眾要求殺人者要面對下一位殺佢嘅人;呢個結局永遠都係死亡",
+          "original": "The spectators demand that the slayer shall face the man who is to slay him in his turn; and they always reserve the latest conqueror for another butchering. The outcome of every fight is death, and the means are fire and sword. This sort of thing goes on while the arena is empty.",
+          "vernacular": "觀眾要求殺人者要面對即將殺佢嘅下一個人,永遠都留住最後嗰位得勝者,等佢再遭受一輪屠殺。每一場搏鬥嘅結局都係死亡,手段就係烈火同刀劍。呢種事一直持續,直到競技場清空為止。",
+          "vernacularMandarin": "觀眾要求殺人者要面對即將殺他的下一個人,永遠都留住最後那位得勝者,等他再遭受一輪屠殺。每一場搏鬥的結局都是死亡,手段就是烈火同刀劍。這種事一直持續,直到競技場清空為止。"
+        },
+        {
+          "id": "s5-8",
+          "title": "「但佢係打劫殺人嘅強盜!」——就算佢罪有應得,你又犯咗咩罪,要坐喺度睇呢場表演?",
+          "original": "You may retort: “But he was a highway robber; he killed a man!” And what of it? Granted that, as a murderer, he deserved this punishment, what crime have you committed, poor fellow, that you should deserve to sit and see this show?",
+          "vernacular": "你可能會反駁:「但佢係個攔路強盜,佢殺過人!」呢個又點呢?就算佢作為兇手,罪有應得受到咁樣嘅懲罰,但你,可憐嘅老友,又犯咗咩罪,要遭受坐喺度睇呢場表演嘅懲罰呢?",
+          "vernacularMandarin": "你可能會反駁:「但他是個攔路強盜,他殺過人!」這個又怎樣呢?就算他作為兇手,罪有應得受到這樣的懲罰,但你,可憐的老兄,又犯了甚麼罪,要遭受坐在那裡看這場表演的懲罰呢?"
+        },
+        {
+          "id": "s5-9",
+          "title": "觀眾清晨大叫「殺咗佢!鞭佢!燒佢!」——中場休息都要加多場割喉",
+          "original": "In the morning they cried “Kill him! Lash him! Burn him! Why does he meet the sword in so cowardly a way? Why does he strike so feebly? Why doesn’t he die game? Whip him to meet his wounds! Let them receive blow for blow, with chests bare and exposed to the stroke!” And when the games stop for the intermission, they announce: “A little throat-cutting in the meantime, so that there may still be something going on!”",
+          "vernacular": "清晨嗰陣,佢哋大叫:「殺咗佢!鞭佢!燒佢!佢點解咁怯懦咁樣接劍?佢點解揮得咁有氣無力?佢點解唔轟轟烈烈咁死?鞭到佢自己撲埋去捱傷!等佢哋赤裸胸膛,互相對捱一劍又一劍!」而當表演暫停,進入中場休息嗰陣,佢哋就宣佈:「不如加插少少割喉,等到時都仲有節目睇住先!」",
+          "vernacularMandarin": "清晨的時候,他們大叫:「殺了他!鞭他!燒他!他為甚麼這麼怯懦地接劍?他為甚麼揮得這麼有氣無力?他為甚麼不轟轟烈烈地死?鞭到他自己撲過去捱傷!讓他們赤裸胸膛,互相對捱一劍又一劍!」而當表演暫停,進入中場休息的時候,他們就宣佈:「不如加插一點割喉,好等到時還有節目看著先!」"
+        },
+        {
+          "id": "s5-10",
+          "title": "壞榜樣會反噬施加嘅人——你竟然教緊一個學唔識殘忍嘅人變得殘忍",
+          "original": "Come now; do you not understand even this truth, that a bad example reacts on the agent? Thank the immortal gods that you are teaching cruelty to a person who cannot learn to be cruel.",
+          "vernacular": "嚟啦,你連呢個道理都唔明白咩——壞榜樣會反噬施加佢嘅人本身?你要感謝眾神,因為你而家正教緊一個學唔識殘忍嘅人,變得殘忍。",
+          "vernacularMandarin": "來吧,你連這個道理都不明白嗎——壞榜樣會反噬施加它的人本身?你要感謝眾神,因為你現在正教著一個學不會殘忍的人,變得殘忍。"
+        },
+        {
+          "id": "s5-11",
+          "title": "冇乜嘢比跟從大多數更加容易——就連蘇格拉底加圖萊利烏斯都可能受動搖",
+          "original": "The young character, which cannot hold fast to righteousness, must be rescued from the mob; it is too easy to side with the majority. Even Socrates, Cato, and Laelius might have been shaken in their moral strength by a crowd that was unlike them; so true it is that none of us, no matter how much he cultivates his abilities, can withstand the shock of faults that approach, as it were, with so great a retinue.",
+          "vernacular": "一顆仲未堅守得住正義嘅年輕心靈,一定要由群眾之中拯救出嚟;跟從大多數係一件太過容易嘅事。就連蘇格拉底、加圖同萊利烏斯呢啲人,都有可能俾一群同佢哋格格不入嘅人動搖咗自己嘅道德力量——所以無論一個人幾咁修養自己嘅品德,都冇一個人可以抵擋得住,一大群罪惡蜂擁而至嘅衝擊。",
+          "vernacularMandarin": "一顆還未堅守得住正義的年輕心靈,一定要從群眾之中拯救出來;跟從大多數是一件太過容易的事。就連蘇格拉底、加圖同萊利烏斯這些人,都有可能被一群同他們格格不入的人動搖了自己的道德力量——所以無論一個人多麼修養自己的品德,都沒有一個人可以抵擋得住,一大群罪惡蜂擁而至的衝擊。"
+        },
+        {
+          "id": "s5-12",
+          "title": "一次放縱貪婪都可以造成好大傷害;世俗成群結隊嚟襲擊,品格又點會唔受影響",
+          "original": "Much harm is done by a single case of indulgence or greed; the familiar friend, if he be luxurious, weakens and softens us imperceptibly; the neighbour, if he be rich, rouses our covetousness; the companion, if he be slanderous, rubs off some of his rust upon us, even though we be spotless and sincere. What then do you think the effect will be on character, when the world at large assaults it! You must either imitate or loathe the world.",
+          "vernacular": "單單一次放縱或者貪婪嘅例子,就可以造成好大嘅傷害;一個奢華嘅密友,會喺不知不覺間軟化、消磨我哋嘅意志;一個富有嘅鄰居,會挑起我哋嘅貪念;一個愛講是非嘅同伴,就算我哋自己清白真誠,都會令佢身上嘅銹跡沾染到我哋身上。咁樣,當世俗大眾成群結隊嚟襲擊品格嗰陣,你諗吓影響會有幾大呢!你要麼跟從世俗,要麼厭棄世俗——二揀一。",
+          "vernacularMandarin": "單單一次放縱或者貪婪的例子,就可以造成很大的傷害;一個奢華的密友,會在不知不覺間軟化、消磨我們的意志;一個富有的鄰居,會挑起我們的貪念;一個愛講是非的同伴,就算我們自己清白真誠,都會令他身上的鏽跡沾染到我們身上。這樣,當世俗大眾成群結隊來襲擊品格的時候,你想想影響會有多大呢!你要麼跟從世俗,要麼厭棄世俗——二選一。"
+        },
+        {
+          "id": "s5-13",
+          "title": "但呢兩條路都要避免——唔好因為壞人多就跟隨,亦都唔好因為佢哋唔同就憎恨",
+          "original": "But both courses are to be avoided; you should not copy the bad simply because they are many, nor should you hate the many because they are unlike you. Withdraw into yourself, as far as you can. Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach.",
+          "vernacular": "但呢兩條路都應該避免;你唔應該因為壞人數目多就去模仿佢哋,亦都唔應該因為大眾同你唔同就憎恨佢哋。要盡量退返入自己嘅內心。同嗰啲可以令你成為更好嘅人交往,亦都歡迎嗰啲你可以令佢哋變好嘅人。呢個過程係相互嘅——因為人喺教嘅同時,自己都會學到嘢。",
+          "vernacularMandarin": "但這兩條路都應該避免;你不應該因為壞人數目多就去模仿他們,也不應該因為大眾同你不同就憎恨他們。要盡量退回入自己的內心。同那些可以令你成為更好的人交往,也歡迎那些你可以令他們變好的人。這個過程是相互的——因為人在教的同時,自己都會學到東西。"
+        },
+        {
+          "id": "s5-14",
+          "title": "唔使為咗炫耀自己嘅才能而誘使自己走向公開場合",
+          "original": "There is no reason why pride in advertising your abilities should lure you into publicity, so that you should desire to recite or harangue before the general public. Of course I should be willing for you to do so if you had a stock-in-trade that suited such a mob; as it is, there is not a man of them who can understand you. One or two individuals will perhaps come in your way, but even these will have to be moulded and trained by you so that they will understand you.",
+          "vernacular": "你唔使因為想炫耀自己嘅才能,而誘使自己渴望喺大眾面前朗誦或者演說。如果你有適合呢班群眾嘅本錢,我固然樂意你咁做;但事實係,佢哋之中冇一個人可以明白你。或者一兩個人會出現喺你嘅路途上,但就算係呢啲人,都要經過你嘅塑造同教導先至可以明白你。",
+          "vernacularMandarin": "你不用因為想炫耀自己的才能,而誘使自己渴望在大眾面前朗誦或者演說。如果你有適合這班群眾的本錢,我固然樂意你這樣做;但事實是,他們之中沒有一個人可以明白你。或者一兩個人會出現在你的路途上,但就算是這些人,都要經過你的塑造同教導才可以明白你。"
+        },
+        {
+          "id": "s5-15",
+          "title": "你可能會問:我學呢一切到底係為咗乜?——你唔使驚自己白費咗心機,因為你係為咗自己而學",
+          "original": "You may say: “For what purpose did I learn all these things?” But you need not fear that you have wasted your efforts; it was for yourself that you learned them.",
+          "vernacular": "你可能會問:「我學呢一切究竟係為咗乜呢?」但你唔使驚自己嘅努力白費咗;因為你學呢一切,係為咗你自己。",
+          "vernacularMandarin": "你可能會問:「我學這一切究竟是為了甚麼呢?」但你不用怕自己的努力白費了;因為你學這一切,是為了你自己。"
+        },
+        {
+          "id": "s5-16",
+          "title": "為咗唔令自己今日淨係為自己而學,等我同你分享三句妙語——德謨克利特話",
+          "original": "In order, however, that I may not to-day have learned exclusively for myself, I shall share with you three excellent sayings, of the same general purport, which have come to my attention. This letter will give you one of them as payment of my debt; the other two you may accept as a contribution in advance. Democritus says: “One man means as much to me as a multitude, and a multitude only as much as one man.”",
+          "vernacular": "不過,為咗唔令自己今日淨係為咗自己而學,我要同你分享三句傳入我耳中、主旨相近嘅妙語。呢封信會俾你其中一句,權當還返我嘅債;另外兩句,你就當係預支俾你嘅一份餽贈。德謨克利特話:「一個人對我嚟講,就等於一整個群眾;一整個群眾對我嚟講,亦都不過等於一個人。」",
+          "vernacularMandarin": "不過,為了不令自己今日只是為了自己而學,我要同你分享三句傳入我耳中、主旨相近的妙語。這封信會給你其中一句,權當還回我的債;另外兩句,你就當是預支給你的一份餽贈。德謨克利特說:「一個人對我來說,就等於一整個群眾;一整個群眾對我來說,也不過等於一個人。」"
+        },
+        {
+          "id": "s5-17",
+          "title": "另一句唔知邊個講嘅名言:我滿足於少數,滿足於一個,甚至滿足於一個都冇",
+          "original": "The following also was nobly spoken by someone or other, for it is doubtful who the author was; they asked him what was the object of all this study applied to an art that would reach but very few. He replied: “I am content with few, content with one, content with none at all.”",
+          "vernacular": "仲有以下呢句都講得好高尚,只不過我哋唔清楚係邊個講嘅;有人問佢,將呢一切學問投放喺一門只有極少數人能夠領略嘅技藝之上,目的到底係咩。佢回答話:「我滿足於少數,滿足於一個,甚至滿足於一個都冇。」",
+          "vernacularMandarin": "還有以下這句都講得好高尚,只不過我們不清楚是誰講的;有人問他,把這一切學問投放在一門只有極少數人能夠領略的技藝之上,目的到底是甚麼。他回答說:「我滿足於少數,滿足於一個,甚至滿足於一個都沒有。」"
+        },
+        {
+          "id": "s5-18",
+          "title": "伊壁鳩魯寫俾同窗嘅第三句話:我寫呢啲唔係為咗多數人,而係為咗你",
+          "original": "The third saying—and a noteworthy one, too—is by Epicurus, written to one of the partners of his studies: “I write this not for the many, but for you; each of us is enough of an audience for the other.”",
+          "vernacular": "第三句話——同樣值得留意——係伊壁鳩魯寫俾佢其中一位同窗嘅:「我寫呢啲,唔係為咗多數人,而係為咗你;我哋每一個人,對於對方嚟講,都已經足夠成為一位聽眾。」",
+          "vernacularMandarin": "第三句話——同樣值得留意——是伊壁鳩魯寫給他其中一位同窗的:「我寫這些,不是為了多數人,而是為了你;我們每一個人,對於對方來說,都已經足夠成為一位聽眾。」"
+        },
+        {
+          "id": "s5-19",
+          "title": "盧齊利烏斯,將呢啲話牢記在心,鄙視多數人掌聲帶嚟嘅快感;你嘅美德應該向內",
+          "original": "Lay these words to heart, Lucilius, that you may scorn the pleasure which comes from the applause of the majority. Many men praise you; but have you any reason for being pleased with yourself, if you are a person whom the many can understand? Your good qualities should face inwards. Farewell.",
+          "vernacular": "盧齊利烏斯,將呢啲話牢記在心,等你可以鄙視由多數人掌聲而嚟嘅快感。好多人讚美你;但如果你係一個連多數人都可以理解嘅人,你又有咩理由為此而沾沾自喜呢?你嘅美德應該係向內嘅。珍重。",
+          "vernacularMandarin": "盧齊利烏斯,把這些話牢記在心,好讓你可以鄙視由多數人掌聲而來的快感。很多人讚美你;但如果你是一個連多數人都可以理解的人,你又有甚麼理由為此而沾沾自喜呢?你的美德應該是向內的。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c6",
+      "title": "Letter IX: On Philosophy and Friendship 論哲學與友誼",
+      "passages": [
+        {
+          "id": "s6-1",
+          "title": "你想知道伊壁鳩魯係咪啱——佢喺信入面批評「智者自足所以唔需要朋友」呢個講法",
+          "original": "You desire to know whether Epicurus is right when, in one of his letters, he rebukes those who hold that the wise man is self-sufficient and for that reason does not stand in need of friendships.",
+          "vernacular": "你想知道,伊壁鳩魯喺佢其中一封信入面嘅講法係咪啱——佢喺嗰度批評嗰啲認為智者係自給自足、因此唔需要友誼嘅人。",
+          "vernacularMandarin": "你想知道,伊壁鳩魯在他其中一封信裡面的講法是否正確——他在那裡批評那些認為智者是自給自足、因此不需要友誼的人。"
+        },
+        {
+          "id": "s6-2",
+          "title": "呢個係伊壁鳩魯針對斯提爾波同認為至善係麻木不仁嘅靈魂嗰啲人所提出嘅反駁",
+          "original": "This is the objection raised by Epicurus against Stilbo and those who believe that the Supreme Good is a soul which is insensible to feeling.",
+          "vernacular": "呢個正正係伊壁鳩魯提出反對斯提爾波、以及嗰啲相信「至善就係一顆對感受麻木不仁嘅靈魂」嘅人嘅論點。",
+          "vernacularMandarin": "這正正是伊壁鳩魯提出反對斯提爾波、以及那些相信「至善就是一顆對感受麻木不仁的靈魂」的人的論點。"
+        },
+        {
+          "id": "s6-3",
+          "title": "希臘文「冇感覺」呢個詞,一譯做拉丁文就會有歧義",
+          "original": "We are bound to meet with a double meaning if we try to express the Greek term “lack of feeling” summarily, in a single word, rendering it by the Latin word impatientia. For it may be understood in the meaning the opposite to that which we wish it to have.",
+          "vernacular": "如果我哋想將希臘文「冇感覺」呢個詞,簡單咁譯做拉丁文嘅「麻木」一個詞,就一定會惹起歧義。因為呢個詞可能會被理解成同我哋原意相反嘅意思。",
+          "vernacularMandarin": "如果我們想把希臘文「沒感覺」這個詞,簡單地譯做拉丁文的「麻木」一個詞,就一定會惹起歧義。因為這個詞可能會被理解成同我們原意相反的意思。"
+        },
+        {
+          "id": "s6-4",
+          "title": "我哋想表達嘅係:靈魂唔接受任何惡嘅感受——但人哋會誤解為靈魂承受唔到任何惡",
+          "original": "What we mean to express is, a soul which rejects any sensation of evil; but people will interpret the idea as that of a soul which can endure no evil. Consider, therefore, whether it is not better to say “a soul that cannot be harmed,” or “a soul entirely beyond the realm of suffering.”",
+          "vernacular": "我哋原本想表達嘅係:一顆拒絕接受任何惡嘅感受嘅靈魂;但人哋卻會將呢個意念,理解成一顆承受唔到任何惡嘅靈魂。所以,不如諗吓,講「一顆傷害唔到嘅靈魂」,或者「一顆完全超脫於苦難之外嘅靈魂」,係咪更加好呢?",
+          "vernacularMandarin": "我們原本想表達的是:一顆拒絕接受任何惡的感受的靈魂;但人們卻會把這個意念,理解成一顆承受不了任何惡的靈魂。所以,不如想想,講「一顆傷害不到的靈魂」,或者「一顆完全超脫於苦難之外的靈魂」,是否更加好呢?"
+        },
+        {
+          "id": "s6-5",
+          "title": "我哋同另一派嘅分別:我哋嘅智者感受到煩惱但克服佢,佢哋嘅智者根本感受唔到",
+          "original": "There is this difference between ourselves and the other school: our ideal wise man feels his troubles, but overcomes them; their wise man does not even feel them. But we and they alike hold this idea,—that the wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.",
+          "vernacular": "我哋同另一派之間有呢個分別:我哋理想中嘅智者會感受到自己嘅煩惱,但克服咗佢哋;而佢哋嘅智者,連感受都感受唔到。但我哋兩派都同樣持有呢個睇法——就係智者係自給自足嘅。然而,無論佢幾咁自給自足,佢都仍然渴求朋友、鄰居同同伴。",
+          "vernacularMandarin": "我們同另一派之間有這個分別:我們理想中的智者會感受到自己的煩惱,但克服了它們;而他們的智者,連感受都感受不到。但我們兩派都同樣持有這個看法——就是智者是自給自足的。然而,無論他多麼自給自足,他都仍然渴求朋友、鄰居同同伴。"
+        },
+        {
+          "id": "s6-6",
+          "title": "睇吓佢幾咁自給自足——就算失去自己嘅一部分,佢都可以滿足",
+          "original": "And mark how self-sufficient he is; for on occasion he can be content with a part of himself. If he lose a hand through disease or war, or if some accident puts out one or both of his eyes, he will be satisfied with what is left, taking as much pleasure in his impaired and maimed body as he took when it was sound.",
+          "vernacular": "睇吓佢自給自足到咩程度——喺某啲情況下,佢甚至可以滿足於自己嘅一部分。如果佢因病或者因戰爭而失去一隻手,或者因為意外而失去一隻或者兩隻眼睛,佢都會滿足於剩返嘅嘢,同佢身體健全嗰陣一樣咁樂在其中。",
+          "vernacularMandarin": "看看他自給自足到甚麼程度——在某些情況下,他甚至可以滿足於自己的一部分。如果他因病或者因戰爭而失去一隻手,或者因為意外而失去一隻或者兩隻眼睛,他都會滿足於剩下的東西,同他身體健全的時候一樣地樂在其中。"
+        },
+        {
+          "id": "s6-7",
+          "title": "雖然佢冇咗呢啲肢體唔會惋惜,但佢都情願唔好失去佢哋;佢可以承受失去朋友,唔代表佢想冇朋友",
+          "original": "But while he does not pine for these parts if they are missing, he prefers not to lose them. In this sense the wise man is self-sufficient, that he can do without friends, not that he desires to do without them. When I say “can,” I mean this: he endures the loss of a friend with equanimity.",
+          "vernacular": "但雖然佢冇咗呢啲部分都唔會苦苦哀悼,佢都寧願唔好失去佢哋。智者嘅自給自足,係喺呢個意義上嚟講嘅:佢可以冇朋友,而唔係佢想冇朋友。我講「可以」嘅意思係:佢可以泰然自若咁承受失去朋友嘅痛苦。",
+          "vernacularMandarin": "但雖然他沒了這些部分都不會苦苦哀悼,他都寧願不要失去它們。智者的自給自足,是在這個意義上來說的:他可以沒有朋友,而不是他想沒有朋友。我說「可以」的意思是:他可以泰然自若地承受失去朋友的痛苦。"
+        },
+        {
+          "id": "s6-8",
+          "title": "但佢永遠都唔會缺乏朋友,因為幾快可以填補一個損失,操之在佢自己;好似菲迪亞斯咁,可以即刻再雕一座雕像",
+          "original": "But he need never lack friends, for it lies in his own control how soon he shall make good a loss. Just as Phidias, if he lose a statue, can straightway carve another, even so our master in the art of making friendships can fill the place of a friend he has lost.",
+          "vernacular": "但佢永遠都唔會缺少朋友,因為幾快可以彌補一個損失,操之在佢自己手中。正如菲迪亞斯如果失去一座雕像,可以即刻再雕一座咁,我哋呢位深諳結交朋友之道嘅大師,都可以填補返自己失去咗嘅朋友嘅位置。",
+          "vernacularMandarin": "但他永遠都不會缺少朋友,因為多快可以彌補一個損失,操之在他自己手中。正如菲迪亞斯如果失去一座雕像,可以立刻再雕一座那樣,我們這位深諳結交朋友之道的大師,都可以填補回自己失去了的朋友的位置。"
+        },
+        {
+          "id": "s6-9",
+          "title": "點樣可以迅速結交一位朋友?赫卡托話:呢個唔使用藥物草藥或者巫術——想得人愛,你就去愛",
+          "original": "If you ask how one can make oneself a friend quickly, I will tell you, provided we are agreed that I may pay my debt at once and square the account, so far as this letter is concerned. Hecato says: “I can show you a philtre, compounded without drugs, herbs, or any witch’s incantation: ‘If you would be loved, love.’”",
+          "vernacular": "如果你問我,一個人點樣可以迅速咁令自己交到一位朋友,我會話你知——只要我哋講定,咁我就可以即時還清呢封信嘅債。赫卡托話:「我可以話俾你知一種迷魂藥,唔使用藥物、唔使用草藥、唔使用任何巫婆嘅咒語:『你想俾人愛,你就去愛。』」",
+          "vernacularMandarin": "如果你問我,一個人怎樣可以迅速地令自己交到一位朋友,我會告訴你——只要我們講定,那我就可以即時還清這封信的債。赫卡托說:「我可以告訴你一種迷魂藥,不用藥物、不用草藥、不用任何巫婆的咒語:『你想被人愛,你就去愛。』」"
+        },
+        {
+          "id": "s6-10",
+          "title": "維繫舊有嘅友誼固然快樂,開展同結交新友誼都一樣有極大嘅樂趣",
+          "original": "Now there is great pleasure, not only in maintaining old and established friendships, but also in beginning and acquiring new ones. There is the same difference between winning a new friend and having already won him, as there is between the farmer who sows and the farmer who reaps.",
+          "vernacular": "維繫一段古老嘅、既定嘅友誼固然係一大樂事,但開展同結交新嘅友誼,一樣都有極大嘅樂趣。贏得一位新朋友,同已經贏得咗一位朋友之間嘅分別,就好似農夫播種同農夫收成之間嘅分別咁。",
+          "vernacularMandarin": "維繫一段古老的、既定的友誼固然是一大樂事,但開展同結交新的友誼,一樣都有極大的樂趣。贏得一位新朋友,同已經贏得了一位朋友之間的分別,就好似農夫播種同農夫收成之間的分別那樣。"
+        },
+        {
+          "id": "s6-11",
+          "title": "哲學家阿塔洛斯話:結交朋友嘅過程比已經擁有朋友更加快樂,好似畫家享受畫緊畫多過完成咗幅畫",
+          "original": "The philosopher Attalus used to say: “It is more pleasant to make than to keep a friend, as it is more pleasant to the artist to paint than to have finished painting.” When one is busy and absorbed in one’s work, the very absorption affords great delight; but when one has withdrawn one’s hand from the completed masterpiece, the pleasure is not so keen.",
+          "vernacular": "哲學家阿塔洛斯以前成日話:「結交朋友嘅過程,比已經擁有一位朋友更加令人快樂,正如畫家享受畫緊一幅畫,多過已經畫完呢幅畫咁。」當一個人忙碌並全神貫注喺自己嘅工作嗰陣,呢種投入本身就俾佢帶嚟極大嘅愉悅;但當佢由完成咗嘅傑作度縮返隻手,呢種快感就冇咁強烈。",
+          "vernacularMandarin": "哲學家阿塔洛斯以前常常說:「結交朋友的過程,比已經擁有一位朋友更加令人快樂,正如畫家享受畫著一幅畫,多過已經畫完這幅畫那樣。」當一個人忙碌並全神貫注在自己的工作時,這種投入本身就給他帶來極大的愉悅;但當他從完成了的傑作那裡縮回手,這種快感就沒那麼強烈。"
+        },
+        {
+          "id": "s6-12",
+          "title": "由此開始,佢享受嘅係自己技藝嘅成果;繪畫嗰陣享受嘅係技藝本身——正如子女,青年時期收穫更豐,但童年更加甜蜜",
+          "original": "Henceforth it is the fruits of his art that he enjoys; it was the art itself that he enjoyed while he was painting. In the case of our children, their young manhood yields the more abundant fruits, but their infancy was sweeter.",
+          "vernacular": "由呢一刻開始,佢所享受嘅係自己技藝嘅成果;但喺作畫嗰陣,佢享受嘅係技藝本身。正如我哋嘅子女咁,佢哋嘅青年時期帶嚟更加豐盛嘅成果,但佢哋嘅童年就更加甜蜜。",
+          "vernacularMandarin": "由這一刻開始,他所享受的是自己技藝的成果;但在作畫的時候,他享受的是技藝本身。正如我們的子女那樣,他們的青年時期帶來更加豐盛的成果,但他們的童年就更加甜蜜。"
+        },
+        {
+          "id": "s6-13",
+          "title": "返返去問題本身——智者雖然自給自足,但佢渴求朋友,係為咗實踐友誼,唔好令自己高尚嘅品質沉睡",
+          "original": "Let us now return to the question. The wise man, I say, self-sufficient though he be, nevertheless desires friends if only for the purpose of practising friendship, in order that his noble qualities may not lie dormant.",
+          "vernacular": "而家返返去我哋嘅問題。我話,智者雖然自給自足,佢仍然渴求朋友——單單係為咗實踐友誼呢件事,以免自己高尚嘅品質長期閒置、沉睡不用。",
+          "vernacularMandarin": "現在回到我們的問題。我說,智者雖然自給自足,他仍然渴求朋友——單單是為了實踐友誼這件事,以免自己高尚的品質長期閒置、沉睡不用。"
+        },
+        {
+          "id": "s6-14",
+          "title": "唔係伊壁鳩魯所講嗰種目的——想有人喺自己病嗰陣坐喺身邊、有人幫自己脫困——而係想自己可以坐喺人哋病榻邊",
+          "original": "Not, however, for the purpose mentioned by Epicurus in the letter quoted above: “That there may be someone to sit by him when he is ill, to help him when he is in prison or in want;” but that he may have someone by whose sick-bed he himself may sit, someone a prisoner in hostile hands whom he himself may set free.",
+          "vernacular": "但佢渴求朋友,並唔係為咗伊壁鳩魯喺上面引述嗰封信入面所講嘅目的:「等自己病倒嗰陣有人陪喺身邊,等自己身陷囹圄或者窮困嗰陣有人幫手」;而係想自己可以坐喺人哋嘅病榻邊,想自己可以釋放一個落入敵手嘅囚徒。",
+          "vernacularMandarin": "但他渴求朋友,並不是為了伊壁鳩魯在上面引述那封信裡面所講的目的:「讓自己病倒時有人陪在身邊,讓自己身陷囹圄或者窮困時有人幫手」;而是想自己可以坐在別人的病榻邊,想自己可以釋放一個落入敵手的囚徒。"
+        },
+        {
+          "id": "s6-15",
+          "title": "只顧自己嘅人,結交朋友嘅出發點就錯咗——一旦鎖鏈叮噹一響,呢種朋友就會離棄你",
+          "original": "He who regards himself only, and enters upon friendships for this reason, reckons wrongly. The end will be like the beginning: he has made friends with one who might assist him out of bondage; at the first rattle of the chain such a friend will desert him.",
+          "vernacular": "一個只顧自己、單純為此結交朋友嘅人,盤算根本就係錯嘅。結局都會好似開端一樣:佢結交嘅朋友,係為咗喺自己身陷困境嗰陣可以幫手嘅人;一旦鎖鏈叮噹一響,呢種朋友就會即刻棄佢而去。",
+          "vernacularMandarin": "一個只顧自己、單純為此結交朋友的人,盤算根本就是錯的。結局都會好似開端一樣:他結交的朋友,是為了在自己身陷困境時可以幫手的人;一旦鎖鏈叮噹一響,這種朋友就會立刻棄他而去。"
+        },
+        {
+          "id": "s6-16",
+          "title": "呢啲就係所謂「見風轉舵」嘅友誼——為咗利益而結交嘅朋友,只會喺有利用價值嗰陣先滿意",
+          "original": "These are the so-called “fair-weather” friendships; one who is chosen for the sake of utility will be satisfactory only so long as he is useful. Hence prosperous men are blockaded by troops of friends; but those who have failed stand amid vast loneliness, their friends fleeing from the very crisis which is to test their worth.",
+          "vernacular": "呢啲就係所謂嘅「見風轉舵」友誼——一個純粹因為有用而被揀選嘅朋友,只會喺佢仍然有用嘅時候先至令人滿意。所以得意嘅人身邊,成日圍住一大班朋友;但失意嘅人身邊,就會變得極度孤獨——因為朋友哋一遇到真正考驗友誼價值嘅危機,就會四散逃離。",
+          "vernacularMandarin": "這些就是所謂的「見風轉舵」友誼——一個純粹因為有用而被選中的朋友,只會在他仍然有用的時候才令人滿意。所以得意的人身邊,常常圍住一大班朋友;但失意的人身邊,就會變得極度孤獨——因為朋友們一遇到真正考驗友誼價值的危機,就會四散逃離。"
+        },
+        {
+          "id": "s6-17",
+          "title": "所以我哋見到咁多因為驚而背叛出賣嘅可恥例子——開始同結局必然一致,因利而來,亦都因利而去",
+          "original": "Hence, also, we notice those many shameful cases of persons who, through fear, desert or betray. The beginning and the end cannot but harmonize. He who begins to be your friend because it pays will also cease because it pays. A man will be attracted by some reward offered in exchange for his friendship, if he be attracted by aught in friendship other than friendship itself.",
+          "vernacular": "所以我哋亦都會見到,好多因為恐懼而背叛或者出賣朋友嘅可恥例子。開端同結局,必然會互相呼應。一個因為有利可圖而開始同你做朋友嘅人,都會因為冇利可圖而終止呢段友誼。如果一個人喺友誼之外仲被其他利益所吸引,佢就會被人以某種利益嚟交換佢嘅友誼。",
+          "vernacularMandarin": "所以我們也會見到,很多因為恐懼而背叛或者出賣朋友的可恥例子。開端同結局,必然會互相呼應。一個因為有利可圖而開始同你做朋友的人,都會因為沒有利可圖而終止這段友誼。如果一個人在友誼之外還被其他利益所吸引,他就會被人以某種利益來交換他的友誼。"
+        },
+        {
+          "id": "s6-18",
+          "title": "咁我結交一個朋友到底係為乜?係為咗有個我可以為佢而死、伴佢流亡、押上自己性命嘅人",
+          "original": "For what purpose, then, do I make a man my friend? In order to have someone for whom I may die, whom I may follow into exile, against whose death I may stake my own life, and pay the pledge, too. The friendship which you portray is a bargain and not a friendship; it regards convenience only, and looks to the results.",
+          "vernacular": "咁樣,我結識一個人做朋友,到底係為咗乜呢?係為咗有一個我可以為佢而死、可以陪佢一齊流亡、可以為咗佢嘅性命而押上自己嘅性命嘅人,亦都真係會兌現呢個承諾。你所描述嘅友誼,只不過係一場交易,而唔係真正嘅友誼;佢只計較方便,只計較結果。",
+          "vernacularMandarin": "這樣,我結識一個人做朋友,到底是為了甚麼呢?是為了有一個我可以為他而死、可以陪他一起流亡、可以為了他的性命而押上自己的性命的人,也真的會兌現這個承諾。你所描述的友誼,只不過是一場交易,而不是真正的友誼;它只計較方便,只計較結果。"
+        },
+        {
+          "id": "s6-19",
+          "title": "戀人嘅感情肯定同友誼有幾分相似,可以叫做「瘋狂嘅友誼」;但有邊個人係為咗得益、升遷或者名聲而去愛呢?",
+          "original": "Beyond question the feeling of a lover has in it something akin to friendship; one might call it friendship run mad. But, though this is true, does anyone love for the sake of gain, or promotion, or renown?",
+          "vernacular": "毫無疑問,戀人嘅感情之中,總有幾分同友誼相似嘅嘢;有人甚至會叫佢做「瘋狂咗嘅友誼」。但雖然事實係咁,又有邊個人會為咗得益、為咗升遷,或者為咗名聲而去戀愛呢?",
+          "vernacularMandarin": "毫無疑問,戀人的感情之中,總有幾分同友誼相似的東西;有人甚至會叫它做「瘋狂了的友誼」。但雖然事實是這樣,又有誰會為了得益、為了升遷,或者為了名聲而去戀愛呢?"
+        },
+        {
+          "id": "s6-20",
+          "title": "純粹嘅愛,唔理會其他一切,以對美好事物嘅渴求點燃靈魂——咁為咩更加高尚嘅緣由,反而會產生卑劣嘅激情呢?",
+          "original": "Pure love, careless of all other things, kindles the soul with desire for the beautiful object, not without the hope of a return of the affection. What then? Can a cause which is more honourable produce a passion that is base?",
+          "vernacular": "純粹嘅愛,唔理會其他一切,單純以對美好事物嘅渴求嚟點燃靈魂——雖然唔會少咗對感情得到回應嘅盼望。咁又點樣呢?一個更加高尚嘅緣由,又點會產生一種卑劣嘅激情呢?",
+          "vernacularMandarin": "純粹的愛,不理會其他一切,單純以對美好事物的渴求來點燃靈魂——雖然不會少了對感情得到回應的盼望。那又怎樣呢?一個更加高尚的緣由,又怎會產生一種卑劣的激情呢?"
+        },
+        {
+          "id": "s6-21",
+          "title": "你可能會反駁話,我哋而家討論嘅唔係友誼應唔應該純粹為佢本身而追求——恰恰相反,呢個先至最急需論證",
+          "original": "You may retort: “We are not now discussing the question whether friendship is to be cultivated for its own sake.” On the contrary, nothing more urgently requires demonstration; for if friendship is to be sought for its own sake, he may seek it who is self-sufficient.",
+          "vernacular": "你可能會反駁話:「我哋而家討論緊嘅,並唔係友誼是否應該純粹為咗佢本身而培養呢個問題。」恰恰相反,冇一樣嘢比呢個更加急需論證嘅喇;因為如果友誼真係應該純粹為咗佢本身而追求,咁一個自給自足嘅人都可以去追求佢。",
+          "vernacularMandarin": "你可能會反駁說:「我們現在討論著的,並不是友誼是否應該純粹為了它本身而培養這個問題。」恰恰相反,沒有一樣東西比這個更加急需論證的了;因為如果友誼真的應該純粹為了它本身而追求,那麼一個自給自足的人都可以去追求它。"
+        },
+        {
+          "id": "s6-22",
+          "title": "咁佢會點樣追求呢?就好似追求一件極美嘅事物咁——唔係因為貪利,亦都唔係因為驚命運無常",
+          "original": "“How, then,” you ask, “does he seek it?” Precisely as he seeks an object of great beauty, not attracted to it by desire for gain, nor yet frightened by the instability of Fortune. One who seeks friendship for favourable occasions, strips it of all its nobility.",
+          "vernacular": "「咁樣,」你會問,「佢又會點樣去追求呢?」答案係:正正好似佢追求一件極致美麗嘅事物咁——唔係因為貪求得益而被吸引,亦都唔係因為驚怕命運嘅無常而卻步。一個為咗有利時機先至去追求友誼嘅人,已經剝奪咗友誼嘅全部高尚。",
+          "vernacularMandarin": "「這樣,」你會問,「他又會怎樣去追求呢?」答案是:正正好似他追求一件極致美麗的事物那樣——不是因為貪求得益而被吸引,也不是因為害怕命運的無常而卻步。一個為了有利時機才去追求友誼的人,已經剝奪了友誼的全部高尚。"
+        },
+        {
+          "id": "s6-23",
+          "title": "「智者自給自足」呢句話,好多人都解錯咗——佢哋將智者由世界之中抽離,迫佢困喺自己嘅軀殼入面",
+          "original": "“The wise man is self-sufficient.” This phrase, my dear Lucilius, is incorrectly explained by many; for they withdraw the wise man from the world, and force him to dwell within his own skin.",
+          "vernacular": "「智者係自給自足嘅。」我親愛嘅盧齊利烏斯,呢句話俾好多人都解錯咗;因為佢哋將智者由世界之中抽離出嚟,迫佢困守喺自己嘅軀殼之內。",
+          "vernacularMandarin": "「智者是自給自足的。」我親愛的盧齊利烏斯,這句話被很多人都解錯了;因為他們把智者從世界之中抽離出來,逼他困守在自己的軀殼之內。"
+        },
+        {
+          "id": "s6-24",
+          "title": "但要細心留意呢句話真正嘅意思同適用範圍:智者只係喺幸福嘅生存上自給自足,而唔係喺單純嘅生存上",
+          "original": "But we must mark with care what this sentence signifies and how far it applies; the wise man is sufficient unto himself for a happy existence, but not for mere existence. For he needs many helps towards mere existence; but for a happy existence he needs only a sound and upright soul, one that despises Fortune.",
+          "vernacular": "但我哋一定要細心留意呢句話所指嘅真正意思,同埋佢適用嘅範圍:智者只係喺追求幸福生存呢方面自給自足,而唔係喺單純嘅生存本身自給自足。因為喺單純嘅生存上,佢需要好多外在嘅幫助;但喺追求幸福生存呢方面,佢只需要一顆健全、正直、鄙視命運嘅靈魂就夠。",
+          "vernacularMandarin": "但我們一定要細心留意這句話所指的真正意思,以及它適用的範圍:智者只是在追求幸福生存這方面自給自足,而不是在單純的生存本身自給自足。因為在單純的生存上,他需要很多外在的幫助;但在追求幸福生存這方面,他只需要一顆健全、正直、鄙視命運的靈魂就夠。"
+        },
+        {
+          "id": "s6-25",
+          "title": "克呂西波有個講法:智者乜都唔缺,但又需要好多嘢;傻人乜都唔需要,因為唔識用,但佢卻乜都缺",
+          "original": "I should like also to state to you one of the distinctions of Chrysippus, who declares that the wise man is in want of nothing, and yet needs many things. “On the other hand,” he says, “nothing is needed by the fool, for he does not understand how to use anything, but he is in want of everything.”",
+          "vernacular": "我都想同你講講克呂西波嘅一個區分——佢話,智者乜都唔缺,但同時又需要好多嘢。「反過嚟講,」佢話,「傻人乜都唔需要,因為佢根本唔識運用任何嘢;但佢卻乜都缺。」",
+          "vernacularMandarin": "我也想同你講講克呂西波的一個區分——他說,智者甚麼都不缺,但同時又需要很多東西。「反過來講,」他說,「傻人甚麼都不需要,因為他根本不懂運用任何東西;但他卻甚麼都缺。」"
+        },
+        {
+          "id": "s6-26",
+          "title": "智者需要手、需要眼、需要好多日常必需品,但佢乜都唔缺——因為「缺乏」意味住必需,而智者冇任何必需嘅嘢",
+          "original": "The wise man needs hands, eyes, and many things that are necessary for his daily use; but he is in want of nothing. For want implies a necessity, and nothing is necessary to the wise man.",
+          "vernacular": "智者需要手、需要眼、需要好多日常生活嘅必需品;但佢乜都唔缺。因為「缺乏」呢個詞意味住一種必然性,而對智者嚟講,冇任何嘢係必然嘅。",
+          "vernacularMandarin": "智者需要手、需要眼、需要很多日常生活的必需品;但他甚麼都不缺。因為「缺乏」這個詞意味著一種必然性,而對智者來說,沒有任何東西是必然的。"
+        },
+        {
+          "id": "s6-27",
+          "title": "所以雖然佢自給自足,佢都仍然需要朋友;佢渴求盡可能多嘅朋友——但唔係為咗幸福生活,因為冇朋友佢都會幸福",
+          "original": "Therefore, although he is self-sufficient, yet he has need of friends. He craves as many friends as possible, not, however, that he may live happily; for he will live happily even without friends.",
+          "vernacular": "所以,雖然智者自給自足,但佢都仍然需要朋友。佢渴求盡量多嘅朋友——但唔係為咗令自己幸福咁樣生活,因為就算冇朋友,佢都一樣可以幸福咁生活。",
+          "vernacularMandarin": "所以,雖然智者自給自足,但他都仍然需要朋友。他渴求盡量多的朋友——但不是為了令自己幸福地生活,因為就算沒有朋友,他都一樣可以幸福地生活。"
+        },
+        {
+          "id": "s6-28",
+          "title": "至善並唔需要任何外在嘅實用輔助;佢係喺內心自行發展出嚟嘅——一旦向外索求,就開始受命運嘅擺弄",
+          "original": "The Supreme Good calls for no practical aids from outside; it is developed at home, and arises entirely within itself. If the good seeks any portion of itself from without, it begins to be subject to the play of Fortune.",
+          "vernacular": "至善並唔需要任何嚟自外界嘅實際幫助;佢係喺自己內心醞釀出嚟嘅,完全由自身之中萌生。如果善嘗試向外索取任何一部分,佢就開始受制於命運嘅擺弄。",
+          "vernacularMandarin": "至善並不需要任何來自外界的實際幫助;它是在自己內心醞釀出來的,完全由自身之中萌生。如果善嘗試向外索取任何一部分,它就開始受制於命運的擺弄。"
+        },
+        {
+          "id": "s6-29",
+          "title": "人哋可能會問:如果智者身陷囹圄、流落異邦、又冇朋友,佢嘅生活會係點呢?",
+          "original": "People may say: “But what sort of existence will the wise man have, if he be left friendless when thrown into prison, or when stranded in some foreign nation, or when delayed on a long voyage, or when cast upon a lonely shore?”",
+          "vernacular": "有人可能會問:「但如果一個智者身陷囹圄、又冇朋友相伴,或者流落異鄉、或者喺長途航海中受阻、或者被拋棄喺一個荒涼嘅海岸,佢嘅生存又會係點樣嘅呢?」",
+          "vernacularMandarin": "有人可能會問:「但如果一個智者身陷囹圄、又沒有朋友相伴,或者流落異鄉、或者在長途航海中受阻、或者被拋棄在一個荒涼的海岸,他的生存又會是怎樣的呢?」"
+        },
+        {
+          "id": "s6-30",
+          "title": "佢嘅一生會好似朱庇特咁——喺世界瓦解、諸神混沌之際,佢都可以退返入自己嘅內心,沉浸喺自己嘅思緒之中",
+          "original": "His life will be like that of Jupiter, who, amid the dissolution of the world, when the gods are confounded together and Nature rests for a space from her work, can retire into himself and give himself over to his own thoughts. In some such way as this the sage will act; he will retreat into himself, and live with himself.",
+          "vernacular": "佢嘅一生會好似朱庇特咁——當世界瓦解、諸神混作一團、自然亦都稍事休息嗰陣,佢都可以退返入自己內心,將自己完全交托俾自己嘅思緒。智者嘅所作所為亦都大致相似:佢會退返入自己內心,同自己相處。",
+          "vernacularMandarin": "他的一生會好似朱庇特那樣——當世界瓦解、諸神混作一團、自然也稍事休息的時候,他都可以退回入自己內心,把自己完全交託給自己的思緒。智者的所作所為也大致相似:他會退回入自己內心,同自己相處。"
+        },
+        {
+          "id": "s6-31",
+          "title": "只要佢仍然可以按自己嘅判斷安排事務,佢就係自給自足嘅——結婚、養育子女,佢都自給自足;但佢又冇辦法離開人類社會而生存",
+          "original": "As long as he is allowed to order his affairs according to his judgment, he is self-sufficient—and marries a wife; he is self-sufficient—and brings up children; he is self-sufficient—and yet could not live if he had to live without the society of man.",
+          "vernacular": "只要佢仍然被容許按照自己嘅判斷去安排事務,佢就係自給自足嘅——佢自給自足咁結婚,自給自足咁養育子女;但佢仍然冇辦法喺完全脫離人類社會嘅情況下生存落去。",
+          "vernacularMandarin": "只要他仍然被容許按照自己的判斷去安排事務,他就是自給自足的——他自給自足地結婚,自給自足地養育子女;但他仍然沒有辦法在完全脫離人類社會的情況下生存下去。"
+        },
+        {
+          "id": "s6-32",
+          "title": "推動佢走向友誼嘅,係自然嘅感召,而唔係自私嘅需要——正如我哋厭惡孤獨、渴求陪伴咁",
+          "original": "Natural promptings, and not his own selfish needs, draw him into friendships. For just as other things have for us an inherent attractiveness, so has friendship. As we hate solitude and crave society, as nature draws men to each other, so in this matter also there is an attraction which makes us desirous of friendship.",
+          "vernacular": "推動佢走向友誼嘅,係自然嘅內在感召,而唔係佢自私嘅需要。正如其他事物本身就對我哋有一種與生俱來嘅吸引力咁,友誼亦都係咁。正如我哋厭惡孤獨、渴求陪伴,正如自然本身就將人與人牽引埋一齊,喺呢件事上面,都有一種吸引力,令我哋渴求友誼。",
+          "vernacularMandarin": "推動他走向友誼的,是自然的內在感召,而不是他自私的需要。正如其他事物本身就對我們有一種與生俱來的吸引力那樣,友誼也是這樣。正如我們厭惡孤獨、渴求陪伴,正如自然本身就把人與人牽引在一起,在這件事上面,都有一種吸引力,令我們渴求友誼。"
+        },
+        {
+          "id": "s6-33",
+          "title": "但即使智者深愛朋友,佢仍然會講出斯提爾波曾經講過嘅話——一切嘅善都局限喺佢自己嘅本性之內",
+          "original": "Nevertheless, though the sage may love his friends dearly, often comparing them with himself, and putting them ahead of himself, yet all the good will be limited to his own being, and he will speak the words which were spoken by the very Stilbo whom Epicurus criticizes in his letter.",
+          "vernacular": "不過,雖然智者可能好深愛佢嘅朋友,成日將朋友同自己比較,甚至將朋友放喺自己之前,但一切嘅善,終究都局限喺佢自己嘅本性之內;佢會講出伊壁鳩魯喺信入面所批評嘅斯提爾波,曾經親口講過嘅話。",
+          "vernacularMandarin": "不過,雖然智者可能很深愛他的朋友,常常把朋友同自己比較,甚至把朋友放在自己之前,但一切的善,終究都局限在他自己的本性之內;他會講出伊壁鳩魯在信裡面所批評的斯提爾波,曾經親口講過的話。"
+        },
+        {
+          "id": "s6-34",
+          "title": "斯提爾波喺國破家亡、妻兒盡失之後,唯獨佢一人幸福咁行出頹垣敗瓦——被問到有冇失去啲乜,佢答:我啲財寶樣樣齊全",
+          "original": "For Stilbo, after his country was captured and his children and his wife lost, as he emerged from the general desolation alone and yet happy, spoke as follows to Demetrius, called Sacker of Cities because of the destruction he brought upon them, in answer to the question whether he had lost anything: “I have all my goods with me!”",
+          "vernacular": "斯提爾波喺自己嘅國家被攻陷、仔女同老婆都失去咗之後,獨個一人,喺一片頹垣敗瓦之中,竟然仍然快樂咁走出嚟;人稱「毀城者」嘅德米特里烏斯問佢有冇失去咩,佢咁樣答佢:「我嘅所有財寶,都仲喺我度!」",
+          "vernacularMandarin": "斯提爾波在自己的國家被攻陷、兒女同妻子都失去了之後,獨自一人,在一片頹垣敗瓦之中,竟然仍然快樂地走出來;人稱「毀城者」的德米特里烏斯問他有沒有失去甚麼,他這樣回答他:「我的所有財寶,都還在我這裡!」"
+        },
+        {
+          "id": "s6-35",
+          "title": "呢個先至係真正勇敢堅毅嘅人!敵人征服咗佢,但斯提爾波卻征服咗自己嘅征服者——「我一無所失!」——因為佢根本唔將可以被奪走嘅嘢當做係善",
+          "original": "There is a brave and stout-hearted man for you! The enemy conquered, but Stilbo conquered his conqueror. “I have lost nothing!” Aye, he forced Demetrius to wonder whether he himself had conquered after all. “My goods are all with me!” In other words, he deemed nothing that might be taken from him to be a good.",
+          "vernacular": "呢個先至真係一位勇敢堅毅嘅人!敵人固然征服咗佢,但斯提爾波卻征服咗自己嘅征服者。「我一啲都冇失去!」係嘅——佢仲逼到德米特里烏斯懷疑,到底最後係邊個先至係真正嘅勝利者。「我嘅財寶樣樣齊全!」換句話講,佢根本唔將任何可能被人奪走嘅嘢,視為一種善。",
+          "vernacularMandarin": "這才真是一位勇敢堅毅的人!敵人固然征服了他,但斯提爾波卻征服了自己的征服者。「我一點都沒有失去!」是的——他還逼到德米特里烏斯懷疑,到底最後是誰才是真正的勝利者。「我的財寶樣樣齊全!」換句話說,他根本不把任何可能被人奪走的東西,視為一種善。"
+        },
+        {
+          "id": "s6-36",
+          "title": "我哋會為咗某啲動物可以穿火而過都毫髮無損而驚嘆——但一個人可以喺刀劍戰火之中毫髮無傷咁走出嚟,又豈唔係更加令人驚嘆咩",
+          "original": "We marvel at certain animals because they can pass through fire and suffer no bodily harm; but how much more marvellous is a man who has marched forth unhurt and unscathed through fire and sword and devastation!",
+          "vernacular": "我哋會為咗某啲動物可以穿火而過都毫髮無損而感到驚嘆;但一個人可以喺刀劍戰火、同一片浩劫之中,毫髮無傷咁行出嚟,又豈唔係更加令人驚嘆嘅一件事咩!",
+          "vernacularMandarin": "我們會為了某些動物可以穿火而過都毫髮無損而感到驚嘆;但一個人可以在刀劍戰火、同一片浩劫之中,毫髮無傷地走出來,又豈不是更加令人驚嘆的一件事嗎!"
+        },
+        {
+          "id": "s6-37",
+          "title": "你而家明唔明白,征服一整個部族,竟然比征服一個人仲要容易?斯提爾波呢句話同斯多葛派不謀而合——因為智者自給自足",
+          "original": "Do you understand now how much easier it is to conquer a whole tribe than to conquer one man? This saying of Stilbo makes common ground with Stoicism; the Stoic also can carry his goods unimpaired through cities that have been burned to ashes; for he is self-sufficient. Such are the bounds which he sets to his own happiness.",
+          "vernacular": "你而家明唔明白,原來征服一整個部族,比征服一個人仲要容易呢?斯提爾波嘅呢番話,同斯多葛派嘅主張不謀而合;一個斯多葛派嘅智者,都一樣可以喺城市被焚燒成灰燼之後,將自己嘅財寶完好無缺咁帶走——因為佢係自給自足嘅。呢啲就係佢為自己嘅幸福所設下嘅界限。",
+          "vernacularMandarin": "你現在明不明白,原來征服一整個部族,比征服一個人還要容易呢?斯提爾波的這番話,同斯多葛派的主張不謀而合;一個斯多葛派的智者,都一樣可以在城市被焚燒成灰燼之後,把自己的財寶完好無缺地帶走——因為他是自給自足的。這些就是他為自己的幸福所設下的界限。"
+        },
+        {
+          "id": "s6-38",
+          "title": "唔好以為只有我哋呢一派先至講得出高尚嘅話——連批評斯提爾波嘅伊壁鳩魯自己,都講過類似嘅說話",
+          "original": "But you must not think that our school alone can utter noble words; Epicurus himself, the reviler of Stilbo, spoke similar language; put it down to my credit, though I have already wiped out my debt for the present day.",
+          "vernacular": "但你唔好以為,只有我哋呢一派先至講得出高尚嘅說話;就連批評斯提爾波嘅伊壁鳩魯本人,都講過類似嘅話——就算我今日嘅債已經還清,呢句話你都可以記喺我戶口入面。",
+          "vernacularMandarin": "但你不要以為,只有我們這一派才講得出高尚的話;就連批評斯提爾波的伊壁鳩魯本人,都講過類似的話——就算我今日的債已經還清,這句話你都可以記在我戶口裡面。"
+        },
+        {
+          "id": "s6-39",
+          "title": "伊壁鳩魯話:唔將自己所擁有嘅視為最豐盛嘅財富嘅人,就算做咗全世界嘅主人,都係不幸嘅",
+          "original": "He says: “Whoever does not regard what he has as most ample wealth, is unhappy, though he be master of the whole world.” Or, if the following seems to you a more suitable phrase,—for we must try to render the meaning and not the mere words: “A man may rule the world and still be unhappy, if he does not feel that he is supremely happy.”",
+          "vernacular": "佢話:「一個人唔將自己已經擁有嘅嘢,視為最豐盛嘅財富,咁就算佢係全世界嘅主人,都係不幸嘅。」又或者,如果下面呢句話你覺得更加貼切——因為我哋要努力傳達嘅係原意,而唔係字面本身——「一個人可以統治全世界,卻仍然不幸,如果佢唔覺得自己極度幸福嘅話。」",
+          "vernacularMandarin": "他說:「一個人不把自己已經擁有的東西,視為最豐盛的財富,那麼就算他是全世界的主人,都是不幸的。」又或者,如果下面這句話你覺得更加貼切——因為我們要努力傳達的是原意,而不是字面本身——「一個人可以統治全世界,卻仍然不幸,如果他不覺得自己極度幸福的話。」"
+        },
+        {
+          "id": "s6-40",
+          "title": "為咗令你知道呢種見解係放諸四海皆準嘅——係由自然本身所啟發嘅,你可以喺一位喜劇詩人嘅作品入面搵到呢句詩",
+          "original": "In order, however, that you may know that these sentiments are universal, suggested, of course, by Nature, you will find in one of the comic poets this verse: “Unblest is he who thinks himself unblest.”",
+          "vernacular": "但為咗令你知道,呢種見解係放諸四海而皆準、當然亦都係由自然本身所啟發嘅,你可以喺其中一位喜劇詩人嘅作品入面,搵到以下呢句詩:「一個人如果自認不幸,佢就係不幸嘅。」",
+          "vernacularMandarin": "但為了令你知道,這種見解是放諸四海而皆準、當然也是由自然本身所啟發的,你可以在其中一位喜劇詩人的作品裡面,找到以下這句詩:「一個人如果自認不幸,他就是不幸的。」"
+        },
+        {
+          "id": "s6-41",
+          "title": "因為如果你嘅處境喺你自己眼中都係差嘅,咁你嘅處境到底好唔好又有咩相干呢?",
+          "original": "For what does your condition matter, if it is bad in your own eyes? You may say: “What then? If yonder man, rich by base means, and yonder man, lord of many but slave of more, shall call themselves happy, will their own opinion make them happy?”",
+          "vernacular": "因為喺你自己眼中,如果你嘅處境已經係差嘅,咁你嘅處境到底好唔好,又有咩相干呢?你可能會問:「咁又點呢?如果嗰個人用卑劣嘅手段致富、自稱幸福,又或者嗰個統領住好多人、但又臣服於更多嘢嘅人,都自稱幸福,咁佢哋自己嘅睇法,會令佢哋真係幸福咩?」",
+          "vernacularMandarin": "因為在你自己眼中,如果你的處境已經是差的,那麼你的處境到底好不好,又有甚麼相干呢?你可能會問:「那又怎樣呢?如果那個人用卑劣的手段致富、自稱幸福,又或者那個統領著很多人、但又臣服於更多東西的人,都自稱幸福,那麼他們自己的看法,會令他們真的幸福嗎?」"
+        },
+        {
+          "id": "s6-42",
+          "title": "重要嘅唔係一個人講咩,而係佢感受到咩;唔係佢某一日嘅感受,而係佢一直以嚟嘅感受",
+          "original": "It matters not what one says, but what one feels; also, not how one feels on one particular day, but how one feels at all times.",
+          "vernacular": "重要嘅唔係一個人講咗啲乜,而係佢真正感受到啲乜;亦都唔係佢某一日嘅感受係點,而係佢一直以嚟嘅感受係點。",
+          "vernacularMandarin": "重要的不是一個人講了些甚麼,而是他真正感受到些甚麼;也不是他某一日的感受是怎樣,而是他一直以來的感受是怎樣。"
+        },
+        {
+          "id": "s6-43",
+          "title": "只有智者先至會滿意自己所擁有嘅,愚蠢永遠都受自身嘅厭倦所困擾",
+          "original": "There is no reason, however, why you should fear that this great privilege will fall into unworthy hands; only the wise man is pleased with his own. Folly is ever troubled with weariness of itself. Farewell.",
+          "vernacular": "但你唔使擔心呢種偉大嘅特權會落入唔配得嘅人手上——只有智者先至會滿意自己所擁有嘅一切,愚蠢永遠都受自身嘅厭倦不安所困擾。珍重。",
+          "vernacularMandarin": "但你不用擔心這種偉大的特權會落入不配得的人手上——只有智者才會滿意自己所擁有的一切,愚蠢永遠都受自身的厭倦不安所困擾。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c7",
+      "title": "Letter XLVII: On Master and Slave 論主人與奴僕",
+      "passages": [
+        {
+          "id": "s7-1",
+          "title": "我好高興聽聞你同奴僕相處融洽,呢個正正配得上你呢種明理受過教育嘅人",
+          "original": "I am glad to learn, through those who come from you, that you live on friendly terms with your slaves. This befits a sensible and well-educated man like yourself.",
+          "vernacular": "我好高興,透過由你嗰度嚟嘅人,聽聞你同你嘅奴僕相處得好融洽。呢個正正配得上你呢種明理、受過良好教育嘅人。",
+          "vernacularMandarin": "我很高興,透過從你那裡來的人,聽聞你同你的奴僕相處得很融洽。這正正配得上你這種明理、受過良好教育的人。"
+        },
+        {
+          "id": "s7-2",
+          "title": "人哋話「佢哋係奴隸」——唔,佢哋係人;唔,佢哋係同伴;唔,佢哋係卑微嘅朋友;唔,佢哋係我哋嘅獄友",
+          "original": "“They are slaves,” people declare. Nay, rather they are men. “Slaves!” No, comrades. “Slaves!” No, they are unpretentious friends. “Slaves!” No, they are our fellow-slaves, if one reflects that Fortune has equal rights over slaves and free men alike.",
+          "vernacular": "「佢哋係奴隸。」人哋咁樣宣稱。唔,佢哋其實係人。「奴隸!」唔,佢哋係同伴。「奴隸!」唔,佢哋係樸實無華嘅朋友。「奴隸!」唔,如果你細想吓,命運對奴隸同對自由人擁有同等嘅權力,咁佢哋其實係我哋嘅獄中難友。",
+          "vernacularMandarin": "「他們是奴隸。」人們這樣宣稱。不,他們其實是人。「奴隸!」不,他們是同伴。「奴隸!」不,他們是樸實無華的朋友。「奴隸!」不,如果你細想一下,命運對奴隸同對自由人擁有同等的權力,那麼他們其實是我們的獄中難友。"
+        },
+        {
+          "id": "s7-3",
+          "title": "所以我對嗰啲覺得同奴僕一齊食飯係丟架嘅人,只能報以微笑——嗰啲不過係擺架子嘅禮節",
+          "original": "That is why I smile at those who think it degrading for a man to dine with his slave. But why should they think it degrading? It is only because purse-proud etiquette surrounds a householder at his dinner with a mob of standing slaves.",
+          "vernacular": "呢個就係點解我會對嗰啲認為同自己嘅奴僕一齊食飯係丟架嘅人,報以微笑。但佢哋點解會覺得咁樣丟架呢?只不過因為嗰種擺架子嘅禮節,喺主人食飯嗰陣,俾一大班企定定嘅奴僕包圍住佢。",
+          "vernacularMandarin": "這就是為甚麼我會對那些認為同自己的奴僕一起吃飯是丟臉的人,報以微笑。但他們為甚麼會覺得這樣丟臉呢?只不過因為那種擺架子的禮節,在主人吃飯的時候,被一大班站定定的奴僕包圍著他。"
+        },
+        {
+          "id": "s7-4",
+          "title": "主人食得比自己肚容量仲多,以驚人嘅貪婪撐大個肚,以致耗費更多氣力排出所有食物,多過塞落去嘅工夫",
+          "original": "The master eats more than he can hold, and with monstrous greed loads his belly until it is stretched and at length ceases to do the work of a belly; so that he is at greater pains to discharge all the food than he was to stuff it down.",
+          "vernacular": "主人食得比自己肚可以盛載嘅仲要多,佢以驚人嘅貪婪,將自己個肚撐到脹起,直到最後個肚完全做唔到自己嘅本份;結果佢要花費比塞落去仲要多嘅氣力,先至可以將所有食物排出嚟。",
+          "vernacularMandarin": "主人吃得比自己肚可以盛載的還要多,他以驚人的貪婪,把自己的肚撐到脹起,直到最後肚完全做不了自己的本份;結果他要花費比塞進去還要多的氣力,才可以把所有食物排出來。"
+        },
+        {
+          "id": "s7-5",
+          "title": "可憐嘅奴僕成程時間連郁下嘴唇講嘢都唔可以;略為出聲就會俾人用鞭刑鎮壓——成晚都要餓住肚、啞住口企喺度",
+          "original": "All this time the poor slaves may not move their lips, even to speak. The slightest murmur is repressed by the rod; even a chance sound,—a cough, a sneeze, or a hiccup,—is visited with the lash. There is a grievous penalty for the slightest breach of silence. All night long they must stand about, hungry and dumb.",
+          "vernacular": "喺呢成個過程之中,可憐嘅奴僕連郁一郁嘴唇、講一句說話都唔容許。最輕微嘅低聲議論,都會俾人用棍打壓下去;就算係咳一聲、打個乞嗤,或者打個嗝呢啲無心之失,都要遭受鞭笞。稍稍打破沉默,都要付出沉重代價。成晚佢哋都要企喺度,餓住肚,啞住口。",
+          "vernacularMandarin": "在這整個過程之中,可憐的奴僕連動一動嘴唇、講一句話都不容許。最輕微的低聲議論,都會被人用棍打壓下去;就算是咳一聲、打個噴嚏,或者打個嗝這些無心之失,都要遭受鞭笞。稍稍打破沉默,都要付出沉重代價。整晚他們都要站在那裡,餓著肚,啞著口。"
+        },
+        {
+          "id": "s7-6",
+          "title": "結果呢班唔准喺主人面前講嘢嘅奴僕,就喺背後講埋主人嘅是非;但舊時嘅奴僕真係識得同主人講嘢",
+          "original": "The result of it all is that these slaves, who may not talk in their master’s presence, talk about their master. But the slaves of former days, who were permitted to converse not only in their master’s presence, but actually with him, whose mouths were not stitched up tight, were ready to bare their necks for their master, to bring upon their own heads any danger that threatened him; they spoke at the feast, but kept silence during torture.",
+          "vernacular": "結果就係,呢班喺主人面前唔准出聲嘅奴僕,喺背後就會講埋主人嘅是非。但係舊時嘅奴僕就唔同,佢哋唔單止俾人容許喺主人面前傾偈,仲可以真真正正咁同主人交談,佢哋張口唔會俾人縫死。佢哋隨時準備好為主人拋頭顱,願意為佢承受任何威脅嘅危險;佢哋喺宴會上暢所欲言,但喺酷刑之下卻守口如瓶。",
+          "vernacularMandarin": "結果就是,這班在主人面前不准出聲的奴僕,背後就會講起主人的是非。但是舊時的奴僕就不同,他們不單止被人容許在主人面前談話,還可以真真正正地同主人交談,他們張口不會被人縫死。他們隨時準備好為主人拋頭顱,願意為他承受任何威脅的危險;他們在宴會上暢所欲言,但在酷刑之下卻守口如瓶。"
+        },
+        {
+          "id": "s7-7",
+          "title": "所以先至有咁句流行話:「你有幾多奴僕,就有幾多敵人。」——佢哋本身唔係敵人,係我哋令佢哋變成敵人",
+          "original": "Finally, the saying, in allusion to this same high-handed treatment, becomes current: “As many enemies as you have slaves.” They are not enemies when we acquire them; we make them enemies.",
+          "vernacular": "最後,正正係影射呢種蠻橫嘅待遇,先至有咗呢句流行嘅講法:「你有幾多個奴僕,就等於有幾多個敵人。」佢哋一開始並唔係我哋嘅敵人——係我哋將佢哋變成敵人嘅。",
+          "vernacularMandarin": "最後,正正是影射這種蠻橫的待遇,才有了這句流行的講法:「你有多少個奴僕,就等於有多少個敵人。」他們一開始並不是我們的敵人——是我們把他們變成敵人的。"
+        },
+        {
+          "id": "s7-8",
+          "title": "我唔講埋其他殘忍冷血嘅對待——因為我哋根本唔當佢哋係人,而係當佢哋做負重嘅牲口",
+          "original": "I shall pass over other cruel and inhuman conduct towards them; for we maltreat them, not as if they were men, but as if they were beasts of burden. When we recline at a banquet, one slave mops up the disgorged food, another crouches beneath the table and gathers up the left-overs of the tipsy guests.",
+          "vernacular": "至於其他對佢哋殘忍非人道嘅對待,我就唔一一列舉喇;因為我哋根本唔將佢哋當做人嚟對待,而係當佢哋做負重嘅牲口。我哋喺宴會躺席上嗰陣,一個奴僕負責抹淨吐返出嚟嘅食物,另一個就蹲喺枱底,執拾嗰啲喝到微醺嘅賓客所遺留低嘅殘羹剩飯。",
+          "vernacularMandarin": "至於其他對他們殘忍非人道的對待,我就不一一列舉了;因為我們根本不把他們當作人來對待,而是當他們做負重的牲口。我們在宴會躺席的時候,一個奴僕負責抹淨吐出來的食物,另一個就蹲在桌底,執拾那些喝到微醺的賓客所遺留下的殘羹剩飯。"
+        },
+        {
+          "id": "s7-9",
+          "title": "另一個負責切開珍貴嘅野味,手法純熟——但佢咁樣過一世,唔知係佢仲慘,定係教識佢呢門技藝嘅人仲慘",
+          "original": "Another carves the priceless game birds; with unerring strokes and skilled hand he cuts choice morsels along the breast or the rump. Hapless fellow, to live only for the purpose of cutting fat capons correctly,—unless, indeed, the other man is still more unhappy than he, who teaches this art for pleasure’s sake, rather than he who learns it because he must.",
+          "vernacular": "另一個負責切開珍貴嘅野禽,以精湛穩準嘅刀法,喺胸脯或者臀部切出最上乘嘅肉塊。可憐嘅傢伙,一世人竟然係為咗正確咁切肥閹雞而活——除非,教識佢呢門技藝、純粹為咗自己享樂嘅人,比佢仲要不幸,更加勝過為咗生計而學呢門技藝嘅人。",
+          "vernacularMandarin": "另一個負責切開珍貴的野禽,以精湛穩準的刀法,在胸脯或者臀部切出最上乘的肉塊。可憐的傢伙,一輩子竟然是為了正確地切肥閹雞而活——除非,教會他這門技藝、純粹為了自己享樂的人,比他還要不幸,更加勝過為了生計而學這門技藝的人。"
+        },
+        {
+          "id": "s7-10",
+          "title": "另一個負責斟酒,要打扮成女人樣,抵抗漸長嘅年紀——雖然已有男子身形,都要俾人剃走鬍鬚,扮到似個男仔",
+          "original": "Another, who serves the wine, must dress like a woman and wrestle with his advancing years; he cannot get away from his boyhood; he is dragged back to it; and though he has already acquired a soldier’s figure, he is kept beardless by having his hair smoothed away or plucked out by the roots, and he must remain awake throughout the night, dividing his time between his master’s drunkenness and his lust; in the chamber he must be a man, at the feast a boy.",
+          "vernacular": "另一個負責斟酒嘅奴僕,要打扮到好似女人咁,並且要同自己日漸增長嘅年紀對抗;佢冇辦法逃離童年,反而被強行拖返去童年嘅模樣;就算已經長出咗軍人嘅體格,佢都要俾人不斷剃走或者連根拔起鬍鬚,保持一副冇鬍鬚嘅樣;佢仲要成晚保持清醒,將時間分配俾主人嘅醉態同慾望——喺寢室要扮成年男子,喺宴會就要扮男童。",
+          "vernacularMandarin": "另一個負責斟酒的奴僕,要打扮得好似女人那樣,並且要同自己日漸增長的年紀對抗;他沒有辦法逃離童年,反而被強行拖回童年的模樣;就算已經長出了軍人的體格,他都要被人不斷剃走或者連根拔起鬍鬚,保持一副沒有鬍鬚的樣子;他還要整晚保持清醒,將時間分配給主人的醉態同慾望——在寢室要扮成年男子,在宴會就要扮男童。"
+        },
+        {
+          "id": "s7-11",
+          "title": "另一個負責評估賓客身價嘅奴僕,可憐咁死盯住,留意邊個嘅奉承同放肆先可以攞到聽日嘅請帖",
+          "original": "Another, whose duty it is to put a valuation on the guests, must stick to his task, poor fellow, and watch to see whose flattery and whose immodesty, whether of appetite or of language, is to get them an invitation for to-morrow.",
+          "vernacular": "另一個奴僕嘅職責,係要為賓客評估身價,佢要可憐咁緊盯住自己嘅任務,留意邊個嘅奉承、邊個食相或者說話上嘅放肆,可以令佢哋攞到聽日嘅請帖。",
+          "vernacularMandarin": "另一個奴僕的職責,是要為賓客評估身價,他要可憐地緊盯著自己的任務,留意誰的奉承、誰食相或者說話上的放肆,可以令他們拿到明日的請帖。"
+        },
+        {
+          "id": "s7-12",
+          "title": "重有嗰啲可憐嘅膳食供應者,細膩咁揣摩主人嘅口味,識得咩會令主人胃口大開、賞心悅目、由厭膩變返肚餓",
+          "original": "Think also of the poor purveyors of food, who note their masters’ tastes with delicate skill, who know what special flavours will sharpen their appetite, what will please their eyes, what new combinations will rouse their cloyed stomachs, what food will excite their loathing through sheer satiety, and what will stir them to hunger on that particular day.",
+          "vernacular": "重要諗吓嗰啲可憐嘅食材供應者,佢哋以細膩嘅心思揣摩主人嘅口味,知道邊種特別嘅風味可以刺激主人嘅食慾,邊樣嘢可以令佢哋賞心悅目,邊種新組合可以喚醒佢哋厭膩嘅腸胃,邊種食物會因為食滯而令佢哋反胃,又或者邊種食物可以喺特定嘅一日,重新喚起佢哋嘅飢餓感。",
+          "vernacularMandarin": "還要想想那些可憐的食材供應者,他們以細膩的心思揣摩主人的口味,知道哪種特別的風味可以刺激主人的食慾,哪樣東西可以令他們賞心悅目,哪種新組合可以喚醒他們厭膩的腸胃,哪種食物會因為吃滯而令他們反胃,又或者哪種食物可以在特定的一日,重新喚起他們的飢餓感。"
+        },
+        {
+          "id": "s7-13",
+          "title": "偏偏主人卻受唔住同呢班奴僕同枱食飯,覺得咁樣有失身份!——但佢喺呢班人身上,製造咗幾多位「主人」出嚟呀!",
+          "original": "With slaves like these the master cannot bear to dine; he would think it beneath his dignity to associate with his slave at the same table! Heaven forfend! But how many masters is he creating in these very men!",
+          "vernacular": "但偏偏主人卻受唔住,同呢班奴僕一齊同枱食飯;佢會覺得同自己嘅奴僕坐埋同一張枱,係有失自己嘅身份!天呀,絕對唔可以咁樣!但佢喺呢班奴僕身上,又製造咗幾多位主人出嚟呀!",
+          "vernacularMandarin": "但偏偏主人卻受不住,同這班奴僕一起同桌吃飯;他會覺得同自己的奴僕坐在同一張桌,是有失自己的身份!天啊,絕對不可以這樣!但他在這班奴僕身上,又製造了多少位主人出來啊!"
+        },
+        {
+          "id": "s7-14",
+          "title": "我見過卡利斯圖斯以前嘅主人,而家企喺卡利斯圖斯門前排隊等見佢;而主人自己反而俾人拒諸門外",
+          "original": "I have seen standing in the line, before the door of Callistus, the former master, of Callistus; I have seen the master himself shut out while others were welcomed,—the master who once fastened the “For Sale” ticket on Callistus and put him in the market along with the good-for-nothing slaves.",
+          "vernacular": "我親眼見過,卡利斯圖斯以前嘅主人,企喺卡利斯圖斯門前嘅隊伍之中,等候接見;我親眼見過,人哋歡迎其他人嗰陣,呢位主人自己反而俾人拒之門外——就係呢位主人,以前將「出售」嘅牌仔掛喺卡利斯圖斯身上,連同其他一啲冇用嘅奴僕,一齊擺喺市場出售。",
+          "vernacularMandarin": "我親眼見過,卡利斯圖斯以前的主人,站在卡利斯圖斯門前的隊伍之中,等候接見;我親眼見過,別人被歡迎的時候,這位主人自己反而被人拒之門外——就是這位主人,以前把「出售」的牌子掛在卡利斯圖斯身上,連同其他一些沒用的奴僕,一起擺在市場出售。"
+        },
+        {
+          "id": "s7-15",
+          "title": "但呢個奴僕已經狠狠報復咗嗰位主人;而家佢又拒絕咗嗰位主人入屋——當初賣咗卡利斯圖斯,而家佢又要付出幾大代價呀",
+          "original": "But he has been paid off by that slave who was shuffled into the first lot of those on whom the crier practises his lungs; the slave, too, in his turn has cut his name from the list and in his turn has adjudged him unfit to enter his house. The master sold Callistus, but how much has Callistus made his master pay for!",
+          "vernacular": "但係呢位奴僕,已經狠狠報復咗嗰個曾經將佢編入最平嗰批貨色、任由拍賣官吆喝叫賣嘅人;呢位奴僕,反過嚟又親手將佢個名由訪客名冊剔除,親自裁定佢冇資格入屋。當初,主人賣咗卡利斯圖斯;但而家,卡利斯圖斯又令佢個舊主人付出咗幾大嘅代價呀!",
+          "vernacularMandarin": "但這位奴僕,已經狠狠報復了那個曾經把他編入最便宜那批貨色、任由拍賣官吆喝叫賣的人;這位奴僕,反過來又親手把他的名字從訪客名冊剔除,親自裁定他沒資格入屋。當初,主人賣了卡利斯圖斯;但現在,卡利斯圖斯又令他的舊主人付出了多大的代價啊!"
+        },
+        {
+          "id": "s7-16",
+          "title": "請你記住,你所謂嘅奴僕同你一樣出自同一血脈,受同一片天空眷顧,同你一樣呼吸、生活、死亡",
+          "original": "Kindly remember that he whom you call your slave sprang from the same stock, is smiled upon by the same skies, and on equal terms with yourself breathes, lives, and dies. It is just as possible for you to see in him a free-born man as for him to see in you a slave.",
+          "vernacular": "請你緊記,你叫做「奴僕」嘅呢個人,同你係出自同一血脈,受同一片天空眷顧,同你以平等嘅身份呼吸、生活、死亡。你有可能喺佢身上見到一個生而自由嘅人,佢亦都一樣有可能喺你身上見到一個奴僕。",
+          "vernacularMandarin": "請你緊記,你叫做「奴僕」的這個人,同你是出自同一血脈,受同一片天空眷顧,同你以平等的身份呼吸、生活、死亡。你有可能在他身上見到一個生而自由的人,他也一樣有可能在你身上見到一個奴僕。"
+        },
+        {
+          "id": "s7-17",
+          "title": "馬略時代嘅大屠殺,令好多貴族出身嘅人淪落做牧羊人或者看更;你敢鄙視佢哋,佢哋隨時都可能降臨到你身上",
+          "original": "As a result of the massacres in Marius’s day, many a man of distinguished birth, who was taking the first steps toward senatorial rank by service in the army, was humbled by fortune, one becoming a shepherd, another a caretaker of a country cottage. Despise, then, if you dare, those to whose estate you may at any time descend, even when you are despising them.",
+          "vernacular": "喺馬略當政嗰陣嘅大屠殺入面,好多正循軍旅生涯,朝住元老院席位邁出第一步嘅顯赫出身人士,都俾命運貶抑咗——有人淪落做牧羊人,有人淪落做鄉間小屋嘅看守。咁樣嘅話,你就大膽鄙視吖,鄙視嗰啲隨時都有可能係你自己會淪落到嘅境況吖,就算你鄙視佢哋嗰陣都要記住呢一點。",
+          "vernacularMandarin": "在馬略當政時的大屠殺裡面,很多正循軍旅生涯,朝著元老院席位邁出第一步的顯赫出身人士,都被命運貶抑了——有人淪落做牧羊人,有人淪落做鄉間小屋的看守。這樣的話,你就大膽鄙視吧,鄙視那些隨時都有可能是你自己會淪落到的境況吧,就算你鄙視他們的時候都要記住這一點。"
+        },
+        {
+          "id": "s7-18",
+          "title": "我唔想陷入一個太大嘅議題——關於我哋羅馬人對奴僕過分傲慢殘忍侮辱嘅待遇;但呢個就係我勸告嘅核心",
+          "original": "I do not wish to involve myself in too large a question, and to discuss the treatment of slaves, towards whom we Romans are excessively haughty, cruel, and insulting. But this is the kernel of my advice: Treat your inferiors as you would be treated by your betters.",
+          "vernacular": "我唔想令自己捲入一個太大嘅議題,去討論我哋羅馬人向來對奴僕表現出咁極端傲慢、殘忍同侮辱嘅待遇問題。但以下呢句,就係我勸告嘅精髓所在:你想上位嘅人點對待你,你就咁樣對待你嘅下屬。",
+          "vernacularMandarin": "我不想令自己捲入一個太大的議題,去討論我們羅馬人向來對奴僕表現出這樣極端傲慢、殘忍同侮辱的待遇問題。但以下這句,就是我勸告的精髓所在:你想你的上位者怎樣對待你,你就這樣對待你的下屬。"
+        },
+        {
+          "id": "s7-19",
+          "title": "你每次諗到自己對奴僕有幾大權力嗰陣,都要記住你嘅主人都有一樣咁大嘅權力擺佈你",
+          "original": "And as often as you reflect how much power you have over a slave, remember that your master has just as much power over you. “But I have no master,” you say. You are still young; perhaps you will have one. Do you not know at what age Hecuba entered captivity, or Croesus, or the mother of Darius, or Plato, or Diogenes?",
+          "vernacular": "而每逢你諗起自己對一個奴僕有幾大嘅權力嗰陣,都要記住:你嘅主人對你,一樣有咁大嘅權力。「但我冇主人喎。」你會咁樣講。你仲後生,或者將來會有嘅。你知唔知,赫卡柏、克羅伊索斯、大流士嘅母親、柏拉圖,定係第歐根尼,佢哋分別喺乜嘢年紀淪為階下囚呢?",
+          "vernacularMandarin": "而每逢你想起自己對一個奴僕有多大的權力時,都要記住:你的主人對你,一樣有這麼大的權力。「但我沒有主人喎。」你會這樣講。你還年輕,或者將來會有的。你知不知道,赫卡柏、克羅伊索斯、大流士的母親、柏拉圖,還是第歐根尼,他們分別在甚麼年紀淪為階下囚呢?"
+        },
+        {
+          "id": "s7-20",
+          "title": "同你嘅奴僕友善咁相處,甚至和藹可親;等佢可以同你傾偈、同你一齊謀劃、同你一齊生活",
+          "original": "Associate with your slave on kindly, even on affable, terms; let him talk with you, plan with you, live with you.",
+          "vernacular": "要同你嘅奴僕友善相處,甚至可以和藹可親;等佢可以同你傾偈、同你一齊謀劃、同你一齊生活。",
+          "vernacularMandarin": "要同你的奴僕友善相處,甚至可以和藹可親;讓他可以同你談話、同你一起謀劃、同你一起生活。"
+        },
+        {
+          "id": "s7-21",
+          "title": "我知道呢一點會令講究嘅人集體反對我,話呢個係最卑賤最可恥嘅事——但正正就係呢班人,我有時會見到佢哋親吻其他人嘅奴僕嘅手",
+          "original": "I know that at this point all the exquisites will cry out against me in a body; they will say: “There is nothing more debasing, more disgraceful, than this.” But these are the very persons whom I sometimes surprise kissing the hands of other men’s slaves.",
+          "vernacular": "我知道,講到呢一點,所有講究嘅人都會齊聲反對我;佢哋會話:「冇乜嘢比呢個仲要卑賤、仲要可恥。」但正正就係呢班人,我有時會親眼見到佢哋,親吻其他人嘅奴僕嘅手。",
+          "vernacularMandarin": "我知道,講到這一點,所有講究的人都會齊聲反對我;他們會說:「沒有甚麼比這更加卑賤、更加可恥。」但正正就是這班人,我有時會親眼見到他們,親吻其他人的奴僕的手。"
+        },
+        {
+          "id": "s7-22",
+          "title": "你有冇留意到,我哋嘅祖先點樣由主人身上除去一切招人反感嘅嘢,由奴僕身上除去一切侮辱?",
+          "original": "Do you not see even this,—how our ancestors removed from masters everything invidious, and from slaves everything insulting? They called the master “father of the household,” and the slaves “members of the household,” a custom which still holds in the mime.",
+          "vernacular": "你有冇留意到呢一點呢——我哋嘅祖先,點樣由主人身上剔除晒一切招人反感嘅嘢,又點樣由奴僕身上剔除晒一切帶有侮辱性嘅嘢?佢哋將主人叫做「一家之父」,將奴僕叫做「家中成員」——呢個習俗,直到而家喺啞劇入面都仲保留住。",
+          "vernacularMandarin": "你有沒有留意到這一點呢——我們的祖先,怎樣從主人身上剔除了一切招人反感的東西,又怎樣從奴僕身上剔除了一切帶有侮辱性的東西?他們把主人叫做「一家之父」,把奴僕叫做「家中成員」——這個習俗,直到現在在啞劇裡面都還保留著。"
+        },
+        {
+          "id": "s7-23",
+          "title": "佢哋定咗一個主人同奴僕要一齊食飯嘅節日——並容許奴僕喺屋企之中獲得榮譽同執掌判決,視一家如一個微縮嘅共和國",
+          "original": "They established a holiday on which masters and slaves should eat together,—not as the only day for this custom, but as obligatory on that day in any case. They allowed the slaves to attain honours in the household and to pronounce judgment; they held that a household was a miniature commonwealth.",
+          "vernacular": "佢哋定立咗一個節日,規定主人同奴僕要一齊食飯——並唔係話呢一日先至可以咁樣做,而係呢一日一定要咁樣做。佢哋容許奴僕喺家庭之中獲得榮譽,甚至可以執掌判決;佢哋認為一個家庭,就係一個微縮嘅共和國。",
+          "vernacularMandarin": "他們定立了一個節日,規定主人同奴僕要一起吃飯——並不是說這一日才可以這樣做,而是這一日一定要這樣做。他們容許奴僕在家庭之中獲得榮譽,甚至可以執掌判決;他們認為一個家庭,就是一個微縮的共和國。"
+        },
+        {
+          "id": "s7-24",
+          "title": "「你係咪話我要將所有奴僕都請埋上枱?」唔係,正如你都唔會請晒所有自由人一樣",
+          "original": "“Do you mean to say,” comes the retort, “that I must seat all my slaves at my own table?” No, not any more than that you should invite all free men to it.",
+          "vernacular": "「你係咪話,」有人反駁,「我要將所有奴僕都請上自己張枱食飯呢?」唔係,正如你都唔會將所有自由人都請上枱一樣。",
+          "vernacularMandarin": "「你是不是說,」有人反駁,「我要把所有奴僕都請上自己那張桌吃飯呢?」不是,正如你也不會把所有自由人都請上桌一樣。"
+        },
+        {
+          "id": "s7-25",
+          "title": "你以為我會將某啲職責較卑微嘅奴僕拒諸門外?你錯喇——我建議按品格,而唔係按職責嚟衡量佢哋",
+          "original": "You are mistaken if you think that I would bar from my table certain slaves whose duties are more humble, as, for example, yonder muleteer or yonder herdsman; I propose to value them according to their character, and not according to their duties.",
+          "vernacular": "如果你以為我會將某啲職責比較卑微嘅奴僕,好似嗰個馬伕或者牧人咁,拒諸於我張枱之外,咁你就錯喇;我建議按照佢哋嘅品格,而唔係按照佢哋嘅職責嚟衡量佢哋。",
+          "vernacularMandarin": "如果你以為我會把某些職責比較卑微的奴僕,好似那個馬伕或者牧人那樣,拒之於我那張桌之外,那你就錯了;我建議按照他們的品格,而不是按照他們的職責來衡量他們。"
+        },
+        {
+          "id": "s7-26",
+          "title": "每個人嘅品格係自己修成嘅,職責就係命運分配嘅;有啲人配得上枱嘅榮譽,有啲就有機會慢慢配得上",
+          "original": "Each man acquires his character for himself, but accident assigns his duties. Invite some to your table because they deserve the honour, and others that they may come to deserve it. For if there is any slavish quality in them as the result of their low associations, it will be shaken off by intercourse with men of gentler breeding.",
+          "vernacular": "每個人嘅品格都係自己修成嘅,職責就只係命運嘅分配。邀請有啲人上枱,因為佢哋配得起呢份榮譽;邀請另一啲人,係為咗令佢哋將來可以慢慢配得起。因為就算佢哋因為出身卑微而沾染咗某種奴性,同教養更好嘅人交往,都可以將呢種奴性一掃而空。",
+          "vernacularMandarin": "每個人的品格都是自己修成的,職責就只是命運的分配。邀請有些人上桌,因為他們配得起這份榮譽;邀請另一些人,是為了令他們將來可以慢慢配得起。因為就算他們因為出身卑微而沾染了某種奴性,同教養更好的人交往,都可以把這種奴性一掃而空。"
+        },
+        {
+          "id": "s7-27",
+          "title": "我親愛嘅盧齊利烏斯,你唔使淨係喺法庭或者元老院搵朋友——只要細心留意,喺屋企你都可以搵到",
+          "original": "You need not, my dear Lucilius, hunt for friends only in the forum or in the Senate-house; if you are careful and attentive, you will find them at home also. Good material often stands idle for want of an artist; make the experiment, and you will find it so.",
+          "vernacular": "我親愛嘅盧齊利烏斯,你唔使淨係喺公共廣場或者元老院搵朋友;只要你留心留意,你喺屋企都一樣可以搵到朋友。好嘅材料成日因為缺少雕琢嘅巧匠而閒置——不妨親自試吓,你就會發現的確係咁。",
+          "vernacularMandarin": "我親愛的盧齊利烏斯,你不用只在公共廣場或者元老院找朋友;只要你留心留意,你在家裡都一樣可以找到朋友。好的材料常常因為缺少雕琢的巧匠而閒置——不妨親自試一試,你就會發現的確是這樣。"
+        },
+        {
+          "id": "s7-28",
+          "title": "買馬只睇馬鞍馬轡而唔睇馬本身,係傻;睇一個人嘅衣著或者身份,而唔睇人本身,就更加傻——因為身份不過係件外袍",
+          "original": "As he is a fool who, when purchasing a horse, does not consider the animal’s points, but merely his saddle and bridle; so he is doubly a fool who values a man from his clothes or from his rank, which indeed is only a robe that clothes us.",
+          "vernacular": "正如一個人買馬嗰陣,如果唔審視匹馬本身嘅優點,只係睇馬鞍同馬轡,呢個係傻;同樣道理,一個人如果單憑衣著或者身份,而唔係憑人本身嚟評價一個人,呢個就更加傻——因為所謂身份,其實不過係一件披喺我哋身上嘅外袍。",
+          "vernacularMandarin": "正如一個人買馬時,如果不審視這匹馬本身的優點,只是看馬鞍同馬轡,這是傻;同樣道理,一個人如果單憑衣著或者身份,而不是憑人本身來評價一個人,這就更加傻——因為所謂身份,其實不過是一件披在我們身上的外袍。"
+        },
+        {
+          "id": "s7-29",
+          "title": "「佢係奴隸。」但佢嘅靈魂可能係自由人嘅靈魂;有邊個人唔係奴隸呢?有人奴役於慾望,有人奴役於貪婪,人人都奴役於恐懼",
+          "original": "“He is a slave.” His soul, however, may be that of a freeman. “He is a slave.” But shall that stand in his way? Show me a man who is not a slave; one is a slave to lust, another to greed, another to ambition, and all men are slaves to fear.",
+          "vernacular": "「佢係奴隸。」但係佢嘅靈魂,可能係一個自由人嘅靈魂。「佢係奴隸。」但呢一點,又豈可以成為阻礙呢?你指俾我睇,邊個人唔係奴隸先?有人係慾望嘅奴隸,有人係貪婪嘅奴隸,有人係野心嘅奴隸,而人人都係恐懼嘅奴隸。",
+          "vernacularMandarin": "「他是奴隸。」但是他的靈魂,可能是一個自由人的靈魂。「他是奴隸。」但這一點,又豈可以成為阻礙呢?你指給我看,誰不是奴隸?有人是慾望的奴隸,有人是貪婪的奴隸,有人是野心的奴隸,而人人都是恐懼的奴隸。"
+        },
+        {
+          "id": "s7-30",
+          "title": "我可以指俾你睇一位卸任執政官奴役於老婦人,一位百萬富翁奴役於婢女,出身最高貴嘅少年淪為啞劇演員嘅奴僕",
+          "original": "I will name you an ex-consul who is slave to an old hag, a millionaire who is slave to a serving-maid; I will show you youths of the noblest birth in serfdom to pantomime players! No servitude is more disgraceful than that which is self-imposed.",
+          "vernacular": "我可以話俾你聽一位卸任執政官,居然奴役於一個老婦人;一位百萬富翁,居然奴役於一個婢女;我可以指俾你睇,出身最高貴嘅少年,居然淪為啞劇演員嘅奴僕!冇一種奴役,比自願為奴仲要可恥。",
+          "vernacularMandarin": "我可以告訴你一位卸任執政官,居然奴役於一個老婦人;一位百萬富翁,居然奴役於一個婢女;我可以指給你看,出身最高貴的少年,居然淪為啞劇演員的奴僕!沒有一種奴役,比自願為奴還要可恥。"
+        },
+        {
+          "id": "s7-31",
+          "title": "所以你唔好俾呢班吹毛求疵嘅人嚇怕,唔敢喺奴僕面前展現和藹可親、唔擺出高高在上嘅姿態;佢哋應該敬重你,而唔係驚你",
+          "original": "You should therefore not be deterred by these finicky persons from showing yourself to your slaves as an affable person and not proudly superior to them; they ought to respect you rather than fear you.",
+          "vernacular": "所以,你唔應該因為呢班吹毛求疵嘅人,而阻礙自己喺奴僕面前展現和藹可親嘅一面、唔擺出高高在上嘅姿態;佢哋應該敬重你,而唔係驚怕你。",
+          "vernacularMandarin": "所以,你不應該因為這班吹毛求疵的人,而阻礙自己在奴僕面前展現和藹可親的一面、不擺出高高在上的姿態;他們應該敬重你,而不是害怕你。"
+        },
+        {
+          "id": "s7-32",
+          "title": "有人可能話我而家要向奴僕普遍派發自由帽、推翻主人嘅權威——因為我叫奴僕敬重而唔係害怕主人",
+          "original": "Some may maintain that I am now offering the liberty-cap to slaves in general and toppling down lords from their high estate, because I bid slaves respect their masters instead of fearing them. They say: “This is what he plainly means: slaves are to pay respect as if they were clients or early-morning callers!”",
+          "vernacular": "有啲人可能會咁樣主張:我而家咁樣做,係向奴僕普遍派發自由帽,推翻主人一直以嚟嘅高位——因為我叫奴僕要敬重主人,而唔係害怕主人。佢哋會話:「佢明顯就係咁樣嘅意思:奴僕應該好似客戶或者一早嚟拜訪嘅賓客咁,對主人表示敬重!」",
+          "vernacularMandarin": "有些人可能會這樣主張:我現在這樣做,是向奴僕普遍派發自由帽,推翻主人一直以來的高位——因為我叫奴僕要敬重主人,而不是害怕主人。他們會說:「他明顯就是這樣的意思:奴僕應該好似客戶或者一早來拜訪的賓客那樣,對主人表示敬重!」"
+        },
+        {
+          "id": "s7-33",
+          "title": "抱住呢種睇法嘅人,忘記咗一個道理——連神都覺得足夠嘅嘢,對一位主人嚟講又豈會嫌唔夠?敬重意味住愛,而愛同懼怕係唔可以混埋一齊",
+          "original": "Anyone who holds this opinion forgets that what is enough for a god cannot be too little for a master. Respect means love, and love and fear cannot be mingled.",
+          "vernacular": "抱住呢種睇法嘅人,忘記咗一個道理:凡係連神明都覺得足夠嘅嘢,對於一位主人嚟講,又豈會嫌唔夠呢?敬重就代表愛,而愛同恐懼係冇辦法共存嘅。",
+          "vernacularMandarin": "抱住這種看法的人,忘記了一個道理:凡是連神明都覺得足夠的東西,對於一位主人來說,又豈會嫌不夠呢?敬重就代表愛,而愛同恐懼是沒有辦法共存的。"
+        },
+        {
+          "id": "s7-34",
+          "title": "所以我認為你完全正確——唔想俾奴僕害怕,只用言語責備佢哋;只有啞畜先至需要用鞭子",
+          "original": "So I hold that you are entirely right in not wishing to be feared by your slaves, and in lashing them merely with the tongue; only dumb animals need the thong.",
+          "vernacular": "所以我認為,你完全正確——你唔想令你嘅奴僕害怕你,亦都只係用言語鞭撻佢哋;只有啞口嘅畜牲,先至需要用皮鞭。",
+          "vernacularMandarin": "所以我認為,你完全正確——你不想令你的奴僕害怕你,也只是用言語鞭撻他們;只有啞口的畜牲,才需要用皮鞭。"
+        },
+        {
+          "id": "s7-35",
+          "title": "惹怒我哋嘅事,未必真係傷害到我哋——但我哋嘅奢華生活令我哋容易暴怒,凡事唔順己意就大發雷霆",
+          "original": "That which annoys us does not necessarily injure us; but we are driven into wild rage by our luxurious lives, so that whatever does not answer our whims arouses our anger.",
+          "vernacular": "令我哋煩擾嘅嘢,未必真係傷害到我哋;但我哋嘅奢華生活,令我哋容易陷入狂怒之中,以致但凡有啲乜嘢唔順我哋心意,都會惹起我哋嘅怒火。",
+          "vernacularMandarin": "令我們煩擾的東西,未必真的傷害到我們;但我們的奢華生活,令我們容易陷入狂怒之中,以致但凡有些甚麼不順我們心意,都會惹起我們的怒火。"
+        },
+        {
+          "id": "s7-36",
+          "title": "我哋穿上咗君王嘅脾性——佢哋明明處於毫無危險嘅崇高地位,卻仍然當自己受咗傷害咁勃然大怒",
+          "original": "We don the temper of kings. For they, too, forgetful alike of their own strength and of other men’s weakness, grow white-hot with rage, as if they had received an injury, when they are entirely protected from danger of such injury by their exalted station.",
+          "vernacular": "我哋將自己嘅脾性,穿成咗君王嘅脾性。因為連君王自己,都會同樣忘記自己嘅實力同他人嘅弱小,以致但凡佢哋自以為受咗傷害,就會勃然大怒——就算佢哋嘅崇高地位,其實令佢哋完全冇可能受到呢種傷害。",
+          "vernacularMandarin": "我們把自己的脾性,穿成了君王的脾性。因為連君王自己,都會同樣忘記自己的實力同他人的弱小,以致但凡他們自以為受了傷害,就會勃然大怒——就算他們的崇高地位,其實令他們完全沒有可能受到這種傷害。"
+        },
+        {
+          "id": "s7-37",
+          "title": "佢哋並唔係唔知呢個道理,但佢哋刻意搵藉口,借此製造機會加害於人——佢哋堅稱自己受咗傷害,只係為咗有藉口施加傷害",
+          "original": "They are not unaware that this is true, but by finding fault they seize upon opportunities to do harm; they insist that they have received injuries, in order that they may inflict them.",
+          "vernacular": "佢哋並唔係唔知呢個道理係真嘅,但佢哋透過挑錯處,藉此搵到機會去加害於人;佢哋堅稱自己已經受過傷害,只不過係為咗有藉口去施加傷害。",
+          "vernacularMandarin": "他們並不是不知道這個道理是真的,但他們透過挑錯處,藉此找到機會去加害於人;他們堅稱自己已經受過傷害,只不過是為了有藉口去施加傷害。"
+        },
+        {
+          "id": "s7-38",
+          "title": "我唔想再耽誤你嘅時間,因為你根本唔需要我嘅勸勉;良好品格會自訂判斷並堅守到底,壞品格就反覆無常",
+          "original": "I do not wish to delay you longer; for you need no exhortation. This, among other things, is a mark of good character: it forms its own judgments and abides by them; but badness is fickle and frequently changing, not for the better, but for something different. Farewell.",
+          "vernacular": "我唔想再耽誤你嘅時間喇,因為你根本唔需要我嘅勸勉。良好品格嘅其中一個標誌,就係佢會為自己形成判斷,並且堅守到底;但邪惡就係反覆無常、成日改變——並唔係向更好嘅方向改變,而係轉變成另一種唔同嘅樣貌。珍重。",
+          "vernacularMandarin": "我不想再耽誤你的時間了,因為你根本不需要我的勸勉。良好品格的其中一個標誌,就是它會為自己形成判斷,並且堅守到底;但邪惡就是反覆無常、常常改變——並不是向更好的方向改變,而是轉變成另一種不同的樣貌。珍重。"
+        }
+      ]
+    },
+    {
+      "id": "sen-c8",
+      "title": "Letter LXI: On Meeting Death Cheerfully 論欣然面對死亡",
+      "passages": [
+        {
+          "id": "s8-1",
+          "title": "等我哋停止渴求以前渴求嘅嘢啦——我步入晚年,已經停止渴求細路嗰陣所渴求嘅",
+          "original": "Let us cease to desire that which we have been desiring. I, at least, am doing this: in my old age I have ceased to desire what I desired when a boy.",
+          "vernacular": "等我哋停止渴求我哋一直以嚟所渴求嘅嘢啦。至少我自己就係咁做嘅:步入晚年之後,我已經停止渴求細路仔嗰陣所渴求嘅嘢。",
+          "vernacularMandarin": "讓我們停止渴求我們一直以來所渴求的東西吧。至少我自己就是這樣做的:步入晚年之後,我已經停止渴求小時候所渴求的東西。"
+        },
+        {
+          "id": "s8-2",
+          "title": "我嘅日日夜夜都用嚟做一件事——終結我長年累積嘅弊病",
+          "original": "To this single end my days and my nights are passed; this is my task, this the object of my thoughts,—to put an end to my chronic ills.",
+          "vernacular": "我嘅每日每夜,都只係為咗呢個單一嘅目標而度過;呢個就係我嘅任務,呢個就係我思緒所繫嘅嘢——就係要終結我長年累積落嚟嘅弊病。",
+          "vernacularMandarin": "我的每日每夜,都只是為了這個單一的目標而度過;這個就是我的任務,這個就是我思緒所繫的東西——就是要終結我長年累積下來的弊病。"
+        },
+        {
+          "id": "s8-3",
+          "title": "我努力將每一日都當做完整嘅一生咁去活;唔係好似最後一日咁匆忙抓緊,而係好似佢隨時可能係最後一日咁對待",
+          "original": "I am endeavouring to live every day as if it were a complete life. I do not indeed snatch it up as if it were my last; I do regard it, however, as if it might even be my last.",
+          "vernacular": "我努力將每一日,都當做完整嘅一生咁樣去度過。我唔係好似對住人生最後一日咁樣去匆匆忙忙地抓緊佢;但我確實會將佢當做隨時可能係最後一日咁樣去對待。",
+          "vernacularMandarin": "我努力把每一日,都當作完整的一生那樣去度過。我不是好似對著人生最後一日那樣去匆匆忙忙地抓緊它;但我確實會把它當作隨時可能是最後一日那樣去對待。"
+        },
+        {
+          "id": "s8-4",
+          "title": "我寫呢封信俾你,心入面就抱住呢個念頭——就好似死亡即將喺我寫緊信嘅呢一刻嚟召喚我咁",
+          "original": "The present letter is written to you with this in mind,—as if death were about to call me away in the very act of writing.",
+          "vernacular": "我寫呢封信俾你嗰陣,心入面就係抱住呢個念頭——好似死亡即將喺我落筆嘅呢一刻嚟召喚我離開咁樣。",
+          "vernacularMandarin": "我寫這封信給你的時候,心裡就是抱住這個念頭——好似死亡即將在我落筆的這一刻來召喚我離開那樣。"
+        },
+        {
+          "id": "s8-5",
+          "title": "我已經準備好離去,亦都正正因為我唔會過分焦慮自己離去嘅日期,我先至可以享受人生",
+          "original": "I am ready to depart, and I shall enjoy life just because I am not over-anxious as to the future date of my departure.",
+          "vernacular": "我已經準備好離開呢個世界,而正正因為我唔會過分焦慮自己離開嘅日期會喺幾時,我先至可以真正咁享受人生。",
+          "vernacularMandarin": "我已經準備好離開這個世界,而正正因為我不會過分焦慮自己離開的日期會在何時,我才可以真正地享受人生。"
+        },
+        {
+          "id": "s8-6",
+          "title": "未老嗰陣我努力生活得好;而家老咗,我要努力死得好——死得好即係死得心甘情願;唔好做任何唔情願嘅事",
+          "original": "Before I became old I tried to live well; now that I am old, I shall try to die well; but dying well means dying gladly. See to it that you never do anything unwillingly.",
+          "vernacular": "喺我未老嗰陣,我努力過生活得好;而家我老咗,我就要努力做到死得好——而死得好,即係死得心甘情願。你要留意,永遠都唔好做任何唔情願嘅事。",
+          "vernacularMandarin": "在我未老的時候,我努力過生活得好;現在我老了,我就要努力做到死得好——而死得好,就是死得心甘情願。你要留意,永遠都不要做任何不情願的事。"
+        },
+        {
+          "id": "s8-7",
+          "title": "如果你反抗,一件必然會發生嘅事就會變成強迫;但如果你心甘情願,佢就唔再係強迫——樂意接受命令,就可以逃過奴役嘅最苦部分",
+          "original": "That which is bound to be a necessity if you rebel, is not a necessity if you desire it. This is what I mean: he who takes his orders gladly, escapes the bitterest part of slavery,—doing what one does not want to do.",
+          "vernacular": "一件注定會發生嘅事,如果你反抗佢,就會變成一種強逼;但如果你甘願接受佢,佢就唔再係強逼。我嘅意思係咁:一個心甘情願接受命令嘅人,就可以逃過奴役之中最痛苦嘅部分——即係做自己唔想做嘅事。",
+          "vernacularMandarin": "一件注定會發生的事,如果你反抗它,就會變成一種強迫;但如果你甘願接受它,它就不再是強迫。我的意思是這樣:一個心甘情願接受命令的人,就可以逃過奴役之中最痛苦的部分——也就是做自己不想做的事。"
+        },
+        {
+          "id": "s8-8",
+          "title": "奉命而行嘅人唔係不幸;違背自己意願而行嘅人先至係不幸——我哋要令自己心靈能夠渴求境況所要求嘅一切,坦然面對自己嘅終結",
+          "original": "The man who does something under orders is not unhappy; he is unhappy who does something against his will. Let us therefore so set our minds in order that we may desire whatever is demanded of us by circumstances, and above all that we may reflect upon our end without sadness.",
+          "vernacular": "奉命行事嘅人並唔係不幸嘅;真正不幸嘅係違背自己意願而行嘅人。所以我哋應該咁樣調整好自己嘅心靈,令自己可以渴求境況所要求嘅任何嘢,而最重要嘅係,可以坦然、冇悲傷咁去省思自己嘅終結。",
+          "vernacularMandarin": "奉命行事的人並不是不幸的;真正不幸的是違背自己意願而行的人。所以我們應該這樣調整好自己的心靈,令自己可以渴求境況所要求的任何東西,而最重要的是,可以坦然、沒有悲傷地去省思自己的終結。"
+        },
+        {
+          "id": "s8-9",
+          "title": "我哋要喺為生活做好準備之前,先為死亡做好準備;人生本身已經裝備得夠好,但我哋對其中嘅裝備太過貪心,永遠都覺得唔夠",
+          "original": "We must make ready for death before we make ready for life. Life is well enough furnished, but we are too greedy with regard to its furnishings; something always seems to us lacking, and will always seem lacking.",
+          "vernacular": "我哋一定要喺為生活做好準備之前,先為死亡做好準備。人生本身其實已經裝備得夠好嘅喇,但我哋對呢啲裝備太過貪心,總係覺得仲欠缺啲乜,而且會一直覺得欠缺落去。",
+          "vernacularMandarin": "我們一定要在為生活做好準備之前,先為死亡做好準備。人生本身其實已經裝備得夠好的了,但我們對這些裝備太過貪心,總是覺得還欠缺些甚麼,而且會一直覺得欠缺下去。"
+        },
+        {
+          "id": "s8-10",
+          "title": "活得夠唔夠耐,唔係取決於年月或者日子,而係取決於我哋嘅心靈",
+          "original": "To have lived long enough depends neither upon our years nor upon our days, but upon our minds.",
+          "vernacular": "一個人係咪已經活得夠耐,唔係取決於佢嘅年歲,亦唔係取決於佢嘅日子,而係取決於佢嘅心靈。",
+          "vernacularMandarin": "一個人是否已經活得夠久,不是取決於他的年歲,也不是取決於他的日子,而是取決於他的心靈。"
+        },
+        {
+          "id": "s8-11",
+          "title": "我親愛嘅盧齊利烏斯,我已經活得夠耐,我已經心滿意足;我而家等待住死亡",
+          "original": "I have lived, my dear friend Lucilius, long enough. I have had my fill; I await death. Farewell.",
+          "vernacular": "我親愛嘅朋友盧齊利烏斯,我已經活得夠耐喇。我已經心滿意足;我而家喺度等待住死亡嘅來臨。珍重。",
+          "vernacularMandarin": "我親愛的朋友盧齊利烏斯,我已經活得夠久了。我已經心滿意足;我現在在等待著死亡的來臨。珍重。"
+        }
+      ]
+    }
+  ]
+}

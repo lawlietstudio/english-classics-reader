@@ -1,0 +1,1132 @@
+{
+  "id": "manuscripts1844",
+  "title": "經濟學哲學手稿",
+  "author": "Karl Marx 卡爾·馬克思",
+  "description": "1844年馬克思喺巴黎寫低但生前未有出版嘅手稿,1932年先正式面世,原名《Economic and Philosophic Manuscripts of 1844》。呢度精選最經典嘅篇章,原文英文對照廣東話/普通話翻譯。",
+  "chapters": [
+    {
+      "id": "epm-preface",
+      "title": "Preface 序言",
+      "passages": [
+        {
+          "id": "pre-1",
+          "title": "成果係透過對政治經濟學嘅嚴謹批判研究得出",
+          "original": "It is hardly necessary to assure the reader conversant with political economy that my results have been attained by means of a wholly empirical analysis based on a conscientious critical study of political economy.",
+          "vernacular": "對於熟悉政治經濟學嘅讀者,我幾乎唔使再強調:我嘅成果,係通過對政治經濟學嘅一種認真、批判性嘅研究,以完全實證嘅分析方法得出嚟嘅。",
+          "vernacularMandarin": "對於熟悉政治經濟學的讀者,我幾乎不用再強調:我的成果,是通過對政治經濟學的一種認真、批判性的研究,以完全實證的分析方法得出來的。"
+        },
+        {
+          "id": "pre-2",
+          "title": "除咗法英社會主義者,亦都參考咗德國嘅著作",
+          "original": "It goes without saying that besides the French and English socialists I have also used German socialist works.",
+          "vernacular": "不消講,除咗法國同英國嘅社會主義者之外,我亦都用咗德國嘅社會主義著作。",
+          "vernacularMandarin": "不消說,除了法國同英國的社會主義者之外,我也用了德國的社會主義著作。"
+        },
+        {
+          "id": "pre-3",
+          "title": "正面批判嘅真正基礎源自費爾巴哈嘅發現",
+          "original": "Positive criticism as a whole – and therefore also German positive criticism of political economy – owes its true foundation to the discoveries of Feuerbach.",
+          "vernacular": "整個正面批判——因此包括德國對政治經濟學嘅正面批判——都要歸功於費爾巴哈嘅發現,先至有真正嘅基礎。",
+          "vernacularMandarin": "整個正面批判——因此包括德國對政治經濟學的正面批判——都要歸功於費爾巴哈的發現,才有真正的基礎。"
+        },
+        {
+          "id": "pre-4",
+          "title": "正面、人道、自然主義嘅批判由費爾巴哈開始",
+          "original": "It is only with Feuerbach that positive, humanistic and naturalistic criticism begins.",
+          "vernacular": "正面嘅、人道主義嘅、自然主義嘅批判,係由費爾巴哈先至開始嘅。",
+          "vernacularMandarin": "正面的、人道主義的、自然主義的批判,是由費爾巴哈才開始的。"
+        },
+        {
+          "id": "pre-5",
+          "title": "費爾巴哈嘅著作係黑格爾之後唯一真正嘅理論革命",
+          "original": "The less noise they make, the more certain, profound, extensive, and enduring is the effect of Feuerbach’s writings, the only writings since Hegel’s Phänomenologie and Logik to contain a real theoretical revolution.",
+          "vernacular": "費爾巴哈嘅著作,聲勢越細,佢嘅影響就越確定、越深刻、越廣泛、越持久;呢啲係自黑格爾《精神現象學》同《邏輯學》以嚟,唯一包含真正理論革命嘅著作。",
+          "vernacularMandarin": "費爾巴哈的著作,聲勢越小,它的影響就越確定、越深刻、越廣泛、越持久;這些是自黑格爾《精神現象學》同《邏輯學》以來,唯一包含真正理論革命的著作。"
+        },
+        {
+          "id": "pre-6",
+          "title": "批判黑格爾辯證法呢個任務絕對有必要",
+          "original": "In contrast to the critical theologians of our day, I have deemed the concluding chapter of this work – a critical discussion of Hegelian dialectic and philosophy as a whole – to be absolutely necessary, a task not yet performed.",
+          "vernacular": "同當代嗰啲批判神學家唔同,我認為呢部作品嘅結論部分——即係對黑格爾辯證法同埋成套哲學嘅批判性討論——係絕對必要嘅,而呢個任務仲未有人做過。",
+          "vernacularMandarin": "同當代那些批判神學家不同,我認為這部作品的結論部分——也就是對黑格爾辯證法同整套哲學的批判性討論——是絕對必要的,而這個任務還沒有人做過。"
+        }
+      ]
+    },
+    {
+      "id": "epm-wages-of-labour",
+      "title": "Wages of Labour 工資",
+      "passages": [
+        {
+          "id": "wl-1",
+          "title": "工資由資本家同工人嘅對抗鬥爭決定",
+          "original": "Wages are determined through the antagonistic struggle between capitalist and worker.",
+          "vernacular": "工資係由資本家同工人之間嘅對抗鬥爭嚟決定嘅。",
+          "vernacularMandarin": "工資是由資本家同工人之間的對抗鬥爭來決定的。"
+        },
+        {
+          "id": "wl-2",
+          "title": "勝利必然屬於資本家",
+          "original": "Victory goes necessarily to the capitalist.",
+          "vernacular": "勝利必然屬於資本家。",
+          "vernacularMandarin": "勝利必然屬於資本家。"
+        },
+        {
+          "id": "wl-3",
+          "title": "資本家冇工人可以捱耐過工人冇資本家",
+          "original": "The capitalist can live longer without the worker than can the worker without the capitalist.",
+          "vernacular": "資本家冇咗工人,都可以捱得比工人冇咗資本家捱得耐。",
+          "vernacularMandarin": "資本家沒有了工人,都可以捱得比工人沒有了資本家捱得久。"
+        },
+        {
+          "id": "wl-4",
+          "title": "資本家可以結盟,工人結盟就俾人禁止",
+          "original": "Combination among the capitalists is customary and effective; workers’ combination is prohibited and painful in its consequences for them.",
+          "vernacular": "資本家之間嘅結盟係司空見慣而且有效嘅;工人嘅結盟就俾人禁止,後果仲要好慘痛。",
+          "vernacularMandarin": "資本家之間的結盟是司空見慣而且有效的;工人的結盟就被人禁止,後果還很慘痛。"
+        },
+        {
+          "id": "wl-5",
+          "title": "最低工資淨係維持工人存活同延續勞動力",
+          "original": "The lowest and the only necessary wage rate is that providing for the subsistence of the worker for the duration of his work and as much more as is necessary for him to support a family and for the race of labourers not to die out.",
+          "vernacular": "最低而又係唯一必要嘅工資水平,就係足夠工人喺工作期間維持生存,再加多啲畀佢養家、令勞動者呢個種族唔至於絕種嘅程度。",
+          "vernacularMandarin": "最低而又是唯一必要的工資水平,就是足夠工人在工作期間維持生存,再加多一點給他養家、令勞動者這個種族不至於絕種的程度。"
+        },
+        {
+          "id": "wl-6",
+          "title": "工人已經淪為商品,搵到買家就係彩數",
+          "original": "The worker has become a commodity, and it is a bit of luck for him if he can find a buyer.",
+          "vernacular": "工人已經變成一件商品,如果佢搵到買家,對佢嚟講已經算係走運。",
+          "vernacularMandarin": "工人已經變成一件商品,如果他找到買家,對他來說已經算是走運。"
+        },
+        {
+          "id": "wl-7",
+          "title": "社會衰落、進步、抑或已經發展成熟,工人都係苦",
+          "original": "Thus in a declining state of society – increasing misery of the worker; in an advancing state – misery with complications; and in a fully developed state of society – static misery.",
+          "vernacular": "所以話:喺一個衰落緊嘅社會入面,工人嘅苦難不斷加深;喺一個進步緊嘅社會入面,苦難就變得複雜化;而喺一個已經發展成熟嘅社會入面,苦難就固定落嚟,變成常態。",
+          "vernacularMandarin": "所以說:在一個衰落中的社會裡面,工人的苦難不斷加深;在一個進步中的社會裡面,苦難就變得複雜化;而在一個已經發展成熟的社會裡面,苦難就固定下來,變成常態。"
+        },
+        {
+          "id": "wl-8",
+          "title": "分工提升生產力,但令工人淪為機器",
+          "original": "Whilst the division of labour raises the productive power of labour and increases the wealth and refinement of society, it impoverishes the worker and reduces him to a machine.",
+          "vernacular": "分工雖然提升咗勞動嘅生產力,增加咗社會嘅財富同精緻程度,但同時就令工人變得貧窮,將佢淪為一部機器。",
+          "vernacularMandarin": "分工雖然提升了勞動的生產力,增加了社會的財富同精緻程度,但同時就令工人變得貧窮,將他淪為一部機器。"
+        },
+        {
+          "id": "wl-9",
+          "title": "勞動帶嚟資本積累,但令工人更依賴資本家",
+          "original": "Whilst labour brings about the accumulation of capital and with this the increasing prosperity of society, it renders the worker ever more dependent on the capitalist, leads him into competition of a new intensity, and drives him into the headlong rush of overproduction, with its subsequent corresponding slump.",
+          "vernacular": "勞動雖然帶嚟資本嘅積累,連帶社會日益繁榮,但同時就令工人越嚟越依賴資本家,將佢捲入一種前所未有嘅激烈競爭,推佢一頭撞入生產過剩嘅狂潮,跟住就要承受隨之而嚟嘅衰退。",
+          "vernacularMandarin": "勞動雖然帶來資本的積累,連帶社會日益繁榮,但同時就令工人越來越依賴資本家,將他捲入一種前所未有的激烈競爭,推他一頭撞入生產過剩的狂潮,跟著就要承受隨之而來的衰退。"
+        },
+        {
+          "id": "wl-10",
+          "title": "工人嘅利益從來冇同社會對立,但社會就必然同工人對立",
+          "original": "Whilst the interest of the worker, according to the political economists, never stands opposed to the interest of society, society always and necessarily stands opposed to the interest of the worker.",
+          "vernacular": "按照政治經濟學家嘅講法,工人嘅利益從嚟都冇同社會嘅利益對立;但社會就必然而且一定會同工人嘅利益對立。",
+          "vernacularMandarin": "按照政治經濟學家的講法,工人的利益從來都沒有同社會的利益對立;但社會就必然而且一定會同工人的利益對立。"
+        },
+        {
+          "id": "wl-11",
+          "title": "理論上地租利潤係扣減工資嘅結果",
+          "original": "In theory, rent of land and profit on capital are deductions suffered by wages.",
+          "vernacular": "喺理論上,地租同資本利潤,都係工資受到嘅扣減。",
+          "vernacularMandarin": "在理論上,地租同資本利潤,都是工資受到的扣減。"
+        },
+        {
+          "id": "wl-12",
+          "title": "實際上工資反而係土地資本施捨畀工人嘅嘢",
+          "original": "In actual fact, however, wages are a deduction which land and capital allow to go to the worker, a concession from the product of labour to the workers, to labour.",
+          "vernacular": "但係喺實際上,工資反而係土地同資本允許畀返工人嘅一種扣減,係勞動產物讓俾工人、讓俾勞動嘅一種讓步。",
+          "vernacularMandarin": "但是在實際上,工資反而是土地同資本允許給回工人的一種扣減,是勞動產物讓給工人、讓給勞動的一種讓步。"
+        },
+        {
+          "id": "wl-13",
+          "title": "工人唔止為生存搏鬥,仲要為攞到工作搏鬥",
+          "original": "The worker has to struggle not only for his physical means of subsistence; he has to struggle to get work, i.e., the possibility, the means, to perform his activity.",
+          "vernacular": "工人唔單止要為咗肉體上嘅生存資料而搏鬥,佢仲要為咗攞到工作而搏鬥——即係話,要為攞到得以進行自己活動嘅可能性同手段而搏鬥。",
+          "vernacularMandarin": "工人不單止要為了肉體上的生存資料而搏鬥,他還要為了拿到工作而搏鬥——也就是說,要為拿到得以進行自己活動的可能性同手段而搏鬥。"
+        }
+      ]
+    },
+    {
+      "id": "epm-profit-of-capital",
+      "title": "Profit of Capital 利潤",
+      "passages": [
+        {
+          "id": "poc-1",
+          "title": "資本嘅基礎究竟係咩?",
+          "original": "What is the basis of capital, that is, of private property in the products of other men’s labour?",
+          "vernacular": "資本嘅基礎究竟係咩——即係話,佔有別人勞動產物嘅私有財產,基礎又係咩?",
+          "vernacularMandarin": "資本的基礎究竟是什麼——也就是說,佔有別人勞動產物的私有財產,基礎又是什麼?"
+        },
+        {
+          "id": "poc-2",
+          "title": "資本就係對勞動同勞動產物嘅統治力量",
+          "original": "Capital is thus the governing power over labour and its products.",
+          "vernacular": "所以話,資本就係對勞動同勞動產物嘅統治力量。",
+          "vernacularMandarin": "所以說,資本就是對勞動同勞動產物的統治力量。"
+        },
+        {
+          "id": "poc-3",
+          "title": "資本家嘅權力就係無可抵擋嘅購買力",
+          "original": "His power is the purchasing power of his capital, which nothing can withstand.",
+          "vernacular": "佢嘅權力,就係佢資本嘅購買力,呢種力量係冇任何嘢可以抵擋嘅。",
+          "vernacularMandarin": "他的權力,就是他資本的購買力,這種力量是沒有任何東西可以抵擋的。"
+        },
+        {
+          "id": "poc-4",
+          "title": "資本就係積蓄落嚟、準備動用嘅一定數量勞動",
+          "original": "A certain quantity of labour stocked and stored up to be employed.",
+          "vernacular": "資本,就係積蓄落嚟、準備動用嘅一定數量嘅勞動。",
+          "vernacularMandarin": "資本,就是積蓄下來、準備動用的一定數量的勞動。"
+        },
+        {
+          "id": "poc-5",
+          "title": "資本就係積蓄落嚟嘅勞動",
+          "original": "Capital is stored-up labour.",
+          "vernacular": "資本就係積蓄落嚟嘅勞動。",
+          "vernacularMandarin": "資本就是積蓄下來的勞動。"
+        },
+        {
+          "id": "poc-6",
+          "title": "資本嘅利潤同工資係完全唔同嘅嘢",
+          "original": "The profit or gain of capital is altogether different from the wages of labour.",
+          "vernacular": "資本嘅利潤或者收益,同勞動嘅工資,係完全唔同嘅兩件事。",
+          "vernacularMandarin": "資本的利潤或者收益,同勞動的工資,是完全不同的兩件事。"
+        },
+        {
+          "id": "poc-7",
+          "title": "資本家考慮嘅淨係自己嘅私人利潤",
+          "original": "The consideration of his own private profit is the sole motive which determines the owner of any capital to employ it either in agriculture, in manufactures, or in some particular branch of the wholesale or retail trade.",
+          "vernacular": "對自己私人利潤嘅考慮,係任何一個資本擁有者,決定將資本投入農業、製造業,定係批發零售某個部門嘅唯一動機。",
+          "vernacularMandarin": "對自己私人利潤的考慮,是任何一個資本擁有者,決定將資本投入農業、製造業,或者批發零售某個部門的唯一動機。"
+        },
+        {
+          "id": "poc-8",
+          "title": "資本家呢個階級嘅利益普遍係想欺騙同壓迫公眾",
+          "original": "This is a class of people whose interest is never exactly the same as that of society, a class of people who have generally an interest to deceive and to oppress the public.",
+          "vernacular": "呢個係一個利益從嚟都同社會利益唔完全一致嘅階級,係一個普遍傾向於有意欺騙同壓迫公眾嘅階級。",
+          "vernacularMandarin": "這是一個利益從來都同社會利益不完全一致的階級,是一個普遍傾向於有意欺騙同壓迫公眾的階級。"
+        },
+        {
+          "id": "poc-9",
+          "title": "資本積累就係將資本集中喺少數人手上",
+          "original": "Accumulation, where private property prevails, is the concentration of capital in the hands of a few.",
+          "vernacular": "喺私有財產盛行嘅地方,資本嘅積累就係將資本集中喺少數人手上。",
+          "vernacularMandarin": "在私有財產盛行的地方,資本的積累就是將資本集中在少數人手上。"
+        },
+        {
+          "id": "poc-10",
+          "title": "任由資本自然發展,呢個結果無可避免",
+          "original": "It is in general an inevitable consequence if capital is left to follow its natural course, and it is precisely through competition that the way is cleared for this natural disposition of capital.",
+          "vernacular": "一般嚟講,如果任由資本按照佢自然嘅路向發展,呢個結果就係無可避免嘅;而正正就係透過競爭,先至為資本呢種自然嘅趨向掃清咗道路。",
+          "vernacularMandarin": "一般來說,如果任由資本按照它自然的路向發展,這個結果就是無可避免的;而正正就是透過競爭,才為資本這種自然的趨向掃清了道路。"
+        },
+        {
+          "id": "poc-11",
+          "title": "資本增加,細資本家就最先受害",
+          "original": "With the increase of capital the profit on capital diminishes, because of competition.",
+          "vernacular": "隨住資本嘅增加,由於競爭嘅緣故,資本嘅利潤就會下降。",
+          "vernacularMandarin": "隨著資本的增加,由於競爭的緣故,資本的利潤就會下降。"
+        },
+        {
+          "id": "poc-12",
+          "title": "首當其衝受害嘅就係細資本家",
+          "original": "The first to suffer, therefore, is the small capitalist.",
+          "vernacular": "所以,首當其衝受害嘅,就係細資本家。",
+          "vernacularMandarin": "所以,首當其衝受害的,就是小資本家。"
+        }
+      ]
+    },
+    {
+      "id": "epm-rent-of-land",
+      "title": "Rent of Land 地租",
+      "passages": [
+        {
+          "id": "rl-1",
+          "title": "地主嘅權利源自搶劫",
+          "original": "Landlords’ right has its origin in robbery.",
+          "vernacular": "地主嘅權利,起源就係搶劫。",
+          "vernacularMandarin": "地主的權利,起源就是搶劫。"
+        },
+        {
+          "id": "rl-2",
+          "title": "地主鍾意收割自己冇播種嘅嘢",
+          "original": "The landlords, like all other men, love to reap where they never sowed, and demand a rent even for the natural produce of the earth.",
+          "vernacular": "地主同所有人一樣,鍾意收割自己從未播種過嘅嘢,甚至連土地天然嘅產物,佢哋都要收租。",
+          "vernacularMandarin": "地主同所有人一樣,喜歡收割自己從未播種過的東西,甚至連土地天然的產物,他們都要收租。"
+        },
+        {
+          "id": "rl-3",
+          "title": "地租係地主借出自然力量得到嘅產物",
+          "original": "This rent may be considered as the produce of those powers of nature, the use of which the landlord lends to the farmer.",
+          "vernacular": "呢種地租,可以睇成係地主借畀農夫使用嗰啲自然力量嘅產物。",
+          "vernacularMandarin": "這種地租,可以看成是地主借給農夫使用那些自然力量的產物。"
+        },
+        {
+          "id": "rl-4",
+          "title": "地租本質上就係一種壟斷價格",
+          "original": "The rent of land, therefore, considered as the price paid for the use of the land, is naturally a monopoly price.",
+          "vernacular": "所以,地租作為使用土地所支付嘅價格,本質上自然就係一種壟斷價格。",
+          "vernacularMandarin": "所以,地租作為使用土地所支付的價格,本質上自然就是一種壟斷價格。"
+        },
+        {
+          "id": "rl-5",
+          "title": "地租睇嘅唔係地主付出幾多,而係農夫俾唔俾得起",
+          "original": "It is not at all proportioned to what the landlord may have laid out upon the improvement of the land, or to what he can afford to take; but to what the farmer can afford to give.",
+          "vernacular": "地租嘅高低,完全唔係按照地主喺改良土地上面花咗幾多,或者佢負擔得起攞幾多;而係按照農夫負擔得起俾幾多。",
+          "vernacularMandarin": "地租的高低,完全不是按照地主在改良土地上面花了多少,或者他負擔得起拿多少;而是按照農夫負擔得起給多少。"
+        },
+        {
+          "id": "rl-6",
+          "title": "地主嘅收入唔使勞動,自動送上門",
+          "original": "Of the three original classes, that of the landlords is the one whose revenue costs them neither labour nor care, but comes to them, as it were, of its own accord, and independent of any plan or project of their own.",
+          "vernacular": "喺三個原始階級之中,地主呢個階級嘅收入,唔使佢哋出勞動、費心機,而係好似自動送上門咁,同佢哋自己嘅計劃或者盤算完全無關。",
+          "vernacularMandarin": "在三個原始階級之中,地主這個階級的收入,不用他們出勞動、費心機,而是好像自動送上門那樣,同他們自己的計劃或者盤算完全無關。"
+        },
+        {
+          "id": "rl-7",
+          "title": "地租係租客同地主鬥爭嘅結果",
+          "original": "The rent of land is established as a result of the struggle between tenant and landlord.",
+          "vernacular": "地租,就係租客同地主之間鬥爭嘅結果。",
+          "vernacularMandarin": "地租,就是租客同地主之間鬥爭的結果。"
+        },
+        {
+          "id": "rl-8",
+          "title": "利益嘅敵對、鬥爭、戰爭係社會組織嘅基礎",
+          "original": "We find that the hostile antagonism of interests, the struggle, the war is recognized throughout political economy as the basis of social organization.",
+          "vernacular": "我哋發現,喺成套政治經濟學入面,利益嘅敵對衝突、鬥爭、戰爭,都被公認為社會組織嘅基礎。",
+          "vernacularMandarin": "我們發現,在整套政治經濟學裡面,利益的敵對衝突、鬥爭、戰爭,都被公認為社會組織的基礎。"
+        },
+        {
+          "id": "rl-9",
+          "title": "史密夫話地主利益等同社會利益,呢個講法好蠢",
+          "original": "But it is silly to conclude, as Smith does, that since the landlord exploits every benefit which comes to society the interest of the landlord is always identical with that of society.",
+          "vernacular": "但係好似史密夫咁,因為地主會攞盡社會帶嚟嘅每一種好處,就推論話地主嘅利益永遠同社會嘅利益一致,呢個結論係好愚蠢嘅。",
+          "vernacularMandarin": "但是好像史密斯那樣,因為地主會拿盡社會帶來的每一種好處,就推論說地主的利益永遠同社會的利益一致,這個結論是很愚蠢的。"
+        },
+        {
+          "id": "rl-10",
+          "title": "個人利益同社會利益成反比,好似放債佬同敗家仔咁",
+          "original": "In the economic system, under the rule of private property, the interest which an individual has in society is in precisely inverse proportion to the interest society has in him – just as the interest of the usurer in the spendthrift is by no means identical with the interest of the spendthrift.",
+          "vernacular": "喺私有財產統治嘅經濟制度之下,個人喺社會入面嘅利益,同社會喺佢身上嘅利益,恰恰係成反比嘅——就好似放債佬對敗家仔嘅利益,同敗家仔自己嘅利益,絕對唔係同一回事咁。",
+          "vernacularMandarin": "在私有財產統治的經濟制度之下,個人在社會裡面的利益,同社會在他身上的利益,恰恰是成反比的——就好像放債人對敗家子的利益,同敗家子自己的利益,絕對不是同一回事那樣。"
+        }
+      ]
+    },
+    {
+      "id": "epm-estranged-labour",
+      "title": "Estranged Labour 異化勞動",
+      "passages": [
+        {
+          "id": "el-1",
+          "title": "我哋跟住政治經濟學嘅前提出發",
+          "original": "We have proceeded from the premises of political economy.",
+          "vernacular": "我哋一路都係跟住政治經濟學嘅前提嚟推論。",
+          "vernacularMandarin": "我們一路都是跟著政治經濟學的前提來推論。"
+        },
+        {
+          "id": "el-2",
+          "title": "接受咗佢嘅語言同法則",
+          "original": "We have accepted its language and its laws.",
+          "vernacular": "我哋接受咗佢嘅語言同法則。",
+          "vernacularMandarin": "我們接受了它的語言同法則。"
+        },
+        {
+          "id": "el-3",
+          "title": "預設咗私有財產、分工等等前提",
+          "original": "We presupposed private property, the separation of labor, capital and land, and of wages, profit of capital and rent of land – likewise division of labor, competition, the concept of exchange value, etc.",
+          "vernacular": "我哋預設咗私有財產、勞動同資本同土地嘅分離、工資同資本利潤同地租嘅分離——仲有分工、競爭、交換價值嘅概念等等。",
+          "vernacularMandarin": "我們預設了私有財產、勞動同資本同土地的分離、工資同資本利潤同地租的分離——還有分工、競爭、交換價值的概念等等。"
+        },
+        {
+          "id": "el-4",
+          "title": "證明咗工人淪落到商品嘅地步",
+          "original": "On the basis of political economy itself, in its own words, we have shown that the worker sinks to the level of a commodity and becomes indeed the most wretched of commodities; that the wretchedness of the worker is in inverse proportion to the power and magnitude of his production; that the necessary result of competition is the accumulation of capital in a few hands, and thus the restoration of monopoly in a more terrible form; and that finally the distinction between capitalist and land rentier, like that between the tiller of the soil and the factory worker, disappears and that the whole of society must fall apart into the two classes – property owners and propertyless workers.",
+          "vernacular": "就用政治經濟學自己嘅講法,我哋已經證明咗:工人淪落到商品嘅地步,甚至係最悲慘嘅商品;工人嘅悲慘程度,同佢生產嘅力量同規模成反比;競爭必然嘅結果,就係資本喺少數人手上積聚,令壟斷以更恐怖嘅形式重新出現;最終資本家同地主嘅分別,好似耕田人同工廠工人嘅分別咁,都會消失,成個社會必然分裂做兩個階級——有產者同冇產嘅工人。",
+          "vernacularMandarin": "就用政治經濟學自己的講法,我們已經證明了:工人淪落到商品的地步,甚至是最悲慘的商品;工人的悲慘程度,同他生產的力量同規模成反比;競爭必然的結果,就是資本在少數人手上積聚,令壟斷以更恐怖的形式重新出現;最終資本家同地主的分別,好像耕田人同工廠工人的分別那樣,都會消失,整個社會必然分裂做兩個階級——有產者同沒有產業的工人。"
+        },
+        {
+          "id": "el-5",
+          "title": "政治經濟學由私有財產呢個事實出發",
+          "original": "Political economy starts with the fact of private property; it does not explain it to us.",
+          "vernacular": "政治經濟學係由私有財產呢個事實開始講起,但佢從來冇解釋過呢個事實。",
+          "vernacularMandarin": "政治經濟學是由私有財產這個事實開始講起,但它從來沒有解釋過這個事實。"
+        },
+        {
+          "id": "el-6",
+          "title": "將物質過程變成一般公式",
+          "original": "It expresses in general, abstract formulas the material process through which private property actually passes, and these formulas it then takes for laws.",
+          "vernacular": "佢只不過用一般、抽象嘅公式,去表達私有財產實際經歷嘅物質過程,然後就將呢啲公式當做法則。",
+          "vernacularMandarin": "它只不過用一般、抽象的公式,去表達私有財產實際經歷的物質過程,然後就將這些公式當做法則。"
+        },
+        {
+          "id": "el-7",
+          "title": "冇證明法則點樣由私有財產本質產生",
+          "original": "It does not comprehend these laws – i.e., it does not demonstrate how they arise from the very nature of private property.",
+          "vernacular": "佢並冇真正理解呢啲法則——即係話,佢冇證明過呢啲法則點樣係由私有財產嘅本質入面產生出嚟。",
+          "vernacularMandarin": "它並沒有真正理解這些法則——也就是說,它沒有證明過這些法則怎樣是由私有財產的本質裡面產生出來的。"
+        },
+        {
+          "id": "el-8",
+          "title": "我哋要由一個實在嘅經濟事實講起",
+          "original": "We proceed from an actual economic fact.",
+          "vernacular": "我哋要由一個實在嘅經濟事實講起。",
+          "vernacularMandarin": "我們要由一個實在的經濟事實講起。"
+        },
+        {
+          "id": "el-9",
+          "title": "工人生產嘅財富越多,自己就越窮",
+          "original": "The worker becomes all the poorer the more wealth he produces, the more his production increases in power and size.",
+          "vernacular": "工人生產嘅財富越多,佢自己就越窮;佢嘅生產力量同規模越增加,佢就越窮。",
+          "vernacularMandarin": "工人生產的財富越多,他自己就越窮;他的生產力量同規模越增加,他就越窮。"
+        },
+        {
+          "id": "el-10",
+          "title": "創造嘅商品越多,自己就越廉價",
+          "original": "The worker becomes an ever cheaper commodity the more commodities he creates.",
+          "vernacular": "工人創造嘅商品越多,佢自己就變成越廉價嘅商品。",
+          "vernacularMandarin": "工人創造的商品越多,他自己就變成越廉價的商品。"
+        },
+        {
+          "id": "el-11",
+          "title": "物件越值錢,人類就越貶值",
+          "original": "The devaluation of the world of men is in direct proportion to the increasing value of the world of things.",
+          "vernacular": "物件世界嘅價值不斷升高,人類世界嘅價值就以同樣嘅比例貶值。",
+          "vernacularMandarin": "物件世界的價值不斷升高,人類世界的價值就以同樣的比例貶值。"
+        },
+        {
+          "id": "el-12",
+          "title": "勞動仲生產緊工人本身呢件商品",
+          "original": "Labor produces not only commodities; it produces itself and the worker as a commodity – and this at the same rate at which it produces commodities in general.",
+          "vernacular": "勞動唔單止生產商品,佢仲生產緊自己,將工人生產做商品——而且係按住生產一般商品嗰個比例咁樣。",
+          "vernacularMandarin": "勞動不單止生產商品,它還生產著自己,將工人生產做商品——而且是按照生產一般商品那個比例這樣。"
+        },
+        {
+          "id": "el-13",
+          "title": "勞動嘅產物變成異己嘅力量",
+          "original": "This fact expresses merely that the object which labor produces – labor’s product – confronts it as something alien, as a power independent of the producer.",
+          "vernacular": "呢個事實只不過表示緊:勞動所生產嘅對象——即係勞動嘅產物——變成咗一種異己嘅嘢,變成咗一種獨立於生產者之外嘅力量,同勞動本身對立。",
+          "vernacularMandarin": "這個事實只不過表示著:勞動所生產的對象——也就是勞動的產物——變成了一種異己的東西,變成了一種獨立於生產者之外的力量,同勞動本身對立。"
+        },
+        {
+          "id": "el-14",
+          "title": "勞動嘅產物就係已經物化咗嘅勞動",
+          "original": "The product of labor is labor which has been embodied in an object, which has become material: it is the objectification of labor.",
+          "vernacular": "勞動嘅產物,就係已經凝固喺一件物件度嘅勞動,已經物化咗嘅勞動,即係勞動嘅對象化。",
+          "vernacularMandarin": "勞動的產物,就是已經凝固在一件物件上的勞動,已經物化了的勞動,也就是勞動的對象化。"
+        },
+        {
+          "id": "el-15",
+          "title": "勞動嘅實現就係對象化",
+          "original": "Labor’s realization is its objectification.",
+          "vernacular": "勞動嘅實現,就係勞動嘅對象化。",
+          "vernacularMandarin": "勞動的實現,就是勞動的對象化。"
+        },
+        {
+          "id": "el-16",
+          "title": "對工人嚟講,實現反而變成失去實現",
+          "original": "Under these economic conditions this realization of labor appears as loss of realization for the workers; objectification as loss of the object and bondage to it; appropriation as estrangement, as alienation.",
+          "vernacular": "但係喺呢啲經濟條件之下,呢種勞動嘅實現,對工人嚟講反而表現為失去實現;對象化表現為失去對象、被對象奴役;佔有表現為異化,表現為外化。",
+          "vernacularMandarin": "但是在這些經濟條件之下,這種勞動的實現,對工人來說反而表現為失去實現;對象化表現為失去對象、被對象奴役;佔有表現為異化,表現為外化。"
+        },
+        {
+          "id": "el-17",
+          "title": "工人同勞動產物嘅關係就好似同異己物件咁",
+          "original": "All these consequences are implied in the statement that the worker is related to the product of labor as to an alien object.",
+          "vernacular": "呢啲後果全部都包含喺呢句說話入面:工人同勞動產物嘅關係,就好似同一件異己嘅物件嘅關係咁。",
+          "vernacularMandarin": "這些後果全部都包含在這句說話裡面:工人同勞動產物的關係,就好像同一件異己的物件的關係那樣。"
+        },
+        {
+          "id": "el-18",
+          "title": "工人付出越多,異己嘅世界就越強大",
+          "original": "For on this premise it is clear that the more the worker spends himself, the more powerful becomes the alien world of objects which he creates over and against himself, the poorer he himself – his inner world – becomes, the less belongs to him as his own.",
+          "vernacular": "因為根據呢個前提,好清楚可以睇到:工人越係付出自己,佢創造出嚟、同佢自己對立嘅異己物件世界就越強大,佢自己——即係佢嘅內心世界——就越貧乏,屬於佢自己嘅嘢就越少。",
+          "vernacularMandarin": "因為根據這個前提,很清楚可以看到:工人越是付出自己,他創造出來、同他自己對立的異己物件世界就越強大,他自己——也就是他的內心世界——就越貧乏,屬於他自己的東西就越少。"
+        },
+        {
+          "id": "el-19",
+          "title": "宗教都係一樣嘅道理",
+          "original": "It is the same in religion.",
+          "vernacular": "宗教都係一樣。",
+          "vernacularMandarin": "宗教都是一樣。"
+        },
+        {
+          "id": "el-20",
+          "title": "擺得越多喺神度,自己保留嘅就越少",
+          "original": "The more man puts into God, the less he retains in himself.",
+          "vernacular": "人擺得越多喺神度,佢自己保留低嘅就越少。",
+          "vernacularMandarin": "人放得越多在神那裡,他自己保留下來的就越少。"
+        },
+        {
+          "id": "el-21",
+          "title": "勞動為富人生產奇珍,為工人生產匱乏",
+          "original": "It is true that labor produces for the rich wonderful things – but for the worker it produces privation.",
+          "vernacular": "不錯,勞動為富人生產出奇妙嘅嘢——但係為工人生產出嚟嘅,就淨係匱乏。",
+          "vernacularMandarin": "不錯,勞動為富人生產出奇妙的東西——但是為工人生產出來的,就只有匱乏。"
+        },
+        {
+          "id": "el-22",
+          "title": "生產宮殿,俾工人嘅就係茅寮",
+          "original": "It produces palaces – but for the worker, hovels.",
+          "vernacular": "佢生產出宮殿——但係俾工人嘅,就係茅寮。",
+          "vernacularMandarin": "它生產出宮殿——但是給工人的,就是茅寮。"
+        },
+        {
+          "id": "el-23",
+          "title": "生產美,俾工人嘅就係畸形",
+          "original": "It produces beauty – but for the worker, deformity.",
+          "vernacular": "佢生產出美——但係俾工人嘅,就係畸形。",
+          "vernacularMandarin": "它生產出美——但是給工人的,就是畸形。"
+        },
+        {
+          "id": "el-24",
+          "title": "機器取代勞動,反而令部分工人更野蠻",
+          "original": "It replaces labor by machines, but it throws one section of the workers back into barbarous types of labor and it turns the other section into a machine.",
+          "vernacular": "佢用機器取代勞動,但係將一部分工人拋返去野蠻嘅勞動方式度,又將另一部分工人變成機器。",
+          "vernacularMandarin": "它用機器取代勞動,但是將一部分工人拋回野蠻的勞動方式那裡,又將另一部分工人變成機器。"
+        },
+        {
+          "id": "el-25",
+          "title": "生產智慧,俾工人嘅就係愚昧",
+          "original": "It produces intelligence – but for the worker, stupidity, cretinism.",
+          "vernacular": "佢生產出智慧——但係俾工人嘅,就係愚昧同白癡。",
+          "vernacularMandarin": "它生產出智慧——但是給工人的,就是愚昧同白癡。"
+        },
+        {
+          "id": "el-26",
+          "title": "究竟乜嘢構成勞動嘅異化?",
+          "original": "What, then, constitutes the alienation of labor?",
+          "vernacular": "咁樣,勞動嘅異化究竟係咩嚟嘅?",
+          "vernacularMandarin": "這樣,勞動的異化究竟是什麼呢?"
+        },
+        {
+          "id": "el-27",
+          "title": "首先,勞動對工人嚟講係外在嘅",
+          "original": "First, the fact that labor is external to the worker, i.e., it does not belong to his intrinsic nature; that in his work, therefore, he does not affirm himself but denies himself, does not feel content but unhappy, does not develop freely his physical and mental energy but mortifies his body and ruins his mind.",
+          "vernacular": "首先,勞動對工人嚟講係外在嘅,即係話唔屬於佢嘅本質;所以佢喺工作入面唔係肯定自己,而係否定自己;唔係覺得滿足,而係覺得唔開心;唔係自由咁發展自己嘅體力同智力,而係摧殘緊自己嘅身體、搞垮自己嘅精神。",
+          "vernacularMandarin": "首先,勞動對工人來說是外在的,也就是說不屬於他的本質;所以他在工作裡面不是肯定自己,而是否定自己;不是覺得滿足,而是覺得不開心;不是自由地發展自己的體力同智力,而是摧殘著自己的身體、搞垮自己的精神。"
+        },
+        {
+          "id": "el-28",
+          "title": "工人淨係喺工作之外先覺得係自己",
+          "original": "The worker therefore only feels himself outside his work, and in his work feels outside himself.",
+          "vernacular": "所以工人淨係喺工作之外先至覺得自己係自己,而喺工作入面就覺得唔係自己。",
+          "vernacularMandarin": "所以工人只有在工作之外才覺得自己是自己,而在工作裡面就覺得不是自己。"
+        },
+        {
+          "id": "el-29",
+          "title": "唔工作先覺得自在",
+          "original": "He feels at home when he is not working, and when he is working he does not feel at home.",
+          "vernacular": "佢唔工作嘅時候先至覺得自在,一工作就覺得唔自在。",
+          "vernacularMandarin": "他不工作的時候才覺得自在,一工作就覺得不自在。"
+        },
+        {
+          "id": "el-30",
+          "title": "所以佢嘅勞動係被迫,唔係自願",
+          "original": "His labor is therefore not voluntary, but coerced; it is forced labor.",
+          "vernacular": "所以佢嘅勞動並唔係自願,而係被迫嘅,係強制勞動。",
+          "vernacularMandarin": "所以他的勞動並不是自願,而是被迫的,是強制勞動。"
+        },
+        {
+          "id": "el-31",
+          "title": "唔係滿足需要,只係滿足外在需要嘅手段",
+          "original": "It is therefore not the satisfaction of a need; it is merely a means to satisfy needs external to it.",
+          "vernacular": "所以佢並唔係滿足一種需要,而淨係滿足呢種需要以外嘅需要嘅手段。",
+          "vernacularMandarin": "所以它並不是滿足一種需要,而只是滿足這種需要以外的需要的手段。"
+        },
+        {
+          "id": "el-32",
+          "title": "一冇強制,勞動就俾人避之則吉",
+          "original": "Its alien character emerges clearly in the fact that as soon as no physical or other compulsion exists, labor is shunned like the plague.",
+          "vernacular": "呢種異己嘅性質,好清楚咁表現喺呢一點:一旦冇咗肉體上或者其他強制,勞動就會好似瘟疫咁俾人避開。",
+          "vernacularMandarin": "這種異己的性質,很清楚地表現在這一點:一旦沒有了肉體上或者其他強制,勞動就會好像瘟疫那樣被人避開。"
+        },
+        {
+          "id": "el-33",
+          "title": "呢個勞動唔屬於自己,而屬於第個人",
+          "original": "Lastly, the external character of labor for the worker appears in the fact that it is not his own, but someone else’s, that it does not belong to him, that in it he belongs, not to himself, but to another.",
+          "vernacular": "最後,勞動對工人嚟講嘅外在性質,仲表現喺:呢個勞動唔係屬於佢自己,而係屬於第個人;佢喺呢個勞動入面,唔係屬於自己,而係屬於第個人。",
+          "vernacularMandarin": "最後,勞動對工人來說的外在性質,還表現在:這個勞動不是屬於他自己,而是屬於別人;他在這個勞動裡面,不是屬於自己,而是屬於別人。"
+        },
+        {
+          "id": "el-34",
+          "title": "工人淨係喺動物性機能入面先覺得自由",
+          "original": "As a result, therefore, man (the worker) only feels himself freely active in his animal functions – eating, drinking, procreating, or at most in his dwelling and in dressing-up, etc.; and in his human functions he no longer feels himself to be anything but an animal.",
+          "vernacular": "所以結果就係:人(工人)淨係喺自己嘅動物性機能——即係飲食、性行為,至多加埋居住同打扮呢啲嘢——先覺得自己係自由咁活動緊;而喺人性嘅機能入面,佢反而覺得自己淨係一隻動物。",
+          "vernacularMandarin": "所以結果就是:人(工人)只有在自己的動物性機能——也就是飲食、性行為,至多加上居住同打扮這些東西——才覺得自己是自由地活動著;而在人性的機能裡面,他反而覺得自己只是一隻動物。"
+        },
+        {
+          "id": "el-35",
+          "title": "動物性變人性,人性變動物性",
+          "original": "What is animal becomes human and what is human becomes animal.",
+          "vernacular": "動物性嘅嘢變成人性,人性嘅嘢就變成動物性。",
+          "vernacularMandarin": "動物性的東西變成人性,人性的東西就變成動物性。"
+        },
+        {
+          "id": "el-36",
+          "title": "飲食性行為梗係人性嘅機能",
+          "original": "Certainly eating, drinking, procreating, etc., are also genuinely human functions.",
+          "vernacular": "飲食、性行為呢啲,梗係都真係人性嘅機能。",
+          "vernacularMandarin": "飲食、性行為這些,固然都真的是人性的機能。"
+        },
+        {
+          "id": "el-37",
+          "title": "但變成唯一目的就淪為動物性機能",
+          "original": "But taken abstractly, separated from the sphere of all other human activity and turned into sole and ultimate ends, they are animal functions.",
+          "vernacular": "但係如果將佢哋抽離晒人類其他活動嘅範圍,變成單一同最終嘅目的,咁佢哋就變成純粹動物性嘅機能。",
+          "vernacularMandarin": "但是如果將它們抽離所有人類其他活動的範圍,變成單一同最終的目的,那麼它們就變成純粹動物性的機能。"
+        },
+        {
+          "id": "el-38",
+          "title": "人係一種「類存在物」",
+          "original": "Man is a species-being, not only because in practice and in theory he adopts the species (his own as well as those of other things) as his object, but – and this is only another way of expressing it – also because he treats himself as the actual, living species; because he treats himself as a universal and therefore a free being.",
+          "vernacular": "人係一種「類存在物」,唔單止因為喺實踐上同理論上,佢將(自己嘅同其他物嘅)類都當成自己嘅對象——呢個講法其實都係話——仲因為佢將自己當成現實、活生生嘅類嚟對待;因為佢將自己當成普遍嘅、因此係自由嘅存在物嚟對待。",
+          "vernacularMandarin": "人是一種「類存在物」,不單止因為在實踐上同理論上,他將(自己的同其他物的)類都當成自己的對象——這個講法其實也就是說——還因為他將自己當成現實、活生生的類來對待;因為他將自己當成普遍的、因此是自由的存在物來對待。"
+        },
+        {
+          "id": "el-39",
+          "title": "自然界就係人嘅無機身體",
+          "original": "Nature is man’s inorganic body – nature, that is, insofar as it is not itself human body.",
+          "vernacular": "自然界就係人嘅無機身體——即係話,自然界喺唔係人自己身體嘅範圍入面,就係人嘅身體。",
+          "vernacularMandarin": "自然界就是人的無機身體——也就是說,自然界在不是人自己身體的範圍裡面,就是人的身體。"
+        },
+        {
+          "id": "el-40",
+          "title": "人一定要不斷同自然界交換物質先可以唔死",
+          "original": "Man lives on nature – means that nature is his body, with which he must remain in continuous interchange if he is not to die.",
+          "vernacular": "人靠自然界生活,意思即係話:自然界係佢嘅身體,人一定要不斷同呢個身體交換物質,先至可以唔死。",
+          "vernacularMandarin": "人靠自然界生活,意思就是說:自然界是他的身體,人一定要不斷同這個身體交換物質,才可以不死。"
+        },
+        {
+          "id": "el-41",
+          "title": "動物淨係生產自己,人再生產成個自然界",
+          "original": "An animal produces only itself, whilst man reproduces the whole of nature.",
+          "vernacular": "動物淨係生產自己,人就再生產成個自然界。",
+          "vernacularMandarin": "動物只生產自己,人就再生產整個自然界。"
+        },
+        {
+          "id": "el-42",
+          "title": "動物產物屬於身體,人可以自由面對產物",
+          "original": "An animal’s product belongs immediately to its physical body, whilst man freely confronts his product.",
+          "vernacular": "動物嘅產物直接屬於佢嘅身體,人就可以自由咁面對自己嘅產物。",
+          "vernacularMandarin": "動物的產物直接屬於它的身體,人就可以自由地面對自己的產物。"
+        },
+        {
+          "id": "el-43",
+          "title": "人識得按照任何物種嘅尺度嚟生產",
+          "original": "An animal forms only in accordance with the standard and the need of the species to which it belongs, whilst man knows how to produce in accordance with the standard of every species, and knows how to apply everywhere the inherent standard to the object.",
+          "vernacular": "動物淨係按照自己所屬嗰個物種嘅尺度同需要嚟造嘢,人就識得按照任何一種物種嘅尺度嚟生產,仲識得隨處將固有嘅尺度應用喺對象度。",
+          "vernacularMandarin": "動物只按照自己所屬那個物種的尺度同需要來造東西,人就懂得按照任何一種物種的尺度來生產,還懂得隨處將固有的尺度應用在對象上。"
+        },
+        {
+          "id": "el-44",
+          "title": "人仲識得按照美嘅規律嚟塑造物件",
+          "original": "Man therefore also forms objects in accordance with the laws of beauty.",
+          "vernacular": "所以人仲識得按照美嘅規律嚟塑造物件。",
+          "vernacularMandarin": "所以人還懂得按照美的規律來塑造物件。"
+        },
+        {
+          "id": "el-45",
+          "title": "人異化嘅直接後果就係人同人相異化",
+          "original": "An immediate consequence of the fact that man is estranged from the product of his labor, from his life activity, from his species-being, is the estrangement of man from man.",
+          "vernacular": "人同自己嘅勞動產物、自己嘅生命活動、自己嘅類本質相異化,直接嘅後果就係:人同人相異化。",
+          "vernacularMandarin": "人同自己的勞動產物、自己的生命活動、自己的類本質相異化,直接的後果就是:人同人相異化。"
+        },
+        {
+          "id": "el-46",
+          "title": "人面對自己,就係面對第個人",
+          "original": "When man confronts himself, he confronts the other man.",
+          "vernacular": "當人面對自己嘅時候,佢面對緊嘅其實係第個人。",
+          "vernacularMandarin": "當人面對自己的時候,他面對著的其實是別的人。"
+        },
+        {
+          "id": "el-47",
+          "title": "人同工作嘅關係都適用於人同人嘅關係",
+          "original": "What applies to a man’s relation to his work, to the product of his labor and to himself, also holds of a man’s relation to the other man, and to the other man’s labor and object of labor.",
+          "vernacular": "適用於人同自己嘅工作、自己嘅勞動產物、自己本身呢種關係嘅嘢,都一樣適用於人同第個人、同第個人嘅勞動同勞動對象呢種關係。",
+          "vernacularMandarin": "適用於人同自己的工作、自己的勞動產物、自己本身這種關係的東西,都一樣適用於人同別的人、同別的人的勞動同勞動對象這種關係。"
+        },
+        {
+          "id": "el-48",
+          "title": "一個人同另一個人相異化",
+          "original": "In fact, the proposition that man’s species-nature is estranged from him means that one man is estranged from the other, as each of them is from man’s essential nature.",
+          "vernacular": "事實上,「人嘅類本質同人相異化」呢個命題,意思就係話:一個人同另一個人相異化,就好似佢哋每一個都同人嘅本質相異化咁。",
+          "vernacularMandarin": "事實上,「人的類本質同人相異化」這個命題,意思就是說:一個人同另一個人相異化,就好像他們每一個都同人的本質相異化那樣。"
+        }
+      ]
+    },
+    {
+      "id": "epm-antithesis-of-capital-and-labour",
+      "title": "Antithesis of Capital and Labour 資本與勞動嘅對立",
+      "passages": [
+        {
+          "id": "acl-1",
+          "title": "工人係資本嘅主觀表現,資本係勞動嘅客觀表現",
+          "original": "The worker is the subjective manifestation of the fact that capital is man wholly lost to himself, just as capital is the objective manifestation of the fact that labour is man lost to himself.",
+          "vernacular": "工人就係「資本即係完全喪失咗自身嘅人」呢個事實嘅主觀表現,就好似資本就係「勞動即係喪失咗自身嘅人」呢個事實嘅客觀表現咁。",
+          "vernacularMandarin": "工人就是「資本即是完全喪失了自身的人」這個事實的主觀表現,就好像資本就是「勞動即是喪失了自身的人」這個事實的客觀表現那樣。"
+        },
+        {
+          "id": "acl-2",
+          "title": "工人係一種活資本,一停工就冇晒生計",
+          "original": "But the worker has the misfortune to be a living capital, and therefore an indigent capital, one which loses its interest, and hence its livelihood, every moment it is not working.",
+          "vernacular": "但係工人不幸咁係一種活嘅資本,因此係一種貧乏嘅資本,一停工,佢就即刻失去利息,即係失去咗生計。",
+          "vernacularMandarin": "但是工人不幸地是一種活的資本,因此是一種貧乏的資本,一停工,他就即刻失去利息,也就是失去了生計。"
+        },
+        {
+          "id": "acl-3",
+          "title": "工人生產資本,資本生產工人",
+          "original": "The worker produces capital, capital produces him – hence he produces himself, and man as worker, as a commodity, is the product of this entire cycle.",
+          "vernacular": "工人生產資本,資本生產工人——所以佢等於生產緊自己,而人作為工人、作為商品,就係成個循環嘅產物。",
+          "vernacularMandarin": "工人生產資本,資本生產工人——所以他等於生產著自己,而人作為工人、作為商品,就是整個循環的產物。"
+        },
+        {
+          "id": "acl-4",
+          "title": "資本嘅存在就係工人嘅存在",
+          "original": "The existence of capital is his existence, his life; as it determines the tenor of his life in a manner indifferent to him.",
+          "vernacular": "資本嘅存在,就係佢嘅存在,佢嘅生命;資本以一種同佢自己嘅意願完全無關嘅方式,決定緊佢生活嘅基調。",
+          "vernacularMandarin": "資本的存在,就是他的存在,他的生命;資本以一種同他自己的意願完全無關的方式,決定著他生活的基調。"
+        },
+        {
+          "id": "acl-5",
+          "title": "政治經濟學唔承認失業嘅工人",
+          "original": "Political economy, therefore, does not recognise the unemployed worker, the workingman, insofar as he happens to be outside this labour relationship.",
+          "vernacular": "所以,政治經濟學唔承認失業嘅工人——即係一旦工人脫離咗呢種勞動關係,佢就唔存在。",
+          "vernacularMandarin": "所以,政治經濟學不承認失業的工人——也就是一旦工人脫離了這種勞動關係,他就不存在。"
+        },
+        {
+          "id": "acl-6",
+          "title": "工資係資本家嘅必要成本,唔可以超出呢個限度",
+          "original": "Wages, therefore, belong to capital’s and the capitalist’s necessary costs, and must not exceed the bounds of this necessity.",
+          "vernacular": "所以,工資係屬於資本同資本家嘅必要成本,唔可以超出呢種必要性嘅限度。",
+          "vernacularMandarin": "所以,工資是屬於資本同資本家的必要成本,不可以超出這種必要性的限度。"
+        },
+        {
+          "id": "acl-7",
+          "title": "呢種矛盾走到盡頭就係私有財產嘅覆滅",
+          "original": "This contradiction, driven to the limit, is of necessity the limit, the culmination, and the downfall of the whole private-property relationship.",
+          "vernacular": "呢種矛盾一旦推到盡頭,就必然係成套私有財產關係嘅極限、頂點、同埋覆滅。",
+          "vernacularMandarin": "這種矛盾一旦推到盡頭,就必然是整套私有財產關係的極限、頂點、同覆滅。"
+        },
+        {
+          "id": "acl-8",
+          "title": "資本同勞動嘅區分係歷史性,唔係天生嘅",
+          "original": "This distinction is not rooted in the nature of things, but is a historical distinction, a fixed historical moment in the formation and development of the contradiction between capital and labour.",
+          "vernacular": "呢種區分並唔係根植於事物嘅本性,而係一種歷史性嘅區分,係資本同勞動之間矛盾喺形成同發展過程入面,一個固定落嚟嘅歷史時刻。",
+          "vernacularMandarin": "這種區分並不是根植於事物的本性,而是一種歷史性的區分,是資本同勞動之間矛盾在形成同發展過程裡面,一個固定下來的歷史時刻。"
+        }
+      ]
+    },
+    {
+      "id": "epm-private-property-and-labour",
+      "title": "Private Property and Labour 私有財產與勞動",
+      "passages": [
+        {
+          "id": "ppl-1",
+          "title": "私有財產嘅主觀本質就係勞動",
+          "original": "The subjective essence of private property – private property as activity for itself, as subject, as person – is labour.",
+          "vernacular": "私有財產嘅主觀本質——即係作為自為活動、作為主體、作為人格嘅私有財產——就係勞動。",
+          "vernacularMandarin": "私有財產的主觀本質——也就是作為自為活動、作為主體、作為人格的私有財產——就是勞動。"
+        },
+        {
+          "id": "ppl-2",
+          "title": "恩格斯話亞當史密夫係政治經濟學嘅路德",
+          "original": "Engels was therefore right to call Adam Smith the Luther of Political Economy.",
+          "vernacular": "所以恩格斯將亞當·史密夫稱為「政治經濟學嘅路德」,係啱嘅。",
+          "vernacularMandarin": "所以恩格斯將亞當·史密斯稱為「政治經濟學的路德」,是對的。"
+        },
+        {
+          "id": "ppl-3",
+          "title": "路德將宗教內化,呢種政治經濟學將財富內化",
+          "original": "Just as Luther recognised religion – faith – as the substance of the external world and in consequence stood opposed to Catholic paganism – just as he superseded external religiosity by making religiosity the inner substance of man – just so with wealth: wealth as something outside man and independent of him, and therefore as something to be maintained and asserted only in an external fashion, is done away with; that is, this external, mindless objectivity of wealth is done away with, with private property being incorporated in man himself and with man himself being recognised as its essence.",
+          "vernacular": "就好似路德將宗教——即係信仰——當做外部世界嘅實質,因而同天主教嘅異教崇拜對立;就好似佢用將宗教性變成人嘅內在實質嚟取代外在嘅宗教性咁——財富都係一樣:財富作為身外之物、獨立於人之外嘅嘢,只可以喺外在形式度得到維持同肯定,呢種睇法俾人揚棄咗;即係話,呢種財富外在、冇思想嘅客體性俾人揚棄咗,私有財產俾人納入咗人自身入面,人自己俾人認做私有財產嘅本質。",
+          "vernacularMandarin": "就好像路德將宗教——也就是信仰——當做外部世界的實質,因而同天主教的異教崇拜對立;就好像他用將宗教性變成人的內在實質來取代外在的宗教性那樣——財富都是一樣:財富作為身外之物、獨立於人之外的東西,只可以在外在形式上得到維持同肯定,這種看法被人揚棄了;也就是說,這種財富外在、沒有思想的客體性被人揚棄了,私有財產被人納入人自身裡面,人自己被人認做私有財產的本質。"
+        },
+        {
+          "id": "ppl-4",
+          "title": "人反而被納入私有財產嘅軌道",
+          "original": "But as a result man is brought within the orbit of private property, just as with Luther he is brought within the orbit of religion.",
+          "vernacular": "但係結果就係人反而被納入咗私有財產嘅軌道,就好似喺路德度佢被納入宗教嘅軌道咁。",
+          "vernacularMandarin": "但是結果就是人反而被納入了私有財產的軌道,就好像在路德那裡他被納入宗教的軌道那樣。"
+        },
+        {
+          "id": "ppl-5",
+          "title": "呢種政治經濟學表面認同人,實質係否定人",
+          "original": "Under the semblance of recognising man, the political economy whose principle is labour rather carries to its logical conclusion the denial of man, since man himself no longer stands in an external relation of tension to the external substance of private property, but has himself become this tense essence of private property.",
+          "vernacular": "呢種以勞動為原則嘅政治經濟學,表面上好似承認緊人,實質上卻將對人嘅否定推到邏輯上嘅盡頭,因為人自己唔再同私有財產呢個外在實質處於一種外在嘅緊張關係,而係已經變成私有財產呢種緊張本質本身。",
+          "vernacularMandarin": "這種以勞動為原則的政治經濟學,表面上好像承認著人,實質上卻將對人的否定推到邏輯上的盡頭,因為人自己不再同私有財產這個外在實質處於一種外在的緊張關係,而是已經變成私有財產這種緊張本質本身。"
+        },
+        {
+          "id": "ppl-6",
+          "title": "外化本身變成咗一個過程",
+          "original": "What was previously being external to oneself – man’s actual externalisation – has merely become the act of externalising – the process of alienating.",
+          "vernacular": "以往嗰種「外在於自身嘅存在」——即係人真實嘅外化——而家淨係變成咗外化呢個「動作」——即係異化嘅過程。",
+          "vernacularMandarin": "以往那種「外在於自身的存在」——也就是人真實的外化——現在只是變成了外化這個「動作」——也就是異化的過程。"
+        },
+        {
+          "id": "ppl-7",
+          "title": "全部財富都變成咗工業財富、勞動嘅財富",
+          "original": "All wealth has become industrial wealth, the wealth of labour, and industry is accomplished labour, just as the factory system is the perfected essence of industry, that is of labour, and just as industrial capital is the accomplished objective form of private property.",
+          "vernacular": "全部財富都已經變成咗工業財富,即係勞動嘅財富;而工業就係已經完成咗嘅勞動,就好似工廠制度就係工業(即係勞動)完成咗嘅本質,又好似工業資本就係私有財產完成咗嘅客觀形式咁。",
+          "vernacularMandarin": "全部財富都已經變成了工業財富,也就是勞動的財富;而工業就是已經完成了的勞動,就好像工廠制度就是工業(也就是勞動)完成了的本質,又好像工業資本就是私有財產完成了的客觀形式那樣。"
+        },
+        {
+          "id": "ppl-8",
+          "title": "到呢一步私有財產先完成對人嘅統治",
+          "original": "We can now see how it is only at this point that private property can complete its dominion over man and become, in its most general form, a world-historical power.",
+          "vernacular": "而家我哋可以睇到:淨係去到呢一步,私有財產先可以完成佢對人嘅統治,以最普遍嘅形式,變成一種世界歷史性嘅力量。",
+          "vernacularMandarin": "現在我們可以看到:只有去到這一步,私有財產才可以完成它對人的統治,以最普遍的形式,變成一種世界歷史性的力量。"
+        }
+      ]
+    },
+    {
+      "id": "epm-private-property-and-communism",
+      "title": "Private Property and Communism 私有財產與共產主義",
+      "passages": [
+        {
+          "id": "ppc-1",
+          "title": "共產主義係已經揚棄嘅私有財產嘅正面表現",
+          "original": "Finally, communism is the positive expression of annulled private property – at first as universal private property.",
+          "vernacular": "最後,共產主義就係已經被揚棄嘅私有財產嘅正面表現——喺最初階段,佢表現為普遍化嘅私有財產。",
+          "vernacularMandarin": "最後,共產主義就是已經被揚棄的私有財產的正面表現——在最初階段,它表現為普遍化的私有財產。"
+        },
+        {
+          "id": "ppc-2",
+          "title": "普遍嫉妒係貪婪嘅偽裝",
+          "original": "General envy constituting itself as a power is the disguise in which greed re-establishes itself and satisfies itself, only in another way.",
+          "vernacular": "普遍嫉妒一旦構成一種力量,就係貪婪重新確立自己、滿足自己嘅偽裝,只不過換咗個方式。",
+          "vernacularMandarin": "普遍嫉妒一旦構成一種力量,就是貪婪重新確立自己、滿足自己的偽裝,只不過換了個方式。"
+        },
+        {
+          "id": "ppc-3",
+          "title": "嫉妒同拉平嘅衝動構成競爭嘅本質",
+          "original": "The thought of every piece of private property as such is at least turned against wealthier private property in the form of envy and the urge to reduce things to a common level, so that this envy and urge even constitute the essence of competition.",
+          "vernacular": "至少,任何一份私有財產嘅念頭,都會以嫉妒同拉平一切嘅衝動嘅形式,去對抗更富有嘅私有財產,以致呢種嫉妒同衝動甚至構成競爭嘅本質。",
+          "vernacularMandarin": "至少,任何一份私有財產的念頭,都會以嫉妒同拉平一切的衝動的形式,去對抗更富有的私有財產,以致這種嫉妒同衝動甚至構成競爭的本質。"
+        },
+        {
+          "id": "ppc-4",
+          "title": "粗陋共產主義就係呢種嫉妒發展到極致",
+          "original": "Crude communism is only the culmination of this envy and of this levelling-down proceeding from the preconceived minimum.",
+          "vernacular": "粗陋嘅共產主義,只不過係呢種嫉妒同呢種由預設最低標準出發嘅拉平化,發展到極致嘅結果。",
+          "vernacularMandarin": "粗陋的共產主義,只不過是這種嫉妒同這種由預設最低標準出發的拉平化,發展到極致的結果。"
+        },
+        {
+          "id": "ppc-5",
+          "title": "呢種揚棄仲未真正做到「佔有」",
+          "original": "How little this annulment of private property is really an appropriation is in fact proved by the abstract negation of the entire world of culture and civilisation, the regression to the unnatural simplicity of the poor and crude man who has few needs and who has not only failed to go beyond private property, but has not yet even reached it.",
+          "vernacular": "呢種對私有財產嘅揚棄,究竟幾咁冇真正做到「佔有」,可以由呢一點證明:佢抽象咁否定成個文化同文明嘅世界,倒退返去嗰種需要好少、貧乏而粗陋嘅人所處嘅、違反自然嘅簡樸狀態——呢種人非但未能超越私有財產,甚至根本仲未去到私有財產嗰個階段。",
+          "vernacularMandarin": "這種對私有財產的揚棄,究竟有多少沒有真正做到「佔有」,可以由這一點證明:它抽象地否定整個文化同文明的世界,倒退回那種需要很少、貧乏而粗陋的人所處的、違反自然的簡樸狀態——這種人不但未能超越私有財產,甚至根本還未去到私有財產那個階段。"
+        },
+        {
+          "id": "ppc-6",
+          "title": "共產主義係人為咗人而真正佔有人嘅本質",
+          "original": "Communism as the positive transcendence of private property as human self-estrangement, and therefore as the real appropriation of the human essence by and for man; communism therefore as the complete return of man to himself as a social (i.e., human) being – a return accomplished consciously and embracing the entire wealth of previous development.",
+          "vernacular": "共產主義,作為對「私有財產即人嘅自我異化」呢種狀態嘅正面揚棄,因此就係人為咗人、通過人嚟真正佔有人嘅本質;所以共產主義就係人以社會性(即係人性)嘅存在,完完全全、自覺咁回歸自己本身——呢種回歸,包容埋以往發展嘅全部財富。",
+          "vernacularMandarin": "共產主義,作為對「私有財產即人的自我異化」這種狀態的正面揚棄,因此就是人為了人、通過人來真正佔有人的本質;所以共產主義就是人以社會性(也就是人性)的存在,完完全全、自覺地回歸自己本身——這種回歸,包容著以往發展的全部財富。"
+        },
+        {
+          "id": "ppc-7",
+          "title": "完成咗嘅自然主義等如人道主義",
+          "original": "This communism, as fully developed naturalism, equals humanism, and as fully developed humanism equals naturalism; it is the genuine resolution of the conflict between man and nature and between man and man – the true resolution of the strife between existence and essence, between objectification and self-confirmation, between freedom and necessity, between the individual and the species.",
+          "vernacular": "呢種共產主義,作為完成咗嘅自然主義,就等如人道主義;作為完成咗嘅人道主義,就等如自然主義;佢係人同自然之間、人同人之間矛盾嘅真正解決——係存在同本質、對象化同自我確證、自由同必然、個體同類之間鬥爭嘅真正解決。",
+          "vernacularMandarin": "這種共產主義,作為完成了的自然主義,就等於人道主義;作為完成了的人道主義,就等於自然主義;它是人同自然之間、人同人之間矛盾的真正解決——是存在同本質、對象化同自我確證、自由同必然、個體同類之間鬥爭的真正解決。"
+        },
+        {
+          "id": "ppc-8",
+          "title": "共產主義就係歷史之謎嘅解答",
+          "original": "Communism is the riddle of history solved, and it knows itself to be this solution.",
+          "vernacular": "共產主義就係歷史之謎嘅解答,而佢自己知道自己就係呢個解答。",
+          "vernacularMandarin": "共產主義就是歷史之謎的解答,而它自己知道自己就是這個解答。"
+        },
+        {
+          "id": "ppc-9",
+          "title": "自然界嘅人性一面只對社會嘅人存在",
+          "original": "The human aspect of nature exists only for social man; for only then does nature exist for him as a bond with man – as his existence for the other and the other’s existence for him – and as the life-element of human reality.",
+          "vernacular": "自然界嘅人性一面,只不過對社會嘅人先存在;因為淨係喺呢個時候,自然界對佢嚟講先係一種同人相連嘅紐帶——即係佢為第個人而存在,同時第個人亦為佢而存在——先係人類現實嘅生命要素。",
+          "vernacularMandarin": "自然界的人性一面,只不過對社會的人才存在;因為只有在這個時候,自然界對他來說才是一種同人相連的紐帶——也就是他為別人而存在,同時別人亦為他而存在——才是人類現實的生命要素。"
+        },
+        {
+          "id": "ppc-10",
+          "title": "自然界先成為人自身存在嘅基礎",
+          "original": "Only then does nature exist as the foundation of his own human existence.",
+          "vernacular": "淨係喺呢個時候,自然界先成為佢自己人性存在嘅基礎。",
+          "vernacularMandarin": "只有在這個時候,自然界才成為他自己人性存在的基礎。"
+        },
+        {
+          "id": "ppc-11",
+          "title": "社會係人同自然完成咗嘅統一",
+          "original": "Thus society is the complete unity of man with nature – the true resurrection of nature – the consistent naturalism of man and the consistent humanism of nature.",
+          "vernacular": "所以話,社會係人同自然界完成咗嘅統一——係自然界真正嘅復活——係人嘅實現咗嘅自然主義,同自然界實現咗嘅人道主義。",
+          "vernacularMandarin": "所以說,社會是人同自然界完成了的統一——是自然界真正的復活——是人的實現了的自然主義,同自然界實現了的人道主義。"
+        },
+        {
+          "id": "ppc-12",
+          "title": "唔好將社會當做同個人對立嘅抽象嘢",
+          "original": "Above all we must avoid postulating “society” again as an abstraction vis-à-vis the individual.",
+          "vernacular": "最重要嘅係,我哋千祈唔好將「社會」再次假設做同個人相對立嘅抽象嘢。",
+          "vernacularMandarin": "最重要的是,我們千萬不要將「社會」再次假設成同個人相對立的抽象東西。"
+        },
+        {
+          "id": "ppc-13",
+          "title": "個人就係社會存在物",
+          "original": "The individual is the social being.",
+          "vernacular": "個人就係社會存在物。",
+          "vernacularMandarin": "個人就是社會存在物。"
+        },
+        {
+          "id": "ppc-14",
+          "title": "個人嘅生命表現都係社會生活嘅確證",
+          "original": "His manifestations of life – even if they may not appear in the direct form of communal manifestations of life carried out in association with others – are therefore an expression and confirmation of social life.",
+          "vernacular": "佢嘅生命表現——即使冇以直接、同其他人共同進行嘅集體生命表現嘅形式出現——都仍然係社會生活嘅一種表現同確證。",
+          "vernacularMandarin": "他的生命表現——即使沒有以直接、同其他人共同進行的集體生命表現的形式出現——都仍然是社會生活的一種表現同確證。"
+        },
+        {
+          "id": "ppc-15",
+          "title": "人嘅個體生活同類生活並唔係兩件事",
+          "original": "Man’s individual and species-life are not different.",
+          "vernacular": "人嘅個體生活同類生活,並唔係兩件唔同嘅嘢。",
+          "vernacularMandarin": "人的個體生活同類生活,並不是兩件不同的事。"
+        },
+        {
+          "id": "ppc-16",
+          "title": "人喺類意識入面確證自己現實嘅社會生活",
+          "original": "In his consciousness of species man confirms his real social life and simply repeats his real existence in thought, just as conversely the being of the species confirms itself in species consciousness and exists for itself in its generality as a thinking being.",
+          "vernacular": "人喺類意識入面,確證緊自己現實嘅社會生活,喺思想入面單純咁重複緊自己現實嘅存在;反過嚟,類嘅存在,亦都喺類意識入面確證自己,以思維存在物嘅身份,喺自己嘅普遍性入面為自己而存在。",
+          "vernacularMandarin": "人在類意識裡面,確證著自己現實的社會生活,在思想裡面單純地重複著自己現實的存在;反過來,類的存在,也在類意識裡面確證自己,以思維存在物的身份,在自己的普遍性裡面為自己而存在。"
+        },
+        {
+          "id": "ppc-17",
+          "title": "思維同存在既有區別又互相統一",
+          "original": "Thinking and being are thus certainly distinct, but at the same time they are in unity with each other.",
+          "vernacular": "所以話,思維同存在,固然係有區別嘅,但同時佢哋又係互相統一嘅。",
+          "vernacularMandarin": "所以說,思維同存在,固然是有區別的,但同時它們又是互相統一的。"
+        }
+      ]
+    },
+    {
+      "id": "epm-human-needs-and-division-of-labour",
+      "title": "Human Needs and Division of Labour 人嘅需要同分工",
+      "passages": [
+        {
+          "id": "hn-1",
+          "title": "喺私有財產之下,人人都想喺別人身上製造新需要",
+          "original": "Under private property their significance is reversed: every person speculates on creating a new need in another, so as to drive him to fresh sacrifice, to place him in a new dependence and to seduce him into a new mode of enjoyment and therefore economic ruin.",
+          "vernacular": "喺私有財產之下,呢種意義完全顛倒晒:每個人都盤算緊喺另一個人身上製造新嘅需要,務求逼佢作出新嘅犧牲,令佢陷入新嘅依賴,誘使佢投入一種新嘅享樂模式,從而令佢經濟破產。",
+          "vernacularMandarin": "在私有財產之下,這種意義完全顛倒了:每個人都盤算著在另一個人身上製造新的需要,務求逼他作出新的犧牲,令他陷入新的依賴,誘使他投入一種新的享樂模式,從而令他經濟破產。"
+        },
+        {
+          "id": "hn-2",
+          "title": "人越嚟越窮,對貨幣嘅需要就越嚟越大",
+          "original": "Man becomes ever poorer as man, his need for money becomes ever greater if he wants to master the hostile power.",
+          "vernacular": "人作為人越嚟越貧乏,如果佢想制服嗰種敵對嘅力量,佢對貨幣嘅需要就越嚟越大。",
+          "vernacularMandarin": "人作為人越來越貧乏,如果他想制服那種敵對的力量,他對貨幣的需要就越來越大。"
+        },
+        {
+          "id": "hn-3",
+          "title": "對貨幣嘅需要係經濟制度製造出嚟唯一真正嘅需要",
+          "original": "The need for money is therefore the true need produced by the economic system, and it is the only need which the latter produces.",
+          "vernacular": "所以,對貨幣嘅需要,就係經濟制度所製造出嚟嘅真正需要,亦係佢唯一製造嘅需要。",
+          "vernacularMandarin": "所以,對貨幣的需要,就是經濟制度所製造出來的真正需要,也是它唯一製造的需要。"
+        },
+        {
+          "id": "hn-4",
+          "title": "私有財產唔識得將粗野需要變成人性需要",
+          "original": "Private property does not know how to change crude need into human need.",
+          "vernacular": "私有財產唔識得將粗野嘅需要,轉化做人性嘅需要。",
+          "vernacularMandarin": "私有財產不懂得將粗野的需要,轉化做人性的需要。"
+        },
+        {
+          "id": "hn-5",
+          "title": "連對新鮮空氣嘅需要,工人都已經冇埋",
+          "original": "Even the need for fresh air ceases to be a need for the worker.",
+          "vernacular": "就連對新鮮空氣嘅需要,對工人嚟講都已經唔再係一種需要。",
+          "vernacularMandarin": "就連對新鮮空氣的需要,對工人來說都已經不再是一種需要。"
+        },
+        {
+          "id": "hn-6",
+          "title": "唔單止冇人性需要,連動物性需要都冇埋",
+          "original": "It is not only that man has no human needs – even his animal needs cease to exist.",
+          "vernacular": "唔單止係人冇咗人性嘅需要——甚至連佢動物性嘅需要,都已經唔再存在。",
+          "vernacularMandarin": "不單止是人沒有了人性的需要——甚至連他動物性的需要,都已經不再存在。"
+        },
+        {
+          "id": "hn-7",
+          "title": "機器遷就人嘅弱點,將弱者變成機器",
+          "original": "The machine accommodates itself to the weakness of the human being in order to make the weak human being into a machine.",
+          "vernacular": "機器遷就緊人嘅弱點,目的就係要將呢個軟弱嘅人,變成一部機器。",
+          "vernacularMandarin": "機器遷就著人的弱點,目的就是要將這個軟弱的人,變成一部機器。"
+        },
+        {
+          "id": "hn-8",
+          "title": "政治經濟學係財富嘅科學,亦係節慾嘅科學",
+          "original": "Political economy, this science of wealth, is therefore simultaneously the science of renunciation, of want, of saving.",
+          "vernacular": "政治經濟學呢門財富嘅科學,同時亦都係一門克己、節慾、儲蓄嘅科學。",
+          "vernacularMandarin": "政治經濟學這門財富的科學,同時也是一門克己、節慾、儲蓄的科學。"
+        },
+        {
+          "id": "hn-9",
+          "title": "食少啲、飲少啲、少啲思考戀愛,就儲到越多資本",
+          "original": "The less you eat, drink and buy books; the less you go to the theatre, the dance hall, the public house; the less you think, love, theorise, sing, paint, fence, etc., the more you save – the greater becomes your treasure which neither moths nor rust will devour – your capital.",
+          "vernacular": "你食得越少、飲得越少、買嘅書越少;去戲院、舞廳、酒館越少;思考、戀愛、講理論、唱歌、畫畫、擊劍等等越少,你儲落嚟嘅就越多——你嘅財寶,即係你嘅資本,就越嚟越龐大,連蛀蟲同鐵鏽都損耗唔到。",
+          "vernacularMandarin": "你吃得越少、喝得越少、買的書越少;去戲院、舞廳、酒館越少;思考、戀愛、講理論、唱歌、畫畫、擊劍等等越少,你儲下來的就越多——你的財寶,也就是你的資本,就越來越龐大,連蛀蟲同鐵鏽都損耗不到。"
+        },
+        {
+          "id": "hn-10",
+          "title": "你嘅存在越少,你異化嘅生命就越大",
+          "original": "The less you are, the less you express your own life, the more you have, i.e., the greater is your alienated life, the greater is the store of your estranged being.",
+          "vernacular": "你「存在」得越少,你表現自己生命嘅程度就越少;你「擁有」得越多,即係話,你異化咗嘅生命就越大,你異化咗嘅存在所積存嘅就越多。",
+          "vernacularMandarin": "你「存在」得越少,你表現自己生命的程度就越少;你「擁有」得越多,也就是說,你異化了的生命就越大,你異化了的存在所積存的就越多。"
+        },
+        {
+          "id": "hn-11",
+          "title": "一切激情同活動都要淹沒喺貪婪度",
+          "original": "All passions and all activity must therefore be submerged in avarice.",
+          "vernacular": "所以,一切激情、一切活動,都必須淹沒喺貪婪入面。",
+          "vernacularMandarin": "所以,一切激情、一切活動,都必須淹沒在貪婪裡面。"
+        }
+      ]
+    },
+    {
+      "id": "epm-power-of-money",
+      "title": "The Power of Money 貨幣嘅力量",
+      "passages": [
+        {
+          "id": "pom-1",
+          "title": "貨幣係至高無上嘅佔有對象",
+          "original": "By possessing the property of buying everything, by possessing the property of appropriating all objects, money is thus the object of eminent possession.",
+          "vernacular": "貨幣因為擁有買晒一切嘢嘅屬性,擁有佔有一切對象嘅屬性,所以佢就係至高無上嘅佔有對象。",
+          "vernacularMandarin": "貨幣因為擁有買齊一切東西的屬性,擁有佔有一切對象的屬性,所以它就是至高無上的佔有對象。"
+        },
+        {
+          "id": "pom-2",
+          "title": "屬性嘅普遍性就係無所不能",
+          "original": "The universality of its property is the omnipotence of its being.",
+          "vernacular": "佢呢種屬性嘅普遍性,就係佢本身無所不能嘅表現。",
+          "vernacularMandarin": "它這種屬性的普遍性,就是它本身無所不能的表現。"
+        },
+        {
+          "id": "pom-3",
+          "title": "所以貨幣被當做一種全能嘅存在物",
+          "original": "It is therefore regarded as an omnipotent being.",
+          "vernacular": "所以貨幣被當做一種全能嘅存在物。",
+          "vernacularMandarin": "所以貨幣被當做一種全能的存在物。"
+        },
+        {
+          "id": "pom-4",
+          "title": "貨幣係需要同對象、生命同生活資料之間嘅媒人",
+          "original": "Money is the procurer between man’s need and the object, between his life and his means of life.",
+          "vernacular": "貨幣就係人嘅需要同對象之間、人嘅生命同生活資料之間嘅媒人。",
+          "vernacularMandarin": "貨幣就是人的需要同對象之間、人的生命同生活資料之間的媒人。"
+        },
+        {
+          "id": "pom-5",
+          "title": "仲介我生命嘅嘢,同時亦仲介第個人嘅存在",
+          "original": "But that which mediates my life for me, also mediates the existence of other people for me.",
+          "vernacular": "但係嗰樣為我仲介緊我自己生命嘅嘢,同時亦都為我仲介緊第個人嘅存在。",
+          "vernacularMandarin": "但是那樣為我仲介著我自己生命的東西,同時也為我仲介著別人的存在。"
+        },
+        {
+          "id": "pom-6",
+          "title": "對我嚟講,佢就係嗰個第個人",
+          "original": "For me it is the other person.",
+          "vernacular": "對我嚟講,佢就係嗰個第個人。",
+          "vernacularMandarin": "對我來說,它就是那個別人。"
+        },
+        {
+          "id": "pom-7",
+          "title": "莎士比亞筆下嘅黃金:「將黑變白,將醜變美」",
+          "original": "“Gold? Yellow, glittering, precious gold? ... Thus much of this will make black white, foul fair, wrong right, base noble, old young, coward valiant. ... This yellow slave will knit and break religions, bless the accursed; make the hoar leprosy adored, place thieves and give them title, knee and approbation with senators on the bench... Come, damned earth, thou common whore of mankind, that put’st odds among the rout of nations.” — Shakespeare, Timon of Athens",
+          "vernacular": "「黃金?黃澄澄、閃令令、貴重嘅黃金?……單單靠呢啲嘢,就可以將黑變白,將醜變美,將錯變啱,將卑賤變高貴,將老變後生,將懦夫變勇士……呢個黃色嘅奴才,可以編織又可以拆散宗教,可以祝福受詛咒嘅人;可以令灰白嘅痲瘋病都俾人膜拜,可以將盜賊擺埋一齊、賜佢哋封號、令佢哋同元老一齊受人跪拜、受人讚許……嚟啦,該死嘅泥土,你呢個人類公認嘅娼婦,專門喺萬國之間播弄是非嘅嘢。」——莎士比亞《雅典嘅泰門》",
+          "vernacularMandarin": "「黃金?黃澄澄、閃亮亮、貴重的黃金?……單單靠這些東西,就可以將黑變白,將醜變美,將錯變對,將卑賤變高貴,將老變年輕,將懦夫變勇士……這個黃色的奴才,可以編織又可以拆散宗教,可以祝福受詛咒的人;可以令灰白的痲瘋病都被人膜拜,可以將盜賊擺在一起、賜他們封號、令他們同元老一起受人跪拜、受人讚許……來吧,該死的泥土,你這個人類公認的娼婦,專門在萬國之間挑撥是非的東西。」——莎士比亞《雅典的泰門》"
+        },
+        {
+          "id": "pom-8",
+          "title": "我生得醜,但可以用錢買到最靚嘅女人",
+          "original": "I am ugly, but I can buy for myself the most beautiful of women.",
+          "vernacular": "我生得醜,但係我可以用錢買到最靚嘅女人。",
+          "vernacularMandarin": "我生得醜,但是我可以用錢買到最漂亮的女人。"
+        },
+        {
+          "id": "pom-9",
+          "title": "醜嘅效果已經俾貨幣抵消咗",
+          "original": "Therefore I am not ugly, for the effect of ugliness – its deterrent power – is nullified by money.",
+          "vernacular": "所以我唔係醜嘅,因為醜嘅效果——即係佢嗰種令人卻步嘅力量——已經俾貨幣抵消咗。",
+          "vernacularMandarin": "所以我不是醜的,因為醜的效果——也就是它那種令人卻步的力量——已經被貨幣抵消了。"
+        },
+        {
+          "id": "pom-10",
+          "title": "貨幣先至係萬物真正嘅腦袋",
+          "original": "I am brainless, but money is the real brain of all things and how then should its possessor be brainless?",
+          "vernacular": "我冇腦,但係貨幣先至係萬物真正嘅腦袋,咁佢嘅擁有者又點會冇腦呢?",
+          "vernacularMandarin": "我沒有腦,但是貨幣才是萬物真正的腦袋,那它的擁有者又怎會沒有腦呢?"
+        },
+        {
+          "id": "pom-11",
+          "title": "貨幣將我一切嘅無能變成反面",
+          "original": "Does not my money, therefore, transform all my incapacities into their contrary?",
+          "vernacular": "咁我啲貨幣,豈唔係將我一切嘅無能,都變返做佢哋嘅反面咩?",
+          "vernacularMandarin": "那我的貨幣,豈不是將我一切的無能,都變回它們的反面嗎?"
+        },
+        {
+          "id": "pom-12",
+          "title": "貨幣嘅神聖力量係人類異化咗嘅類本質",
+          "original": "The distorting and confounding of all human and natural qualities, the fraternisation of impossibilities – the divine power of money – lies in its character as men’s estranged, alienating and self-disposing species-nature.",
+          "vernacular": "扭曲同混淆一切人性同自然嘅屬性,將互不相容嘅嘢兜埋一齊做兄弟——呢種貨幣嘅神聖力量,就在於佢係人類異化咗、令人異化、又自我支配嘅類本質。",
+          "vernacularMandarin": "扭曲同混淆一切人性同自然的屬性,將互不相容的東西兜在一起做兄弟——這種貨幣的神聖力量,就在於它是人類異化了、令人異化、又自我支配的類本質。"
+        },
+        {
+          "id": "pom-13",
+          "title": "貨幣就係人類已經異化咗嘅能力",
+          "original": "Money is the alienated ability of mankind.",
+          "vernacular": "貨幣就係人類已經異化咗嘅能力。",
+          "vernacularMandarin": "貨幣就是人類已經異化了的能力。"
+        },
+        {
+          "id": "pom-14",
+          "title": "貨幣將想像變成現實,由想像變做生活",
+          "original": "If I long for a particular dish or want to take the mail-coach because I am not strong enough to go by foot, money fetches me the dish and the mail-coach: that is, it converts my wishes from something in the realm of imagination, translates them from their meditated, imagined or desired existence into their sensuous, actual existence – from imagination to life, from imagined being into real being.",
+          "vernacular": "如果我想食一味特定嘅餸,又或者因為冇力行路想搭馬車,貨幣就可以幫我攞到嗰味餸同嗰架馬車:即係話,佢將我嘅願望,由停留喺想像王國入面嘅嘢,轉化做感性、實在嘅存在——由想像變做生活,由想像入面嘅存在變做現實嘅存在。",
+          "vernacularMandarin": "如果我想吃一道特定的菜,又或者因為沒有力氣走路想搭馬車,貨幣就可以幫我拿到那道菜同那架馬車:也就是說,它將我的願望,由停留在想像王國裡面的東西,轉化做感性、實在的存在——由想像變做生活,由想像裡面的存在變做現實的存在。"
+        },
+        {
+          "id": "pom-15",
+          "title": "冇錢去旅行,就冇真正嘅需要去旅行",
+          "original": "If I have no money for travel, I have no need – that is, no real and realisable need – to travel.",
+          "vernacular": "如果我冇錢去旅行,咁我就冇需要——即係話,我冇一種真實而可以實現嘅需要——去旅行。",
+          "vernacularMandarin": "如果我沒有錢去旅行,那我就沒有需要——也就是說,我沒有一種真實而可以實現的需要——去旅行。"
+        },
+        {
+          "id": "pom-16",
+          "title": "有志向讀書但冇錢,就等於冇志向",
+          "original": "If I have the vocation for study but no money for it, I have no vocation for study – that is, no effective, no true vocation.",
+          "vernacular": "如果我有志向讀書,但係冇錢去讀,咁我就冇讀書嘅志向——即係話,冇一個有效嘅、真正嘅志向。",
+          "vernacularMandarin": "如果我有志向讀書,但是沒有錢去讀,那我就沒有讀書的志向——也就是說,沒有一個有效的、真正的志向。"
+        },
+        {
+          "id": "pom-17",
+          "title": "有意願有錢,就有有效嘅志向",
+          "original": "On the other hand, if I have really no vocation for study but have the will and the money for it, I have an effective vocation for it.",
+          "vernacular": "反過嚟,如果我其實冇讀書嘅志向,但係有意願又有錢,咁我就有一個有效嘅讀書志向。",
+          "vernacularMandarin": "反過來,如果我其實沒有讀書的志向,但是有意願又有錢,那我就有一個有效的讀書志向。"
+        },
+        {
+          "id": "pom-18",
+          "title": "假設人係人,愛就只可以換到愛",
+          "original": "Assume man to be man and his relationship to the world to be a human one: then you can exchange love only for love, trust for trust, etc.",
+          "vernacular": "假設人係人,佢同呢個世界嘅關係係一種人性嘅關係:咁樣你就淨係可以用愛去換愛,用信任去換信任,等等。",
+          "vernacularMandarin": "假設人是人,他同這個世界的關係是一種人性的關係:這樣你就只可以用愛去換愛,用信任去換信任,等等。"
+        },
+        {
+          "id": "pom-19",
+          "title": "愛而換唔到愛,呢個愛就係不幸",
+          "original": "If you love without evoking love in return – that is, if your loving as loving does not produce reciprocal love; if through a living expression of yourself as a loving person you do not make yourself a beloved one, then your love is impotent – a misfortune.",
+          "vernacular": "如果你愛人但係換唔到人愛你——即係話,你嘅愛作為愛,冇引發返愛——如果你用一個有血有肉、識得愛人嘅人身份去表現自己,都做唔到一個被愛嘅人,咁你嘅愛就係軟弱無力嘅,係一場不幸。",
+          "vernacularMandarin": "如果你愛人但是換不到人愛你——也就是說,你的愛作為愛,沒有引發回愛——如果你用一個有血有肉、懂得愛人的人的身份去表現自己,都做不到一個被愛的人,那你的愛就是軟弱無力的,是一場不幸。"
+        }
+      ]
+    }
+  ]
+}

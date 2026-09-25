@@ -1,0 +1,1283 @@
+{
+  "id": "enchiridion",
+  "title": "Enchiridion 手冊",
+  "author": "Epictetus 愛比克泰德",
+  "description": "古羅馬斯多葛派哲學家愛比克泰德(公元55-135年)嘅弟子阿里安,將老師嘅教誨輯錄成呢本簡明手冊,原名《Encheiridion》,即「隨身小刀」之意——意指本書應如利刃咁隨時帶喺身邊應用。全書共52節,原文英文對照廣東話/普通話翻譯,譯自George Long嘅英譯本。",
+  "chapters": [
+    {
+      "id": "ench-c1",
+      "title": "I–VIII: What Is In Our Power 操之在我嘅嘢",
+      "passages": [
+        {
+          "id": "c1-1",
+          "title": "操之在我定唔在我",
+          "original": "Of things some are in our power, and others are not. In our power are opinion (hupolaepsis), movement towards a thing (hormae), desire, aversion (echchlisis), turning from a thing; and in a word, whatever are our acts. Not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts.",
+          "vernacular": "世上嘅嘢,有啲操之在我,有啲唔操之在我。操之在我嘅,係意見、意欲、渴求、厭惡呢啲嘢——簡單講,凡係我哋自己嘅行為都算。唔操之在我嘅,係身體、財產、名聲、官職——簡單講,凡唔係我哋自己嘅行為都算。",
+          "vernacularMandarin": "世上的事物,有些操之在我,有些不操之在我。操之在我的,是意見、意欲、渴求、厭惡這些東西——簡單說,凡是我們自己的行為都算。不操之在我的,是身體、財產、名聲、官職——簡單說,凡不是我們自己的行為都算。"
+        },
+        {
+          "id": "c1-2",
+          "title": "操之在我先至自由",
+          "original": "And the things in our power are by nature free, not subject to restraint or hindrance; but the things not in our power are weak, slavish, subject to restraint, in the power of others.",
+          "vernacular": "操之在我嘅嘢,天生就係自由嘅,唔受任何拘束阻礙;但唔操之在我嘅嘢,就軟弱、卑屈、受拘束,操縱喺別人手裏。",
+          "vernacularMandarin": "操之在我的事物,天生就是自由的,不受任何拘束阻礙;但不操之在我的事物,就軟弱、卑屈、受拘束,操縱在別人手裡。"
+        },
+        {
+          "id": "c1-3",
+          "title": "錯認人哋嘅嘢做自己嘅,就會受苦",
+          "original": "Remember then, that if you think the things which are by nature slavish to be free, and the things which are in the power of others to be your own, you will be hindered, you will lament, you will be disturbed, you will blame both gods and men;",
+          "vernacular": "所以要記住,如果你將天生卑屈嘅嘢當做自由,將操縱喺別人手裏嘅嘢當做自己嘅,你就會處處受阻、唉聲嘆氣、心緒不寧,仲會埋怨神明同世人。",
+          "vernacularMandarin": "所以要記住,如果你把天生卑屈的事物當作自由,把操縱在別人手裡的事物當作自己的,你就會處處受阻、唉聲嘆氣、心緒不寧,還會埋怨神明同世人。"
+        },
+        {
+          "id": "c1-4",
+          "title": "只認自己嘅嘢做自己嘅,就冇人能夠傷害你",
+          "original": "but if you think that only which is your own to be your own, and if you think that what is another’s, as it really is, belongs to another, no man will ever compel you, no man will hinder you, you will never blame any man, you will accuse no man, you will do nothing involuntarily (against your will), no man will harm you, you will have no enemy, for you will not suffer any harm.",
+          "vernacular": "但如果你只將真正屬於自己嘅嘢當做自己嘅,將屬於別人嘅嘢——本來如此——當做係別人嘅,咁就冇人可以強迫你,冇人可以阻礙你,你永遠唔使埋怨邊個,唔使指責邊個,唔使做任何違背自己心意嘅事;冇人可以傷害你,你亦都冇敵人,因為你根本唔會受到任何傷害。",
+          "vernacularMandarin": "但如果你只把真正屬於自己的東西當作自己的,把屬於別人的東西——本來如此——當作是別人的,那麼就沒有人可以強迫你,沒有人可以阻礙你,你永遠不用埋怨誰,不用指責誰,不用做任何違背自己心意的事;沒有人可以傷害你,你也沒有敵人,因為你根本不會受到任何傷害。"
+        },
+        {
+          "id": "c1-5",
+          "title": "想要咁大嘅目標,就要落大力",
+          "original": "If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort; but you must leave alone some things entirely, and postpone others for the present.",
+          "vernacular": "所以,如果你渴求呢啲咁大嘅目標,就要記住唔可以淨係花少少工夫就想攞到手;有啲嘢要完全放棄,有啲嘢就要暫時擱置。",
+          "vernacularMandarin": "所以,如果你渴求這些如此重大的目標,就要記住不可以只花一點工夫就想到手;有些事要完全放棄,有些事就要暫時擱置。"
+        },
+        {
+          "id": "c1-6",
+          "title": "貪多樣樣都要,樣樣都攞唔到",
+          "original": "But if you wish for these things also (such great things), and power (office) and wealth, perhaps you will not gain even these very things (power and wealth) because you aim also at those former things (such great things); certainly you will fail in those things through which alone happiness and freedom are secured.",
+          "vernacular": "但如果你連咁大嘅目標之外,仲想埋要官職權力同財富,咁你可能連呢啲官職財富都攞唔到,因為你貪心埋想要嗰啲更大嘅目標;而幸福同自由嘅命脈所在,你就一定會失敗。",
+          "vernacularMandarin": "但如果你在這些重大目標之外,還想兼得官職權力同財富,那麼你可能連這些官職財富都得不到,因為你貪心又想要那些更大的目標;而幸福同自由的命脈所在,你就一定會失敗。"
+        },
+        {
+          "id": "c1-7",
+          "title": "遇到嚇人嘅表象,先話俾自己知:你只係表象",
+          "original": "Straightway then practise saying to every harsh appearance: You are an appearance, and in no manner what you appear to be.",
+          "vernacular": "所以,一遇到令人驚惶嘅表象,即刻就要練習對自己講:你只係個表象,並唔係你睇落嗰個樣。",
+          "vernacularMandarin": "所以,一遇到令人驚惶的表象,立刻就要練習對自己說:你只是個表象,並不是你看起來那個樣子。"
+        },
+        {
+          "id": "c1-8",
+          "title": "用你手上嘅準則去檢視佢",
+          "original": "Then examine it by the rules which you possess, and by this first and chiefly, whether it relates to the things which are in our power or to things which are not in our power; and if it relates to anything which is not in our power, be ready to say that it does not concern you.",
+          "vernacular": "跟住就用你手上嘅準則去檢視佢,首先最重要嘅,係睇吓佢係咪屬於操之在我嘅嘢,定係唔操之在我嘅嘢;如果唔係操之在我,就準備好話俾自己知:呢件事同我冇關。",
+          "vernacularMandarin": "接著就用你手上的準則去檢視它,首先最重要的,是看它是否屬於操之在我的事,還是不操之在我的事;如果不是操之在我,就準備好告訴自己:這件事與我無關。"
+        },
+        {
+          "id": "c1-9",
+          "title": "渴求同厭惡入面嘅期盼",
+          "original": "Remember that desire contains in it the profession (hope) of obtaining that which you desire; and the profession (hope) in aversion (turning from a thing) is that you will not fall into that which you attempt to avoid; and he who fails in his desire is unfortunate; and he who falls into that which he would avoid is unhappy.",
+          "vernacular": "要記住,渴求呢件事本身就包含住「攞到手」呢個期盼;而厭惡本身就包含住「唔會撞上」嗰件想避開嘅嘢呢個期盼。渴求落空嘅人係不幸嘅;撞正想避開嗰件事嘅人就係唔開心嘅。",
+          "vernacularMandarin": "要記住,渴求這件事本身就包含著「得到手」這個期盼;而厭惡本身就包含著「不會撞上」那件想避開的事物這個期盼。渴求落空的人是不幸的;撞正想避開那件事的人就是不快樂的。"
+        },
+        {
+          "id": "c1-10",
+          "title": "只避開操之在我嘅逆境,先至唔會落空",
+          "original": "If then you attempt to avoid only the things contrary to nature which are within your power you will not be involved in any of the things which you would avoid. But if you attempt to avoid disease, or death, or poverty, you will be unhappy.",
+          "vernacular": "所以,如果你只嘗試避開操之在我範圍內、違反本性嘅嘢,你就唔會撞正任何你想避開嘅事。但如果你想避開疾病、死亡或者貧窮,你就會唔開心。",
+          "vernacularMandarin": "所以,如果你只嘗試避開操之在我範圍內、違反本性的事物,你就不會撞上任何你想避開的事。但如果你想避開疾病、死亡或者貧窮,你就會不快樂。"
+        },
+        {
+          "id": "c1-11",
+          "title": "厭惡要收返嚟,渴求就暫時放低",
+          "original": "Take away then aversion from all things which are not in our power, and transfer it to the things contrary to nature which are in our power. But destroy desire completely for the present.",
+          "vernacular": "所以要將厭惡由所有唔操之在我嘅嘢度收返嚟,轉移到操之在我、違反本性嗰啲嘢度。至於渴求,而家就要完全放低。",
+          "vernacularMandarin": "所以要把厭惡從所有不操之在我的事物那裡收回來,轉移到操之在我、違反本性那些事物上。至於渴求,現在就要完全放下。"
+        },
+        {
+          "id": "c1-12",
+          "title": "移向定退避,都要輕輕地用",
+          "original": "For if you desire anything which is not in our power, you must be unfortunate; but of the things in our power, and which it would be good to desire, nothing yet is before you. But employ only the power of moving towards an object and retiring from it; and these powers indeed only slightly and with exceptions and with remission.",
+          "vernacular": "因為如果你渴求任何唔操之在我嘅嘢,你一定會不幸;而操之在我、值得渴求嘅嘢,你而家仲未有。你只可以運用「趨向」同「退避」呢兩種能力——而且要輕輕咁用,有保留咁用,唔好用盡。",
+          "vernacularMandarin": "因為如果你渴求任何不操之在我的事物,你一定會不幸;而操之在我、值得渴求的事物,你現在還沒有。你只可以運用「趨向」同「退避」這兩種能力——而且要輕輕地用,有所保留地用,不要用盡。"
+        },
+        {
+          "id": "c1-13",
+          "title": "鍾意一件嘢,要記得佢嘅本質",
+          "original": "In everything which pleases the soul, or supplies a want, or is loved, remember to add this to the (description, notion): What is the nature of each thing, beginning from the smallest? If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed.",
+          "vernacular": "凡係令你心靈歡喜、滿足需要或者鍾意嘅嘢,都要記住加多一句:呢件嘢嘅本質係咩,由最微不足道嗰面睇起?如果你鍾意一個瓦煲,就話你鍾意嘅係「一個瓦煲」;咁樣佢打爛咗嘅時候,你先至唔會心亂。",
+          "vernacularMandarin": "凡是令你心靈歡喜、滿足需要或者喜愛的事物,都要記住加多一句:這件事物的本質是甚麼,從最微不足道那方面看起?如果你喜愛一個瓦煲,就說你喜愛的是「一個瓦煲」;這樣它打破了的時候,你才不會心亂。"
+        },
+        {
+          "id": "c1-14",
+          "title": "錫仔女同老婆,都要記得佢哋係凡人",
+          "original": "If you are kissing your child or wife, say that it is a human being whom you are kissing, for when the wife or child dies you will not be disturbed.",
+          "vernacular": "如果你錫緊你嘅仔女或者老婆,就話你錫嘅係「一個人」;咁樣當老婆或者仔女過身嘅時候,你先至唔會心亂。",
+          "vernacularMandarin": "如果你正在親吻你的兒女或者妻子,就說你親吻的是「一個人」;這樣當妻子或者兒女過世的時候,你才不會心亂。"
+        },
+        {
+          "id": "c1-15",
+          "title": "做任何事之前,先諗吓件事嘅性質",
+          "original": "When you are going to take in hand any act remind yourself what kind of an act it is. If you are going to bathe, place before yourself what happens in the bath; some splashing the water, others pushing against one another, others abusing one another, and some stealing;",
+          "vernacular": "你打算做任何事之前,先要提醒自己呢件事嘅性質係咩。如果你打算沖涼,就預先諗吓沖涼池入面會發生咩事:有人濺水,有人推撞,有人惡言相向,仲有人偷嘢。",
+          "vernacularMandarin": "你打算做任何事之前,先要提醒自己這件事的性質是甚麼。如果你打算沖涼,就預先想一想浴池裡面會發生甚麼事:有人濺水,有人推撞,有人惡言相向,還有人偷東西。"
+        },
+        {
+          "id": "c1-16",
+          "title": "記住自己嘅打算,先可以穩妥地做事",
+          "original": "and thus with more safety you will undertake the matter, if you say to yourself, I now intend to bathe, and to maintain my will in a manner conformable to nature. And so you will do in every act;",
+          "vernacular": "咁樣你先可以更加穩妥咁去做呢件事,只要你對自己講:我而家打算沖涼,同時要保持我嘅意志合乎本性。做每一件事都要咁樣。",
+          "vernacularMandarin": "這樣你才可以更加穩妥地去做這件事,只要你對自己說:我現在打算沖涼,同時要保持我的意志合乎本性。做每一件事都要這樣。"
+        },
+        {
+          "id": "c1-17",
+          "title": "遇到阻礙都唔好動氣",
+          "original": "for thus if any hindrance to bathing shall happen let this thought be ready. It was not this only that I intended, but I intended also to maintain my will in a way conformable to nature; but I shall not maintain it so if I am vexed at what happens.",
+          "vernacular": "咁樣,如果沖涼期間遇到阻礙,你就已經有咗呢個諗法準備好:我原本嘅打算唔單止係沖涼,仲有保持意志合乎本性;如果我因為所發生嘅事而動氣,我就唔算保持到咗。",
+          "vernacularMandarin": "這樣,如果沖涼期間遇到阻礙,你就已經有了這個想法準備好:我原本的打算不只是沖涼,還有保持意志合乎本性;如果我因為所發生的事而動氣,我就不算保持住了。"
+        },
+        {
+          "id": "c1-18",
+          "title": "困擾人嘅唔係事情本身,係對事情嘅睇法",
+          "original": "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.",
+          "vernacular": "人並唔係俾發生嘅事困擾,而係俾對呢件事嘅睇法困擾。例如死亡本身唔可怕——如果死亡真係可怕,蘇格拉底就會覺得佢可怕。可怕嘅其實係「死亡可怕」呢個睇法本身。",
+          "vernacularMandarin": "人並不是被發生的事困擾,而是被對這件事的看法困擾。例如死亡本身不可怕——如果死亡真的可怕,蘇格拉底就會覺得它可怕。可怕的其實是「死亡可怕」這個看法本身。"
+        },
+        {
+          "id": "c1-19",
+          "title": "唔好怪人,要怪自己嘅睇法",
+          "original": "When then we are impeded, or disturbed, or grieved, let us never blame others, but ourselves—that is, our opinions. It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself.",
+          "vernacular": "所以當我哋受阻、心亂或者傷心嘅時候,永遠唔好怪責別人,要怪責自己——即係怪責自己嘅睇法。未受教化嘅人先至會因為自己嘅困境而怪責別人;開始受教化嘅人會怪責自己;教化圓滿嘅人,就既唔怪人,亦都唔怪自己。",
+          "vernacularMandarin": "所以當我們受阻、心亂或者傷心的時候,永遠不要怪罪別人,要怪罪自己——也就是怪罪自己的看法。未受教化的人才會因為自己的困境而怪罪別人;開始受教化的人會怪罪自己;教化圓滿的人,就既不怪人,也不怪自己。"
+        },
+        {
+          "id": "c1-20",
+          "title": "唔好因為屬於人哋嘅嘢而沾沾自喜",
+          "original": "Be not elated at any advantage (excellence) which belongs to another. If a horse when he is elated should say, I am beautiful, one might endure it. But when you are elated, and say, I have a beautiful horse, you must know that you are elated at having a good horse.",
+          "vernacular": "唔好因為屬於別人嘅優點而沾沾自喜。如果一匹馬得意咁話「我好靚」,都仲可以忍受;但如果你得意咁話「我隻馬好靚」,你就要知道,你得意嘅其實係「有匹好馬」呢件事。",
+          "vernacularMandarin": "不要因為屬於別人的優點而沾沾自喜。如果一匹馬得意地說「我很美」,還可以忍受;但如果你得意地說「我這匹馬很美」,你就要知道,你得意的其實是「擁有一匹好馬」這件事。"
+        },
+        {
+          "id": "c1-21",
+          "title": "真正屬於你嘅,係運用表象嘅能力",
+          "original": "What then is your own? The use of appearances. Consequently when in the use of appearances you are conformable to nature, then be elated, for then you will be elated at something good which is your own.",
+          "vernacular": "咁樣,咩先至真正屬於你呢?就係運用表象嘅能力。所以當你運用表象嘅時候合乎本性,先至值得得意,因為咁樣你得意嘅先至係一樣真正屬於你自己嘅好嘢。",
+          "vernacularMandarin": "那麼,甚麼才真正屬於你呢?就是運用表象的能力。所以當你運用表象的時候合乎本性,才值得得意,因為這樣你得意的才是一樣真正屬於你自己的好東西。"
+        },
+        {
+          "id": "c1-22",
+          "title": "泊咗岸都要記掛住艘船",
+          "original": "As on a voyage when the vessel has reached a port, if you go out to get water it is an amusement by the way to pick up a shellfish or some bulb, but your thoughts ought to be directed to the ship, and you ought to be constantly watching if the captain should call, and then you must throw away all those things, that you may not be bound and pitched into the ship like sheep.",
+          "vernacular": "就好似出海嘅船到咗港口,你上岸攞水嘅時候,順便執個貝殼或者球莖都無妨,但你嘅心思應該係擺喺艘船度,要時刻留意船長會唔會嗌你返船;一嗌你就要即刻掉低嗰啲嘢,唔好俾人綁住掟返上船,好似隻羊咁狼狽。",
+          "vernacularMandarin": "就好像出海的船到了港口,你上岸取水的時候,順便撿個貝殼或者球莖都無妨,但你的心思應該放在船上,要時刻留意船長會不會叫你返船;一叫你就要立刻放下那些東西,不要被人綁著扔回船上,像隻羊那樣狼狽。"
+        },
+        {
+          "id": "c1-23",
+          "title": "人生入面,老婆仔女就好似貝殼球莖",
+          "original": "So in life also, if there be given to you instead of a little bulb and a shell a wife and child, there will be nothing to prevent (you from taking them). But if the captain should call, run to the ship and leave all those things without regard to them. But if you are old, do not even go far from the ship, lest when you are called you make default.",
+          "vernacular": "人生都係咁樣:如果賜俾你嘅唔係一個球莖一隻貝殼,而係老婆仔女,咁又有咩問題呢,你照攞可也。但如果船長一嗌,你就要即刻跑返去船度,唔理呢啲嘢。如果你老咗,就更加唔好行得離船太遠,免得嗌到你嗰陣趕唔切。",
+          "vernacularMandarin": "人生也是這樣:如果賜給你的不是一個球莖一隻貝殼,而是妻子兒女,那又有甚麼問題呢,你照拿無妨。但如果船長一叫,你就要立刻跑回船邊,不理這些東西。如果你老了,就更加不要走得離船太遠,免得叫到你的時候趕不及。"
+        },
+        {
+          "id": "c1-24",
+          "title": "唔好強求事情順自己心意",
+          "original": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+          "vernacular": "唔好要求發生嘅事順住你嘅心意,而要順住事情本來嘅樣去期望佢,咁樣你嘅人生先會平靜順遂。",
+          "vernacularMandarin": "不要要求發生的事順著你的心意,而要順著事情本來的樣子去期望它,這樣你的人生才會平靜順遂。"
+        }
+      ]
+    },
+    {
+      "id": "ench-c2",
+      "title": "IX–XVII: Duty and Impediment 本份與阻礙",
+      "passages": [
+        {
+          "id": "c2-1",
+          "title": "疾病阻礙身體,唔阻礙意志",
+          "original": "Disease is an impediment to the body, but not to the will, unless the will itself chooses. Lameness is an impediment to the leg, but not to the will.",
+          "vernacular": "疾病阻礙嘅係身體,唔係意志——除非意志自己揀咗俾佢阻礙。跛咗阻礙嘅係條腿,唔係意志。",
+          "vernacularMandarin": "疾病阻礙的是身體,不是意志——除非意志自己選擇被它阻礙。跛了阻礙的是腿,不是意志。"
+        },
+        {
+          "id": "c2-2",
+          "title": "每件事都咁樣諗:阻礙嘅係別樣嘢,唔係你自己",
+          "original": "And add this reflection on the occasion of everything that happens; for you will find it an impediment to something else, but not to yourself.",
+          "vernacular": "凡遇到任何發生嘅事,都要加多呢個反思:你會發現佢阻礙嘅係其他嘢,唔係你自己。",
+          "vernacularMandarin": "凡遇到任何發生的事,都要加多這個反思:你會發現它阻礙的是其他東西,不是你自己。"
+        },
+        {
+          "id": "c2-3",
+          "title": "遇到任何事,都要問自己有咩能力可以善用佢",
+          "original": "On the occasion of every accident (event) that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.",
+          "vernacular": "遇到任何降臨喺你身上嘅事,都要記住轉向自己,問吓自己有咩能力可以將佢化為己用。",
+          "vernacularMandarin": "遇到任何降臨在你身上的事,都要記住轉向自己,問問自己有甚麼能力可以將它化為己用。"
+        },
+        {
+          "id": "c2-4",
+          "title": "見到靚人就用節制,遇到辛勞就用忍耐",
+          "original": "If you see a fair man or a fair woman, you will find that the power to resist is temperance (continence). If labor (pain) be presented to you, you will find that it is endurance. If it be abusive words, you will find it to be patience.",
+          "vernacular": "如果你見到一個靚仔或者靚女,你就會發現「抵抗嘅能力」叫做節制。如果面前有勞苦,你就會發現嗰個能力叫做忍耐。如果係惡言相向,你就會發現嗰個能力叫做包容。",
+          "vernacularMandarin": "如果你見到一個俊男或者美女,你就會發現「抵抗的能力」叫做節制。如果面前有勞苦,你就會發現那個能力叫做忍耐。如果是惡言相向,你就會發現那個能力叫做包容。"
+        },
+        {
+          "id": "c2-5",
+          "title": "養成呢個習慣,表象就唔可以牽住你走",
+          "original": "And if you have been thus formed to the (proper) habit, the appearances will not carry you along with them.",
+          "vernacular": "如果你養成咗呢種習慣,表象就唔會將你牽著走。",
+          "vernacularMandarin": "如果你養成了這種習慣,表象就不會把你牽著走。"
+        },
+        {
+          "id": "c2-6",
+          "title": "唔好話「我失去咗」,要話「我歸還咗」",
+          "original": "Never say about anything, I have lost it, but say I have restored it. Is your child dead? It has been restored. Is your wife dead? She has been restored. Has your estate been taken from you? Has not then this also been restored?",
+          "vernacular": "唔好對任何事講「我失去咗佢」,要講「我歸還咗佢」。你個仔女死咗?佢係俾歸還咗。你個老婆死咗?佢係俾歸還咗。你嘅田產俾人攞咗?咁又唔係一樣係歸還咗咩?",
+          "vernacularMandarin": "不要對任何事說「我失去了它」,要說「我歸還了它」。你的兒女死了?他是被歸還了。你的妻子死了?她是被歸還了。你的田產被人拿走了?那又不是同樣是歸還了嗎?"
+        },
+        {
+          "id": "c2-7",
+          "title": "施予者由邊個手上攞返,關你咩事",
+          "original": "But he who has taken it from me is a bad man. But what is it to you, by whose hands the giver demanded it back? So long as he may allow you, take care of it as a thing which belongs to another, as travellers do with their inn.",
+          "vernacular": "「但攞走佢嘅人係個惡人。」咁又關你咩事,施予者係由邊個手上攞返件嘢呢?只要仍然容許你保有,就當佢係屬於別人嘅嘢咁樣照顧佢——好似旅人住客棧咁。",
+          "vernacularMandarin": "「但拿走它的人是個惡人。」那又關你甚麼事,施予者是從誰的手上收回這件東西呢?只要還容許你保有,就當它是屬於別人的東西那樣照顧它——像旅人住客棧那樣。"
+        },
+        {
+          "id": "c2-8",
+          "title": "唔好諗「唔懲罰奴僕佢就會變壞」呢種念頭",
+          "original": "If you intend to improve, throw away such thoughts as these: if I neglect my affairs, I shall not have the means of living: unless I chastise my slave, he will be bad.",
+          "vernacular": "如果你有心進步,就要拋棄呢類念頭:「如果我唔理自己嘅事務,我就冇辦法維生」「如果我唔懲罰我個奴僕,佢就會學壞」。",
+          "vernacularMandarin": "如果你有心進步,就要拋棄這類念頭:「如果我不理自己的事務,我就沒辦法維生」「如果我不懲罰我的奴僕,他就會學壞」。"
+        },
+        {
+          "id": "c2-9",
+          "title": "寧願捱餓保持心安,都好過富足而心煩意亂",
+          "original": "For it is better to die of hunger and so to be released from grief and fear than to live in abundance with perturbation; and it is better for your slave to be bad than for you to be unhappy.",
+          "vernacular": "因為與其惶惶不安咁享受富足,不如捱餓而解脫悲傷同恐懼,反而更好;寧願你嘅奴僕變壞,都好過你自己唔開心。",
+          "vernacularMandarin": "因為與其惶惶不安地享受富足,不如捱餓而解脫悲傷同恐懼,反而更好;寧願你的奴僕變壞,都好過你自己不快樂。"
+        },
+        {
+          "id": "c2-10",
+          "title": "由小事開始練習:潑咗油、俾人偷咗酒,都係買心安嘅代價",
+          "original": "Begin then from little things. Is the oil spilled? Is a little wine stolen? Say on the occasion, at such price is sold freedom from perturbation; at such price is sold tranquillity, but nothing is got for nothing.",
+          "vernacular": "所以要由小事開始。油潑瀉咗?酒俾人偷咗少少?就喺呢啲時候對自己講:「呢個就係買心安嘅價錢,呢個就係買平靜嘅價錢」——但邊有嘢係唔使畀出代價就攞到嘅。",
+          "vernacularMandarin": "所以要從小事開始。油灑翻了?酒被人偷了一點?就在這些時候對自己說:「這就是買心安的價錢,這就是買平靜的價錢」——但沒有東西是不用付出代價就能得到的。"
+        },
+        {
+          "id": "c2-11",
+          "title": "唔好將自己嘅心安,寄託喺奴僕聽唔聽話",
+          "original": "And when you call your slave, consider that it is possible that he does not hear; and if he does hear, that he will do nothing which you wish. But matters are not so well with him, but altogether well with you, that it should be in his power for you to be not disturbed.",
+          "vernacular": "你嗌你個奴僕嘅時候,要諗到佢有可能聽唔到;就算聽到,佢都有可能做唔到你想要嘅事。但係佢做得好唔好,對你嚟講根本唔係最重要,最重要嘅係你自己過得好——唔好將自己「唔受困擾」呢件事嘅主導權,交咗俾佢。",
+          "vernacularMandarin": "你叫你的奴僕時,要想到他有可能聽不到;就算聽到,他也有可能做不到你想要的事。但他做得好不好,對你來說根本不是最重要,最重要的是你自己過得好——不要把自己「不受困擾」這件事的主導權,交給了他。"
+        },
+        {
+          "id": "c2-12",
+          "title": "俾人當你冇見識都無所謂",
+          "original": "If you would improve, submit to be considered without sense and foolish with respect to externals. Wish to be considered to know nothing; and if you shall seem to some to be a person of importance, distrust yourself.",
+          "vernacular": "如果你想進步,就要準備好喺俗世嘅事情上俾人當作冇見識、傻更更。唔好期望人哋覺得你識嘢;就算有人開始覺得你有地位,你都要對自己有所懷疑。",
+          "vernacularMandarin": "如果你想進步,就要準備好在俗世的事情上被人當作沒有見識、糊裡糊塗。不要期望別人覺得你有學問;就算有人開始覺得你有地位,你也要對自己有所懷疑。"
+        },
+        {
+          "id": "c2-13",
+          "title": "顧得意志合乎本性,就好難兼顧外物",
+          "original": "For you should know that it is not easy both to keep your will in a condition conformable to nature and (to secure) external things: but if a man is careful about the one, it is an absolute necessity that he will neglect the other.",
+          "vernacular": "因為你要知道,想同時做到「意志合乎本性」同「保住外在嘅嘢」,係好難嘅;顧咗呢一樣,就一定顧唔到嗰一樣。",
+          "vernacularMandarin": "因為你要知道,想同時做到「意志合乎本性」同「保住外在的事物」,是很難的;顧了這一樣,就一定顧不了那一樣。"
+        },
+        {
+          "id": "c2-14",
+          "title": "想仔女老婆朋友長生不老,係傻嘅",
+          "original": "If you would have your children and your wife and your friends to live for ever, you are silly; for you would have the things which are not in your power to be in your power, and the things which belong to others to be yours.",
+          "vernacular": "如果你想你嘅仔女、老婆、朋友長生不老,咁你就係傻嘅;因為咁樣即係想將唔操之在我嘅嘢,變成操之在我;將屬於別人嘅嘢,變成屬於自己。",
+          "vernacularMandarin": "如果你想你的兒女、妻子、朋友長生不老,那你就是傻的;因為這樣就是想把不操之在我的事物,變成操之在我;把屬於別人的東西,變成屬於自己。"
+        },
+        {
+          "id": "c2-15",
+          "title": "只有唔想喺渴求上落空,先係你做得到嘅",
+          "original": "So if you would have your slave to be free from faults, you are a fool; for you would have badness not to be badness, but something else. But if you wish not to fail in your desires, you are able to do that. Practise then this which you are able to do.",
+          "vernacular": "同樣,如果你想個奴僕完全冇缺點,你都係傻嘅;因為咁樣即係想「惡」唔再係「惡」,而係變咗第樣嘢。但如果你想嘅係自己嘅渴求唔落空,呢個你就做得到。所以就練習呢樣你做得到嘅事。",
+          "vernacularMandarin": "同樣,如果你想奴僕完全沒有缺點,你也是傻的;因為這樣就是想「惡」不再是「惡」,而是變成別的東西。但如果你想的是自己的渴求不落空,這個你就做得到。所以就練習這樣你做得到的事。"
+        },
+        {
+          "id": "c2-16",
+          "title": "邊個掌管住你嘅渴求同厭惡,邊個就係你嘅主人",
+          "original": "He is the master of every man who has the power over the things which another person wishes or does not wish, the power to confer them on him or to take them away. Whoever then wishes to be free let him neither wish for anything nor avoid anything which depends on others: if he does not observe this rule, he must be a slave.",
+          "vernacular": "邊個掌握住另一個人願唔願意嘅嘢、有權賜俾佢或者攞返,邊個就係嗰個人嘅主人。所以任何想要自由嘅人,都唔好渴求或者厭惡任何操之於人嘅嘢;唔守呢條規矩,就一定係個奴隸。",
+          "vernacularMandarin": "誰掌握著另一個人願不願意的事物、有權賜給他或者收回,誰就是那個人的主人。所以任何想要自由的人,都不要渴求或者厭惡任何操之於人的事物;不守這條規矩,就一定是個奴隸。"
+        },
+        {
+          "id": "c2-17",
+          "title": "人生就好似參加宴會咁",
+          "original": "Remember that in life you ought to behave as at a banquet. Suppose that something is carried round and is opposite to you. Stretch out your hand and take a portion with decency. Suppose that it passes by you. Do not detain it. Suppose that it is not yet come to you. Do not send your desire forward to it, but wait till it is opposite to you.",
+          "vernacular": "要記住,喺人生入面你應該好似赴宴咁做人。假設有嘢傳緊嚟到你面前,你就伸出手,得體咁攞一份。假設佢傳過咗你,就唔好留住佢。假設佢仲未傳到嚟,就唔好急住渴求,等佢傳到面前先算。",
+          "vernacularMandarin": "要記住,在人生裡你應該像赴宴那樣做人。假設有東西正傳到你面前,你就伸出手,得體地拿一份。假設它已傳過了你,就不要留住它。假設它還沒傳到,就不要急著渴求,等它傳到面前才算。"
+        },
+        {
+          "id": "c2-18",
+          "title": "對仔女老婆官職財富都咁樣,你就配得神明嘅盛宴",
+          "original": "Do so with respect to children, so with respect to a wife, so with respect to magisterial offices, so with respect to wealth, and you will be some time a worthy partner of the banquets of the gods.",
+          "vernacular": "對仔女係咁,對老婆係咁,對官職係咁,對財富都係咁,咁樣有朝一日你就配得成為神明盛宴嘅一位嘉賓。",
+          "vernacularMandarin": "對兒女是這樣,對妻子是這樣,對官職是這樣,對財富也是這樣,這樣有朝一日你就配得成為神明盛宴的一位嘉賓。"
+        },
+        {
+          "id": "c2-19",
+          "title": "連擺喺面前嘅嘢都唔攞,就同神明共享權能",
+          "original": "But if you take none of the things which are set before you, and even despise them, then you will be not only a fellow banqueter with the gods, but also a partner with them in power. For by acting thus Diogenes and Heracleitus and those like them were deservedly divine, and were so called.",
+          "vernacular": "但如果連擺喺你面前嘅嘢你都一樣唔攞,甚至鄙視佢哋,咁你就唔單止係神明嘅飯友,仲係佢哋權能上嘅夥伴。第歐根尼同赫拉克利特同其他相似嘅人,就正正係因為咁做,先至配得起「神聖」呢個稱號。",
+          "vernacularMandarin": "但如果連擺在你面前的事物你都一樣不拿,甚至鄙視它們,那你就不只是神明的飯友,還是他們權能上的夥伴。第歐根尼同赫拉克利特同其他相似的人,就正是因為這樣做,才配得起「神聖」這個稱號。"
+        },
+        {
+          "id": "c2-20",
+          "title": "見人喊,唔好俾表象牽住你",
+          "original": "When you see a person weeping in sorrow either when a child goes abroad or when he is dead, or when the man has lost his property, take care that the appearance do not hurry you away with it, as if he were suffering in external things.",
+          "vernacular": "當你見到有人喊,因為個仔女出咗遠門,或者過咗身,或者因為呢個人失去咗財產而傷心,要小心唔好俾嗰個表象牽住走,好似佢真係喺外在嘅嘢上受苦咁。",
+          "vernacularMandarin": "當你見到有人哭泣,因為兒女出了遠門,或者過世了,或者因為這個人失去了財產而傷心,要小心不要被那個表象牽著走,好像他真的在外在的事物上受苦一樣。"
+        },
+        {
+          "id": "c2-21",
+          "title": "困擾佢嘅唔係件事,而係佢對件事嘅睇法",
+          "original": "But straightway make a distinction in your own mind, and be in readiness to say, it is not that which has happened that afflicts this man, for it does not afflict another, but it is the opinion about this thing which afflicts the man.",
+          "vernacular": "而要即刻喺心入面分清楚,準備好對自己講:困擾呢個人嘅唔係已經發生嘅事本身,因為同一件事並冇困擾另一個人,困擾佢嘅係佢對呢件事嘅睇法。",
+          "vernacularMandarin": "而要立刻在心裡分清楚,準備好對自己說:困擾這個人的不是已經發生的事本身,因為同一件事並沒有困擾另一個人,困擾他的是他對這件事的看法。"
+        },
+        {
+          "id": "c2-22",
+          "title": "口頭安慰無妨,但內心唔好一齊喊",
+          "original": "So far as words then do not be unwilling to show him sympathy, and even if it happens so, to lament with him. But take care that you do not lament internally also.",
+          "vernacular": "至於口頭上,唔妨向佢表示同情,甚至陪佢喊都無妨;但要留意自己內心唔好真係喊出嚟。",
+          "vernacularMandarin": "至於口頭上,不妨向他表示同情,甚至陪他哭也無妨;但要留意自己內心不要真的哭出來。"
+        },
+        {
+          "id": "c2-23",
+          "title": "人生就好似演戲,劇本由編劇話事",
+          "original": "Remember that thou art an actor in a play, of such a kind as the teacher (author) may choose; if short, of a short one; if long, of a long one: if he wishes you to act the part of a poor man, see that you act the part naturally; if the part of a lame man, of a magistrate, of a private person, (do the same).",
+          "vernacular": "要記住,你係戲入面嘅一個演員,劇本由編劇話事——長就長,短就短;如果編劇想你演一個窮人,就要記住演得自然;演跛子、演官員、演平民,道理都一樣。",
+          "vernacularMandarin": "要記住,你是戲裡的一個演員,劇本由編劇話事——長就長,短就短;如果編劇想你演一個窮人,就要記住演得自然;演跛子、演官員、演平民,道理都一樣。"
+        },
+        {
+          "id": "c2-24",
+          "title": "演好俾你嘅角色,揀角色就唔關你事",
+          "original": "For this is your duty, to act well the part that is given to you; but to select the part, belongs to another.",
+          "vernacular": "因為呢個先至係你嘅本份:將分配俾你嘅角色演好;至於揀邊個角色,就唔關你事,係屬於另一個人嘅事。",
+          "vernacularMandarin": "因為這才是你的本份:把分配給你的角色演好;至於選哪個角色,就不關你的事,是屬於另一個人的事。"
+        }
+      ]
+    },
+    {
+      "id": "ench-c3",
+      "title": "XVIII–XXV: Freedom From Appearances 掙脫表象嘅自由",
+      "passages": [
+        {
+          "id": "c3-1",
+          "title": "烏鴉叫得唔吉利,唔代表咩",
+          "original": "When a raven has croaked inauspiciously, let not the appearance hurry you away with it; but straightway make a distinction in your mind and say, None of these things is signified to me, but either to my poor body, or to my small property, or to my reputation, or to my children, or to my wife:",
+          "vernacular": "如果隻烏鴉叫得唔吉利,唔好俾嗰個表象牽住你走;即刻喺心入面分清楚,話俾自己知:呢啲徵兆完全唔係關於我嘅,而係關於我呢個殘破嘅身體、我嘅少少財產、我嘅名聲、我嘅仔女,或者我嘅老婆。",
+          "vernacularMandarin": "如果一隻烏鴉叫得不吉利,不要被那個表象牽著走;立刻在心裡分清楚,告訴自己:這些徵兆完全不是關於我的,而是關於我這個殘破的身體、我的一點財產、我的名聲、我的兒女,或者我的妻子。"
+        },
+        {
+          "id": "c3-2",
+          "title": "只要我揀擇,一切徵兆都可以係吉利嘅",
+          "original": "but to me all significations are auspicious if I choose. For whatever of these things results, it is in my power to derive benefit from it.",
+          "vernacular": "但對我而言,只要我揀擇,一切徵兆都可以係吉利嘅。因為無論出現咩結果,我都有能力由中間攞到好處。",
+          "vernacularMandarin": "但對我而言,只要我揀擇,一切徵兆都可以是吉利的。因為無論出現甚麼結果,我都有能力從中間得到好處。"
+        },
+        {
+          "id": "c3-3",
+          "title": "唔參與自己冇能力取勝嘅較量,你就無敵",
+          "original": "You can be invincible, if you enter into no contest in which it is not in your power to conquer.",
+          "vernacular": "只要你唔進入自己冇能力取勝嘅較量,你就係無敵嘅。",
+          "vernacularMandarin": "只要你不進入自己沒有能力取勝的較量,你就是無敵的。"
+        },
+        {
+          "id": "c3-4",
+          "title": "見到人哋顯貴,唔好以為佢就快樂",
+          "original": "Take care then when you observe a man honored before others or possessed of great power or highly esteemed for any reason, not to suppose him happy, and be not carried away by the appearance. For if the nature of the good is in our power, neither envy nor jealousy will have a place in us.",
+          "vernacular": "所以當你見到有人比人尊崇、擁有大權,或者因為某啲原因備受敬重嘅時候,要小心唔好以為佢就係快樂,唔好俾表象牽住走。因為如果善嘅本質操之在我,妒忌同嫉妒喺我哋心中就冇立足之地。",
+          "vernacularMandarin": "所以當你見到有人比別人尊崇、擁有大權,或者因為某些原因備受敬重的時候,要小心不要以為他就是快樂,不要被表象牽著走。因為如果善的本質操之在我,妒忌同嫉妒在我們心中就沒有立足之地。"
+        },
+        {
+          "id": "c3-5",
+          "title": "想做自由人,唯一嘅路就係鄙視唔操之在我嘅嘢",
+          "original": "But you yourself will not wish to be a general or senator (prutanis) or consul, but a free man: and there is only one way to this, to despise (care not for) the things which are not in our power.",
+          "vernacular": "但你自己唔會想做將軍、議員或者執政官,而係想做一個自由人;而通往呢件事只有一條路,就係鄙視唔操之在我嘅嘢。",
+          "vernacularMandarin": "但你自己不會想做將軍、議員或者執政官,而是想做一個自由人;而通往這件事只有一條路,就是鄙視不操之在我的事物。"
+        },
+        {
+          "id": "c3-6",
+          "title": "唔係人哋侮辱你,係你嘅睇法侮辱你",
+          "original": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you.",
+          "vernacular": "要記住,唔係惡言辱罵你或者打你嘅人侮辱咗你,而係你「呢件事係侮辱」呢個睇法侮辱咗你。所以當有人激嬲你嘅時候,你要知道,係你自己嘅睇法激嬲咗你。",
+          "vernacularMandarin": "要記住,不是惡言辱罵你或者打你的人侮辱了你,而是你「這件事是侮辱」這個看法侮辱了你。所以當有人激怒你的時候,你要知道,是你自己的看法激怒了你。"
+        },
+        {
+          "id": "c3-7",
+          "title": "爭取一啲時間拖延,就更容易控制自己",
+          "original": "Therefore especially try not to be carried away by the appearance. For if you once gain time and delay, you will more easily master yourself.",
+          "vernacular": "所以尤其要努力唔好俾表象牽住走。因為只要你一爭取到時間同拖延,你就更加容易控制到自己。",
+          "vernacularMandarin": "所以尤其要努力不要被表象牽著走。因為只要你一爭取到時間同拖延,你就更加容易控制住自己。"
+        },
+        {
+          "id": "c3-8",
+          "title": "將死亡每日擺喺眼前",
+          "original": "Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death: and you will never think of anything mean nor will you desire anything extravagantly.",
+          "vernacular": "要將死亡、流放同其他一切睇落可怕嘅事,每日擺喺眼前——尤其係死亡;咁樣你就永遠唔會諗任何卑劣嘅嘢,亦都唔會過分咁貪求任何嘢。",
+          "vernacularMandarin": "要把死亡、流放同其他一切看起來可怕的事,每日放在眼前——尤其是死亡;這樣你就永遠不會想任何卑劣的事,也不會過分地貪求任何東西。"
+        },
+        {
+          "id": "c3-9",
+          "title": "追求哲學,要有心理準備俾人恥笑",
+          "original": "If you desire philosophy, prepare yourself from the beginning to be ridiculed, to expect that many will sneer at you, and say, He has all at once returned to us as a philosopher; and whence does he get this supercilious look for us?",
+          "vernacular": "如果你渴望哲學,一開始就要有心理準備俾人恥笑,預期好多人會譏諷你,話:「佢突然間返嚟做返個哲學家喇,邊度學番嚟嗰副高高在上嘅樣呢?」",
+          "vernacularMandarin": "如果你渴望哲學,一開始就要有心理準備被人恥笑,預期很多人會譏諷你,說:「他突然間回來做起哲學家了,哪裡學來那副高高在上的樣子呢?」"
+        },
+        {
+          "id": "c3-10",
+          "title": "堅持原則,恥笑你嘅人終會轉為敬佩你",
+          "original": "Do you not show a supercilious look; but hold on to the things which seem to you best as one appointed by God to this station. And remember that if you abide in the same principles, these men who first ridiculed will afterwards admire you; but if you shall have been overpowered by them, you will bring on yourself double ridicule.",
+          "vernacular": "你唔好真係擺出高高在上嘅樣;反而要好似受神明委派到呢個崗位咁,堅守住你認為最好嘅嘢。記住,如果你堅持同一啲原則,嗰啲最初恥笑你嘅人,之後會轉為敬佩你;但如果你俾佢哋壓過咗,你就會為自己招嚟雙重嘅恥笑。",
+          "vernacularMandarin": "你不要真的擺出高高在上的樣子;反而要好像受神明委派到這個崗位那樣,堅守住你認為最好的東西。記住,如果你堅持同樣的原則,那些最初恥笑你的人,之後會轉為敬佩你;但如果你被他們壓過了,你就會為自己招來雙重的恥笑。"
+        },
+        {
+          "id": "c3-11",
+          "title": "先要喺自己眼中係哲學家",
+          "original": "If it should ever happen to you to be turned to externals in order to please some person, you must know that you have lost your purpose in life. Be satisfied then in everything with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this.",
+          "vernacular": "如果有一日你為咗討好某個人而轉向外物,你要知道自己已經失去咗人生嘅方向。所以喺任何事上,都要滿足於做一個哲學家;如果你想喺人哋眼中都顯得係個哲學家,咁就先喺自己眼中顯得係——咁樣你就已經做到。",
+          "vernacularMandarin": "如果有一天你為了討好某個人而轉向外物,你要知道自己已經失去了人生的方向。所以在任何事上,都要滿足於做一個哲學家;如果你想在別人眼中也顯得是個哲學家,那就先在自己眼中顯得是——這樣你就已經做到。"
+        },
+        {
+          "id": "c3-12",
+          "title": "冇地位唔係你嘅事,亦都唔係壞事",
+          "original": "Let not these thoughts afflict you, I shall live unhonored and be nobody nowhere. For if want of honor (atimia) is an evil, you cannot be in evil through the means (fault) of another any more than you can be involved in anything base.",
+          "vernacular": "唔好俾「我會冇冇聲氣、無關重要咁過一世」呢種念頭困擾你。因為如果冇地位真係一件壞事,咁你都唔可能因為別人嘅緣故而陷入壞事,好似你唔可能因為別人而變得卑劣一樣。",
+          "vernacularMandarin": "不要被「我會默默無聞、無關重要地過一生」這種念頭困擾你。因為如果沒有地位真的是一件壞事,那麼你也不可能因為別人的緣故而陷入壞事,好像你不可能因為別人而變得卑劣一樣。"
+        },
+        {
+          "id": "c3-13",
+          "title": "喺操之在我嘅嘢上,你可以做到最有價值",
+          "original": "Is it then your business to obtain the rank of a magistrate, or to be received at a banquet? By no means. How then can this be want of honor (dishonor)? And how will you be nobody nowhere, when you ought to be somebody in those things only which are in your power, in which indeed it is permitted to you to be a man of the greatest worth?",
+          "vernacular": "得到官職,或者受邀赴宴,係咪你分內嘅事呢?完全唔係。咁又點會叫做冇地位呢?你點會冇冇聲氣呢?你應該只喺操之在我嘅嘢上有地位,而喺呢啲事上,你確實可以做到最有價值嘅人。",
+          "vernacularMandarin": "得到官職,或者受邀赴宴,是不是你分內的事呢?完全不是。那又怎會叫做沒有地位呢?你怎會默默無聞呢?你應該只在操之在我的事物上有地位,而在這些事上,你確實可以做到最有價值的人。"
+        },
+        {
+          "id": "c3-14",
+          "title": "邊個可以將自己都冇嘅嘢,俾返第二個",
+          "original": "But your friends will be without assistance! What do you mean by being without assistance? They will not receive money from you, nor will you make them Roman citizens. Who then told you that these are among the things which are in our power, and not in the power of others? And who can give to another what he has not himself?",
+          "vernacular": "但你嘅朋友就會得唔到幫助喇!你話嘅「得唔到幫助」係咩意思?佢哋唔會由你度攞到錢,你亦都唔會令佢哋成為羅馬公民。係邊個話俾你知,呢啲嘢屬於操之在我嘅範圍,而唔係操之於人呢?邊個可以將自己都冇嘅嘢,俾返第二個呢?",
+          "vernacularMandarin": "但你的朋友就會得不到幫助啊!你說的「得不到幫助」是甚麼意思?他們不會從你那裡得到錢,你也不會令他們成為羅馬公民。是誰告訴你,這些東西屬於操之在我的範圍,而不是操之於人呢?誰可以把自己都沒有的東西,給另一個人呢?"
+        },
+        {
+          "id": "c3-15",
+          "title": "唔好要求我失去屬於我嘅好嘢,去換你嘅唔好嘢",
+          "original": "Acquire money then, your friends say, that we also may have something. If I can acquire money and also keep myself modest and faithful and magnanimous, point out the way, and I will acquire it. But if you ask me to lose the things which are good and my own, in order that you may gain the things which are not good, see how unfair and silly you are.",
+          "vernacular": "「咁就去賺錢啦」,你朋友會咁講,「等我哋都可以分沾少少。」如果我可以賺到錢,同時保住謙遜、忠誠同慷慨,你話俾我聽點做,我會去做。但如果你要求我失去屬於我自己嘅好嘢,好等你攞到啲唔係好嘢嘅嘢,你睇吓自己幾唔公道幾傻。",
+          "vernacularMandarin": "「那就去賺錢吧」,你朋友會這樣說,「讓我們也可以分沾一些。」如果我可以賺到錢,同時保住謙遜、忠誠同慷慨,你告訴我怎麼做,我會去做。但如果你要求我失去屬於我自己的好東西,好讓你得到一些不是好東西的東西,你看看自己多不公道多傻。"
+        },
+        {
+          "id": "c3-16",
+          "title": "寧要一個忠誠嘅朋友,都好過要錢",
+          "original": "Besides, which would you rather have, money or a faithful and modest friend? For this end then rather help me to be such a man, and do not ask me to do this by which I shall lose that character.",
+          "vernacular": "再講,你寧願要錢,定係要一個忠誠謙遜嘅朋友呢?咁不如幫我做返一個咁樣嘅人,唔好要求我做啲會令我失去呢種品格嘅事。",
+          "vernacularMandarin": "再說,你寧願要錢,還是要一個忠誠謙遜的朋友呢?那不如幫我做回一個這樣的人,不要要求我做些會令我失去這種品格的事。"
+        },
+        {
+          "id": "c3-17",
+          "title": "國家唔會因為你而多咗迴廊,呢個唔係你嘅事",
+          "original": "But my country, you say, as far as it depends on me, will be without my help. I ask again, what help do you mean? It will not have porticos or baths through you. And what does this mean? For it is not furnished with shoes by means of a smith, nor with arms by means of a shoemaker.",
+          "vernacular": "「但我嘅國家,就我可以幫得到嘅嗰部分嚟講,就會得唔到我嘅幫助喇。」我再問一次,你話嘅幫助係咩意思?國家唔會因為你而多咗迴廊或者浴場。呢個又代表咩呢?就好似冇打鐵匠國家就冇鞋著,冇補鞋匠國家就冇武器咁——道理一樣。",
+          "vernacularMandarin": "「但我的國家,就我能幫得到的那部分來說,就會得不到我的幫助啊。」我再問一次,你說的幫助是甚麼意思?國家不會因為你而多了迴廊或者浴場。這又代表甚麼呢?就好像沒有打鐵匠國家就沒有鞋穿,沒有補鞋匠國家就沒有武器一樣——道理一樣。"
+        },
+        {
+          "id": "c3-18",
+          "title": "做返一個忠誠公民,你就已經對國家有用",
+          "original": "But it is enough if every man fully discharges the work that is his own: and if you provided it with another citizen faithful and modest, would you not be useful to it? Yes. Then you also cannot be useless to it.",
+          "vernacular": "只要每個人做好本份、盡力完成屬於自己嘅工作,咁就夠。如果你為國家提供咗另一位忠誠謙遜嘅公民,咁你唔就係對國家有用咩?係嘅。咁你都唔可能係冇用嘅。",
+          "vernacularMandarin": "只要每個人做好本份、盡力完成屬於自己的工作,那就足夠。如果你為國家提供了另一位忠誠謙遜的公民,那你不就是對國家有用嗎?是的。那你也不可能是沒用的。"
+        },
+        {
+          "id": "c3-19",
+          "title": "失去忠誠謙遜,就算有用又有咩意思",
+          "original": "What place then, you say, shall I hold in the city? Whatever you can, if you maintain at the same time your fidelity and modesty. But if when you wish to be useful to the state, you shall lose these qualities, what profit could you be to it, if you were made shameless and faithless?",
+          "vernacular": "「咁我喺城邦之中,應該佔咩位置呢?」只要你同時保住忠誠同謙遜,無論邊個位置,你都可以佔。但如果你為咗想對國家有用,而失去咗呢啲品格,咁你變成無恥無信嗰陣,又可以對佢有咩好處呢?",
+          "vernacularMandarin": "「那我在城邦之中,應該佔甚麼位置呢?」只要你同時保住忠誠同謙遜,無論哪個位置,你都可以佔。但如果你為了想對國家有用,而失去了這些品格,那你變成無恥無信之後,又可以對它有甚麼好處呢?"
+        },
+        {
+          "id": "c3-20",
+          "title": "人哋攞到你冇嘅嘢,好壞你都唔使動氣",
+          "original": "Has any man been preferred before you at a banquet, or in being saluted, or in being invited to a consultation? If these things are good, you ought to rejoice that he has obtained them; but if bad, be not grieved because you have not obtained them.",
+          "vernacular": "有冇人喺宴會、問候或者諮詢入面,被人抬舉得比你優先呢?如果呢啲係好事,你應該為佢得到而高興;如果係壞事,就唔使因為自己冇得到而傷心。",
+          "vernacularMandarin": "有沒有人在宴會、問候或者諮詢裡面,被人抬舉得比你優先呢?如果這些是好事,你應該為他得到而高興;如果是壞事,就不用因為自己沒有得到而傷心。"
+        },
+        {
+          "id": "c3-21",
+          "title": "冇畀出同樣嘅代價,就唔可以要求同樣嘅份額",
+          "original": "And remember that you cannot, if you do not the same things in order to obtain what is not in our own power, be considered worthy of the same (equal) things.",
+          "vernacular": "要記住,如果你冇做同人哋一樣嘅事去換取嗰啲唔操之在我嘅嘢,你就唔可以認為自己值得攞同樣嘅份額。",
+          "vernacularMandarin": "要記住,如果你沒有做同別人一樣的事去換取那些不操之在我的事物,你就不可以認為自己值得得到同樣的份額。"
+        },
+        {
+          "id": "c3-22",
+          "title": "唔畀代價卻想白白攞到手,就係貪得無厭",
+          "original": "For how can a man obtain an equal share with another when he does not visit a man’s doors as that other man does; when he does not attend him when he goes abroad, as the other man does; when he does not praise (flatter) him as another does? You will be unjust then and insatiable, if you do not part with the price, in return for which those things are sold, and if you wish to obtain them for nothing.",
+          "vernacular": "一個人如果冇好似人哋咁樣去拜訪人哋屋企、冇好似人哋咁樣隨行、冇好似人哋咁樣阿諛奉承,又點可以攞到同人哋一樣嘅份額呢?所以如果你唔畀出換取嗰啲嘢嘅代價,卻想白白攞到手,咁你就係唔公道兼貪得無厭。",
+          "vernacularMandarin": "一個人如果沒有像別人那樣去拜訪別人家、沒有像別人那樣隨行、沒有像別人那樣阿諛奉承,又怎可以得到同別人一樣的份額呢?所以如果你不付出換取那些東西的代價,卻想白白得到手,那你就是不公道兼貪得無厭。"
+        },
+        {
+          "id": "c3-23",
+          "title": "冇畀出代價,你就留低咗你嘅那份代價",
+          "original": "Well, what is the price of lettuces? An obolus perhaps. If then a man gives up the obolus, and receives the lettuces, and if you do not give up the obolus and do not obtain the lettuces, do not suppose that you receive less than he who has got the lettuces; for as he has the lettuces, so you have the obolus which you did not give.",
+          "vernacular": "生菜嘅價錢係幾多呢?可能係一個奧波勒斯。如果一個人畀咗個奧波勒斯,攞到生菜;而你冇畀,攞唔到生菜,唔好以為你比嗰個攞到生菜嘅人少咗啲乜嘢——因為佢有生菜,你就有你冇畀出嗰個奧波勒斯。",
+          "vernacularMandarin": "生菜的價錢是多少呢?可能是一個奧波勒斯。如果一個人給了一個奧波勒斯,得到生菜;而你沒有給,得不到生菜,不要以為你比那個得到生菜的人少了些甚麼——因為他有生菜,你就有你沒有給出那個奧波勒斯。"
+        },
+        {
+          "id": "c3-24",
+          "title": "宴會索取嘅價錢係阿諛奉承",
+          "original": "In the same way then in the other matter also you have not been invited to a man’s feast, for you did not give to the host the price at which the supper is sold; but he sells it for praise (flattery), he sells it for personal attention. Give then the price, if it is for your interest, for which it is sold.",
+          "vernacular": "同樣道理,喺宴會嗰件事上,你冇受邀,係因為你冇畀主人晚宴索取嗰個價錢;佢賣嘅係阿諛奉承,佢賣嘅係殷勤討好。如果對你有利,你就畀出佢索取嘅價錢。",
+          "vernacularMandarin": "同樣道理,在宴會那件事上,你沒受邀,是因為你沒給主人晚宴索取的那個價錢;他賣的是阿諛奉承,他賣的是殷勤討好。如果對你有利,你就給出他索取的價錢。"
+        },
+        {
+          "id": "c3-25",
+          "title": "你有嘅係:唔使阿諛奉承,唔使忍受佢",
+          "original": "But if you wish both not to give the price and to obtain the things, you are insatiable and silly. Have you nothing then in place of the supper? You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.",
+          "vernacular": "但如果你既唔想畀價錢,又想攞到手,咁你就係貪得無厭兼傻。咁你係咪就完全冇代替晚宴嘅嘢呢?你有嘅:你有「冇阿諛奉承你唔想奉承嘅人」呢樣嘢;你有「唔使忍受嗰個人入房嗰陣」呢樣嘢。",
+          "vernacularMandarin": "但如果你既不想給價錢,又想得到手,那你就是貪得無厭兼傻。那你是不是就完全沒有代替晚宴的東西呢?你有的:你有「沒有阿諛奉承你不想奉承的人」這樣東西;你有「不用忍受那個人進房那時」這樣東西。"
+        }
+      ]
+    },
+    {
+      "id": "ench-c4",
+      "title": "XXVI–XXXIII: Relations, the Gods, and Self-Discipline 人倫、敬神與自律",
+      "passages": [
+        {
+          "id": "c4-1",
+          "title": "鄰居嘅嘢整爛咗,我哋會話「呢啲事會發生」",
+          "original": "We may learn the wish (will) of nature from the things in which we do not differ from one another: for instance, when your neighbor’s slave has broken his cup, or anything else, we are ready to say forthwith, that it is one of the things which happen.",
+          "vernacular": "我哋可以由自己同人哋冇分別嘅嘢入面,學到自然嘅心意。例如你隔籬鄰舍嘅奴僕整爛咗個杯,或者第啲嘢,我哋即刻就會話:「呢啲事係會發生嘅。」",
+          "vernacularMandarin": "我們可以從自己同別人沒有分別的事物裡面,學到自然的心意。例如你隔壁鄰居的奴僕打破了一個杯子,或者別的東西,我們立刻就會說:「這種事是會發生的。」"
+        },
+        {
+          "id": "c4-2",
+          "title": "自己個杯整爛咗,都要同一個諗法",
+          "original": "You must know then that when your cup also is broken, you ought to think as you did when your neighbor’s cup was broken. Transfer this reflection to greater things also. Is another man’s child or wife dead? There is no one who would not say, This is an event incident to man.",
+          "vernacular": "所以你要知道,你自己個杯整爛咗嘅時候,都應該好似鄰居個杯整爛咗嗰陣一樣咁諗。將呢個反思推廣到更加重大嘅事上。別人嘅仔女或者老婆死咗?冇一個人會唔話:「呢個係人生常有嘅事。」",
+          "vernacularMandarin": "所以你要知道,你自己的杯子打破了的時候,也應該好似鄰居杯子打破時那樣去想。把這個反思推廣到更重大的事情上。別人的兒女或者妻子死了?沒有一個人不會說:「這是人生常有的事。」"
+        },
+        {
+          "id": "c4-3",
+          "title": "但輪到自己嘅仔女老婆,就即刻喊苦喊忽",
+          "original": "But when a man’s own child or wife is dead, forthwith he calls out, Woe to me, how wretched I am! But we ought to remember how we feel when we hear that it has happened to others.",
+          "vernacular": "但輪到自己嘅仔女或者老婆死咗,佢就即刻喊出嚟:「我好慘呀,我幾咁不幸呀!」但我哋應該記住,自己聽到呢件事發生喺別人身上嗰陣,係咩感受。",
+          "vernacularMandarin": "但輪到自己的兒女或者妻子死了,他就立刻喊出來:「我好慘啊,我多麼不幸啊!」但我們應該記住,自己聽到這件事發生在別人身上時,是甚麼感受。"
+        },
+        {
+          "id": "c4-4",
+          "title": "靶唔係為咗被射失而立嘅",
+          "original": "As a mark is not set up for the purpose of missing the aim, so neither does the nature of evil exist in the world.",
+          "vernacular": "正如靶並唔係為咗俾人射失而立起嘅,惡嘅本質喺呢個世界上亦都根本唔存在。",
+          "vernacularMandarin": "正如靶不是為了被人射失而立起的,惡的本質在這個世界上也根本不存在。"
+        },
+        {
+          "id": "c4-5",
+          "title": "你唔會俾人擺佈個身體,點解就俾人擺佈個心智?",
+          "original": "If any person was intending to put your body in the power of any man whom you fell in with on the way, you would be vexed; but that you put your understanding in the power of any man whom you meet, so that if he should revile you, it is disturbed and troubled, are you not ashamed at this?",
+          "vernacular": "如果有人打算將你嘅身體交俾你喺路上遇到嘅隨便一個人擺佈,你一定會激嬲;但你自己就將你嘅心智交俾你遇到嘅任何人擺佈,以致嗰個人一惡言相向,你就心緒不寧——你唔覺得呢件事可恥咩?",
+          "vernacularMandarin": "如果有人打算把你的身體交給你在路上遇到的隨便一個人擺佈,你一定會生氣;但你自己就把你的心智交給你遇到的任何人擺佈,以致那個人一出惡言,你就心緒不寧——你不覺得這件事可恥嗎?"
+        },
+        {
+          "id": "c4-6",
+          "title": "做每件事之前,要睇清前因後果",
+          "original": "In every act observe the things which come first, and those which follow it; and so proceed to the act. If you do not, at first you will approach it with alacrity, without having thought of the things which will follow; but afterwards, when certain base (ugly) things have shown themselves, you will be ashamed.",
+          "vernacular": "做每一件事,都要先觀察佢嘅前因同後果,然後先至去做。如果你唔咁做,你一開始就會興致勃勃咁去做,完全冇諗過後果會點,之後一旦見到啲醜態,你就會覺得羞愧。",
+          "vernacularMandarin": "做每一件事,都要先觀察它的前因同後果,然後才去做。如果你不這樣做,你一開始就會興致勃勃地去做,完全沒想過後果會怎樣,之後一旦見到一些醜態,你就會覺得羞愧。"
+        },
+        {
+          "id": "c4-7",
+          "title": "想喺奧運攞冠軍?要先睇清前因後果",
+          "original": "A man wishes to conquer at the Olympic games. I also wish indeed, for it is a fine thing. But observe both the things which come first, and the things which follow; and then begin the act.",
+          "vernacular": "一個人想喺奧運會攞冠軍。我都好想,因為呢件事確實好威風。但都要觀察吓事情嘅前因同後果,然後先開始去做。",
+          "vernacularMandarin": "一個人想在奧運會拿冠軍。我也很想,因為這件事確實很威風。但都要觀察一下事情的前因同後果,然後才開始去做。"
+        },
+        {
+          "id": "c4-8",
+          "title": "遵守嚴格訓練,將自己交托俾教練",
+          "original": "You must do everything according to rule, eat according to strict orders, abstain from delicacies, exercise yourself as you are bid at appointed times, in heat, in cold, you must not drink cold water, nor wine as you choose; in a word, you must deliver yourself up to the exercise master as you do to the physician, and then proceed to the contest.",
+          "vernacular": "你要凡事守規矩,按嚴格要求進食,戒絕美食,喺指定時間鍛鍊,唔理天氣熱定凍,唔可以隨便飲凍水或者飲酒;簡單講,你要好似對住醫生咁,將自己完全交托俾教練,然後先去參賽。",
+          "vernacularMandarin": "你要凡事守規矩,按嚴格要求進食,戒絕美食,在指定時間鍛鍊,不理天氣冷熱,不可以隨便喝冷水或者喝酒;簡單說,你要好似對著醫生那樣,把自己完全交託給教練,然後才去參賽。"
+        },
+        {
+          "id": "c4-9",
+          "title": "訓練會拗傷手、扭傷腳,仲要輸",
+          "original": "And sometimes you will strain the hand, put the ankle out of joint, swallow much dust, sometimes be flogged, and after all this be defeated.",
+          "vernacular": "有時你會拗傷手腕,扭傷腳眼,吞落大量塵土,甚至俾人鞭打,捱過晒呢一切,最後仲要落敗。",
+          "vernacularMandarin": "有時你會拗傷手腕,扭傷腳踝,吞下大量塵土,甚至被人鞭打,捱過這一切,最後還要落敗。"
+        },
+        {
+          "id": "c4-10",
+          "title": "考慮清楚先去,唔好似細路仔咁玩下呢樣玩下嗰樣",
+          "original": "When you have considered all this, if you still choose, go to the contest: if you do not you will behave like children, who at one time play at wrestlers, another time as flute players, again as gladiators, then as trumpeters, then as tragic actors.",
+          "vernacular": "考慮完晒呢一切,如果你仍然揀去參賽,咁就去。如果唔係,你就會好似細路仔咁,一時扮摔跤手,一時扮吹笛手,一時扮角鬥士,一時扮吹號手,一時又扮演悲劇演員。",
+          "vernacularMandarin": "考慮完這一切,如果你仍然選擇去參賽,那就去。如果不是,你就會好似小孩子那樣,一時扮摔跤手,一時扮吹笛手,一時扮角鬥士,一時扮吹號手,一時又扮演悲劇演員。"
+        },
+        {
+          "id": "c4-11",
+          "title": "你都會咁樣:一時運動員,一時哲學家,全心全意乜都唔係",
+          "original": "So you also will be at one time an athlete, at another a gladiator, then a rhetorician, then a philosopher, but with your whole soul you will be nothing at all; but like an ape you imitate everything that you see, and one thing after another pleases you.",
+          "vernacular": "你自己都係咁,一時做運動員,一時做角鬥士,一時做修辭家,一時做哲學家,但你成個靈魂就從來冇一樣係認真嘅;你好似隻馬騮咁,見咩就學咩,一樣新鮮嘢接一樣咁鍾意。",
+          "vernacularMandarin": "你自己也是這樣,一時做運動員,一時做角鬥士,一時做修辭家,一時做哲學家,但你整個靈魂從來沒有一樣是認真的;你好似隻猴子那樣,見甚麼就學甚麼,一樣新鮮事物接一樣地喜歡。"
+        },
+        {
+          "id": "c4-12",
+          "title": "因為你從來冇經過深思熟慮就出手",
+          "original": "For you have not undertaken anything with consideration, nor have you surveyed it well; but carelessly and with cold desire. Thus some who have seen a philosopher and having heard one speak, as Euphrates speaks—and who can speak as he does?—they wish to be philosophers themselves also.",
+          "vernacular": "因為你根本冇經過深思熟慮就着手做嘢,亦都冇好好審視過;你只係漫不經心咁、冷淡咁憑一時興起去做。所以有啲人見過一個哲學家,聽過佢講嘢——好似歐夫拉特斯咁樣講嘢,邊個講得過佢呢?——就都想自己都做哲學家。",
+          "vernacularMandarin": "因為你根本沒有經過深思熟慮就著手做事,也沒有好好審視過;你只是漫不經心地、冷淡地憑一時興起去做。所以有些人見過一個哲學家,聽過他講話——好似歐夫拉特斯那樣講話,誰講得過他呢?——就都想自己也做哲學家。"
+        },
+        {
+          "id": "c4-13",
+          "title": "先審視呢件事嘅性質,再審視自己嘅本性",
+          "original": "My man, first of all consider what kind of thing it is; and then examine your own nature, if you are able to sustain the character. Do you wish to be a pentathlete or a wrestler? Look at your arms, your thighs, examine your loins. For different men are formed by nature for different things.",
+          "vernacular": "老友,你首先要考慮呢件事嘅性質係咩;然後審視自己嘅本性,睇吓自己有冇能力撐得起呢個角色。你想做五項全能運動員,定係摔跤手呢?睇吓你嘅手臂、大腿,檢查吓你嘅腰身。因為唔同嘅人天生就適合唔同嘅嘢。",
+          "vernacularMandarin": "老兄,你首先要考慮這件事的性質是甚麼;然後審視自己的本性,看看自己有沒有能力撐得起這個角色。你想做五項全能運動員,還是摔跤手呢?看看你的手臂、大腿,檢查一下你的腰身。因為不同的人天生就適合不同的事。"
+        },
+        {
+          "id": "c4-14",
+          "title": "你以為做哲學家,飲食習慣可以一切照舊?",
+          "original": "Do you think that if you do these things, you can eat in the same manner, drink in the same manner, and in the same manner loathe certain things? You must pass sleepless nights, endure toil, go away from your kinsmen, be despised by a slave, in everything have the inferior part, in honor, in office, in the courts of justice, in every little matter.",
+          "vernacular": "你以為做呢啲嘢嘅時候,你可以照舊咁食、照舊咁飲,同埋照舊咁討厭某啲嘢咩?你要捱失眠嘅夜晚,捱辛勞,離開親人,俾奴僕都睇你唔起,喺榮譽、官職、法庭、以至每一件瑣事上都居於下風。",
+          "vernacularMandarin": "你以為做這些事的時候,你可以照舊地吃、照舊地喝,同樣照舊地厭惡某些東西嗎?你要捱失眠的夜晚,捱辛勞,離開親人,被奴僕都看不起,在榮譽、官職、法庭、以至每一件瑣事上都居於下風。"
+        },
+        {
+          "id": "c4-15",
+          "title": "衡量吓值唔值得用嚟換自由、平靜",
+          "original": "Consider these things, if you would exchange for them, freedom from passions, liberty, tranquillity. If not, take care that, like little children, you be not now a philosopher, then a servant of the publicani, then a rhetorician, then a procurator (manager) for Cæsar.",
+          "vernacular": "你要考慮清楚呢啲嘢,睇吓自己係咪願意用嚟交換擺脫激情、自由同埋心境平靜。如果唔係,你就要小心,唔好好似細路仔咁,一時做哲學家,一時做稅吏嘅手下,一時做修辭家,一時又做凱撒嘅代理人。",
+          "vernacularMandarin": "你要考慮清楚這些事,看看自己是否願意用來交換擺脫激情、自由同心境平靜。如果不是,你就要小心,不要好似小孩子那樣,一時做哲學家,一時做稅吏的手下,一時做修辭家,一時又做凱撒的代理人。"
+        },
+        {
+          "id": "c4-16",
+          "title": "呢啲身份唔可以並存,你只可以做一種人",
+          "original": "These things are not consistent. You must be one man, either good or bad. You must either cultivate your own ruling faculty, or external things. You must either exercise your skill on internal things or on external things; that is you must either maintain the position of a philosopher or that of a common person.",
+          "vernacular": "呢啲身份根本互不相容。你必須做返一個統一嘅人,要麼善,要麼惡。你要麼培養自己嘅主導理性,要麼追逐外物;要麼喺內在事物上下功夫,要麼喺外在事物上下功夫;即係話,你要麼堅守哲學家嘅位置,要麼就係一個普通人。",
+          "vernacularMandarin": "這些身份根本互不相容。你必須做回一個統一的人,要麼善,要麼惡。你要麼培養自己的主導理性,要麼追逐外物;要麼在內在事物上下功夫,要麼在外在事物上下功夫;也就是說,你要麼堅守哲學家的位置,要麼就是一個普通人。"
+        },
+        {
+          "id": "c4-17",
+          "title": "本份係由人倫關係決定嘅——父親再差都係父親",
+          "original": "Duties are universally measured by relations (tais schsesi). Is a man a father? The precept is to take care of him, to yield to him in all things, to submit when he is reproachful, when he inflicts blows. But suppose that he is a bad father. Were you then by nature made akin to a good father? No; but to a father.",
+          "vernacular": "所有本份都係由人倫關係嚟衡量嘅。呢個人係咪父親呢?咁教訓就係:照顧佢、凡事順從佢、俾佢責備甚至打罵都要忍受。「但假設佢係個差劣嘅父親呢?」你天生就係同一個「好父親」有連繫咩?唔係,你係同「一個父親」有連繫。",
+          "vernacularMandarin": "所有本份都是由人倫關係來衡量的。這個人是不是父親呢?那麼教訓就是:照顧他、凡事順從他、被他責備甚至打罵都要忍受。「但假設他是個差劣的父親呢?」你天生就是同一個「好父親」有連繫嗎?不是,你是同「一個父親」有連繫。"
+        },
+        {
+          "id": "c4-18",
+          "title": "兄弟對你唔住,你都要守住自己嗰邊嘅本份",
+          "original": "Does a brother wrong you? Maintain then your own position towards him, and do not examine what he is doing, but what you must do that your will shall be conformable to nature. For another will not damage you, unless you choose: but you will be damaged then when you shall think that you are damaged.",
+          "vernacular": "兄弟對你唔住?咁你就要守住自己對佢嘅本份,唔好去審視佢做緊咩,而係要審視你自己應該點做,先至令你嘅意志合乎本性。因為除非你自己揀擇,否則邊個都傷害唔到你;你會受傷害,只係因為你認為自己受咗傷害。",
+          "vernacularMandarin": "兄弟對你不住?那你就要守住自己對他的本份,不要去審視他在做甚麼,而要審視你自己應該怎麼做,才能令你的意志合乎本性。因為除非你自己選擇,否則誰都傷害不了你;你會受傷害,只是因為你認為自己受了傷害。"
+        },
+        {
+          "id": "c4-19",
+          "title": "由鄰居、公民、將軍嘅關係,都可以發現本份",
+          "original": "In this way then you will discover your duty from the relation of a neighbor, from that of a citizen, from that of a general, if you are accustomed to contemplate the relations.",
+          "vernacular": "咁樣,只要你習慣咗去思考各種人倫關係,你就可以由鄰居嘅關係、公民嘅關係、將軍嘅關係之中,發現自己嘅本份。",
+          "vernacularMandarin": "這樣,只要你習慣了去思考各種人倫關係,你就可以從鄰居的關係、公民的關係、將軍的關係之中,發現自己的本份。"
+        },
+        {
+          "id": "c4-20",
+          "title": "敬神最重要嘅係持有正確嘅睇法",
+          "original": "As to piety towards the gods you must know that this is the chief thing, to have right opinions about them, to think that they exist, and that they administer the All well and justly; and you must fix yourself in this principle (duty), to obey them, and to yield to them in everything which happens, and voluntarily to follow it as being accomplished by the wisest intelligence.",
+          "vernacular": "至於敬奉神明,你要知道最重要嘅係:對神明持有正確嘅睇法,相信佢哋存在,而且以善良同公義管治著萬物;仲要立定呢個心志,順服佢哋,凡事發生都要順從,並且心甘情願咁跟從——因為呢一切都係由至高嘅智慧所成就嘅。",
+          "vernacularMandarin": "至於敬奉神明,你要知道最重要的是:對神明持有正確的看法,相信他們存在,而且以善良同公義管治著萬物;還要立定這個心志,順服他們,凡事發生都要順從,並且心甘情願地跟從——因為這一切都是由至高的智慧所成就的。"
+        },
+        {
+          "id": "c4-21",
+          "title": "咁樣你就永遠唔會怪神,亦都唔會控訴神忽略你",
+          "original": "For if you do so, you will never either blame the gods, nor will you accuse them of neglecting you. And it is not possible for this to be done in any other way than by withdrawing from the things which are not in our power, and by placing the good and the evil only in those things which are in our power.",
+          "vernacular": "如果你咁樣做,你就永遠唔會怪責神明,亦都唔會控訴佢哋忽略你。而要做到呢一點,除非你退出對唔操之在我嘅嘢嘅執著,只將善同惡放喺操之在我嘅嘢入面,否則係唔可能嘅。",
+          "vernacularMandarin": "如果你這樣做,你就永遠不會怪罪神明,也不會控訴他們忽略你。而要做到這一點,除非你退出對不操之在我的事物的執著,只把善同惡放在操之在我的事物裡面,否則是不可能的。"
+        },
+        {
+          "id": "c4-22",
+          "title": "以為唔操之在我嘅嘢有好壞,就一定會怪人",
+          "original": "For if you think that any of the things which are not in our power is good or bad, it is absolutely necessary that, when you do not obtain what you wish, and when you fall into those things which you do not wish, you will find fault and hate those who are the cause of them;",
+          "vernacular": "因為如果你認為唔操之在我嘅任何嘢係善或者惡,咁樣一旦你攞唔到自己想要嘅嘢,或者撞正自己唔想要嘅嘢,你就必然會挑錯處、怨恨嗰啲你認為係原因嘅人。",
+          "vernacularMandarin": "因為如果你認為不操之在我的任何事物是善或者惡,這樣一旦你得不到自己想要的東西,或者撞上自己不想要的事,你就必然會挑錯處、怨恨那些你認為是原因的人。"
+        },
+        {
+          "id": "c4-23",
+          "title": "每種動物生成都會逃避有害嘅嘢,追隨有益嘅嘢",
+          "original": "for every animal is formed by nature to this, to fly from and to turn from the things which appear harmful and the things which are the cause of the harm, but to follow and admire the things which are useful and the causes of the useful. It is impossible then for a person who thinks that he is harmed to be delighted with that which he thinks to be the cause of the harm, as it is also impossible to be pleased with the harm itself.",
+          "vernacular": "因為每種動物生成就係咁——逃避同轉離睇落有害嘅嘢同造成傷害嘅原因,追隨同讚賞有益嘅嘢同帶來益處嘅原因。所以一個認為自己受咗傷害嘅人,係唔可能對佢認為造成傷害嘅原因感到高興嘅,正如佢唔可能對傷害本身感到高興一樣。",
+          "vernacularMandarin": "因為每種動物生成就是這樣——逃避同轉離看起來有害的事物同造成傷害的原因,追隨同讚賞有益的事物同帶來益處的原因。所以一個認為自己受了傷害的人,是不可能對他認為造成傷害的原因感到高興的,正如他不可能對傷害本身感到高興一樣。"
+        },
+        {
+          "id": "c4-24",
+          "title": "波呂涅刻斯同厄忒俄克勒斯反目,就係因為以為王權係善",
+          "original": "For this reason also a father is reviled by his son, when he gives no part to his son of the things which are considered to be good; and it was this which made Polynices and Eteocles enemies, the opinion that royal power was a good.",
+          "vernacular": "所以亦係基於呢個道理,父親如果冇分俾兒子任何佢認為係好嘅嘢,就會俾兒子責罵;波呂涅刻斯同厄忒俄克勒斯反目成仇,亦都係因為呢個「王權係善」嘅想法所致。",
+          "vernacularMandarin": "所以也是基於這個道理,父親如果沒有分給兒子任何他認為是好的東西,就會被兒子責罵;波呂涅刻斯同厄忒俄克勒斯反目成仇,也是因為這個「王權是善」的想法所致。"
+        },
+        {
+          "id": "c4-25",
+          "title": "農夫、水手、商人咒罵神明,都係因為利益攸關",
+          "original": "It is for this reason that the cultivator of the earth reviles the gods, for this reason the sailor does, and the merchant, and for this reason those who lose their wives and their children. For where the useful (your interest) is, there also piety is.",
+          "vernacular": "亦係基於呢個道理,農夫先會咒罵神明,水手咒罵神明,商人咒罵神明,失去妻兒嘅人都會咒罵神明。因為凡係利益所在,敬虔都喺嗰度。",
+          "vernacularMandarin": "也是基於這個道理,農夫才會咒罵神明,水手咒罵神明,商人咒罵神明,失去妻兒的人都會咒罵神明。因為凡是利益所在,敬虔都在那裡。"
+        },
+        {
+          "id": "c4-26",
+          "title": "識得妥善渴求同厭惡,就係識得敬虔;獻祭要按力而為",
+          "original": "Consequently he who takes care to desire as he ought and to avoid as he ought, at the same time also cares after piety. But to make libations and to sacrifice and to offer first-fruits according to the custom of our fathers, purely and not meanly nor carelessly nor scantily nor above our ability, is a thing which belongs to all to do.",
+          "vernacular": "所以一個人只要懂得妥善去渴求、妥善去厭惡,同時就已經照顧好咗敬虔呢件事。至於按祖先傳統作奠酒、獻祭同獻初熟果實,只要做得純潔,唔隨便、唔馬虎、亦都唔超出自己能力範圍,咁就係每個人都應該做嘅事。",
+          "vernacularMandarin": "所以一個人只要懂得妥善去渴求、妥善去厭惡,同時就已經照顧好了敬虔這件事。至於按祖先傳統作奠酒、獻祭同獻初熟果實,只要做得純潔,不隨便、不馬虎、也不超出自己能力範圍,那就是每個人都應該做的事。"
+        },
+        {
+          "id": "c4-27",
+          "title": "求問占卜,先要知道自己想問嘅事嘅性質",
+          "original": "When you have recourse to divination, remember that you do not know how it will turn out, but that you are come to inquire from the diviner. But of what kind it is, you know when you come, if indeed you are a philosopher.",
+          "vernacular": "當你求助於占卜嗰陣,要記住你唔知道結果會點,你只係嚟向占卜師求問。至於呢件事屬於乜性質,如果你真係一個哲學家,你嚟嗰陣就應該已經知道。",
+          "vernacularMandarin": "當你求助於占卜的時候,要記住你不知道結果會怎樣,你只是來向占卜師求問。至於這件事屬於甚麼性質,如果你真的是一個哲學家,你來的時候就應該已經知道。"
+        },
+        {
+          "id": "c4-28",
+          "title": "唔操之在我嘅事,本身就冇所謂好壞",
+          "original": "For if it is any of the things which are not in our power, it is absolutely necessary that it must be neither good nor bad. Do not then bring to the diviner desire or aversion: if you do, you will approach him with fear.",
+          "vernacular": "因為如果件事屬於唔操之在我嘅範圍,咁佢就必然唔係善亦唔係惡。所以唔好帶住渴求或者厭惡去見占卜師;如果咁做,你就會誠惶誠恐咁接近佢。",
+          "vernacularMandarin": "因為如果這件事屬於不操之在我的範圍,那它就必然不是善也不是惡。所以不要帶著渴求或者厭惡去見占卜師;如果這樣做,你就會誠惶誠恐地接近他。"
+        },
+        {
+          "id": "c4-29",
+          "title": "認定結果本身冇好壞,就可以放心向神明求教",
+          "original": "But having determined in your mind that everything which shall turn out (result) is indifferent, and does not concern you, and whatever it may be, for it will be in your power to use it well, and no man will hinder this, come then with confidence to the gods as your advisers.",
+          "vernacular": "但如果你心入面已經斷定,無論結果會點都係中性嘅,同你冇關係,因為你必定有能力好好運用呢個結果,亦都冇人可以阻止你咁做,咁你就可以滿懷信心咁去見神明,將佢哋當做顧問。",
+          "vernacularMandarin": "但如果你心裡已經斷定,無論結果會怎樣都是中性的,同你無關,因為你必定有能力好好運用這個結果,也沒有人可以阻止你這樣做,那你就可以滿懷信心地去見神明,把他們當作顧問。"
+        },
+        {
+          "id": "c4-30",
+          "title": "得到指引之後,要記得自己請教嘅係邊個",
+          "original": "And then when any advice shall have been given, remember whom you have taken as advisers, and whom you will have neglected, if you do not obey them.",
+          "vernacular": "而當你獲得任何指引之後,要記住你揀咗邊個做顧問——同埋如果你唔聽從,你就係忽視咗邊個。",
+          "vernacularMandarin": "而當你獲得任何指引之後,要記住你選了誰做顧問——以及如果你不聽從,你就是忽視了誰。"
+        },
+        {
+          "id": "c4-31",
+          "title": "求占卜要求喺純粹睇結果嘅事上",
+          "original": "And go to divination, as Socrates said that you ought, about those matters in which all the inquiry has reference to the result, and in which means are not given either by reason nor by any other art for knowing the thing which is the subject of the inquiry.",
+          "vernacular": "同埋要好似蘇格拉底所講咁樣去求問占卜:只喺件事嘅整個探究純粹關乎結果、而理性同其他任何技藝都冇辦法俾你知道答案嘅時候,先至去求問。",
+          "vernacularMandarin": "同時要好似蘇格拉底所說那樣去求問占卜:只在事情的整個探究純粹關乎結果、而理性同其他任何技藝都沒有辦法讓你知道答案的時候,才去求問。"
+        },
+        {
+          "id": "c4-32",
+          "title": "該分擔朋友或者國家危難嗰陣,唔使問占卜師",
+          "original": "Wherefore when we ought to share a friend’s danger, or that of our country, you must not consult the diviner whether you ought to share it. For even if the diviner shall tell you that the signs of the victims are unlucky, it is plain that this is a token of death, or mutilation of part of the body, or of exile.",
+          "vernacular": "所以喺我哋應該分擔朋友或者國家嘅危難嗰陣,你就唔應該去問占卜師,自己應唔應該去分擔。因為就算占卜師話俾你知,祭牲嘅預兆唔吉利,明顯係死亡、殘廢或者流放嘅徵兆。",
+          "vernacularMandarin": "所以在我們應該分擔朋友或者國家的危難時,你就不應該去問占卜師,自己應不應該去分擔。因為就算占卜師告訴你,祭牲的預兆不吉利,明顯是死亡、殘廢或者流放的徵兆。"
+        },
+        {
+          "id": "c4-33",
+          "title": "理性告訴我哋,即使有咁嘅風險,都要分擔朋友嘅危難",
+          "original": "But reason prevails, that even with these risks, we should share the dangers of our friend, and of our country. Therefore attend to the greater diviner, the Pythian god, who ejected from the temple him who did not assist his friend, when he was being murdered.",
+          "vernacular": "但理性告訴我哋,即使有呢啲風險,我哋都應該分擔朋友同國家嘅危難。所以要聽從更高嘅占卜者——皮提亞神,佢曾經將一個唔肯援助被害朋友嘅人趕出神廟。",
+          "vernacularMandarin": "但理性告訴我們,即使有這些風險,我們都應該分擔朋友同國家的危難。所以要聽從更高的占卜者——皮提亞神,他曾經把一個不肯援助被害朋友的人趕出神廟。"
+        },
+        {
+          "id": "c4-34",
+          "title": "即刻為自己定立一套性格同形象",
+          "original": "Immediately prescribe some character and some form to yourself, which you shall observe both when you are alone and when you meet with men.",
+          "vernacular": "即刻為自己定立一套性格同形象,無論獨處或者見人嗰陣,都要一直恪守。",
+          "vernacularMandarin": "立刻為自己定立一套性格同形象,無論獨處或者見人的時候,都要一直恪守。"
+        },
+        {
+          "id": "c4-35",
+          "title": "沉默係常態,講嘢要簡短,唔好講埋人是非",
+          "original": "And let silence be the general rule, or let only what is necessary be said, and in few words. And rarely, and when the occasion calls, we shall say something; but about none of the common subjects, not about gladiators, nor horse-races, nor about athletes, nor about eating or drinking, which are the usual subjects; and especially not about men, as blaming them or praising them, or comparing them.",
+          "vernacular": "沉默應該係常態,或者淨係講必要嘅嘢,而且要簡短。有需要嘅時候先偶爾講幾句,但唔好講埋啲一般嘅話題,例如角鬥士、賽馬、運動員、飲食呢類人人都講嘅嘢;特別唔好講埋論人是非,無論係批評、讚美定係比較都唔好。",
+          "vernacularMandarin": "沉默應該是常態,或者只講必要的話,而且要簡短。有需要的時候才偶爾講幾句,但不要講那些一般的話題,例如角鬥士、賽馬、運動員、飲食這類人人都講的話;特別不要講論人是非,無論是批評、讚美還是比較都不要。"
+        },
+        {
+          "id": "c4-36",
+          "title": "識得帶動就帶動,唔識就沉默",
+          "original": "If then you are able, bring over by your conversation, the conversation of your associates, to that which is proper; but if you should happen to be confined to the company of strangers, be silent.",
+          "vernacular": "如果你有能力,就用自己嘅談話將同伴嘅話題引導返去適當嘅方向;但如果你碰巧俾困喺一班陌生人之中,就保持沉默。",
+          "vernacularMandarin": "如果你有能力,就用自己的談話把同伴的話題引導回適當的方向;但如果你碰巧被困在一班陌生人之中,就保持沉默。"
+        },
+        {
+          "id": "c4-37",
+          "title": "唔好笑得太多太過分",
+          "original": "Let not your laughter be much, nor on many occasions, nor excessive.",
+          "vernacular": "唔好笑得太多,亦都唔好逢事都笑,更加唔好笑到太過分。",
+          "vernacularMandarin": "不要笑得太多,也不要逢事都笑,更加不要笑得太過分。"
+        },
+        {
+          "id": "c4-38",
+          "title": "盡量唔好發誓",
+          "original": "Refuse altogether to take an oath, if it is possible; if it is not, refuse as far as you are able.",
+          "vernacular": "如果可以嘅話,完全拒絕發誓;如果實在推唔到,就盡量少發。",
+          "vernacularMandarin": "如果可以的話,完全拒絕發誓;如果實在推不掉,就盡量少發。"
+        },
+        {
+          "id": "c4-39",
+          "title": "避開陌生人同無知者嘅宴會",
+          "original": "Avoid banquets which are given by strangers and by ignorant persons. But if ever there is occasion to join in them, let your attention be carefully fixed, that you slip not into the manners of the vulgar (the uninstructed). For you must know, that if your companion be impure, he also who keeps company with him must become impure, though he should happen to be pure.",
+          "vernacular": "要避開由陌生人或者無知嘅人所辦嘅宴會。但如果真係有機會要出席,就要打醒十二分精神,唔好唔知不覺被拖落庸俗嘅習氣。因為你要知道,如果同伴污穢,就算你本身純潔,同佢混埋一齊都會受污染。",
+          "vernacularMandarin": "要避開由陌生人或者無知的人所辦的宴會。但如果真的有機會要出席,就要打醒十二分精神,不要不知不覺被拖入庸俗的習氣。因為你要知道,如果同伴污穢,就算你本身純潔,同他混在一起也會受污染。"
+        },
+        {
+          "id": "c4-40",
+          "title": "身體所需只取夠用,唔好講排場",
+          "original": "Take (apply) the things which relate to the body as far as the bare use, as food, drink, clothing, house, and slaves; but exclude everything which is for show or luxury.",
+          "vernacular": "對於同身體有關嘅嘢,例如飲食、衣著、住所、僕役,都只取夠用嘅份量,凡係為咗炫耀或者奢華嘅,一律摒除。",
+          "vernacularMandarin": "對於同身體有關的事物,例如飲食、衣著、住所、僕役,都只取夠用的份量,凡是為了炫耀或者奢華的,一律摒除。"
+        },
+        {
+          "id": "c4-41",
+          "title": "婚前盡量節制房事,唔好指責享樂嘅人",
+          "original": "As to pleasure with women, abstain as far as you can before marriage; but if you do indulge in it, do it in the way which is conformable to custom. Do not however be disagreeable to those who indulge in these pleasures, or reprove them; and do not often boast that you do not indulge in them yourself.",
+          "vernacular": "至於男女之歡,婚前要盡量節制;如果實在忍唔住,就按照習俗嘅方式進行。但唔好因為人哋沉溺呢啲歡愉而對佢哋反感,或者指責佢哋;亦都唔好經常炫耀自己冇沉溺其中。",
+          "vernacularMandarin": "至於男女之歡,婚前要盡量節制;如果實在忍不住,就按照習俗的方式進行。但不要因為別人沉溺這些歡愉而對他們反感,或者指責他們;也不要經常炫耀自己沒有沉溺其中。"
+        },
+        {
+          "id": "c4-42",
+          "title": "有人話你俾人講是非,唔使辯解",
+          "original": "If a man has reported to you, that a certain person speaks ill of you, do not make any defence (answer) to what has been told you; but reply, The man did not know the rest of my faults, for he would not have mentioned these only.",
+          "vernacular": "如果有人報告話某某講你壞話,唔使就佢話嘅嘢作任何辯解,只要回答:「佢一定唔知我其餘嘅缺點,唔係就唔會淨係講呢啲喇。」",
+          "vernacularMandarin": "如果有人報告說某某講你壞話,不用就他說的事作任何辯解,只要回答:「他一定不知道我其餘的缺點,不然就不會只講這些了。」"
+        },
+        {
+          "id": "c4-43",
+          "title": "去劇場都唔好特別支持邊個",
+          "original": "It is not necessary to go to the theatres often: but if there is ever a proper occasion for going, do not show yourself as being a partisan of any man except yourself, that is, desire only that to be done which is done, and for him only to gain the prize who gains the prize; for in this way you will meet with no hindrance.",
+          "vernacular": "唔使成日去劇場;但如果真係有適當嘅場合要去,就唔好表現到自己特別支持邊個人,除咗自己之外——即係話,只期望應該發生嘅事發生,只期望真正贏嘅人得獎,咁樣你就唔會遇到阻礙。",
+          "vernacularMandarin": "不用經常去劇場;但如果真的有適當的場合要去,就不要表現得自己特別支持誰,除了自己之外——也就是說,只期望應該發生的事發生,只期望真正贏的人得獎,這樣你就不會遇到阻礙。"
+        },
+        {
+          "id": "c4-44",
+          "title": "唔好大喊大叫,睇完都唔好講太多",
+          "original": "But abstain entirely from shouts and laughter at any (thing or person), or violent emotions. And when you are come away, do not talk much about what has passed on the stage, except about that which may lead to your own improvement. For it is plain, if you do talk much, that you admired the spectacle (more than you ought).",
+          "vernacular": "但要完全戒絕對任何人任何事嘅喝彩、大笑或者激動情緒。睇完離場之後,唔好講太多關於劇場上發生嘅事,除非係關於對自己有所裨益嘅嘢。因為講太多明顯就代表你太過為呢場演出著迷。",
+          "vernacularMandarin": "但要完全戒絕對任何人任何事的喝彩、大笑或者激動情緒。看完離場之後,不要講太多關於劇場上發生的事,除非是關於對自己有所裨益的東西。因為講太多明顯就代表你太過為這場演出著迷。"
+        },
+        {
+          "id": "c4-45",
+          "title": "唔好隨便去聽人哋朗誦",
+          "original": "Do not go to the hearing of certain persons’ recitations, nor visit them readily. But if you do attend, observe gravity and sedateness, and also avoid making yourself disagreeable.",
+          "vernacular": "唔好隨便去聽某啲人嘅朗誦會,亦都唔好隨便探訪佢哋。但如果真係要出席,就要保持莊重沉着,同時亦都要避免令自己惹人反感。",
+          "vernacularMandarin": "不要隨便去聽某些人的朗誦會,也不要隨便探訪他們。但如果真的要出席,就要保持莊重沉著,同時也要避免令自己惹人反感。"
+        },
+        {
+          "id": "c4-46",
+          "title": "見人之前,先諗吓蘇格拉底或者芝諾會點做",
+          "original": "When you are going to meet with any person, and particularly one of those who are considered to be in a superior condition, place before yourself what Socrates or Zeno would have done in such circumstances, and you will have no difficulty in making a proper use of the occasion.",
+          "vernacular": "你即將要見一個人,尤其係俾人睇高一線嘅人物嗰陣,就要先諗吓蘇格拉底或者芝諾喺呢種場合會點做,咁你就唔會唔知點樣妥善應對呢個場合。",
+          "vernacularMandarin": "你即將要見一個人,尤其是被人看高一線的人物時,就要先想想蘇格拉底或者芝諾在這種場合會怎麼做,這樣你就不會不知道怎樣妥善應對這個場合。"
+        },
+        {
+          "id": "c4-47",
+          "title": "見權貴之前,要有心理準備佢唔見你",
+          "original": "When you are going to any of those who are in great power, place before yourself that you will not find the man at home, that you will be excluded, that the door will not be opened to you, that the man will not care about you. And if with all this it is your duty to visit him, bear what happens, and never say to yourself that it was not worth the trouble. For this is silly, and marks the character of a man who is offended by externals.",
+          "vernacular": "你要去見有大權嘅人嗰陣,就要有心理準備:你可能撲個空,可能俾人拒諸門外,門可能唔會為你開,嗰個人可能根本唔理你。就算咁,如果去見佢係你嘅本份,都要承受呢一切,永遠唔好對自己講:「呢一趟真係唔值得。」因為咁樣諗係傻嘅,亦都反映出你係一個容易俾外物觸怒嘅人。",
+          "vernacularMandarin": "你要去見有大權的人時,就要有心理準備:你可能撲個空,可能被人拒之門外,門可能不會為你開,那個人可能根本不理你。就算這樣,如果去見他是你的本份,都要承受這一切,永遠不要對自己說:「這一趟真不值得。」因為這樣想是傻的,也反映出你是一個容易被外物觸怒的人。"
+        },
+        {
+          "id": "c4-48",
+          "title": "唔好講太多自己嘅威水史或者驚險經歷",
+          "original": "In company take care not to speak much and excessively about your own acts or dangers; for as it is pleasant to you to make mention of your own dangers, it is not so pleasant to others to hear what has happened to you. Take care also not to provoke laughter; for this is a slippery way towards vulgar habits, and is also adapted to diminish the respect of your neighbors.",
+          "vernacular": "喺人群入面,要小心唔好講太多、太過分講自己嘅作為或者遇到嘅危險;因為雖然講自己嘅驚險經歷俾你自己聽落好過癮,但對其他人嚟講,聽你講自己嘅遭遇就未必咁享受。仲要小心唔好刻意逗人發笑,因為呢個係滑向庸俗習氣嘅捷徑,亦都容易減損你喺鄰人心中嘅尊重。",
+          "vernacularMandarin": "在人群裡面,要小心不要講太多、太過分講自己的作為或者遇到的危險;因為雖然講自己的驚險經歷你自己聽起來很過癮,但對其他人來說,聽你講自己的遭遇就未必那麼享受。還要小心不要刻意逗人發笑,因為這是滑向庸俗習氣的捷徑,也容易減損你在鄰人心中的尊重。"
+        },
+        {
+          "id": "c4-49",
+          "title": "遇到粗鄙嘅談話,要出言喝止或者以表情表達不滿",
+          "original": "It is a dangerous habit also to approach obscene talk. When then, anything of this kind happens, if there is a good opportunity, rebuke the man who has proceeded to this talk; but if there is not an opportunity, by your silence at least, and blushing and expression of dissatisfaction by your countenance, show plainly that you are displeased at such talk.",
+          "vernacular": "接近淫穢嘅言談亦都係一種危險嘅習慣。所以每逢遇到呢類事發生,如果有適當機會,就出言責備講呢種話嘅人;如果冇機會出聲,就至少用沉默、面紅同不悅嘅表情,清楚表明自己對呢種言談嘅反感。",
+          "vernacularMandarin": "接近淫穢的言談也是一種危險的習慣。所以每逢遇到這類事發生,如果有適當機會,就出言責備講這種話的人;如果沒有機會出聲,就至少用沉默、臉紅同不悅的表情,清楚表明自己對這種言談的反感。"
+        }
+      ]
+    },
+    {
+      "id": "ench-c5",
+      "title": "XXXIV–XLI: Restraint and Right Measure 節制與分寸",
+      "passages": [
+        {
+          "id": "c5-1",
+          "title": "遇到快感嘅誘惑,唔好即刻俾佢牽住走",
+          "original": "If you have received the impression (phantasion) of any pleasure, guard yourself against being carried away by it; but let the thing wait for you, and allow yourself a certain delay on your own part.",
+          "vernacular": "如果你感受到某種快感嘅印象,要提防唔好俾佢牽住走;要令件事等等你,俾自己有少少時間拖延。",
+          "vernacularMandarin": "如果你感受到某種快感的印象,要提防不要被它牽著走;要讓事情等等你,給自己一些時間拖延。"
+        },
+        {
+          "id": "c5-2",
+          "title": "諗埋享樂之後嘅懊悔",
+          "original": "Then think of both times, of the time when you will enjoy the pleasure, and of the time after the enjoyment of the pleasure, when you will repent and will reproach yourself.",
+          "vernacular": "然後諗吓兩個時刻:享受呢個快感嗰陣嘅時刻,同埋享受完之後,你會後悔自責嗰個時刻。",
+          "vernacularMandarin": "然後想想兩個時刻:享受這個快感時的時刻,以及享受完之後,你會後悔自責那個時刻。"
+        },
+        {
+          "id": "c5-3",
+          "title": "諗埋忍住之後嘅欣慰同自豪",
+          "original": "And set against these things how you will rejoice, if you have abstained from the pleasure, and how you will commend yourself.",
+          "vernacular": "再擺埋另一面嚟對比:如果你忍住咗呢個快感,你會幾咁高興,幾咁欣賞自己。",
+          "vernacularMandarin": "再放另一面來對比:如果你忍住了這個快感,你會多麼高興,多麼欣賞自己。"
+        },
+        {
+          "id": "c5-4",
+          "title": "如果真係要做,就唔好俾誘惑打敗自己",
+          "original": "But if it seem to you seasonable to undertake (do) the thing, take care that the charm of it, and the pleasure, and the attraction of it shall not conquer you; but set on the other side the consideration, how much better it is to be conscious that you have gained this victory.",
+          "vernacular": "但如果你覺得時機啱做呢件事,就要小心唔好俾佢嘅魅力、快感同吸引力打敗你;反而要擺喺另一面度諗:知道自己贏咗呢場勝仗,先至係更加好嘅事。",
+          "vernacularMandarin": "但如果你覺得時機適合做這件事,就要小心不要被它的魅力、快感同吸引力打敗你;反而要放在另一面想:知道自己贏了這場勝仗,才是更好的事。"
+        },
+        {
+          "id": "c5-5",
+          "title": "決定咗要做嘅事,就唔好怕人睇見",
+          "original": "When you have decided that a thing ought to be done, and are doing it, never avoid being seen doing it, though the many shall form an unfavorable opinion about it.",
+          "vernacular": "當你決定咗一件事係應該做,並且正在做嗰陣,就永遠唔好逃避俾人見到你做緊,就算大眾會對呢件事有負面評價都好。",
+          "vernacularMandarin": "當你決定了一件事是應該做,並且正在做的時候,就永遠不要逃避被人見到你在做,就算大眾會對這件事有負面評價也好。"
+        },
+        {
+          "id": "c5-6",
+          "title": "啱嘅事,又點使驚俾人錯怪?",
+          "original": "For if it is not right to do it, avoid doing the thing; but if it is right, why are you afraid of those who shall find fault wrongly?",
+          "vernacular": "因為如果件事本身唔啱做,咁就唔好做;但如果係啱嘅,咁你又點使驚嗰啲會錯怪你嘅人呢?",
+          "vernacularMandarin": "因為如果這件事本身不對,那就不要做;但如果是對的,那你又何必害怕那些會錯怪你的人呢?"
+        },
+        {
+          "id": "c5-7",
+          "title": "宴會揀大份定係揀合羣,價值唔同",
+          "original": "As the proposition, it is either day, or it is night, is of great importance for the disjunctive argument, but for the conjunctive, is of no value, so in a symposium (entertainment) to select the larger share is of great value for the body, but for the maintenance of the social feeling is worth nothing.",
+          "vernacular": "正如「而家係日頭定係夜晚」呢句說話,喺析取論證入面好重要,但喺聯合論證入面就完全冇價值——同樣道理,喺宴會上揀大份嘅嘢,對身體嚟講好有價值,但對維繫聚會嘅情誼嚟講就完全冇價值。",
+          "vernacularMandarin": "正如「現在是白天還是夜晚」這句話,在析取論證裡面很重要,但在聯合論證裡面就完全沒有價值——同樣道理,在宴會上揀大份的東西,對身體來說很有價值,但對維繫聚會的情誼來說就完全沒有價值。"
+        },
+        {
+          "id": "c5-8",
+          "title": "同人食飯,要記得款待主人嘅禮數",
+          "original": "When, then, you are eating with another, remember, to look not only to the value for the body of the things set before you, but also to the value of the behavior towards the host which ought to be observed.",
+          "vernacular": "所以當你同人一齊食飯嗰陣,要記住唔好淨係睇擺喺面前嗰啲嘢對身體嘅價值,仲要睇你對主人應有嘅款待禮數。",
+          "vernacularMandarin": "所以當你同別人一起吃飯的時候,要記住不要只看擺在面前那些東西對身體的價值,還要看你對主人應有的款待禮數。"
+        },
+        {
+          "id": "c5-9",
+          "title": "扮演超出自己能力嘅角色,兩頭唔到岸",
+          "original": "If you have assumed a character above your strength, you have both acted in this manner in an unbecoming way, and you have neglected that which you might have fulfilled.",
+          "vernacular": "如果你揀咗一個超出自己能力嘅角色,咁你唔單止做得唔妥當,連自己本來做得到嘅事都忽略咗。",
+          "vernacularMandarin": "如果你選了一個超出自己能力的角色,那你不單止做得不妥當,連自己本來做得到的事都忽略了。"
+        },
+        {
+          "id": "c5-10",
+          "title": "行路要小心踩釘扭腳,做事要小心損害主導理性",
+          "original": "In walking about, as you take care not to step on a nail, or to sprain your foot, so take care not to damage your own ruling faculty; and if we observe this rule in every act, we shall undertake this act with more security.",
+          "vernacular": "行路嗰陣,你會小心唔好踩到釘或者扭到腳;做每一件事你都要咁樣小心,唔好損害你自己嘅主導理性。如果我哋每件事都守住呢條規矩,做起嚟就會更加穩妥。",
+          "vernacularMandarin": "走路的時候,你會小心不要踩到釘子或者扭到腳;做每一件事你都要這樣小心,不要損害你自己的主導理性。如果我們每件事都守住這條規矩,做起來就會更加穩妥。"
+        },
+        {
+          "id": "c5-11",
+          "title": "衡量財產嘅尺度,就好似鞋合唔合腳一樣",
+          "original": "The measure of possession (property) is to every man the body, as the foot is of the shoe. If then you stand on this rule (the demands of the body), you will maintain the measure; but if you pass beyond it, you must then of necessity be hurried as it were down a precipice.",
+          "vernacular": "每個人衡量財產嘅尺度,就係身體本身嘅需要,好似鞋合唔合腳一樣。如果你守住呢條規矩,你就守得住分寸;一旦超出咗,你就必然會好似跌落懸崖咁一發不可收拾。",
+          "vernacularMandarin": "每個人衡量財產的尺度,就是身體本身的需要,好似鞋合不合腳一樣。如果你守住這條規矩,你就守得住分寸;一旦超出了,你就必然會好似跌落懸崖那樣一發不可收拾。"
+        },
+        {
+          "id": "c5-12",
+          "title": "好似鞋一鑲金就冇止境,財產一超額都冇止境",
+          "original": "As also in the matter of the shoe, if you go beyond the (necessities of the) foot, the shoe is gilded, then of a purple color, then embroidered; for there is no limit to that which has once passed the true measure.",
+          "vernacular": "鞋都係咁:一旦超出咗腳嘅實際需要,你就會鑲金、上紫色,再加刺繡——因為一旦超越咗真正嘅尺度,就冇任何限度可言。",
+          "vernacularMandarin": "鞋子也是這樣:一旦超出了腳的實際需要,你就會鑲金、上紫色,再加刺繡——因為一旦超越了真正的尺度,就沒有任何限度可言。"
+        },
+        {
+          "id": "c5-13",
+          "title": "女子十四歲就俾人叫做「夫人」",
+          "original": "Women forthwith from the age of fourteen are called by the men mistresses (churiai, dominæ). Therefore, since they see that there is nothing else that they can obtain, but only the power of lying with men, they begin to decorate themselves, and to place all their hopes in this.",
+          "vernacular": "女子一到十四歲,男人就開始叫佢哋做「夫人」。所以佢哋見到自己冇第啲嘢可以攞到手,得返同男人共寢呢種能力,就開始打扮自己,將全部希望都寄託喺呢件事上面。",
+          "vernacularMandarin": "女子一到十四歲,男人就開始叫她們做「夫人」。所以她們見到自己沒有別的東西可以得到手,只剩下同男人共寢這種能力,就開始打扮自己,把全部希望都寄託在這件事上面。"
+        },
+        {
+          "id": "c5-14",
+          "title": "應該令佢哋知道,自己嘅價值在於端莊自持",
+          "original": "It is worth our while then to take care that they may know that they are valued (by men) for nothing else than appearing (being) decent and modest and discreet.",
+          "vernacular": "所以我哋值得花心思,令佢哋知道自己受重視嘅原因,並唔係第啲,只係因為顯得端莊、謙遜同自持。",
+          "vernacularMandarin": "所以我們值得花心思,令她們知道自己受重視的原因,並不是別的,只是因為顯得端莊、謙遜同自持。"
+        },
+        {
+          "id": "c5-15",
+          "title": "成日掛住身體嘅事,係器量狹小嘅表現",
+          "original": "It is a mark of a mean capacity to spend much time on the things which concern the body, such as much exercise, much eating, much drinking, much easing of the body, much copulation. But these things should be done as subordinate things; and let all your care be directed to the mind.",
+          "vernacular": "喺同身體有關嘅事上花費太多時間——例如過度運動、過度飲食、過度貪杯、過度如廁、過度房事——都係器量狹小嘅表現。呢啲事應該擺喺次要位置去處理,將全部心力都放喺心靈之上。",
+          "vernacularMandarin": "在同身體有關的事上花費太多時間——例如過度運動、過度飲食、過度貪杯、過度如廁、過度房事——都是器量狹小的表現。這些事應該放在次要位置去處理,把全部心力都放在心靈之上。"
+        }
+      ]
+    },
+    {
+      "id": "ench-c6",
+      "title": "XLII–LII: The Path of Progress 精進之路",
+      "passages": [
+        {
+          "id": "c6-1",
+          "title": "人哋惡待你,係因為佢以為咁做係本份",
+          "original": "When any person treats you ill or speaks ill of you, remember that he does this or says this because he thinks that it is his duty. It is not possible then for him to follow that which seems right to you, but that which seems right to himself.",
+          "vernacular": "當有人惡待你或者講你壞話嗰陣,要記住,佢做呢件事或者講呢啲說話,係因為佢覺得嗰係佢應盡嘅本份。所以佢唔可能跟隨你認為啱嘅嘢,只可以跟隨佢自己認為啱嘅嘢。",
+          "vernacularMandarin": "當有人惡待你或者講你壞話的時候,要記住,他做這件事或者講這些話,是因為他覺得那是他應盡的本份。所以他不可能跟隨你認為對的東西,只可以跟隨他自己認為對的東西。"
+        },
+        {
+          "id": "c6-2",
+          "title": "睇法錯咗,受傷嘅其實係佢自己",
+          "original": "Accordingly if he is wrong in his opinion, he is the person who is hurt, for he is the person who has been deceived; for if a man shall suppose the true conjunction to be false, it is not the conjunction which is hindered, but the man who has been deceived about it.",
+          "vernacular": "所以如果佢嘅睇法係錯,受傷害嘅其實係佢,因為受欺騙嘅正正係佢自己;如果一個人將真嘅連結誤當為假,受阻礙嘅並唔係嗰個連結本身,而係嗰個受咗欺騙嘅人。",
+          "vernacularMandarin": "所以如果他的看法是錯的,受傷害的其實是他,因為受欺騙的正是他自己;如果一個人把真的連結誤當為假,受阻礙的並不是那個連結本身,而是那個受了欺騙的人。"
+        },
+        {
+          "id": "c6-3",
+          "title": "由呢種睇法出發,你就會溫和對待辱罵你嘅人",
+          "original": "If you proceed then from these opinions, you will be mild in temper to him who reviles you; for say on each occasion, It seemed so to him.",
+          "vernacular": "如果你由呢啲睇法出發去諗,你對辱罵你嘅人就會態度溫和;因為每次都可以對自己講:「佢就係咁樣睇。」",
+          "vernacularMandarin": "如果你從這些看法出發去想,你對辱罵你的人就會態度溫和;因為每次都可以對自己說:「他就是這樣看。」"
+        },
+        {
+          "id": "c6-4",
+          "title": "每件事都有兩個柄,一個拎得起,一個拎唔起",
+          "original": "Everything has two handles, the one by which it may be borne, the other by which it may not. If your brother acts unjustly, do not lay hold of the act by that handle wherein he acts unjustly, for this is the handle which cannot be borne;",
+          "vernacular": "每件事都有兩個柄:一個可以承托,一個唔可以。如果你兄弟做咗一件唔公道嘅事,唔好由「佢做得唔公道」呢個柄去拎起件事,因為呢個柄根本承托唔起;",
+          "vernacularMandarin": "每件事都有兩個柄:一個可以承托,一個不可以。如果你兄弟做了一件不公道的事,不要從「他做得不公道」這個柄去拿起這件事,因為這個柄根本承托不起;"
+        },
+        {
+          "id": "c6-5",
+          "title": "要由「佢係你兄弟」呢個柄去拎起件事",
+          "original": "but lay hold of the other, that he is your brother, that he was nurtured with you, and you will lay hold of the thing by that handle by which it can be borne.",
+          "vernacular": "而要由另一個柄去拎起——「佢係你嘅兄弟,同你一齊長大」——咁樣你先至可以由一個承托得起嘅柄,拎起呢件事。",
+          "vernacularMandarin": "而要從另一個柄去拿起——「他是你的兄弟,同你一起長大」——這樣你才可以從一個承托得起的柄,拿起這件事。"
+        },
+        {
+          "id": "c6-6",
+          "title": "我有錢,唔等於我人品好過你",
+          "original": "These reasonings do not cohere: I am richer than you, therefore I am better than you; I am more eloquent than you, therefore I am better than you.",
+          "vernacular": "以下呢種推論唔成立:「我比你有錢,所以我人品好過你」「我比你能言善辯,所以我人品好過你」。",
+          "vernacularMandarin": "以下這種推論不成立:「我比你有錢,所以我人品好過你」「我比你能言善辯,所以我人品好過你」。"
+        },
+        {
+          "id": "c6-7",
+          "title": "成立嘅只係:我財產多,我說話好——但你唔係財產亦都唔係說話",
+          "original": "On the contrary, these rather cohere: I am richer than you, therefore my possessions are greater than yours; I am more eloquent than you, therefore my speech is superior to yours. But you are neither possession nor speech.",
+          "vernacular": "反而,以下呢種推論先至成立:「我比你有錢,所以我嘅財產多過你」「我比你能言善辯,所以我嘅說話比你優勝」。但你既唔係財產,亦都唔係說話。",
+          "vernacularMandarin": "反而,以下這種推論才成立:「我比你有錢,所以我的財產多過你」「我比你能言善辯,所以我的說話比你優勝」。但你既不是財產,也不是說話。"
+        },
+        {
+          "id": "c6-8",
+          "title": "沖涼沖得快,唔好話佢沖得差,要話佢沖得快",
+          "original": "Does a man bathe quickly (early)? do not say that he bathes badly, but that he bathes quickly. Does a man drink much wine? do not say that he does this badly, but say that he drinks much.",
+          "vernacular": "一個人沖涼沖得快(早)?唔好話佢沖得差,要話佢沖得快。一個人飲好多酒?唔好話佢做得差,要話佢飲得多。",
+          "vernacularMandarin": "一個人沖涼沖得快(早)?不要說他沖得差,要說他沖得快。一個人喝很多酒?不要說他做得差,要說他喝得多。"
+        },
+        {
+          "id": "c6-9",
+          "title": "未斷定睇法之前,你又點知佢做錯咗",
+          "original": "For before you shall have determined the opinion how do you know whether he is acting wrong? Thus it will not happen to you to comprehend some appearances which are capable of being comprehended, but to assent to others.",
+          "vernacular": "因為喺你未斷定佢嘅心思之前,你點知道佢做嘅係咪錯呢?咁樣你先至唔會出現「明明可以完全掌握嘅表象,你識分辨清楚;但另一啲表象,你就冇分辨就妄下判斷」呢種情況。",
+          "vernacularMandarin": "因為在你未斷定他的心思之前,你怎知道他做的是不是錯呢?這樣你才不會出現「明明可以完全掌握的表象,你懂得分辨清楚;但另一些表象,你就沒有分辨就妄下判斷」這種情況。"
+        },
+        {
+          "id": "c6-10",
+          "title": "唔好自稱哲學家,喺未受教嘅人面前少講理論,多做實事",
+          "original": "On no occasion call yourself a philosopher, and do not speak much among the uninstructed about theorems (philosophical rules, precepts); but do that which follows from them. For example, at a banquet do not say how a man ought to eat, but eat as you ought to eat.",
+          "vernacular": "任何場合都唔好自稱哲學家,亦都唔好喺未受教化嘅人面前大談理論(哲學嘅規則同教條);反而要做返理論所引申出嚟嘅實事。例如喺宴會上,唔好講人應該點樣食嘢,而係要按照應有嘅方式去食。",
+          "vernacularMandarin": "任何場合都不要自稱哲學家,也不要在未受教化的人面前大談理論(哲學的規則同教條);反而要做回理論所引申出來的實事。例如在宴會上,不要講人應該怎樣吃東西,而是要按照應有的方式去吃。"
+        },
+        {
+          "id": "c6-11",
+          "title": "蘇格拉底完全唔擺出哲學家嘅姿態",
+          "original": "For remember that in this way Socrates also altogether avoided ostentation. Persons used to come to him and ask to be recommended by him to philosophers, and he used to take them to philosophers, so easily did he submit to being overlooked.",
+          "vernacular": "要記住,蘇格拉底都係咁樣完全唔擺出高調嘅姿態。有人嚟見佢,請佢引薦畀其他哲學家,佢就帶佢哋去見其他哲學家——佢就係咁樣輕易咁俾人忽視佢自己。",
+          "vernacularMandarin": "要記住,蘇格拉底也是這樣完全不擺出高調的姿態。有人來見他,請他引薦給其他哲學家,他就帶他們去見其他哲學家——他就是這樣輕易地讓人忽視他自己。"
+        },
+        {
+          "id": "c6-12",
+          "title": "喺未受教化嘅人之中討論理論,通常保持沉默",
+          "original": "Accordingly, if any conversation should arise among uninstructed persons about any theorem, generally be silent; for there is great danger that you will immediately vomit up what you have not digested.",
+          "vernacular": "所以如果喺未受教化嘅人之中,有人談起任何理論,你通常應該保持沉默;因為你好大機會會即刻將自己仲未消化嘅嘢吐晒出嚟。",
+          "vernacularMandarin": "所以如果在未受教化的人之中,有人談起任何理論,你通常應該保持沉默;因為你有很大機會會立刻把自己還未消化的東西吐出來。"
+        },
+        {
+          "id": "c6-13",
+          "title": "有人話你乜都唔識,你唔動氣,先算真正開始",
+          "original": "And when a man shall say to you that you know nothing, and you are not vexed, then be sure that you have begun the work (of philosophy). For even sheep do not vomit up their grass and show to the shepherds how much they have eaten; but when they have internally digested the pasture, they produce externally wool and milk.",
+          "vernacular": "當有人話你乜嘢都唔識,而你唔為此感到不快嗰陣,咁你就可以肯定,自己已經真正開始哲學嘅修煉。因為就算係綿羊,都唔會吐返啖草出嚟同牧羊人展示自己食咗幾多;佢哋只係將草料內化消化之後,對外產出羊毛同羊奶。",
+          "vernacularMandarin": "當有人說你甚麼都不懂,而你不為此感到不快的時候,那你就可以肯定,自己已經真正開始哲學的修煉。因為就算是綿羊,也不會吐回一口草出來同牧羊人展示自己吃了多少;牠們只是把草料內化消化之後,對外產出羊毛同羊奶。"
+        },
+        {
+          "id": "c6-14",
+          "title": "唔好展示理論本身,要展示消化過理論之後嘅行為",
+          "original": "Do you also show not your theorems to the uninstructed, but show the acts which come from their digestion.",
+          "vernacular": "你都應該咁樣:唔好向未受教化嘅人展示你嘅理論,而係要展示由消化理論之後所產生嘅行為。",
+          "vernacularMandarin": "你也應該這樣:不要向未受教化的人展示你的理論,而是要展示由消化理論之後所產生的行為。"
+        },
+        {
+          "id": "c6-15",
+          "title": "身體所需低成本就滿足,唔使沾沾自喜",
+          "original": "When at a small cost you are supplied with everything for the body, do not be proud of this; nor, if you drink water, say on every occasion, I drink water.",
+          "vernacular": "當你以好低嘅成本就滿足咗身體嘅一切所需,唔好因此而自豪;如果你飲水,亦都唔好逢人就講「我飲緊水」。",
+          "vernacularMandarin": "當你以很低的成本就滿足了身體的一切所需,不要因此而自豪;如果你喝水,也不要逢人就講「我在喝水」。"
+        },
+        {
+          "id": "c6-16",
+          "title": "要諗吓窮人比我哋更加節儉、更加能捱",
+          "original": "But consider first how much more frugal the poor are than we, and how much more enduring of labor. And if you ever wish to exercise yourself in labor and endurance, do it for yourself, and not for others.",
+          "vernacular": "反而要先諗吓,窮人比我哋簡樸幾多,能捱辛勞幾多。如果你想鍛鍊自己嘅刻苦耐勞,咁就係為咗自己去做,唔係做俾人睇。",
+          "vernacularMandarin": "反而要先想想,窮人比我們簡樸多少,能捱辛勞多少。如果你想鍛鍊自己的刻苦耐勞,那就是為了自己去做,不是做給人看。"
+        },
+        {
+          "id": "c6-17",
+          "title": "口渴就飲啖凍水,唔使宣揚",
+          "original": "Do not embrace statues; but if you are ever very thirsty, take a draught of cold water and spit it out, and tell no man.",
+          "vernacular": "唔好去抱住個雕像(擺弄苦行嘅姿態);如果你真係好口渴,啜一啖凍水再吐咗佢,唔使話俾任何人知。",
+          "vernacularMandarin": "不要去抱住個雕像(擺弄苦行的姿態);如果你真的很口渴,啜一口冷水再吐掉,不用告訴任何人。"
+        },
+        {
+          "id": "c6-18",
+          "title": "未受教化嘅人寄望外物,哲學家寄望自己",
+          "original": "The condition and characteristic of an uninstructed person is this: he never expects from himself profit (advantage) nor harm, but from externals. The condition and characteristic of a philosopher is this: he expects all advantage and all harm from himself.",
+          "vernacular": "未受教化嘅人有呢種狀態同特徵:佢從來唔期望利益或者傷害係嚟自自己,而係嚟自外物。哲學家有呢種狀態同特徵:佢期望一切利益同傷害都嚟自自己。",
+          "vernacularMandarin": "未受教化的人有這種狀態同特徵:他從來不期望利益或者傷害是來自自己,而是來自外物。哲學家有這種狀態同特徵:他期望一切利益同傷害都來自自己。"
+        },
+        {
+          "id": "c6-19",
+          "title": "進步中嘅人:唔批評人,唔讚美人,唔怪責人,唔誇耀自己",
+          "original": "The signs (marks) of one who is making progress are these: he censures no man, he praises no man, he blames no man, he accuses no man, he says nothing about himself as if he were somebody or knew something;",
+          "vernacular": "一個正在進步嘅人有以下嘅標誌:佢唔批評任何人,唔讚美任何人,唔怪責任何人,唔指控任何人,亦都唔會講自己好似係個重要人物或者識得啲乜嘢咁。",
+          "vernacularMandarin": "一個正在進步的人有以下的標誌:他不批評任何人,不讚美任何人,不怪責任何人,不指控任何人,也不會講自己好似是個重要人物或者懂得些甚麼那樣。"
+        },
+        {
+          "id": "c6-20",
+          "title": "受阻就怪自己,俾人讚就自嘲,俾人怪就唔辯解",
+          "original": "when he is impeded at all or hindered, he blames himself; if a man praises him he ridicules the praiser to himself; if a man censures him he makes no defence;",
+          "vernacular": "當佢受到任何阻礙或者妨害嗰陣,佢會怪責自己;如果有人讚佢,佢會喺心入面暗自笑嗰個讚美佢嘅人;如果有人責備佢,佢都唔會為自己辯護。",
+          "vernacularMandarin": "當他受到任何阻礙或者妨害的時候,他會怪責自己;如果有人讚他,他會在心裡暗自笑那個讚美他的人;如果有人責備他,他也不會為自己辯護。"
+        },
+        {
+          "id": "c6-21",
+          "title": "佢好似傷者咁小心翼翼,唔急住郁動未固定嘅嘢",
+          "original": "he goes about like weak persons, being careful not to move any of the things which are placed, before they are firmly fixed; he removes all desire from himself, and he transfers aversion to those things only of the things within our power which are contrary to nature;",
+          "vernacular": "佢行事好似傷者咁小心翼翼,唔會喺任何嘢仲未穩固之前就急住去郁動佢;佢由自己身上除去晒渴求,亦都只將厭惡轉移到操之在我、違反本性嗰啲嘢度。",
+          "vernacularMandarin": "他行事好似傷者那樣小心翼翼,不會在任何東西還未穩固之前就急著去移動它;他從自己身上除去了渴求,也只把厭惡轉移到操之在我、違反本性那些事物上。"
+        },
+        {
+          "id": "c6-22",
+          "title": "唔理人哋覺得佢傻,只提防自己好似提防敵人",
+          "original": "he employs a moderate movement towards everything; whether he is considered foolish or ignorant he cares not; and in a word he watches himself as if he were an enemy and lying in ambush.",
+          "vernacular": "佢對一切事都只用適度嘅趨向去對待;佢唔理人哋覺得佢傻定係無知;總之一句講晒,佢時刻監察自己,好似監察一個埋伏緊嘅敵人咁樣。",
+          "vernacularMandarin": "他對一切事都只用適度的趨向去對待;他不理別人覺得他傻還是無知;總而言之,他時刻監察自己,好似監察一個正在埋伏的敵人那樣。"
+        },
+        {
+          "id": "c6-23",
+          "title": "識得解釋克呂西波,唔代表自己有料到",
+          "original": "When a man is proud because he can understand and explain the writings of Chrysippus, say to yourself, If Chrysippus had not written obscurely, this man would have had nothing to be proud of. But what is it that I wish? To understand nature and to follow it.",
+          "vernacular": "當一個人因為自己識得理解同解釋克呂西波嘅著作而自滿嗰陣,你要對自己講:如果克呂西波冇寫得咁隱晦,呢個人根本冇嘢好自滿。但我自己想要嘅係咩呢?就係理解自然、跟隨自然。",
+          "vernacularMandarin": "當一個人因為自己懂得理解同解釋克呂西波的著作而自滿的時候,你要對自己說:如果克呂西波沒有寫得那麼隱晦,這個人根本沒有甚麼好自滿。但我自己想要的是甚麼呢?就是理解自然、跟隨自然。"
+        },
+        {
+          "id": "c6-24",
+          "title": "去見翻譯者,並唔係值得自誇嘅事",
+          "original": "I inquire therefore who is the interpreter? and when I have heard that it is Chrysippus, I come to him (the interpreter). But I do not understand what is written, and therefore I seek the interpreter. And so far there is yet nothing to be proud of.",
+          "vernacular": "所以我先要問,邊個係詮釋者呢?一聽到係克呂西波,我就去見佢(嗰位詮釋者)。但我睇唔明嗰啲文字,所以先要搵詮釋者。去到呢一步,都仲未有任何值得自誇嘅嘢。",
+          "vernacularMandarin": "所以我先要問,誰是詮釋者呢?一聽到是克呂西波,我就去見他(那位詮釋者)。但我看不懂那些文字,所以才要找詮釋者。到這一步,都還沒有任何值得自誇的東西。"
+        },
+        {
+          "id": "c6-25",
+          "title": "運用教訓先值得自誇,單單欣賞注解只係文法學家",
+          "original": "But when I shall have found the interpreter, the thing that remains is to use the precepts (the lessons). This itself is the only thing to be proud of. But if I shall admire the exposition, what else have I been made unless a grammarian instead of a philosopher? except in one thing, that I am explaining Chrysippus instead of Homer.",
+          "vernacular": "但我搵到詮釋者之後,剩低嘅事就係要去運用嗰啲教訓。呢個先至係唯一值得自誇嘅嘢。但如果我淨係欣賞佢嘅解說,咁我除咗變咗個文法學家而唔係哲學家之外,重有咩分別呢?唯一分別只係我解釋緊嘅係克呂西波,而唔係荷馬。",
+          "vernacularMandarin": "但我找到詮釋者之後,剩下的事就是要去運用那些教訓。這才是唯一值得自誇的東西。但如果我只是欣賞他的解說,那我除了變成個文法學家而不是哲學家之外,還有甚麼分別呢?唯一分別只是我解釋的是克呂西波,而不是荷馬。"
+        },
+        {
+          "id": "c6-26",
+          "title": "有人叫我讀克呂西波俾佢聽,我反而會面紅",
+          "original": "When, then, any man says to me, Read Chrysippus to me, I rather blush, when I cannot show my acts like to and consistent with his words.",
+          "vernacular": "所以當有人叫我話:「讀克呂西波俾我聽吖」,我反而會面紅,因為我冇辦法展示到自己嘅行為同佢嘅說話一致相符。",
+          "vernacularMandarin": "所以當有人叫我說:「讀克呂西波給我聽吧」,我反而會臉紅,因為我沒有辦法展示自己的行為同他的說話一致相符。"
+        },
+        {
+          "id": "c6-27",
+          "title": "凡係為人生定下嘅規則,都要當做法律咁堅守",
+          "original": "Whatever things (rules) are proposed to you (for the conduct of life) abide by them, as if they were laws, as if you would be guilty of impiety if you transgressed any of them.",
+          "vernacular": "凡係為你人生所定立嘅規則,都要恪守佢,好似恪守法律一樣,好似一旦違反就會有罪咁樣。",
+          "vernacularMandarin": "凡是為你人生所定立的規則,都要恪守它,好似恪守法律一樣,好似一旦違反就會有罪那樣。"
+        },
+        {
+          "id": "c6-28",
+          "title": "人哋點睇你,同你冇關;你仲要拖到幾時?",
+          "original": "And whatever any man shall say about you, do not attend to it; for this is no affair of yours. How long will you then still defer thinking yourself worthy of the best things, and in no matter transgressing the distinctive reason?",
+          "vernacular": "無論有人講咩關於你嘅嘢,都唔使理會,因為呢件事同你冇關。你仲要拖到幾時,先至願意認定自己值得追求最好嘅嘢,喺任何事上都唔違背理性嘅判斷呢?",
+          "vernacularMandarin": "無論有人講甚麼關於你的事,都不用理會,因為這件事同你無關。你還要拖到甚麼時候,才願意認定自己值得追求最好的東西,在任何事上都不違背理性的判斷呢?"
+        },
+        {
+          "id": "c6-29",
+          "title": "你已經係成年人,唔使再等第二個老師",
+          "original": "Have you accepted the theorems (rules), which it was your duty to agree to, and have you agreed to them? what teacher then do you still expect that you defer to him the correction of yourself? You are no longer a youth, but already a full-grown man.",
+          "vernacular": "你已經接受咗嗰啲你本應同意嘅教條,你已經同意咗未呢?咁你仲喺度等緊邊個老師,將修正自己嘅責任推俾佢呢?你已經唔係後生仔,而係一個成年人喇。",
+          "vernacularMandarin": "你已經接受了那些你本應同意的教條,你已經同意了嗎?那你還在等誰做老師,把修正自己的責任推給他呢?你已經不是年輕人,而是一個成年人了。"
+        },
+        {
+          "id": "c6-30",
+          "title": "一日拖一日,你就會終生蒙昧到死",
+          "original": "If, then, you are negligent and slothful, and are continually making procrastination after procrastination, and proposal (intention) after proposal, and fixing day after day, after which you will attend to yourself, you will not know that you are not making improvement, but you will continue ignorant (uninstructed) both while you live and till you die.",
+          "vernacular": "如果你懶散怠惰,不斷拖延又拖延,定咗一個打算又一個打算,一日又一日咁擺低「等我修煉好自己嗰日」,你就唔會意識到自己完全冇進步,反而會終其一生以至到死都蒙昧未開。",
+          "vernacularMandarin": "如果你懶散怠惰,不斷拖延又拖延,定了一個打算又一個打算,一日又一日地擱置「等我修煉好自己那天」,你就不會意識到自己完全沒有進步,反而會終其一生以至到死都蒙昧未開。"
+        },
+        {
+          "id": "c6-31",
+          "title": "即刻決心以成年人嘅姿態去生活,以睇落最好嘅嘢為法",
+          "original": "Immediately then think it right to live as a full-grown man, and one who is making proficiency, and let everything which appears to you to be the best be to you a law which must not be transgressed.",
+          "vernacular": "所以即刻就要決心以一個成年人、一個力求上進嘅人嘅姿態去生活,將一切你認為最好嘅嘢,當做唔可違背嘅法律。",
+          "vernacularMandarin": "所以立刻就要決心以一個成年人、一個力求上進的人的姿態去生活,把一切你認為最好的事,當作不可違背的法律。"
+        },
+        {
+          "id": "c6-32",
+          "title": "無論辛勞光榮或者屈辱擺喺面前,此刻就係奧運賽場",
+          "original": "And if anything laborious or pleasant or glorious or inglorious be presented to you, remember that now is the contest, now are the Olympic games, and they cannot be deferred; and that it depends on one defeat and one giving way that progress is either lost or maintained.",
+          "vernacular": "無論辛勞、快感、榮耀定係屈辱擺喺你面前,都要記住:此刻就係較量,此刻就係奧運賽場,冇得再拖延;進步係得而復失,定係得以保存,就取決於一次落敗或者一次退讓。",
+          "vernacularMandarin": "無論辛勞、快感、榮耀還是屈辱擺在你面前,都要記住:此刻就是較量,此刻就是奧運賽場,沒得再拖延;進步是得而復失,還是得以保存,就取決於一次落敗或者一次退讓。"
+        },
+        {
+          "id": "c6-33",
+          "title": "蘇格拉底就係咁樣修煉成完人,你雖未成蘇格拉底,都要以佢為志",
+          "original": "Socrates in this way became perfect, in all things improving himself, attending to nothing except to reason. But you, though you are not yet a Socrates, ought to live as one who wishes to be a Socrates.",
+          "vernacular": "蘇格拉底就係咁樣修煉成完人:事事求進步,除咗理性之外,乜都唔理。你雖然仲未係蘇格拉底,但都應該好似渴望成為蘇格拉底嘅人咁樣去生活。",
+          "vernacularMandarin": "蘇格拉底就是這樣修煉成完人:事事求進步,除了理性之外,甚麼都不理。你雖然還不是蘇格拉底,但也應該好似渴望成為蘇格拉底的人那樣去生活。"
+        },
+        {
+          "id": "c6-34",
+          "title": "哲學最首要嘅一環,係運用教條",
+          "original": "The first and most necessary place (part, topos) in philosophy is the use of theorems (precepts, theoraemata), for instance, that we must not lie; the second part is that of demonstrations, for instance, How is it proved that we ought not to lie?",
+          "vernacular": "哲學入面第一同最必要嘅一環,係教條(規則)嘅運用,例如「我哋唔可以講大話」;第二環係論證,例如「點樣證明我哋唔應該講大話」。",
+          "vernacularMandarin": "哲學裡面第一同最必要的一環,是教條(規則)的運用,例如「我們不可以說謊」;第二環是論證,例如「怎樣證明我們不應該說謊」。"
+        },
+        {
+          "id": "c6-35",
+          "title": "第三環係印證同解釋呢兩個環節嘅嘢",
+          "original": "The third is that which is confirmatory of these two, and explanatory, for example, How is this a demonstration? For what is demonstration, what is consequence, what is contradiction, what is truth, what is falsehood?",
+          "vernacular": "第三環係用嚟印證同解釋以上兩環,例如「呢個點解係一個有效嘅論證」?咩係論證?咩係推論?咩係矛盾?咩係真?咩係假?",
+          "vernacularMandarin": "第三環是用來印證同解釋以上兩環,例如「這個為何是一個有效的論證」?甚麼是論證?甚麼是推論?甚麼是矛盾?甚麼是真?甚麼是假?"
+        },
+        {
+          "id": "c6-36",
+          "title": "第三環係因第二環而必要,第二環因第一環而必要;但我哋卻本末倒置",
+          "original": "The third part (topic) is necessary on account of the second, and the second on account of the first; but the most necessary and that on which we ought to rest is the first. But we do the contrary.",
+          "vernacular": "第三環之所以必要,係因為第二環;第二環之所以必要,係因為第一環;但最必要、我哋應該立足嘅,係第一環。可惜我哋成日反其道而行。",
+          "vernacularMandarin": "第三環之所以必要,是因為第二環;第二環之所以必要,是因為第一環;但最必要、我們應該立足的,是第一環。可惜我們常常反其道而行。"
+        },
+        {
+          "id": "c6-37",
+          "title": "我哋把時間花晒喺第三環,卻完全忽略咗第一環",
+          "original": "For we spend our time on the third topic, and all our earnestness is about it; but we entirely neglect the first. Therefore we lie; but the demonstration that we ought not to lie we have ready to hand.",
+          "vernacular": "我哋把全部時間同心血都花喺第三環上面,卻完全忽略咗第一環。所以我哋照樣講大話——但「唔應該講大話」呢個證明,我哋卻信手拈來。",
+          "vernacularMandarin": "我們把全部時間同心血都花在第三環上面,卻完全忽略了第一環。所以我們照樣說謊——但「不應該說謊」這個證明,我們卻信手拈來。"
+        },
+        {
+          "id": "c6-38",
+          "title": "任何處境,都要謹記呢啲箴言",
+          "original": "In every thing (circumstance) we should hold these maxims ready to hand:",
+          "vernacular": "無論處於咩境況,我哋都應該將以下呢啲箴言謹記在心:",
+          "vernacularMandarin": "無論處於甚麼境況,我們都應該把以下這些箴言謹記在心:"
+        },
+        {
+          "id": "c6-39",
+          "title": "宙斯同命運啊,請引領我——克里安提斯之禱",
+          "original": "Lead me, O Zeus, and thou O Destiny, The way that I am bid by you to go: To follow I am ready. If I choose not, I make myself a wretch, and still must follow. But whoso nobly yields unto necessity, We hold him wise, and skill’d in things divine.",
+          "vernacular": "宙斯啊,命運啊,請引領我,走上你哋為我指定嘅路;我甘願跟隨。就算我唔願意,我都一樣要跟隨,只係徒添自己嘅悲苦。而凡係樂於順服必然之事嘅人,我哋就稱佢做智者,通曉神聖之道。",
+          "vernacularMandarin": "宙斯啊,命運啊,請引領我,走上你們為我指定的路;我甘願跟隨。就算我不願意,我也一樣要跟隨,只是徒添自己的悲苦。而凡是樂於順服必然之事的人,我們就稱他為智者,通曉神聖之道。"
+        },
+        {
+          "id": "c6-40",
+          "title": "克里托啊,如果神明樂意,就照咁樣吧——蘇格拉底之言",
+          "original": "And the third also: O Crito, if so it pleases the gods, so let it be; Anytus and Melitus are able indeed to kill me, but they cannot harm me.",
+          "vernacular": "第三句箴言係:「克里托啊,如果神明樂意,就照咁樣吧;安尼圖斯同美勒圖斯固然可以殺死我,但佢哋傷害唔到我。」",
+          "vernacularMandarin": "第三句箴言是:「克里托啊,如果神明樂意,就照這樣吧;安尼圖斯同美勒圖斯固然可以殺死我,但他們傷害不了我。」"
+        }
+      ]
+    }
+  ]
+}

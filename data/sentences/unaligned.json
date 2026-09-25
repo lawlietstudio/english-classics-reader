@@ -1,0 +1,877 @@
+[
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b1c7",
+    "passageId": "b1c7-23"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-10"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-24"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-25"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-32"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-37"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-39"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-41"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-47"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-60"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-62"
+  },
+  {
+    "bookId": "guofulun",
+    "chapterId": "won-b4c2",
+    "passageId": "b4c2-91"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b1",
+    "passageId": "b1-25"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b1",
+    "passageId": "b1-44"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b1",
+    "passageId": "b1-45"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b2",
+    "passageId": "b2-24"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b3",
+    "passageId": "b3-10"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b3",
+    "passageId": "b3-19"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b3",
+    "passageId": "b3-41"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-6"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-15"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-35"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-41"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-53"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-62"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-73"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-74"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-75"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b4",
+    "passageId": "b4-78"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-2"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-4"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-9"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-29"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-30"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-37"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-38"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-39"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-40"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-49"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-53"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-61"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-62"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b5",
+    "passageId": "b5-65"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-1"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-23"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-29"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-39"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-41"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-45"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-48"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-58"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b6",
+    "passageId": "b6-66"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-24"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-28"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-36"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-41"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-44"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-45"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-46"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-47"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-52"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-53"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-54"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-59"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-61"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-82"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b7",
+    "passageId": "b7-85"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-3"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-4"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-10"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-11"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-19"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-22"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-26"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-28"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-34"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-37"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-38"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-42"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-43"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-55"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-60"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-64"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-67"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-71"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-72"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-75"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-82"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-87"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b8",
+    "passageId": "b8-88"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-1"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-4"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-18"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-19"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-22"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-27"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-34"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-35"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-38"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-50"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-57"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-60"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-62"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-67"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-71"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-80"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b9",
+    "passageId": "b9-84"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-8"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-19"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-23"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-43"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-47"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-60"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-64"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-68"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-84"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-87"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-95"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-96"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-97"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-99"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-100"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-101"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-102"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b10",
+    "passageId": "b10-105"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-12"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-15"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-26"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-40"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-43"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-46"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-49"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-51"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-57"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-75"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b11",
+    "passageId": "b11-84"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b12",
+    "passageId": "b12-8"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b12",
+    "passageId": "b12-35"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b12",
+    "passageId": "b12-38"
+  },
+  {
+    "bookId": "meditations",
+    "chapterId": "med-b12",
+    "passageId": "b12-57"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c1",
+    "passageId": "c1-17"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c1",
+    "passageId": "c1-20"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c2",
+    "passageId": "c2-17"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c2",
+    "passageId": "c2-22"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c3",
+    "passageId": "c3-13"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c3",
+    "passageId": "c3-18"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c4",
+    "passageId": "c4-16"
+  },
+  {
+    "bookId": "enchiridion",
+    "chapterId": "ench-c6",
+    "passageId": "c6-35"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c1",
+    "passageId": "d1-5"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c1",
+    "passageId": "d1-6"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c3",
+    "passageId": "d3-5"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c3",
+    "passageId": "d3-14"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c4",
+    "passageId": "d4-22"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c5",
+    "passageId": "d5-8"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c6",
+    "passageId": "d6-19"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c6",
+    "passageId": "d6-22"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c6",
+    "passageId": "d6-26"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c6",
+    "passageId": "d6-31"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c7",
+    "passageId": "d7-5"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c7",
+    "passageId": "d7-8"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c7",
+    "passageId": "d7-14"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c7",
+    "passageId": "d7-15"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c8",
+    "passageId": "d8-15"
+  },
+  {
+    "bookId": "discourses",
+    "chapterId": "disc-c8",
+    "passageId": "d8-16"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c3",
+    "passageId": "s3-1"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c4",
+    "passageId": "s4-13"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c5",
+    "passageId": "s5-1"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c5",
+    "passageId": "s5-5"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c5",
+    "passageId": "s5-13"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c6",
+    "passageId": "s6-43"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c7",
+    "passageId": "s7-2"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c7",
+    "passageId": "s7-6"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c7",
+    "passageId": "s7-19"
+  },
+  {
+    "bookId": "seneca-letters",
+    "chapterId": "sen-c7",
+    "passageId": "s7-29"
+  },
+  {
+    "bookId": "manuscripts1844",
+    "chapterId": "epm-power-of-money",
+    "passageId": "pom-7"
+  }
+]

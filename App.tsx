@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { getBook } from './data/books';
+import { usePassageMode } from './hooks/usePassageMode';
 import { useProgress } from './hooks/useProgress';
 import { useSpeechLang } from './hooks/useSpeechLang';
 import { useTheme } from './hooks/useTheme';
@@ -16,13 +17,14 @@ type View =
   | { screen: 'settings' };
 
 export default function App() {
+  const { passageMode } = usePassageMode();
   const [view, setView] = useState<View>({ screen: 'books' });
   const { progress, saveProgress } = useProgress();
   const { lang, setLang } = useSpeechLang();
   const { scheme, schemeMode, setSchemeMode, colors, paletteId, setPaletteId, palettes } = useTheme();
 
   const openBook = (bookId: string) => {
-    const book = getBook(bookId);
+    const book = getBook(bookId, passageMode);
     if (!book) return;
     if (book.chapters.length === 1) {
       const chapterId = book.chapters[0].id;
@@ -72,7 +74,7 @@ export default function App() {
 
       {view.screen === 'chapters' &&
         (() => {
-          const book = getBook(view.bookId);
+          const book = getBook(view.bookId, passageMode);
           if (!book) return null;
           return (
             <ChapterListScreen
@@ -86,7 +88,7 @@ export default function App() {
 
       {view.screen === 'reader' &&
         (() => {
-          const book = getBook(view.bookId);
+          const book = getBook(view.bookId, passageMode);
           const chapterIndex = book?.chapters.findIndex((c) => c.id === view.chapterId) ?? -1;
           const chapter = book && chapterIndex >= 0 ? book.chapters[chapterIndex] : undefined;
           if (!book || !chapter) return null;
@@ -94,6 +96,7 @@ export default function App() {
           const nextChapter = book.chapters[chapterIndex + 1];
           return (
             <ReaderScreen
+              key={`${book.id}:${chapter.id}:${passageMode}`}
               bookTitle={book.title}
               chapter={chapter}
               lang={lang}

@@ -1,4 +1,5 @@
 import React, { useMemo } from 'react';
+import { usePassageMode } from '../hooks/usePassageMode';
 import { Platform, Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
 import { SchemeMode, ThemeScheme } from '../hooks/useTheme';
 import { FONT_SIZE_OPTIONS, FONT_SIZE_VALUES, useReaderPrefs } from '../hooks/useReaderPrefs';
@@ -31,6 +32,7 @@ export default function SettingsScreen({
   onChangePaletteId,
   palettes,
 }: Props) {
+  const { passageMode, setPassageMode } = usePassageMode();
   const styles = useMemo(() => createStyles(colors), [colors]);
   const { fontSize, setFontSize, snapScroll, setSnapScroll } = useReaderPrefs();
 
@@ -115,6 +117,26 @@ export default function SettingsScreen({
         >
           原文同白話都會用呢個大小顯示。
         </Text>
+
+        <Text style={[styles.sectionTitle, styles.sectionTitleSpaced]}>段落顯示</Text>
+        <View style={styles.segmentRow}>
+          {([
+            { key: 'sentence', label: '分句閱讀（分開）' },
+            { key: 'paragraph', label: '原段落（合埋）' },
+          ] as const).map(opt => (
+            <Pressable
+              key={opt.key}
+              accessibilityRole="radio"
+              aria-checked={passageMode === opt.key}
+              accessibilityState={{ checked: passageMode === opt.key }}
+              style={[styles.segmentBtn, passageMode === opt.key && styles.segmentBtnActive]}
+              onPress={() => setPassageMode(opt.key)}
+            >
+              <Text style={[styles.segmentText, passageMode === opt.key && styles.segmentTextActive]}>{opt.label}</Text>
+            </Pressable>
+          ))}
+        </View>
+        <Text style={styles.hint}>顯示同朗讀會一齊切換。譯文未能逐句對齊嘅段落會保持完整，避免錯配。原段落保留歷史版本，可能未包含之後嘅文字修訂。</Text>
 
         <Text style={[styles.sectionTitle, styles.sectionTitleSpaced]}>捲動</Text>
         <View style={styles.switchCard}>

@@ -1,0 +1,644 @@
+{
+  "id": "capital",
+  "title": "資本論",
+  "author": "Karl Marx 卡爾·馬克思",
+  "description": "1867年出版嘅第一卷,原名《Das Kapital》,馬克思一生最重要嘅政治經濟學鉅著。相比《1844年手稿》嗰種哲學筆記,呢部係更成熟、更技術性嘅經濟學批判。呢度精選最經典、最易入口嘅篇章,原文英文對照廣東話/普通話翻譯。",
+  "chapters": [
+    {
+      "id": "cap-commodities",
+      "title": "Commodities 商品",
+      "passages": [
+        {
+          "id": "com-1",
+          "title": "資本主義社會嘅財富表現為龐大嘅商品堆積",
+          "original": "The wealth of those societies in which the capitalist mode of production prevails, presents itself as “an immense accumulation of commodities,” its unit being a single commodity.",
+          "vernacular": "喺資本主義生產方式盛行嘅社會入面,財富就表現為「龐大嘅商品堆積」,而佢嘅基本單位就係單一件商品。",
+          "vernacularMandarin": "在資本主義生產方式盛行的社會裡面,財富就表現為「龐大的商品堆積」,而它的基本單位就是單一件商品。"
+        },
+        {
+          "id": "com-2",
+          "title": "商品首先係一件滿足人類某種需要嘅外在物",
+          "original": "A commodity is, in the first place, an object outside us, a thing that by its properties satisfies human wants of some sort or another.",
+          "vernacular": "商品首先係我哋以外嘅一件物件,佢憑住自己嘅屬性,可以滿足人類呢種或者嗰種嘅需要。",
+          "vernacularMandarin": "商品首先是我們以外的一件物件,它憑著自己的屬性,可以滿足人類這種或者那種的需要。"
+        },
+        {
+          "id": "com-3",
+          "title": "物件嘅有用性令佢成為使用價值",
+          "original": "The utility of a thing makes it a use value.",
+          "vernacular": "一件物件嘅有用性,令佢成為一種使用價值。",
+          "vernacularMandarin": "一件物件的有用性,令它成為一種使用價值。"
+        },
+        {
+          "id": "com-4",
+          "title": "使用價值淨係喺使用同消費入面先變成現實",
+          "original": "Use values become a reality only by use or consumption: they also constitute the substance of all wealth, whatever may be the social form of that wealth.",
+          "vernacular": "使用價值淨係喺使用或者消費嘅過程入面先變成現實:同時,無論財富採取邊種社會形式,使用價值都構成一切財富嘅物質內容。",
+          "vernacularMandarin": "使用價值只有在使用或者消費的過程裡面才變成現實:同時,無論財富採取哪種社會形式,使用價值都構成一切財富的物質內容。"
+        },
+        {
+          "id": "com-5",
+          "title": "撇除使用價值,商品剩返嘅共同屬性就係勞動嘅產物",
+          "original": "If then we leave out of consideration the use value of commodities, they have only one common property left, that of being products of labour.",
+          "vernacular": "所以,如果我哋撇開商品嘅使用價值唔理,佢哋剩返嘅共同屬性,就淨係得一個:就係佢哋都係勞動嘅產物。",
+          "vernacularMandarin": "所以,如果我們撇開商品的使用價值不理,它們剩下的共同屬性,就只有一個:就是它們都是勞動的產物。"
+        },
+        {
+          "id": "com-6",
+          "title": "全部都歸結為同一種抽象嘅人類勞動",
+          "original": "There is nothing left but what is common to them all; all are reduced to one and the same sort of labour, human labour in the abstract.",
+          "vernacular": "剩返嘅淨係佢哋全部共有嘅嘢;全部都被歸結為同一種勞動,即係抽象嘅人類勞動。",
+          "vernacularMandarin": "剩下的只有它們全部共有的東西;全部都被歸結為同一種勞動,也就是抽象的人類勞動。"
+        },
+        {
+          "id": "com-7",
+          "title": "使用價值有價值,係因為凝結咗抽象人類勞動",
+          "original": "A use value, or useful article, therefore, has value only because human labour in the abstract has been embodied or materialised in it.",
+          "vernacular": "所以,一件使用價值,或者一件有用物品,之所以有價值,純粹係因為抽象嘅人類勞動已經凝結或者物化喺佢裡面。",
+          "vernacularMandarin": "所以,一件使用價值,或者一件有用物品,之所以有價值,純粹是因為抽象的人類勞動已經凝結或者物化在它裡面。"
+        },
+        {
+          "id": "com-8",
+          "title": "社會必要勞動時間係按當時平均生產條件計算",
+          "original": "The labour time socially necessary is that required to produce an article under the normal conditions of production, and with the average degree of skill and intensity prevalent at the time.",
+          "vernacular": "社會必要勞動時間,就係喺當時社會正常嘅生產條件下,以平均嘅熟練程度同勞動強度,生產某件物品所需要嘅時間。",
+          "vernacularMandarin": "社會必要勞動時間,就是在當時社會正常的生產條件下,以平均的熟練程度同勞動強度,生產某件物品所需要的時間。"
+        },
+        {
+          "id": "com-9",
+          "title": "一切商品作為價值都只係凝結咗嘅勞動時間",
+          "original": "“As values, all commodities are only definite masses of congealed labour time.”",
+          "vernacular": "「作為價值,一切商品都只不過係一定量凝結咗嘅勞動時間。」",
+          "vernacularMandarin": "「作為價值,一切商品都只不過是一定量凝結了的勞動時間。」"
+        },
+        {
+          "id": "com-10",
+          "title": "一件嘢可以有使用價值而冇價值",
+          "original": "A thing can be a use value, without having value. This is the case whenever its utility to man is not due to labour.",
+          "vernacular": "一件嘢可以係使用價值,但係冇價值。凡係佢對人嘅有用性唔係嚟自勞動嘅情況,都係咁樣——例如空氣、處女地、天然草原等等。",
+          "vernacularMandarin": "一件東西可以是使用價值,但是沒有價值。凡是它對人的有用性不是來自勞動的情況,都是這樣——例如空氣、處女地、天然草原等等。"
+        },
+        {
+          "id": "com-11",
+          "title": "有用又係勞動產物,都可以唔係商品",
+          "original": "A thing can be useful, and the product of human labour, without being a commodity.",
+          "vernacular": "一件嘢可以係有用嘅、亦都係人類勞動嘅產物,但係都可以唔係商品。",
+          "vernacularMandarin": "一件東西可以是有用的、也是人類勞動的產物,但是都可以不是商品。"
+        },
+        {
+          "id": "com-12",
+          "title": "冇用嘅嘢就冇價值",
+          "original": "Lastly nothing can have value, without being an object of utility. If the thing is useless, so is the labour contained in it; the labour does not count as labour, and therefore creates no value.",
+          "vernacular": "最後,冇一樣嘢可以有價值,而唔係一件有用嘅物品。如果一件嘢冇用,咁佢裡面所包含嘅勞動都冇用;呢種勞動就唔算係勞動,因此都創造唔到任何價值。",
+          "vernacularMandarin": "最後,沒有一樣東西可以有價值,而不是一件有用的物品。如果一件東西沒有用,那它裡面所包含的勞動都沒有用;這種勞動就不算是勞動,因此都創造不到任何價值。"
+        }
+      ]
+    },
+    {
+      "id": "cap-fetishism-of-commodities",
+      "title": "The Fetishism of Commodities 商品拜物教",
+      "passages": [
+        {
+          "id": "foc-1",
+          "title": "商品乍睇好簡單,分析落去先發現係一件古怪嘢",
+          "original": "A commodity appears, at first sight, a very trivial thing, and easily understood.",
+          "vernacular": "一件商品初睇上去,係一件好瑣碎、好容易明白嘅嘢。",
+          "vernacularMandarin": "一件商品初看上去,是一件很瑣碎、很容易明白的東西。"
+        },
+        {
+          "id": "foc-2",
+          "title": "分析落去先發現,佢係一件充滿形而上學同神學怪癖嘅古怪嘢",
+          "original": "Its analysis shows that it is, in reality, a very queer thing, abounding in metaphysical subtleties and theological niceties.",
+          "vernacular": "但係分析落去先發現,佢實際上係一件好古怪嘅嘢,充滿咗形而上學嘅微妙同神學嘅怪癖。",
+          "vernacularMandarin": "但是分析下去才發現,它實際上是一件很古怪的東西,充滿了形而上學的微妙同神學的怪癖。"
+        },
+        {
+          "id": "foc-3",
+          "title": "一旦以商品身份現身,佢就變成超驗嘅嘢",
+          "original": "But, so soon as it steps forth as a commodity, it is changed into something transcendent.",
+          "vernacular": "但係一旦佢以商品嘅身份現身,就會變成一種超驗嘅嘢。",
+          "vernacularMandarin": "但是一旦它以商品的身份現身,就會變成一種超驗的東西。"
+        },
+        {
+          "id": "foc-4",
+          "title": "桌子用木腦袋度出一啲比桌子轉動更奇怪嘅念頭",
+          "original": "It not only stands with its feet on the ground, but, in relation to all other commodities, it stands on its head, and evolves out of its wooden brain grotesque ideas, far more wonderful than “table-turning” ever was.",
+          "vernacular": "佢唔單止用腳企喺地度,喺同其他一切商品嘅關係入面,佢仲會倒轉頭用頭企,由佢木做嘅腦袋度出一堆怪誕嘅念頭,比「轉桌降靈」都仲要奇妙。",
+          "vernacularMandarin": "它不單止用腳站在地上,在同其他一切商品的關係裡面,它還會倒過來用頭站立,由它木做的腦袋度出一堆怪誕的念頭,比「轉桌降靈」都還要奇妙。"
+        },
+        {
+          "id": "foc-5",
+          "title": "商品之所以神秘,係因為勞動嘅社會性質變成物件本身嘅屬性",
+          "original": "A commodity is therefore a mysterious thing, simply because in it the social character of men’s labour appears to them as an objective character stamped upon the product of that labour.",
+          "vernacular": "所以話,商品之所以係一件神秘嘅嘢,純粹係因為喺商品度,人類勞動嘅社會性質,喺人自己眼中,表現為勞動產物本身客觀嘅屬性。",
+          "vernacularMandarin": "所以說,商品之所以是一件神秘的東西,純粹是因為在商品裡面,人類勞動的社會性質,在人自己眼中,表現為勞動產物本身客觀的屬性。"
+        },
+        {
+          "id": "foc-6",
+          "title": "呢個係人與人之間嘅社會關係,喺佢哋眼中卻幻化成物與物嘅關係",
+          "original": "There it is a definite social relation between men, that assumes, in their eyes, the fantastic form of a relation between things.",
+          "vernacular": "呢個係人與人之間一種確定嘅社會關係,喺佢哋眼中,卻幻化成物與物之間關係嗰種奇幻形式。",
+          "vernacularMandarin": "這是人與人之間一種確定的社會關係,在他們眼中,卻幻化成物與物之間關係那種奇幻形式。"
+        },
+        {
+          "id": "foc-7",
+          "title": "要搵到類比,就要去到宗教世界嗰片迷霧",
+          "original": "In order, therefore, to find an analogy, we must have recourse to the mist-enveloped regions of the religious world.",
+          "vernacular": "所以,要搵到類比,我哋就必須去到宗教世界嗰片雲霧籠罩嘅地帶。",
+          "vernacularMandarin": "所以,要找到類比,我們就必須去到宗教世界那片雲霧籠罩的地帶。"
+        },
+        {
+          "id": "foc-8",
+          "title": "喺嗰個世界,人腦嘅產物變成有生命嘅獨立存在",
+          "original": "In that world the productions of the human brain appear as independent beings endowed with life, and entering into relation both with one another and the human race.",
+          "vernacular": "喺嗰個世界入面,人腦嘅產物,表現為有生命嘅獨立存在,彼此之間、同埋同人類之間,都建立緊種種關係。",
+          "vernacularMandarin": "在那個世界裡面,人腦的產物,表現為有生命的獨立存在,彼此之間、同人類之間,都建立著種種關係。"
+        },
+        {
+          "id": "foc-9",
+          "title": "商品世界都一樣,呢種就叫做拜物教",
+          "original": "So it is in the world of commodities with the products of men’s hands. This I call the Fetishism which attaches itself to the products of labour, so soon as they are produced as commodities, and which is therefore inseparable from the production of commodities.",
+          "vernacular": "喺商品世界入面,人手嘅產物都係咁樣。我將呢種現象稱為「拜物教」——一旦勞動產物以商品嘅形式被生產出嚟,呢種拜物教就會依附喺佢哋身上,同商品生產本身密不可分。",
+          "vernacularMandarin": "在商品世界裡面,人手的產物都是這樣。我將這種現象稱為「拜物教」——一旦勞動產物以商品的形式被生產出來,這種拜物教就會依附在它們身上,同商品生產本身密不可分。"
+        },
+        {
+          "id": "foc-10",
+          "title": "個人勞動同大家嘅關係,表現為人與人、物與物嘅物質關係",
+          "original": "To the latter, therefore, the relations connecting the labour of one individual with that of the rest appear, not as direct social relations between individuals at work, but as what they really are, material relations between persons and social relations between things.",
+          "vernacular": "所以,對嗰啲勞動者嚟講,將一個人嘅勞動同其他人嘅勞動連結埋一齊嘅關係,喺佢哋眼中並唔係勞動者之間直接嘅社會關係,而係表現為佢哋真正嘅樣——人與人之間嘅物質關係,同物與物之間嘅社會關係。",
+          "vernacularMandarin": "所以,對那些勞動者來說,將一個人的勞動同其他人的勞動連結在一起的關係,在他們眼中並不是勞動者之間直接的社會關係,而是表現為它們真正的樣子——人與人之間的物質關係,同物與物之間的社會關係。"
+        }
+      ]
+    },
+    {
+      "id": "cap-buying-and-selling-of-labour-power",
+      "title": "The Buying and Selling of Labour-Power 勞動力嘅買賣",
+      "passages": [
+        {
+          "id": "bsl-1",
+          "title": "貨幣佬喺市場度搵到嗰種特殊商品:勞動力",
+          "original": "The possessor of money does find on the market such a special commodity in capacity for labour or labour-power.",
+          "vernacular": "有錢佬喺市場度,確實搵到咗呢種特殊嘅商品——勞動能力,又或者話,勞動力。",
+          "vernacularMandarin": "有錢人在市場上,確實找到了這種特殊的商品——勞動能力,又或者說,勞動力。"
+        },
+        {
+          "id": "bsl-2",
+          "title": "勞動力嘅價值由生產再生產佢所需嘅勞動時間決定",
+          "original": "The value of labour-power is determined, as in the case of every other commodity, by the labour-time necessary for the production, and consequently also the reproduction, of this special article.",
+          "vernacular": "勞動力嘅價值,同其他一切商品一樣,係由生產呢種特殊物品——因而亦係再生產佢——所必需嘅勞動時間所決定嘅。",
+          "vernacularMandarin": "勞動力的價值,同其他一切商品一樣,是由生產這種特殊物品——因而也是再生產它——所必需的勞動時間所決定的。"
+        },
+        {
+          "id": "bsl-3",
+          "title": "同其他商品唔同,勞動力嘅價值入面包含歷史同道德嘅元素",
+          "original": "In contradistinction therefore to the case of other commodities, there enters into the determination of the value of labour-power a historical and moral element.",
+          "vernacular": "所以,同其他商品唔同嘅係,決定勞動力嘅價值嗰陣,會混入一種歷史同道德嘅元素。",
+          "vernacularMandarin": "所以,同其他商品不同的是,決定勞動力的價值時,會混入一種歷史同道德的元素。"
+        },
+        {
+          "id": "bsl-4",
+          "title": "消費勞動力,同時就係生產商品同剩餘價值",
+          "original": "The consumption of labour-power is at one and the same time the production of commodities and of surplus-value.",
+          "vernacular": "消費勞動力,同時就係生產商品,亦都係生產剩餘價值。",
+          "vernacularMandarin": "消費勞動力,同時就是生產商品,也是生產剩餘價值。"
+        },
+        {
+          "id": "bsl-5",
+          "title": "我哋暫別呢個嘈吵嘅市場,一齊踏入生產嗰個隱蔽嘅居所",
+          "original": "We therefore take leave for a time of this noisy sphere, where everything takes place on the surface and in view of all men, and follow them both into the hidden abode of production, on whose threshold there stares us in the face “No admittance except on business.”",
+          "vernacular": "所以,我哋暫時要離開呢個一切都喺表面、喺眾目睽睽之下進行嘅嘈吵領域,跟住貨幣佬同勞動力擁有者,一齊踏入生產嗰個隱蔽嘅居所——喺佢門檻上面,明明白白寫住「閒人免進,洽公請入」。",
+          "vernacularMandarin": "所以,我們暫時要離開這個一切都在表面、在眾目睽睽之下進行的嘈吵領域,跟著貨幣持有人同勞動力擁有者,一齊踏入生產那個隱蔽的居所——在它門檻上面,明明白白寫著「閒人免進,洽公請入」。"
+        },
+        {
+          "id": "bsl-6",
+          "title": "喺呢度我哋將會揭開利潤製造嘅秘密",
+          "original": "Here we shall see, not only how capital produces, but how capital is produced. We shall at last force the secret of profit making.",
+          "vernacular": "喺呢度,我哋唔單止會睇到資本點樣生產,仲會睇到資本本身係點樣被生產出嚟嘅。我哋終於可以逼出利潤製造嘅秘密。",
+          "vernacularMandarin": "在這裡,我們不單止會看到資本怎樣生產,還會看到資本本身是怎樣被生產出來的。我們終於可以逼出利潤製造的秘密。"
+        },
+        {
+          "id": "bsl-7",
+          "title": "呢個領域正正就係人權天生就有嘅伊甸園",
+          "original": "This sphere that we are deserting, within whose boundaries the sale and purchase of labour-power goes on, is in fact a very Eden of the innate rights of man. There alone rule Freedom, Equality, Property and Bentham.",
+          "vernacular": "我哋即將離開嘅呢個領域,即係勞動力買賣進行緊嘅地方,其實正正就係人與生俱來嘅權利嘅伊甸園。喺呢度,獨獨係自由、平等、產權同邊沁式功利主義當道。",
+          "vernacularMandarin": "我們即將離開的這個領域,也就是勞動力買賣進行著的地方,其實正正就是人與生俱來的權利的伊甸園。在這裡,只有自由、平等、產權同邊沁式功利主義當道。"
+        },
+        {
+          "id": "bsl-8",
+          "title": "將佢哋連埋一齊嘅,淨係各自嘅私利同盤算",
+          "original": "The only force that brings them together and puts them in relation with each other, is the selfishness, the gain and the private interests of each.",
+          "vernacular": "將佢哋連結埋一齊、令佢哋建立關係嘅唯一力量,就係各自嘅自利心、利益盤算同私人利害。",
+          "vernacularMandarin": "將他們連結在一起、令他們建立關係的唯一力量,就是各自的自利心、利益盤算同私人利害。"
+        },
+        {
+          "id": "bsl-9",
+          "title": "一個大搖大擺以資本家身份行先,一個以工人身份跟喺後面",
+          "original": "He, who before was the money-owner, now strides in front as capitalist; the possessor of labour-power follows as his labourer.",
+          "vernacular": "之前嗰個貨幣佬,而家大搖大擺行喺前面,變成咗資本家;勞動力嘅擁有者就跟喺後面,變成咗佢嘅工人。",
+          "vernacularMandarin": "之前那個貨幣持有人,現在大搖大擺走在前面,變成了資本家;勞動力的擁有者就跟在後面,變成了他的工人。"
+        },
+        {
+          "id": "bsl-10",
+          "title": "一個帶住奸笑,一個係將自己嘅皮攞去賣",
+          "original": "The one with an air of importance, smirking, intent on business; the other, timid and holding back, like one who is bringing his own hide to market and has nothing to expect but — a hiding.",
+          "vernacular": "一個擺出一副大人物嘅款,面帶奸笑,一心撲喺生意度;另一個就畏首畏尾、猶猶豫豫,好似一個攞住自己張皮嚟趕集嘅人,除咗一頓皮肉之苦,乜都冇得指望。",
+          "vernacularMandarin": "一個擺出一副大人物的樣子,面帶奸笑,一心撲在生意上;另一個就畏首畏尾、猶猶豫豫,好像一個拿著自己那張皮來趕集的人,除了一頓皮肉之苦,什麼都沒得指望。"
+        }
+      ]
+    },
+    {
+      "id": "cap-the-working-day",
+      "title": "The Working Day 工作日",
+      "passages": [
+        {
+          "id": "twd-1",
+          "title": "工作日並唔係固定嘅,而係一個變量",
+          "original": "The working-day is thus not a constant, but a variable quantity.",
+          "vernacular": "所以話,工作日並唔係一個常數,而係一個可變嘅量。",
+          "vernacularMandarin": "所以說,工作日並不是一個常數,而是一個可變的量。"
+        },
+        {
+          "id": "twd-2",
+          "title": "資本係死勞動,好似吸血鬼咁靠食活勞動先有命",
+          "original": "Capital is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks.",
+          "vernacular": "資本係死咗嘅勞動,佢好似吸血鬼咁,淨係靠吸食活嘅勞動先可以生存,而且食得越多,就活得越有精神。",
+          "vernacularMandarin": "資本是死了的勞動,它好像吸血鬼那樣,只靠吸食活的勞動才可以生存,而且吃得越多,就活得越有精神。"
+        },
+        {
+          "id": "twd-3",
+          "title": "如果工人自己享用時間,咁就係搶咗資本家",
+          "original": "If the labourer consumes his disposable time for himself, he robs the capitalist.",
+          "vernacular": "如果工人將自己可以支配嘅時間留返畀自己用,咁佢就係喺度打劫緊資本家。",
+          "vernacularMandarin": "如果工人將自己可以支配的時間留給自己用,那他就是在打劫資本家。"
+        },
+        {
+          "id": "twd-4",
+          "title": "我賣俾你嘅商品,用起上嚟會創造出比自身更大嘅價值",
+          "original": "The commodity that I have sold to you differs from the crowd of other commodities, in that its use creates value, and a value greater than its own.",
+          "vernacular": "我賣畀你嗰件商品,同其他一大堆商品唔同嘅地方在於:用起上嚟就會創造出價值,而且係比佢自身更大嘅價值。",
+          "vernacularMandarin": "我賣給你那件商品,同其他一大堆商品不同的地方在於:用起上來就會創造出價值,而且是比它自身更大的價值。"
+        },
+        {
+          "id": "twd-5",
+          "title": "你不斷向我宣揚「節儉」同「克己」嘅福音",
+          "original": "You preach to me constantly the gospel of “saving” and “abstinence.”",
+          "vernacular": "你不斷向我宣揚「儲蓄」同「節慾」呢套福音。",
+          "vernacularMandarin": "你不斷向我宣揚「儲蓄」同「節慾」這套福音。"
+        },
+        {
+          "id": "twd-6",
+          "title": "你喺勞動上面賺到嘅,就係我喺實質上蝕咗嘅",
+          "original": "What you gain in labour I lose in substance.",
+          "vernacular": "你喺勞動上面攞到嘅,就係我喺體質上失去嘅。",
+          "vernacularMandarin": "你在勞動上面拿到的,就是我在體質上失去的。"
+        },
+        {
+          "id": "twd-7",
+          "title": "喺你胸口跳動嗰啲,其實係我自己嘅心跳",
+          "original": "That which seems to throb there is my own heart-beating.",
+          "vernacular": "你嗰個胸口入面睇落好似喺跳動緊嘅嘢,其實係我自己嘅心跳。",
+          "vernacularMandarin": "你那個胸口裡面看起來好像在跳動著的東西,其實是我自己的心跳。"
+        },
+        {
+          "id": "twd-8",
+          "title": "我要求正常長度嘅工作日",
+          "original": "I demand the normal working-day because I, like every other seller, demand the value of my commodity.",
+          "vernacular": "我要求一個正常長度嘅工作日,因為我同其他任何一個賣家一樣,要求得到自己商品嘅價值。",
+          "vernacularMandarin": "我要求一個正常長度的工作日,因為我同其他任何一個賣家一樣,要求得到自己商品的價值。"
+        },
+        {
+          "id": "twd-9",
+          "title": "兩種平等權利之間,力量就係最終嘅裁決者",
+          "original": "Between equal rights force decides.",
+          "vernacular": "喺兩種平等嘅權利之間,最終就係由力量嚟決定。",
+          "vernacularMandarin": "在兩種平等的權利之間,最終就是由力量來決定。"
+        },
+        {
+          "id": "twd-10",
+          "title": "工作日嘅長度就係資本同勞動兩個階級鬥爭嘅結果",
+          "original": "Hence is it that in the history of capitalist production, the determination of what is a working-day, presents itself as the result of a struggle, a struggle between collective capital, i.e., the class of capitalists, and collective labour, i.e., the working-class.",
+          "vernacular": "所以喺資本主義生產嘅歷史入面,究竟乜嘢算係一個工作日,就表現為一場鬥爭嘅結果——一場喺集體資本(即係資本家階級)同集體勞動(即係工人階級)之間嘅鬥爭。",
+          "vernacularMandarin": "所以在資本主義生產的歷史裡面,究竟什麼算是一個工作日,就表現為一場鬥爭的結果——一場在集體資本(也就是資本家階級)同集體勞動(也就是工人階級)之間的鬥爭。"
+        },
+        {
+          "id": "twd-11",
+          "title": "剩餘勞動並唔係資本發明出嚟嘅",
+          "original": "Capital has not invented surplus-labour.",
+          "vernacular": "剩餘勞動並唔係資本發明出嚟嘅。",
+          "vernacularMandarin": "剩餘勞動並不是資本發明出來的。"
+        }
+      ]
+    },
+    {
+      "id": "cap-machinery-and-modern-industry",
+      "title": "Machinery and Modern Industry 機器與大工業",
+      "passages": [
+        {
+          "id": "mmi-1",
+          "title": "機器發明有冇減輕過任何一個人嘅每日勞苦?",
+          "original": "It is questionable if all the mechanical inventions yet made have lightened the day’s toil of any human being.",
+          "vernacular": "約翰·穆勒話:「至今所有嘅機械發明,有冇減輕過任何一個人每日嘅勞苦,呢個係值得懷疑嘅。」",
+          "vernacularMandarin": "約翰·穆勒說:「至今所有的機械發明,有沒有減輕過任何一個人每日的勞苦,這是值得懷疑的。」"
+        },
+        {
+          "id": "mmi-2",
+          "title": "機器嘅資本主義應用目標,唔係減輕勞苦",
+          "original": "That is, however, by no means the aim of the capitalistic application of machinery.",
+          "vernacular": "但係,呢個從嚟都唔係機器喺資本主義應用之下嘅目標。",
+          "vernacularMandarin": "但是,這從來都不是機器在資本主義應用之下的目標。"
+        },
+        {
+          "id": "mmi-3",
+          "title": "機器係一種生產剩餘價值嘅手段",
+          "original": "Like every other increase in the productiveness of labour, machinery is intended to cheapen commodities, and, by shortening that portion of the working-day, in which the labourer works for himself, to lengthen the other portion that he gives, without an equivalent, to the capitalist. In short, it is a means for producing surplus-value.",
+          "vernacular": "好似其他一切提升勞動生產力嘅方法咁,機器嘅目的就係要令商品變得便宜,並且透過縮短工人為自己工作嗰部分工作日,嚟延長佢冇任何回報噉樣送畀資本家嘅嗰部分。簡而言之,機器係一種生產剩餘價值嘅手段。",
+          "vernacularMandarin": "好像其他一切提升勞動生產力的方法那樣,機器的目的就是要令商品變得便宜,並且透過縮短工人為自己工作那部分工作日,來延長他沒有任何回報那樣送給資本家的那部分。簡而言之,機器是一種生產剩餘價值的手段。"
+        },
+        {
+          "id": "mmi-4",
+          "title": "婦女同兒童嘅勞動係資本家最先追求嘅嘢",
+          "original": "The labour of women and children was, therefore, the first thing sought for by capitalists who used machinery.",
+          "vernacular": "所以,婦女同兒童嘅勞動,就係使用機器嘅資本家最先追逐嘅目標。",
+          "vernacularMandarin": "所以,婦女同兒童的勞動,就是使用機器的資本家最先追逐的目標。"
+        },
+        {
+          "id": "mmi-5",
+          "title": "對資本家嘅強制勞動取代咗小朋友嘅玩耍",
+          "original": "Compulsory work for the capitalist usurped the place, not only of the children’s play, but also of free labour at home within moderate limits for the support of the family.",
+          "vernacular": "為資本家做嘅強制勞動,唔單止篡奪咗小朋友玩耍嘅位置,仲篡奪咗喺屋企適度幫補家計嗰種自由勞動嘅位置。",
+          "vernacularMandarin": "為資本家做的強制勞動,不單止篡奪了小孩子玩耍的位置,還篡奪了在家裡適度幫補家計那種自由勞動的位置。"
+        },
+        {
+          "id": "mmi-6",
+          "title": "機器將全家人拋落勞動市場,拉低咗個男人勞動力嘅價值",
+          "original": "Machinery, by throwing every member of that family on to the labour-market, spreads the value of the man’s labour-power over his whole family. It thus depreciates his labour-power.",
+          "vernacular": "機器將家庭入面每一個成員都拋落勞動力市場,將本來屬於個男人一個人嘅勞動力價值,攤薄分佈去成頭家。呢種做法就令佢自己嘅勞動力貶值。",
+          "vernacularMandarin": "機器將家庭裡面每一個成員都拋到勞動力市場,將本來屬於那個男人一個人的勞動力價值,攤薄分佈到整個家庭。這種做法就令他自己的勞動力貶值。"
+        },
+        {
+          "id": "mmi-7",
+          "title": "機器擴大剝削嘅對象,同時亦都加深咗剝削嘅程度",
+          "original": "Thus we see, that machinery, while augmenting the human material that forms the principal object of capital’s exploiting power, at the same time raises the degree of exploitation.",
+          "vernacular": "所以我哋見到,機器一方面擴大咗構成資本剝削力量主要對象嘅人力材料,另一方面同時亦都提高咗剝削嘅程度。",
+          "vernacularMandarin": "所以我們見到,機器一方面擴大了構成資本剝削力量主要對象的人力材料,另一方面同時也提高了剝削的程度。"
+        },
+        {
+          "id": "mmi-8",
+          "title": "工人以前賣自己,而家賣埋老婆同仔女",
+          "original": "Previously, the workman sold his own labour-power, which he disposed of nominally as a free agent. Now he sells wife and child. He has become a slave-dealer.",
+          "vernacular": "以前,工人賣嘅係自己嘅勞動力,佢名義上仲係一個自由人噉樣去處置佢。而家,佢賣緊嘅係老婆同仔女。佢已經變成咗一個奴隸販子。",
+          "vernacularMandarin": "以前,工人賣的是自己的勞動力,他名義上還是一個自由人那樣去處置它。現在,他賣著的是妻子同兒女。他已經變成了一個奴隸販子。"
+        },
+        {
+          "id": "mmi-9",
+          "title": "招聘廣告:招12至20歲、扮到似13歲嘅青少年",
+          "original": "Wanted, 12 to 20 young persons, not younger than what can pass for 13 years. Wages, 4 shillings a week.",
+          "vernacular": "一份英國廠方招聘廣告:「招12至20名年輕人,只要睇落唔細過13歲就得。工資:每星期4先令。」",
+          "vernacularMandarin": "一份英國廠方招聘廣告:「招12至20名年輕人,只要看起來不小於13歲就行。工資:每星期4先令。」"
+        },
+        {
+          "id": "mmi-10",
+          "title": "喺貝斯納爾格林,每逢一二兩日都有兒童市場",
+          "original": "In the notorious district of Bethnal Green, a public market is held every Monday and Tuesday morning, where children of both sexes from 9 years of age upwards, hire themselves out to the silk manufacturers.",
+          "vernacular": "喺聲名狼藉嘅貝斯納爾格林區,每逢星期一同星期二朝早都會有一個公開市場,9歲以上嘅男女小朋友,就喺嗰度將自己出租畀絲綢廠嘅老闆。",
+          "vernacularMandarin": "在聲名狼藉的貝斯納爾格林區,每逢星期一同星期二早上都會有一個公開市場,9歲以上的男女小孩,就在那裡將自己出租給絲綢廠的老闆。"
+        }
+      ]
+    },
+    {
+      "id": "cap-general-law-of-capitalist-accumulation",
+      "title": "The General Law of Capitalist Accumulation 資本主義積累嘅一般規律",
+      "passages": [
+        {
+          "id": "glc-1",
+          "title": "資本嘅積累,就係無產階級嘅增長",
+          "original": "Accumulation of capital is, therefore, increase of the proletariat.",
+          "vernacular": "所以,資本嘅積累,就係無產階級嘅增長。",
+          "vernacularMandarin": "所以,資本的積累,就是無產階級的增長。"
+        },
+        {
+          "id": "glc-2",
+          "title": "一種令工人淪為人形碎片、機器附件嘅制度",
+          "original": "They mutilate the labourer into a fragment of a man, degrade him to the level of an appendage of a machine, destroy every remnant of charm in his work and turn it into a hated toil.",
+          "vernacular": "呢啲方法將工人殘害成一個人嘅碎片,將佢貶低到一部機器附屬品嘅地步,摧毀晒佢工作入面殘存嘅任何魅力,將呢份工作變成佢憎恨嘅苦役。",
+          "vernacularMandarin": "這些方法將工人殘害成一個人的碎片,將他貶低到一部機器附屬品的地步,摧毀了他工作裡面殘存的任何魅力,將這份工作變成他憎恨的苦役。"
+        },
+        {
+          "id": "glc-3",
+          "title": "將佢嘅老婆同仔女拖入資本呢架戰車嘅車輪底",
+          "original": "They transform his life-time into working-time, and drag his wife and child beneath the wheels of the Juggernaut of capital.",
+          "vernacular": "呢啲方法將佢嘅生命時間,轉化做工作時間,將佢嘅老婆同仔女,拖到資本呢部印度戰車嘅車輪底下輾過去。",
+          "vernacularMandarin": "這些方法將他的生命時間,轉化做工作時間,將他的妻子同兒女,拖到資本這部印度戰車的車輪底下輾過去。"
+        },
+        {
+          "id": "glc-4",
+          "title": "資本積累越多,工人嘅處境就必然越差",
+          "original": "It follows therefore that in proportion as capital accumulates, the lot of the labourer, be his payment high or low, must grow worse.",
+          "vernacular": "所以由此可見:隨住資本嘅積累,無論工人嘅報酬高定係低,佢嘅處境都必然會越嚟越差。",
+          "vernacularMandarin": "所以由此可見:隨著資本的積累,無論工人的報酬高或者低,他的處境都必然會越來越差。"
+        },
+        {
+          "id": "glc-5",
+          "title": "呢條法則將工人綁喺資本身上,比縛住普羅米修斯嘅鏈仲要牢",
+          "original": "This law rivets the labourer to capital more firmly than the wedges of Vulcan did Prometheus to the rock.",
+          "vernacular": "呢條法則將工人焊死喺資本身上,比火神伏爾甘用嚟將普羅米修斯釘喺石頭上嘅楔子仲要牢固。",
+          "vernacularMandarin": "這條法則將工人焊死在資本身上,比火神伏爾甘用來將普羅米修斯釘在石頭上的楔子還要牢固。"
+        },
+        {
+          "id": "glc-6",
+          "title": "呢條法則確立咗一種同資本積累相對應嘅苦難積累",
+          "original": "It establishes an accumulation of misery, corresponding with accumulation of capital.",
+          "vernacular": "呢條法則確立咗一種同資本積累相對應嘅苦難積累。",
+          "vernacularMandarin": "這條法則確立了一種同資本積累相對應的苦難積累。"
+        },
+        {
+          "id": "glc-7",
+          "title": "一極積累財富,另一極就必然積累苦難",
+          "original": "Accumulation of wealth at one pole is, therefore, at the same time accumulation of misery, agony of toil slavery, ignorance, brutality, mental degradation, at the opposite pole.",
+          "vernacular": "所以,喺一極積累財富,同時就意味住喺另一極——即係生產緊自己產品、但呢啲產品卻以資本形式存在嘅嗰個階級嗰一邊——積累苦難、勞役嘅折磨、奴役、無知、殘暴、精神墮落。",
+          "vernacularMandarin": "所以,在一極積累財富,同時就意味著在另一極——也就是生產著自己產品、但這些產品卻以資本形式存在的那個階級那一邊——積累苦難、勞役的折磨、奴役、無知、殘暴、精神墮落。"
+        },
+        {
+          "id": "glc-8",
+          "title": "工人自己打造嘅金鏈,鬆返啲都仲係鏈",
+          "original": "A rise in the price of labour, as a consequence of accumulation of capital, only means, in fact, that the length and weight of the golden chain the wage worker has already forged for himself, allow of a relaxation of the tension of it.",
+          "vernacular": "因為資本積累而引致嘅勞動價格上升,實際上只不過意味住:僱傭工人已經為自己打造嘅嗰條金鏈,佢嘅長度同重量,容許稍為鬆一鬆佢自己身上嗰種張力。",
+          "vernacularMandarin": "因為資本積累而引致的勞動價格上升,實際上只不過意味著:僱傭工人已經為自己打造的那條金鏈,它的長度同重量,容許稍為鬆一鬆自己身上那種張力。"
+        }
+      ]
+    },
+    {
+      "id": "cap-primitive-accumulation",
+      "title": "Primitive Accumulation 原始積累",
+      "passages": [
+        {
+          "id": "pa-1",
+          "title": "原始積累喺政治經濟學入面就好似原罪喺神學入面咁",
+          "original": "This primitive accumulation plays in Political Economy about the same part as original sin in theology.",
+          "vernacular": "原始積累喺政治經濟學入面所扮演嘅角色,就好似原罪喺神學入面所扮演嘅角色咁。",
+          "vernacularMandarin": "原始積累在政治經濟學裡面所扮演的角色,就好像原罪在神學裡面所扮演的角色那樣。"
+        },
+        {
+          "id": "pa-2",
+          "title": "歷史入面,征服、奴役、搶劫、謀殺先係主角",
+          "original": "In actual history it is notorious that conquest, enslavement, robbery, murder, briefly force, play the great part.",
+          "vernacular": "喺實際歷史入面,眾所周知,征服、奴役、搶劫、謀殺——簡而言之,就係暴力——先至係扮演緊重要角色嘅嘢。",
+          "vernacularMandarin": "在實際歷史裡面,眾所周知,征服、奴役、搶劫、謀殺——簡而言之,就是暴力——才是扮演著重要角色的東西。"
+        },
+        {
+          "id": "pa-3",
+          "title": "原始積累嘅手段一啲都唔田園牧歌",
+          "original": "As a matter of fact, the methods of primitive accumulation are anything but idyllic.",
+          "vernacular": "事實上,原始積累嘅方法,一啲都唔田園詩意。",
+          "vernacularMandarin": "事實上,原始積累的方法,一點都不田園詩意。"
+        },
+        {
+          "id": "pa-4",
+          "title": "原始積累就係將生產者同生產資料分離嘅歷史過程",
+          "original": "The so-called primitive accumulation, therefore, is nothing else than the historical process of divorcing the producer from the means of production.",
+          "vernacular": "所以話,所謂原始積累,唔係第樣嘢,正正就係將生產者同生產資料分離開嚟嘅歷史過程。",
+          "vernacularMandarin": "所以說,所謂原始積累,不是別的東西,正正就是將生產者同生產資料分離開來的歷史過程。"
+        },
+        {
+          "id": "pa-5",
+          "title": "呢段剝奪嘅歷史,係用血同火寫落人類編年史度嘅",
+          "original": "And the history of this, their expropriation, is written in the annals of mankind in letters of blood and fire.",
+          "vernacular": "而佢哋被剝奪嘅呢段歷史,就係用血同火嘅文字,寫落人類嘅編年史入面。",
+          "vernacularMandarin": "而他們被剝奪的這段歷史,就是用血同火的文字,寫在人類的編年史裡面。"
+        },
+        {
+          "id": "pa-6",
+          "title": "大批人突然被迫脫離生存資料,淪為自由嘅無產者",
+          "original": "In the history of primitive accumulation, all revolutions are epoch-making that act as levers for the capital class in course of formation; but, above all, those moments when great masses of men are suddenly and forcibly torn from their means of subsistence, and hurled as free and “unattached” proletarians on the labour-market.",
+          "vernacular": "喺原始積累嘅歷史入面,凡係為正在形成緊嘅資本家階級充當槓桿嘅變革,都係劃時代嘅事件;但係最重要嘅,就係嗰啲大批人突然咁被強行同自己嘅生存資料分離,並且被拋落勞動力市場,變成自由而「無牽無掛」嘅無產者嘅時刻。",
+          "vernacularMandarin": "在原始積累的歷史裡面,凡是為正在形成中的資本家階級充當槓桿的變革,都是劃時代的事件;但是最重要的,就是那些大批人突然被強行同自己的生存資料分離,並且被拋到勞動力市場,變成自由而「無牽無掛」的無產者的時刻。"
+        },
+        {
+          "id": "pa-7",
+          "title": "一個資本家總係打垮好多個資本家",
+          "original": "One capitalist always kills many.",
+          "vernacular": "一個資本家總係打垮好多個資本家。",
+          "vernacularMandarin": "一個資本家總是打垮許多個資本家。"
+        },
+        {
+          "id": "pa-8",
+          "title": "資本主義嘅外殼一旦爆裂",
+          "original": "Centralisation of the means of production and socialisation of labour at last reach a point where they become incompatible with their capitalist integument. This integument is burst asunder.",
+          "vernacular": "生產資料嘅集中同勞動嘅社會化,終於去到一個同資本主義嘅外殼再唔相容嘅地步。呢個外殼就會爆裂。",
+          "vernacularMandarin": "生產資料的集中同勞動的社會化,終於去到一個同資本主義的外殼再不相容的地步。這個外殼就會爆裂。"
+        },
+        {
+          "id": "pa-9",
+          "title": "資本主義私有財產嘅喪鐘就會敲響",
+          "original": "The knell of capitalist private property sounds.",
+          "vernacular": "資本主義私有財產嘅喪鐘就會敲響。",
+          "vernacularMandarin": "資本主義私有財產的喪鐘就會敲響。"
+        },
+        {
+          "id": "pa-10",
+          "title": "剝奪者終於被剝奪",
+          "original": "The expropriators are expropriated.",
+          "vernacular": "剝奪者終於被人剝奪。",
+          "vernacularMandarin": "剝奪者終於被人剝奪。"
+        },
+        {
+          "id": "pa-11",
+          "title": "資本主義生產必然帶出自己嘅否定",
+          "original": "But capitalist production begets, with the inexorability of a law of Nature, its own negation.",
+          "vernacular": "但係資本主義生產,會以一種自然規律咁不可抗拒嘅方式,產生出自己嘅否定。",
+          "vernacularMandarin": "但是資本主義生產,會以一種自然規律那樣不可抗拒的方式,產生出自己的否定。"
+        },
+        {
+          "id": "pa-12",
+          "title": "呢個就係否定之否定",
+          "original": "It is the negation of negation.",
+          "vernacular": "呢個就係否定之否定。",
+          "vernacularMandarin": "這個就是否定之否定。"
+        }
+      ]
+    },
+    {
+      "id": "cap-genesis-of-the-industrial-capitalist",
+      "title": "Genesis of the Industrial Capitalist 產業資本家嘅起源",
+      "passages": [
+        {
+          "id": "gic-1",
+          "title": "美洲金銀嘅發現、原住民嘅滅絕同奴役,標誌住資本主義嘅玫瑰色黎明",
+          "original": "The discovery of gold and silver in America, the extirpation, enslavement and entombment in mines of the aboriginal population, the beginning of the conquest and looting of the East Indies, the turning of Africa into a warren for the commercial hunting of black-skins, signalised the rosy dawn of the era of capitalist production.",
+          "vernacular": "美洲金銀嘅發現、原住民被滅絕、被奴役同被活埋喺礦場入面、東印度開始被征服同劫掠、非洲被變成商業式獵捕黑人嘅獵場——呢一切,標誌住資本主義生產時代玫瑰色嘅黎明。",
+          "vernacularMandarin": "美洲金銀的發現、原住民被滅絕、被奴役同被活埋在礦場裡面、東印度開始被征服同劫掠、非洲被變成商業式獵捕黑人的獵場——這一切,標誌著資本主義生產時代玫瑰色的黎明。"
+        },
+        {
+          "id": "gic-2",
+          "title": "呢啲田園詩式嘅過程,正正就係原始積累嘅主要成分",
+          "original": "These idyllic proceedings are the chief momenta of primitive accumulation.",
+          "vernacular": "呢啲田園詩一般嘅過程,正正就係原始積累嘅主要成分。",
+          "vernacularMandarin": "這些田園詩一般的過程,正正就是原始積累的主要成分。"
+        },
+        {
+          "id": "gic-3",
+          "title": "暴力係孕育新社會嘅舊社會嘅助產士",
+          "original": "Force is the midwife of every old society pregnant with a new one.",
+          "vernacular": "暴力,就係每一個懷住新社會嘅舊社會嘅助產士。",
+          "vernacularMandarin": "暴力,就是每一個懷著新社會的舊社會的助產士。"
+        },
+        {
+          "id": "gic-4",
+          "title": "暴力本身就係一種經濟力量",
+          "original": "It is itself an economic power.",
+          "vernacular": "暴力本身,就係一種經濟力量。",
+          "vernacularMandarin": "暴力本身,就是一種經濟力量。"
+        },
+        {
+          "id": "gic-5",
+          "title": "荷蘭人所到之處,滿目蕭條同人口凋零",
+          "original": "Wherever they set foot, devastation and depopulation followed.",
+          "vernacular": "荷蘭人踏足嘅每一寸土地,隨之而嚟嘅就係滿目瘡痍同人口凋零。",
+          "vernacularMandarin": "荷蘭人踏足的每一寸土地,隨之而來的就是滿目瘡痍同人口凋零。"
+        },
+        {
+          "id": "gic-6",
+          "title": "歐洲以外被劫掠嚟嘅財寶,流返宗主國變成資本",
+          "original": "The treasures captured outside Europe by undisguised looting, enslavement, and murder, floated back to the mother-country and were there turned into capital.",
+          "vernacular": "喺歐洲以外靠明目張膽嘅劫掠、奴役同謀殺所得嘅財寶,就咁樣流返宗主國度,喺嗰度變成咗資本。",
+          "vernacularMandarin": "在歐洲以外靠明目張膽的劫掠、奴役同謀殺所得的財寶,就這樣流回宗主國,在那裡變成了資本。"
+        },
+        {
+          "id": "gic-7",
+          "title": "大工業嘅誕生,係由一場大屠嬰揭開序幕嘅",
+          "original": "The birth of the latter is heralded by a great slaughter of the innocents.",
+          "vernacular": "大工業嘅誕生,係由一場對無辜孩童嘅大屠殺嚟宣告嘅。",
+          "vernacularMandarin": "大工業的誕生,是由一場對無辜孩童的大屠殺來宣告的。"
+        },
+        {
+          "id": "gic-8",
+          "title": "蘭開夏郡有個傳統講法:張床從嚟都唔會凍",
+          "original": "It is a common tradition in Lancashire, that the beds never get cold.",
+          "vernacular": "喺蘭開夏郡有個流傳落嚟嘅講法:嗰度嘅床從嚟都唔會凍——因為日更同夜更嘅童工輪班瞓,張床成日都有體溫。",
+          "vernacularMandarin": "在蘭開夏郡有個流傳下來的講法:那裡的床從來都不會冷——因為日班同夜班的童工輪流睡,床整天都有體溫。"
+        },
+        {
+          "id": "gic-9",
+          "title": "利物浦靠奴隸貿易發咗達,呢個就係佢原始積累嘅方法",
+          "original": "Liverpool waxed fat on the slave trade. This was its method of primitive accumulation.",
+          "vernacular": "利物浦就係靠奴隸貿易養肥自己嘅。呢個,就係佢自己嘅原始積累方法。",
+          "vernacularMandarin": "利物浦就是靠奴隸貿易養肥自己的。這個,就是它自己的原始積累方法。"
+        },
+        {
+          "id": "gic-10",
+          "title": "如果話貨幣一出世臉上就帶住血斑,資本就係由頭到腳、每個毛孔都滴住血同污穢",
+          "original": "If money, according to Augier, “comes into the world with a congenital blood-stain on one cheek,” capital comes dripping from head to foot, from every pore, with blood and dirt.",
+          "vernacular": "如果話,借用奧吉埃嘅講法,貨幣一嚟到呢個世界,臉上就帶住與生俱來嘅血斑;咁資本呢,就係由頭到腳、每一個毛孔,都滴住血同污穢嚟到呢個世界。",
+          "vernacularMandarin": "如果說,借用奧吉埃的講法,貨幣一來到這個世界,臉上就帶著與生俱來的血斑;那資本呢,就是由頭到腳、每一個毛孔,都滴著血同污穢來到這個世界。"
+        },
+        {
+          "id": "gic-11",
+          "title": "有百分之三百嘅利潤,資本乜嘢罪行都夠膽犯",
+          "original": "With adequate profit, capital is very bold. A certain 10 per cent. will ensure its employment anywhere; 20 per cent. certain will produce eagerness; 50 per cent., positive audacity; 100 per cent. will make it ready to trample on all human laws; 300 per cent., and there is not a crime at which it will scruple, nor a risk it will not run, even to the chance of its owner being hanged.",
+          "vernacular": "只要利潤夠豐厚,資本就會非常大膽。有十足把握嘅百分之十利潤,就可以令佢喺任何地方都樂意動用;百分之二十就會令佢躍躍欲試;百分之五十就會令佢明目張膽;百分之一百就會令佢乜嘢人類法律都夠膽踐踏;而去到百分之三百,就冇一種罪行佢唔敢犯,冇一種風險佢唔敢冒,甚至冒住俾人吊頸嘅風險都在所不惜。",
+          "vernacularMandarin": "只要利潤夠豐厚,資本就會非常大膽。有十足把握的百分之十利潤,就可以令它在任何地方都樂意動用;百分之二十就會令它躍躍欲試;百分之五十就會令它明目張膽;百分之一百就會令它什麼人類法律都敢踐踏;而去到百分之三百,就沒有一種罪行它不敢犯,沒有一種風險它不敢冒,甚至冒著被人吊頸的風險都在所不惜。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3192 @@
+{
+  "id": "discourses",
+  "title": "Discourses 論說集",
+  "author": "Epictetus 愛比克泰德",
+  "description": "愛比克泰德喺尼科波利斯講學嗰陣,由弟子阿里安記錄低嘅課堂對話,原名《Diatribai》。原著四卷、近百篇對話,呢度精選最經典嘅篇章,涵蓋操之在我、天道、自由、友誼、疾病同潔淨等主題。原文英文對照廣東話/普通話翻譯,譯自George Long嘅英譯選本。",
+  "chapters": [
+    {
+      "id": "disc-c1",
+      "title": "Of the Things Which Are in Our Power and Not in Our Power 論操之在我同唔操之在我嘅嘢",
+      "passages": [
+        {
+          "id": "d1-1",
+          "title": "冇一種官能可以審視返自己",
+          "original": "Of all the faculties (except that which I shall soon mention), you will find not one which is capable of contemplating itself, and, consequently, not capable either of approving or disapproving.",
+          "vernacular": "喺所有官能入面(除咗我即將提到嗰一種),你會發現冇一種可以審視返自己,所以亦都冇能力去贊同或者反對自己。",
+          "vernacularMandarin": "在所有官能裡面(除了我即將提到那一種),你會發現沒有一種可以審視返自己,所以也沒有能力去贊同或者反對自己。"
+        },
+        {
+          "id": "d1-2--sentence-1",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "How far does the grammatic art possess the contemplating power?",
+          "vernacular": "文法呢門技藝,有幾大程度嘅審視能力呢?",
+          "vernacularMandarin": "文法這門技藝,有多大程度的審視能力呢?"
+        },
+        {
+          "id": "d1-2--sentence-2",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "As far as forming a judgment about what is written and spoken.",
+          "vernacular": "只限於判斷書寫同言語啱唔啱。",
+          "vernacularMandarin": "只限於判斷書寫同言語對不對。"
+        },
+        {
+          "id": "d1-2--sentence-3",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "And how far music?",
+          "vernacular": "音樂又有幾大程度呢?",
+          "vernacularMandarin": "音樂又有多大程度呢?"
+        },
+        {
+          "id": "d1-2--sentence-4",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "As far as judging about melody.",
+          "vernacular": "只限於判斷旋律。",
+          "vernacularMandarin": "只限於判斷旋律。"
+        },
+        {
+          "id": "d1-2--sentence-5",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "Does either of them then contemplate itself?",
+          "vernacular": "咁佢哋兩者會唔會審視返自己呢?",
+          "vernacularMandarin": "那它們兩者會不會審視返自己呢?"
+        },
+        {
+          "id": "d1-2--sentence-6",
+          "title": "文法同音樂都判斷唔到自己",
+          "original": "By no means.",
+          "vernacular": "完全唔會。",
+          "vernacularMandarin": "完全不會。"
+        },
+        {
+          "id": "d1-3--sentence-1",
+          "title": "文法話你知點寫,但唔會話你知使唔使寫",
+          "original": "But when you must write something to your friend, grammar will tell you what words you should write; but whether you should write or not, grammar will not tell you.",
+          "vernacular": "但當你要寫封信俾朋友嗰陣,文法會話你知應該用邊啲字;但係咪應該寫,文法就唔會話你知。",
+          "vernacularMandarin": "但當你要寫封信給朋友的時候,文法會告訴你應該用哪些字;但是不是應該寫,文法就不會告訴你。"
+        },
+        {
+          "id": "d1-3--sentence-2",
+          "title": "文法話你知點寫,但唔會話你知使唔使寫",
+          "original": "And so it is with music as to musical sounds; but whether you should sing at the present time and play on the lute, or do neither, music will not tell you.",
+          "vernacular": "音樂關於樂音都係咁——但而家係咪應該唱歌、彈琴,定係乜都唔做,音樂就唔會話你知。",
+          "vernacularMandarin": "音樂關於樂音也是這樣——但現在是不是應該唱歌、彈琴,還是甚麼都不做,音樂就不會告訴你。"
+        },
+        {
+          "id": "d1-4--sentence-1",
+          "title": "邊種官能可以審視自己同一切?就係理性",
+          "original": "What faculty then will tell you?",
+          "vernacular": "咁邊種官能可以話你知呢?",
+          "vernacularMandarin": "那哪種官能可以告訴你呢?"
+        },
+        {
+          "id": "d1-4--sentence-2",
+          "title": "邊種官能可以審視自己同一切?就係理性",
+          "original": "That which contemplates both itself and all other things.",
+          "vernacular": "就係嗰種既審視自己、又審視一切其他嘢嘅官能。",
+          "vernacularMandarin": "就是那種既審視自己、又審視一切其他事物的官能。"
+        },
+        {
+          "id": "d1-4--sentence-3",
+          "title": "邊種官能可以審視自己同一切?就係理性",
+          "original": "And what is this faculty?",
+          "vernacular": "呢種官能係咩?",
+          "vernacularMandarin": "這種官能是甚麼?"
+        },
+        {
+          "id": "d1-4--sentence-4",
+          "title": "邊種官能可以審視自己同一切?就係理性",
+          "original": "The rational faculty; for this is the only faculty that we have received which examines itself, what it is, and what power it has, and what is the value of this gift, and examines all other faculties:",
+          "vernacular": "就係理性官能;因為呢個係我哋所擁有嘅官能之中,唯一一種可以審視自己嘅本質、能力同呢份天賦嘅價值,同時亦都審視所有其他官能嘅。",
+          "vernacularMandarin": "就是理性官能;因為這是我們所擁有的官能之中,唯一一種可以審視自己的本質、能力同這份天賦的價值,同時也審視所有其他官能的。"
+        },
+        {
+          "id": "d1-5",
+          "title": "邊個話俾我哋知金子係靚嘅?就係判斷表象嗰種官能",
+          "original": "for what else is there which tells us that golden things are beautiful, for they do not say so themselves? Evidently it is the faculty which is capable of judging of appearances. What else judges of music, grammar, and the other faculties, proves their uses, and points out the occasions for using them? Nothing else.",
+          "vernacular": "因為除此之外,重有咩可以話俾我哋知,金子係靚嘅呢?因為金子本身係唔會自己咁講嘅。顯然,呢個就係有能力判斷表象嘅官能。仲有邊種官能可以評判音樂、文法同其他官能,證明佢哋嘅用處,並且指出運用佢哋嘅時機呢?冇其他嘅喇。",
+          "vernacularMandarin": "因為除此之外,還有甚麼可以告訴我們,金子是美的呢?因為金子本身是不會自己這樣說的。顯然,這就是有能力判斷表象的官能。還有哪種官能可以評判音樂、文法同其他官能,證明它們的用處,並且指出運用它們的時機呢?沒有其他的了。"
+        },
+        {
+          "id": "d1-6",
+          "title": "危急關頭,要記住咩係我嘅,咩唔係我嘅",
+          "original": "What then should a man have in readiness in such circumstances? What else than this? What is mine, and what is not mine; and what is permitted to me, and what is not permitted to me.",
+          "vernacular": "所以喺呢種處境之下,一個人應該時刻預備好咩嘢呢?唔係第啲,正正就係:咩係屬於我嘅,咩係唔屬於我嘅;咩係我可以做嘅,咩係我唔可以做嘅。",
+          "vernacularMandarin": "所以在這種處境之下,一個人應該時刻預備好甚麼呢?不是別的,正正就是:甚麼是屬於我的,甚麼是不屬於我的;甚麼是我可以做的,甚麼是我不可以做的。"
+        },
+        {
+          "id": "d1-7--sentence-1",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "I must die.",
+          "vernacular": "我必須死?",
+          "vernacularMandarin": "我必須死?"
+        },
+        {
+          "id": "d1-7--sentence-2",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "Must I then die lamenting?",
+          "vernacular": "咁我要一路喊住死咩?",
+          "vernacularMandarin": "那我要一路哭著死嗎?"
+        },
+        {
+          "id": "d1-7--sentence-3",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "I must be put in chains.",
+          "vernacular": "我要被鎖上鐵鏈?",
+          "vernacularMandarin": "我要被鎖上鐵鏈?"
+        },
+        {
+          "id": "d1-7--sentence-4",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "Must I then also lament?",
+          "vernacular": "咁我又要一路悲嘆咩?",
+          "vernacularMandarin": "那我又要一路悲嘆嗎?"
+        },
+        {
+          "id": "d1-7--sentence-5",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "I must go into exile.",
+          "vernacular": "我要流放?",
+          "vernacularMandarin": "我要流放?"
+        },
+        {
+          "id": "d1-7--sentence-6",
+          "title": "我要死?我要坐監?我要流放?咁又點呢",
+          "original": "Does any man then hinder me from going with smiles and cheerfulness and contentment?",
+          "vernacular": "咁有邊個可以阻止我帶住笑容、開朗同滿足嘅心情去呢?",
+          "vernacularMandarin": "那有誰可以阻止我帶著笑容、開朗同滿足的心情去呢?"
+        },
+        {
+          "id": "d1-8--sentence-1",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "Tell me the secret which you possess.",
+          "vernacular": "「話我知你嘅秘密。」",
+          "vernacularMandarin": "「告訴我你的秘密。」"
+        },
+        {
+          "id": "d1-8--sentence-2",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "I will not, for this is in my power.",
+          "vernacular": "我唔會講,因為呢個操之在我。「",
+          "vernacularMandarin": "我不會講,因為這操之在我。「"
+        },
+        {
+          "id": "d1-8--sentence-3",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "But I will put you in chains.",
+          "vernacular": "但我會鎖住你。」",
+          "vernacularMandarin": "但我會鎖住你。」"
+        },
+        {
+          "id": "d1-8--sentence-4",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "Man, what are you talking about?",
+          "vernacular": "老兄,你講緊咩呀?",
+          "vernacularMandarin": "老兄,你在講甚麼呀?"
+        },
+        {
+          "id": "d1-8--sentence-5",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "Me, in chains?",
+          "vernacular": "鎖住我?",
+          "vernacularMandarin": "鎖住我?"
+        },
+        {
+          "id": "d1-8--sentence-6",
+          "title": "腿可以俾你鎖,但意志連宙斯都奪唔到",
+          "original": "You may fetter my leg, but my will not even Zeus himself can overpower.",
+          "vernacular": "你可以鎖住我條腿,但我嘅意志,就算宙斯本人都奪唔到。",
+          "vernacularMandarin": "你可以鎖住我的腿,但我的意志,就算宙斯本人都奪不到。"
+        },
+        {
+          "id": "d1-9--sentence-1",
+          "title": "斬我個頭?我幾時話過淨係我個頭斬唔到",
+          "original": "I will throw you into prison.",
+          "vernacular": "「我會將你關入監獄。」",
+          "vernacularMandarin": "「我會將你關進監獄。」"
+        },
+        {
+          "id": "d1-9--sentence-2",
+          "title": "斬我個頭?我幾時話過淨係我個頭斬唔到",
+          "original": "My poor body, you mean.",
+          "vernacular": "你係話我呢副可憐嘅身軀啩。「",
+          "vernacularMandarin": "你是說我這副可憐的身軀吧。「"
+        },
+        {
+          "id": "d1-9--sentence-3",
+          "title": "斬我個頭?我幾時話過淨係我個頭斬唔到",
+          "original": "I will cut your head off.",
+          "vernacular": "我會斬你個頭。」",
+          "vernacularMandarin": "我會斬你的頭。」"
+        },
+        {
+          "id": "d1-9--sentence-4",
+          "title": "斬我個頭?我幾時話過淨係我個頭斬唔到",
+          "original": "When then have I told you that my head alone cannot be cut off?",
+          "vernacular": "我幾時話過,淨係我個頭係唔可以被斬嘅呢?",
+          "vernacularMandarin": "我幾時說過,只有我的頭是不可以被斬的呢?"
+        },
+        {
+          "id": "d1-9--sentence-5",
+          "title": "斬我個頭?我幾時話過淨係我個頭斬唔到",
+          "original": "These are the things which philosophers should meditate on, which they should write daily, in which they should exercise themselves.",
+          "vernacular": "呢啲就係哲學家應該日日深思、日日書寫、日日操練嘅嘢。",
+          "vernacularMandarin": "這些就是哲學家應該日日深思、日日書寫、日日操練的事。"
+        },
+        {
+          "id": "d1-10--sentence-1",
+          "title": "阿格里皮努斯話:我從來唔係自己嘅阻礙",
+          "original": "What then did Agrippinus say?",
+          "vernacular": "阿格里皮努斯又講過咩呢?",
+          "vernacularMandarin": "阿格里皮努斯又講過甚麼呢?"
+        },
+        {
+          "id": "d1-10--sentence-2",
+          "title": "阿格里皮努斯話:我從來唔係自己嘅阻礙",
+          "original": "He said, “I am not a hindrance to myself.”",
+          "vernacular": "佢話:「我唔係自己嘅阻礙。」",
+          "vernacularMandarin": "他說:「我不是自己的阻礙。」"
+        },
+        {
+          "id": "d1-10--sentence-3",
+          "title": "阿格里皮努斯話:我從來唔係自己嘅阻礙",
+          "original": "When it was reported to him that his trial was going on in the Senate, he said: “I hope it may turn out well; but it is the fifth hour of the day”—this was the time when he was used to exercise himself and then take the cold bath,—“let us go and take our exercise.”",
+          "vernacular": "當有人報告話,元老院正審緊佢個案嗰陣,佢話:「希望結果會好;不過而家係白晝第五個鐘頭」——嗰個係佢平時做運動然後沖冷水浴嘅時間——「不如我哋去做返運動先。」",
+          "vernacularMandarin": "當有人報告說,元老院正在審他個案的時候,他說:「希望結果會好;不過現在是白晝第五個鐘頭」——那是他平時做運動然後沖冷水浴的時間——「不如我們先去做運動吧。」"
+        },
+        {
+          "id": "d1-11--sentence-1",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "After he had taken his exercise, one comes and tells him, “You have been condemned.”",
+          "vernacular": "做完運動之後,有人嚟話佢知:「你俾人定咗罪喇。」",
+          "vernacularMandarin": "做完運動之後,有人來告訴他:「你被判罪了。」"
+        },
+        {
+          "id": "d1-11--sentence-2",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "“To banishment,” he replies, “or to death?”",
+          "vernacular": "佢問:「係流放,定係死刑?」「",
+          "vernacularMandarin": "他問:「是流放,還是死刑?」「"
+        },
+        {
+          "id": "d1-11--sentence-3",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "“To banishment.”",
+          "vernacular": "流放。」「",
+          "vernacularMandarin": "流放。」「"
+        },
+        {
+          "id": "d1-11--sentence-4",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "“What about my property?”",
+          "vernacular": "咁我啲財產呢?」「",
+          "vernacularMandarin": "那我的財產呢?」「"
+        },
+        {
+          "id": "d1-11--sentence-5",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "“It is not taken from you.”",
+          "vernacular": "冇俾人充公。」「",
+          "vernacularMandarin": "沒有被充公。」「"
+        },
+        {
+          "id": "d1-11--sentence-6",
+          "title": "判咗流放?咁不如去阿里恰食餐飯",
+          "original": "“Let us go to Aricia then,” he said, “and dine.”",
+          "vernacular": "咁不如我哋去阿里恰,」佢話,「食餐飯先。」",
+          "vernacularMandarin": "那不如我們去阿里恰,」他說,「先吃餐飯。」"
+        }
+      ]
+    },
+    {
+      "id": "disc-c2",
+      "title": "Of Providence 論天道",
+      "passages": [
+        {
+          "id": "d2-1",
+          "title": "識得敬奉天道,要有兩種特質",
+          "original": "From everything, which is or happens in the world, it is easy to praise Providence, if a man possesses these two qualities: the faculty of seeing what belongs and happens to all persons and things, and a grateful disposition.",
+          "vernacular": "喺呢個世界上發生嘅一切事,只要一個人具備兩種特質,就好容易可以讚頌天道:一種係識得洞察每個人同每件事嘅本質同際遇嘅能力,另一種係感恩嘅心。",
+          "vernacularMandarin": "在這個世界上發生的一切事,只要一個人具備兩種特質,就很容易可以讚頌天道:一種是懂得洞察每個人同每件事的本質同際遇的能力,另一種是感恩的心。"
+        },
+        {
+          "id": "d2-2",
+          "title": "冇呢兩種特質,就見唔到用處,亦都唔會感恩",
+          "original": "If he does not possess these two qualities, one man will not see the use of things which are and which happen: another will not be thankful for them, even if he does know them.",
+          "vernacular": "如果一個人冇呢兩種特質,咁一種人就會見唔到現存嘅事物同發生嘅事有咩用處;另一種人就算知道,都唔會心存感恩。",
+          "vernacularMandarin": "如果一個人沒有這兩種特質,那麼一種人就會看不到現存的事物同發生的事有甚麼用處;另一種人就算知道,也不會心存感恩。"
+        },
+        {
+          "id": "d2-3--sentence-1",
+          "title": "有色而冇視覺,或者有視覺而冇物件,都冇用",
+          "original": "If God had made colors, but had not made the faculty of seeing them, what would have been their use?",
+          "vernacular": "如果神造出咗顏色,卻冇造出睇見顏色嘅能力,咁顏色有咩用呢?",
+          "vernacularMandarin": "如果神造出了顏色,卻沒有造出看見顏色的能力,那麼顏色有甚麼用呢?"
+        },
+        {
+          "id": "d2-3--sentence-2",
+          "title": "有色而冇視覺,或者有視覺而冇物件,都冇用",
+          "original": "None at all.",
+          "vernacular": "完全冇用。",
+          "vernacularMandarin": "完全沒用。"
+        },
+        {
+          "id": "d2-3--sentence-3",
+          "title": "有色而冇視覺,或者有視覺而冇物件,都冇用",
+          "original": "On the other hand, if he had made the faculty of vision, but had not made objects such as to fall under the faculty, what in that case also would have been the use of it?",
+          "vernacular": "反過嚟講,如果神造出咗視覺嘅能力,卻冇造出可以俾視覺捕捉嘅物件,咁視覺又有咩用呢?",
+          "vernacularMandarin": "反過來講,如果神造出了視覺的能力,卻沒有造出可以被視覺捕捉的物件,那麼視覺又有甚麼用呢?"
+        },
+        {
+          "id": "d2-3--sentence-4",
+          "title": "有色而冇視覺,或者有視覺而冇物件,都冇用",
+          "original": "None at all.",
+          "vernacular": "一樣完全冇用。",
+          "vernacularMandarin": "一樣完全沒用。"
+        },
+        {
+          "id": "d2-4--sentence-1",
+          "title": "邊個將呢啲配合得咁啱?",
+          "original": "Well, suppose that he had made both, but had not made light?",
+          "vernacular": "好啦,就算兩樣都造埋出嚟,但冇造光呢?",
+          "vernacularMandarin": "好了,就算兩樣都造出來了,但沒有造光呢?"
+        },
+        {
+          "id": "d2-4--sentence-2",
+          "title": "邊個將呢啲配合得咁啱?",
+          "original": "In that case, also, they would have been of no use.",
+          "vernacular": "咁樣佢哋都係一樣冇用。",
+          "vernacularMandarin": "這樣它們都是一樣沒用。"
+        },
+        {
+          "id": "d2-4--sentence-3",
+          "title": "邊個將呢啲配合得咁啱?",
+          "original": "Who is it then who has fitted this to that and that to this?",
+          "vernacular": "到底係邊個,將呢件事同嗰件事配合得咁啱呢?",
+          "vernacularMandarin": "到底是誰,把這件事同那件事配合得這麼恰當呢?"
+        },
+        {
+          "id": "d2-5--sentence-1",
+          "title": "只有人先識得理解,動物淨係識用",
+          "original": "What, then, are these things done in us only?",
+          "vernacular": "咁樣,呢啲事係咪淨係為咗我哋人類先做嘅呢?",
+          "vernacularMandarin": "這樣,這些事是不是只是為了我們人類才做的呢?"
+        },
+        {
+          "id": "d2-5--sentence-2",
+          "title": "只有人先識得理解,動物淨係識用",
+          "original": "Many, indeed, in us only, of which the rational animal had peculiar need; but you will find many common to us with irrational animals.",
+          "vernacular": "當然有好多的確係專門為咗有理性嘅動物而做嘅,但你都會發現好多都係我哋同無理性嘅動物共有嘅。",
+          "vernacularMandarin": "當然有很多確實是專門為了有理性的動物而做的,但你也會發現很多都是我們同無理性的動物共有的。"
+        },
+        {
+          "id": "d2-5--sentence-3",
+          "title": "只有人先識得理解,動物淨係識用",
+          "original": "Do they then understand what is done?",
+          "vernacular": "咁佢哋會理解自己做緊嘅事咩?",
+          "vernacularMandarin": "那牠們會理解自己在做的事嗎?"
+        },
+        {
+          "id": "d2-5--sentence-4",
+          "title": "只有人先識得理解,動物淨係識用",
+          "original": "By no means.",
+          "vernacular": "完全唔會。",
+          "vernacularMandarin": "完全不會。"
+        },
+        {
+          "id": "d2-6--sentence-1",
+          "title": "識用同識理解係兩回事",
+          "original": "For use is one thing, and understanding is another; God had need of irrational animals to make use of appearances, but of us to understand the use of appearances.",
+          "vernacular": "因為「使用」係一回事,「理解」係另一回事;神需要無理性嘅動物去運用表象,但需要我哋去理解表象嘅運用。",
+          "vernacularMandarin": "因為「使用」是一回事,「理解」是另一回事;神需要無理性的動物去運用表象,但需要我們去理解表象的運用。"
+        },
+        {
+          "id": "d2-6--sentence-2",
+          "title": "識用同識理解係兩回事",
+          "original": "It is therefore enough for them to eat and to drink, and to copulate, and to do all the other things which they severally do.",
+          "vernacular": "所以對佢哋嚟講,食嘢、飲嘢、交配同其他各自嘅本能行為就已經夠晒。",
+          "vernacularMandarin": "所以對牠們來說,吃東西、喝東西、交配同其他各自的本能行為就已經足夠。"
+        },
+        {
+          "id": "d2-7",
+          "title": "但對俾埋咗理智嘅我哋,單單做呢啲仲未夠",
+          "original": "But for us, to whom he has given also the intellectual faculty, these things are not sufficient; for unless we act in a proper and orderly manner, and conformably to the nature and constitution of each thing, we shall never attain our true end.",
+          "vernacular": "但對我哋呢啲仲被賦予咗理智官能嘅人嚟講,單單做呢啲仲未夠;因為除非我哋行事有條理、合乎每件事嘅本性同構造,否則我哋永遠都達唔到自己真正嘅目的。",
+          "vernacularMandarin": "但對我們這些還被賦予了理智官能的人來說,單單做這些還不夠;因為除非我們行事有條理、合乎每件事的本性同構造,否則我們永遠都達不到自己真正的目的。"
+        },
+        {
+          "id": "d2-8--sentence-1",
+          "title": "構造唔同,行為同目的都唔同",
+          "original": "For where the constitutions of living beings are different, there also the acts and the ends are different.",
+          "vernacular": "因為生物嘅構造唔同,佢哋嘅行為同目的都會唔同。",
+          "vernacularMandarin": "因為生物的構造不同,牠們的行為同目的都會不同。"
+        },
+        {
+          "id": "d2-8--sentence-2",
+          "title": "構造唔同,行為同目的都唔同",
+          "original": "In those animals then whose constitution is adapted only to use, use alone is enough; but in an animal (man), which has also the power of understanding the use, unless there be the due exercise of the understanding, he will never attain his proper end.",
+          "vernacular": "喺嗰啲構造只係為咗「使用」嘅動物身上,單單使用就已經足夠;但喺一種動物(即係人)身上,佢仲有理解「使用」嘅能力,如果冇好好運用呢種理解力,佢就永遠達唔到自己應有嘅目的。",
+          "vernacularMandarin": "在那些構造只是為了「使用」的動物身上,單單使用就已經足夠;但在一種動物(也就是人)身上,牠還有理解「使用」的能力,如果沒有好好運用這種理解力,牠就永遠達不到自己應有的目的。"
+        },
+        {
+          "id": "d2-9",
+          "title": "有啲動物生嚟就係食物,有啲就係耕作、產奶",
+          "original": "Well then God constitutes every animal, one to be eaten, another to serve for agriculture, another to supply cheese, and another for some like use; for which purposes what need is there to understand appearances and to be able to distinguish them?",
+          "vernacular": "好啦,神就係咁樣安排每種動物,有啲係俾人食嘅,有啲係用嚟耕作嘅,有啲係產奶嘅,重有啲有類似嘅用途;為咗呢啲目的,佢哋又何需理解表象、辨別表象呢?",
+          "vernacularMandarin": "好了,神就是這樣安排每種動物,有些是給人吃的,有些是用來耕作的,有些是產奶的,還有些有類似的用途;為了這些目的,牠們又何需理解表象、辨別表象呢?"
+        },
+        {
+          "id": "d2-10--sentence-1",
+          "title": "但神將人設定成天道嘅觀眾兼詮釋者",
+          "original": "But God has introduced man to be a spectator of God and of his works; and not only a spectator of them, but an interpreter.",
+          "vernacular": "但係神將人引入呢個世界,係要做神同神所造之物嘅觀眾;而且唔單止係觀眾,仲要係詮釋者。",
+          "vernacularMandarin": "但是神把人引入這個世界,是要做神同神所造之物的觀眾;而且不單止是觀眾,還要是詮釋者。"
+        },
+        {
+          "id": "d2-10--sentence-2",
+          "title": "但神將人設定成天道嘅觀眾兼詮釋者",
+          "original": "For this reason it is shameful for man to begin and to end where irrational animals do;",
+          "vernacular": "所以人如果同無理性嘅動物一樣咁開始同結束自己嘅一生,係一件可恥嘅事;",
+          "vernacularMandarin": "所以人如果同無理性的動物一樣這樣開始同結束自己的一生,是一件可恥的事;"
+        },
+        {
+          "id": "d2-11--sentence-1",
+          "title": "自然喺我哋身上,以沉思同理解為終點",
+          "original": "but rather he ought to begin where they begin, and to end where nature ends in us; and nature ends in contemplation and understanding, and in a way of life conformable to nature.",
+          "vernacular": "反而,人應該喺動物開始嘅地方開始,但要喺自然喺我哋身上所設定嘅終點結束;而自然嘅終點,就係沉思、理解,以及一種合乎自然嘅生活方式。",
+          "vernacularMandarin": "反而,人應該在動物開始的地方開始,但要在自然在我們身上所設定的終點結束;而自然的終點,就是沉思、理解,以及一種合乎自然的生活方式。"
+        },
+        {
+          "id": "d2-11--sentence-2",
+          "title": "自然喺我哋身上,以沉思同理解為終點",
+          "original": "Take care then not to die without having been spectators of these things.",
+          "vernacular": "所以要小心,唔好未曾做過呢一切嘅觀眾就死去。",
+          "vernacularMandarin": "所以要小心,不要未曾做過這一切的觀眾就死去。"
+        },
+        {
+          "id": "d2-12--sentence-1",
+          "title": "去奧林匹亞睇菲迪亞斯嘅傑作,又點會唔想睇神嘅傑作?",
+          "original": "But you take a journey to Olympia to see the work of Phidias, and all of you think it a misfortune to die without having seen such things.",
+          "vernacular": "但你哋會不辭勞苦去奧林匹亞,睇菲迪亞斯嘅傑作,並且覺得未睇過呢啲嘢就死去係一種不幸。",
+          "vernacularMandarin": "但你們會不辭勞苦去奧林匹亞,看菲迪亞斯的傑作,並且覺得未看過這些東西就死去是一種不幸。"
+        },
+        {
+          "id": "d2-12--sentence-2",
+          "title": "去奧林匹亞睇菲迪亞斯嘅傑作,又點會唔想睇神嘅傑作?",
+          "original": "But when there is no need to take a journey, and where a man is, there he has the works (of God) before him, will you not desire to see and understand them?",
+          "vernacular": "但其實你哋根本唔使長途跋涉,凡係一個人所在之處,神嘅作品就擺喺佢面前——難道你哋唔想去睇、去理解呢啲作品咩?",
+          "vernacularMandarin": "但其實你們根本不用長途跋涉,凡是一個人所在之處,神的作品就擺在他面前——難道你們不想去看、去理解這些作品嗎?"
+        },
+        {
+          "id": "d2-13--sentence-1",
+          "title": "你冇諗過自己係咩,為乜而生咩?",
+          "original": "Will you not perceive either what you are, or what you were born for, or what this is for which you have received the faculty of sight?",
+          "vernacular": "你哋唔想搞清楚自己係咩、生嚟做咩、又係為咗乜嘢你哋先俾人賦予視覺呢種能力咩?",
+          "vernacularMandarin": "你們不想搞清楚自己是甚麼、生來做甚麼、又是為了甚麼你們才被賦予視覺這種能力嗎?"
+        },
+        {
+          "id": "d2-13--sentence-2",
+          "title": "你冇諗過自己係咩,為乜而生咩?",
+          "original": "But you may say, There are some things disagreeable and troublesome in life.",
+          "vernacular": "但你哋可能會話,人生入面有啲嘢係惹人厭、麻煩嘅。",
+          "vernacularMandarin": "但你們可能會說,人生裡面有些事是惹人厭、麻煩的。"
+        },
+        {
+          "id": "d2-13--sentence-3",
+          "title": "你冇諗過自己係咩,為乜而生咩?",
+          "original": "And are there none at Olympia?",
+          "vernacular": "咁奧林匹亞就冇呢啲嘢咩?",
+          "vernacularMandarin": "那奧林匹亞就沒有這些事嗎?"
+        },
+        {
+          "id": "d2-14--sentence-1",
+          "title": "奧林匹亞都一樣曬到、迫到、冇得沖涼、淋雨",
+          "original": "Are you not scorched?",
+          "vernacular": "你哋唔係一樣俾曬到滾熱辣咩?",
+          "vernacularMandarin": "你們不是一樣被曬得滾燙嗎?"
+        },
+        {
+          "id": "d2-14--sentence-2",
+          "title": "奧林匹亞都一樣曬到、迫到、冇得沖涼、淋雨",
+          "original": "Are you not pressed by a crowd?",
+          "vernacular": "一樣俾人潮迫到咩?",
+          "vernacularMandarin": "一樣被人潮迫到嗎?"
+        },
+        {
+          "id": "d2-14--sentence-3",
+          "title": "奧林匹亞都一樣曬到、迫到、冇得沖涼、淋雨",
+          "original": "Are you not without comfortable means of bathing?",
+          "vernacular": "一樣冇舒適嘅沖涼設施咩?",
+          "vernacularMandarin": "一樣沒有舒適的沖涼設施嗎?"
+        },
+        {
+          "id": "d2-14--sentence-4",
+          "title": "奧林匹亞都一樣曬到、迫到、冇得沖涼、淋雨",
+          "original": "Are you not wet when it rains?",
+          "vernacular": "落雨嗰陣一樣濕晒身咩?",
+          "vernacularMandarin": "下雨的時候一樣濕透全身嗎?"
+        },
+        {
+          "id": "d2-14--sentence-5",
+          "title": "奧林匹亞都一樣曬到、迫到、冇得沖涼、淋雨",
+          "original": "Have you not abundance of noise, clamor, and other disagreeable things?",
+          "vernacular": "一樣要忍受嘈吵、喧鬧同其他惹人厭嘅嘢咩?",
+          "vernacularMandarin": "一樣要忍受嘈吵、喧鬧同其他惹人厭的事嗎?"
+        },
+        {
+          "id": "d2-15--sentence-1",
+          "title": "但你哋會將呢啲同盛況相比,然後照樣忍受",
+          "original": "But I suppose that setting all these things off against the magnificence of the spectacle, you bear and endure.",
+          "vernacular": "但我諗你哋會將呢一切,同眼前壯麗嘅盛況相比較,然後照樣忍受同承受落嚟。",
+          "vernacularMandarin": "但我想你們會把這一切,同眼前壯麗的盛況相比較,然後照樣忍受同承受下來。"
+        },
+        {
+          "id": "d2-15--sentence-2",
+          "title": "但你哋會將呢啲同盛況相比,然後照樣忍受",
+          "original": "Well then and have you not received faculties by which you will be able to bear all that happens?",
+          "vernacular": "咁樣嘅話,你哋唔係一樣領受咗令你哋有能力承受一切遭遇嘅官能咩?",
+          "vernacularMandarin": "這樣的話,你們不是一樣領受了令你們有能力承受一切遭遇的官能嗎?"
+        },
+        {
+          "id": "d2-16--sentence-1",
+          "title": "你哋唔係一樣有胸襟、有陽剛、有耐力咩?",
+          "original": "Have you not received greatness of soul?",
+          "vernacular": "你哋唔係一樣領受咗博大嘅胸襟咩?",
+          "vernacularMandarin": "你們不是一樣領受了博大的胸襟嗎?"
+        },
+        {
+          "id": "d2-16--sentence-2",
+          "title": "你哋唔係一樣有胸襟、有陽剛、有耐力咩?",
+          "original": "Have you not received manliness?",
+          "vernacular": "唔係一樣領受咗陽剛之氣咩?",
+          "vernacularMandarin": "不是一樣領受了陽剛之氣嗎?"
+        },
+        {
+          "id": "d2-16--sentence-3",
+          "title": "你哋唔係一樣有胸襟、有陽剛、有耐力咩?",
+          "original": "Have you not received endurance?",
+          "vernacular": "唔係一樣領受咗耐力咩?",
+          "vernacularMandarin": "不是一樣領受了耐力嗎?"
+        },
+        {
+          "id": "d2-16--sentence-4",
+          "title": "你哋唔係一樣有胸襟、有陽剛、有耐力咩?",
+          "original": "And why do I trouble myself about anything that can happen if I possess greatness of soul?",
+          "vernacular": "如果我擁有博大嘅胸襟,我又何需為任何可能發生嘅事而煩惱呢?",
+          "vernacularMandarin": "如果我擁有博大的胸襟,我又何需為任何可能發生的事而煩惱呢?"
+        },
+        {
+          "id": "d2-17--sentence-1",
+          "title": "我點會為咗發生嘅事而分心、傷心、悲嘆?",
+          "original": "What shall distract my mind, or disturb me, or appear painful?",
+          "vernacular": "有咩可以令我分心、令我心緒不寧、或者顯得痛苦呢?",
+          "vernacularMandarin": "有甚麼可以令我分心、令我心緒不寧、或者顯得痛苦呢?"
+        },
+        {
+          "id": "d2-17--sentence-2",
+          "title": "我點會為咗發生嘅事而分心、傷心、悲嘆?",
+          "original": "Shall I not use the power for the purposes for which I received it, and shall I grieve and lament over what happens?",
+          "vernacular": "難道我唔應該將呢種能力用喺我獲得佢嘅本來目的上,而反過嚟為發生嘅事傷心悲嘆咩?",
+          "vernacularMandarin": "難道我不應該把這種能力用在我獲得它的本來目的上,而反過來為發生的事傷心悲嘆嗎?"
+        },
+        {
+          "id": "d2-18",
+          "title": "你都應該咁樣講:宙斯啊,隨便你降低咩考驗俾我",
+          "original": "Come, then, do you also having observed these things look to the faculties which you have, and when you have looked at them, say: Bring now, O Zeus, any difficulty that thou pleasest, for I have means given to me by thee and powers for honoring myself through the things which happen.",
+          "vernacular": "嚟啦,你都應該咁樣觀察自己所擁有嘅官能,睇清楚之後就講:宙斯啊,而家隨你意思降低任何考驗俾我,因為我已經有你賦予我嘅工具同能力,可以透過發生嘅事為自己爭光。",
+          "vernacularMandarin": "來吧,你也應該這樣觀察自己所擁有的官能,看清楚之後就說:宙斯啊,現在隨你的意思降下任何考驗給我,因為我已經有你賦予我的工具同能力,可以透過發生的事為自己爭光。"
+        },
+        {
+          "id": "d2-19--sentence-1",
+          "title": "但你哋卻坐喺度發抖,遇事就怪責神明",
+          "original": "You do not so; but you sit still, trembling for fear that some things will happen, and weeping, and lamenting, and groaning for what does happen; and then you blame the gods.",
+          "vernacular": "但你哋唔係咁樣做;反而坐喺度發抖,驚有啲事會發生,又喊又嘆又呻吟,然後就去怪責神明。",
+          "vernacularMandarin": "但你們不是這樣做;反而坐在那裡發抖,害怕有些事會發生,又哭又嘆又呻吟,然後就去怪責神明。"
+        },
+        {
+          "id": "d2-19--sentence-2",
+          "title": "但你哋卻坐喺度發抖,遇事就怪責神明",
+          "original": "For what is the consequence of such meanness of spirit but impiety?",
+          "vernacular": "因為呢種器量狹小嘅表現,除咗係不敬之外,仲會係咩呢?",
+          "vernacularMandarin": "因為這種器量狹小的表現,除了是不敬之外,還會是甚麼呢?"
+        },
+        {
+          "id": "d2-20",
+          "title": "神好似好君王同好父親咁,俾咗我哋自由運用嘅能力",
+          "original": "And yet God has not only given us these faculties, by which we shall be able to bear everything that happens without being depressed or broken by it; but, like a good king and a true father, He has given us these faculties free from hindrance, subject to no compulsion, unimpeded,",
+          "vernacular": "但神唔單止賜俾我哋呢啲能力,俾我哋可以承受一切發生嘅事而唔被壓垮、唔被擊倒;仲好似一位仁君、一位真正嘅父親咁,將呢啲能力賜俾我哋嗰陣,係完全自由、唔受任何強逼、暢通無阻嘅,",
+          "vernacularMandarin": "但神不單止賜給我們這些能力,讓我們可以承受一切發生的事而不被壓垮、不被擊倒;還好似一位仁君、一位真正的父親那樣,把這些能力賜給我們的時候,是完全自由、不受任何強迫、暢通無阻的,"
+        },
+        {
+          "id": "d2-21--sentence-1",
+          "title": "呢啲能力完全操之在我哋手,神都冇留返任何阻礙嘅權力",
+          "original": "and has put them entirely in our own power, without even having reserved to Himself any power of hindering or impeding.",
+          "vernacular": "並且將呢啲能力完全交喺我哋自己手中,連神自己都冇保留任何阻礙或者妨害嘅權力。",
+          "vernacularMandarin": "並且把這些能力完全交在我們自己手中,連神自己都沒有保留任何阻礙或者妨害的權力。"
+        },
+        {
+          "id": "d2-21--sentence-2",
+          "title": "呢啲能力完全操之在我哋手,神都冇留返任何阻礙嘅權力",
+          "original": "You, who have received these powers free and as your own, use them not; you do not even see what you have received, and from whom;",
+          "vernacular": "你哋呢啲免費領受咗呢啲能力、將佢哋當做自己所有嘅人,卻唔去運用佢哋;你哋甚至唔知道自己領受咗啲乜嘢、由邊個度領受;",
+          "vernacularMandarin": "你們這些免費領受了這些能力、把它們當作自己所有的人,卻不去運用它們;你們甚至不知道自己領受了些甚麼、從誰那裡領受;"
+        },
+        {
+          "id": "d2-22",
+          "title": "有啲人對施予者視而不見,有啲人反過嚟指控神",
+          "original": "some of you being blinded to the giver, and not even acknowledging your benefactor, and others, through meanness of spirit, betaking yourselves to fault-finding and making charges against God.",
+          "vernacular": "有啲人對施予者視而不見,甚至唔承認自己嘅恩人;有啲人就因為器量狹小,轉而挑錯處、指控神明。",
+          "vernacularMandarin": "有些人對施予者視而不見,甚至不承認自己的恩人;有些人就因為器量狹小,轉而挑錯處、指控神明。"
+        },
+        {
+          "id": "d2-23",
+          "title": "我可以話你知你有邊啲能力,但挑錯處嘅能力就你自己搵",
+          "original": "Yet I will show to you that you have powers and means for greatness of soul and manliness; but what powers you have for finding fault making accusations, do you show me.",
+          "vernacular": "但我可以話俾你哋知,你哋擁有邊啲能力同工具,可以造就胸襟同陽剛;至於挑錯處、提出指控嘅能力,你哋自己搵俾我睇吖。",
+          "vernacularMandarin": "但我可以告訴你們,你們擁有哪些能力同工具,可以造就胸襟同陽剛;至於挑錯處、提出指控的能力,你們自己找給我看吧。"
+        }
+      ]
+    },
+    {
+      "id": "disc-c3",
+      "title": "How We Should Behave to Tyrants 論點樣面對暴君",
+      "passages": [
+        {
+          "id": "d3-1",
+          "title": "未受教嘅人一有優勢就自滿",
+          "original": "If a man possesses any superiority, or thinks that he does when he does not, such a man, if he is uninstructed, will of necessity be puffed up through it.",
+          "vernacular": "一個人如果擁有任何優勢,或者以為自己有其實冇,咁樣呢個人,如果佢未受教化,就必然會因此而自我膨脹。",
+          "vernacularMandarin": "一個人如果擁有任何優勢,或者以為自己有其實沒有,那麼這個人,如果他未受教化,就必然會因此而自我膨脹。"
+        },
+        {
+          "id": "d3-2--sentence-1",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "For instance, the tyrant says, I am master of all!",
+          "vernacular": "例如暴君會話:「我係萬人之主!」",
+          "vernacularMandarin": "例如暴君會說:「我是萬人之主!」"
+        },
+        {
+          "id": "d3-2--sentence-2",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "And what can you do for me?",
+          "vernacular": "但你可以俾到我咩呢?",
+          "vernacularMandarin": "但你可以給到我甚麼呢?"
+        },
+        {
+          "id": "d3-2--sentence-3",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "Can you give me desire which shall have no hindrance?",
+          "vernacular": "你可以俾我一種永遠冇阻礙嘅渴求咩?",
+          "vernacularMandarin": "你可以給我一種永遠沒有阻礙的渴求嗎?"
+        },
+        {
+          "id": "d3-2--sentence-4",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "How can you?",
+          "vernacular": "你點做到呢?",
+          "vernacularMandarin": "你怎麼做到呢?"
+        },
+        {
+          "id": "d3-2--sentence-5",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "Have you the infallible power of avoiding what you would avoid?",
+          "vernacular": "你有百發百中避開自己想避開嘅嘢嘅能力咩?",
+          "vernacularMandarin": "你有百發百中避開自己想避開的事的能力嗎?"
+        },
+        {
+          "id": "d3-2--sentence-6",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "Have you the power of moving towards an object without error?",
+          "vernacular": "你有萬無一失走向目標嘅能力咩?",
+          "vernacularMandarin": "你有萬無一失走向目標的能力嗎?"
+        },
+        {
+          "id": "d3-2--sentence-7",
+          "title": "暴君話「我係萬人之主」——但佢俾唔到你冇阻礙嘅渴求",
+          "original": "And how do you possess this power?",
+          "vernacular": "你憑咩擁有呢種能力呢?",
+          "vernacularMandarin": "你憑甚麼擁有這種能力呢?"
+        },
+        {
+          "id": "d3-3--sentence-1",
+          "title": "喺船上你信舵手,喺車上你信車夫——你嘅權力喺邊?",
+          "original": "Come, when you are in a ship, do you trust to yourself or to the helmsman?",
+          "vernacular": "嚟,你喺船上嗰陣,你係信自己定係信舵手呢?",
+          "vernacularMandarin": "來,你在船上時,你是信自己還是信舵手呢?"
+        },
+        {
+          "id": "d3-3--sentence-2",
+          "title": "喺船上你信舵手,喺車上你信車夫——你嘅權力喺邊?",
+          "original": "And when you are in a chariot, to whom do you trust but to the driver?",
+          "vernacular": "你喺馬車上嗰陣,除咗信車夫,你仲信邊個呢?",
+          "vernacularMandarin": "你在馬車上時,除了信車夫,你還信誰呢?"
+        },
+        {
+          "id": "d3-3--sentence-3",
+          "title": "喺船上你信舵手,喺車上你信車夫——你嘅權力喺邊?",
+          "original": "And how is it in all other arts?",
+          "vernacular": "喺其他技藝方面又點呢?",
+          "vernacularMandarin": "在其他技藝方面又怎樣呢?"
+        },
+        {
+          "id": "d3-3--sentence-4",
+          "title": "喺船上你信舵手,喺車上你信車夫——你嘅權力喺邊?",
+          "original": "Just the same.",
+          "vernacular": "一樣道理。",
+          "vernacularMandarin": "一樣道理。"
+        },
+        {
+          "id": "d3-3--sentence-5",
+          "title": "喺船上你信舵手,喺車上你信車夫——你嘅權力喺邊?",
+          "original": "In what, then, lies your power?",
+          "vernacular": "咁樣,你嘅權力到底喺邊度呢?",
+          "vernacularMandarin": "這樣,你的權力到底在哪裡呢?"
+        },
+        {
+          "id": "d3-4--sentence-1",
+          "title": "眾人都敬重我——我都敬重我個碟",
+          "original": "All men pay respect to me.",
+          "vernacular": "「人人都敬重我。」",
+          "vernacularMandarin": "「人人都敬重我。」"
+        },
+        {
+          "id": "d3-4--sentence-2",
+          "title": "眾人都敬重我——我都敬重我個碟",
+          "original": "Well, I also pay respect to my platter, and I wash it and wipe it; and for the sake of my oil-flask, I drive a peg into the wall.",
+          "vernacular": "好啦,我都敬重我個碟,仲會清洗抹淨佢;為咗我個油瓶,我都會喺牆上釘返口釘。",
+          "vernacularMandarin": "好啊,我也敬重我的碟子,還會清洗抹淨它;為了我的油瓶,我也會在牆上釘回一口釘。"
+        },
+        {
+          "id": "d3-4--sentence-3",
+          "title": "眾人都敬重我——我都敬重我個碟",
+          "original": "Well, then, are these things superior to me?",
+          "vernacular": "咁呢啲嘢係咪就比我高級呢?",
+          "vernacularMandarin": "那這些東西是不是就比我高級呢?"
+        },
+        {
+          "id": "d3-4--sentence-4",
+          "title": "眾人都敬重我——我都敬重我個碟",
+          "original": "No, but they supply some of my wants, and for this reason I take care of them.",
+          "vernacular": "唔係,只不過佢哋滿足咗我某啲需要,所以我先咁樣照顧佢哋。",
+          "vernacularMandarin": "不是,只不過它們滿足了我某些需要,所以我才這樣照顧它們。"
+        },
+        {
+          "id": "d3-5",
+          "title": "我都照顧我隻驢,咁人哋對你嘅重視又同對驢有咩分別?",
+          "original": "Well, do I not attend to my ass? Do I not wash his feet? Do I not clean him? Do you not know that every man has regard to himself, and to you just the same as he has regard to his ass? For who has regard to you as a man? Show me. Who wishes to become like you? Who imitates you, as he imitates Socrates?",
+          "vernacular": "好啦,我唔係都照顧緊我隻驢咩?我唔係都幫佢洗腳、清潔佢咩?你知唔知,每個人都係咁樣睇重自己,睇重你都不過好似睇重佢隻驢咁樣?邊個真係將你當做一個人咁重視呢?話俾我聽吖。邊個想學做你?邊個好似學蘇格拉底咁去模仿你呢?",
+          "vernacularMandarin": "好啊,我不是都在照顧我的驢嗎?我不是都幫牠洗腳、清潔牠嗎?你知不知道,每個人都是這樣看重自己,看重你也不過好似看重牠的驢那樣?誰真的把你當作一個人那樣重視呢?告訴我吧。誰想學做你?誰好似學蘇格拉底那樣去模仿你呢?"
+        },
+        {
+          "id": "d3-6--sentence-1",
+          "title": "你可以斬我個頭——但我都會好似敬熱病咁敬你",
+          "original": "But I can cut off your head.",
+          "vernacular": "「但我可以斬咗你個頭。」",
+          "vernacularMandarin": "「但我可以斬了你的頭。」"
+        },
+        {
+          "id": "d3-6--sentence-2",
+          "title": "你可以斬我個頭——但我都會好似敬熱病咁敬你",
+          "original": "You say right.",
+          "vernacular": "你講得啱。",
+          "vernacularMandarin": "你說得對。"
+        },
+        {
+          "id": "d3-6--sentence-3",
+          "title": "你可以斬我個頭——但我都會好似敬熱病咁敬你",
+          "original": "I had forgotten that I must have regard to you, as I would to a fever and the bile, and raise an altar to you, as there is at Rome an altar to fever.",
+          "vernacular": "我倒忘記咗,我應該好似對熱病同膽汁咁樣重視你,仲要俾你立個祭壇——就好似羅馬有座熱病神壇咁。",
+          "vernacularMandarin": "我倒忘記了,我應該好似對熱病同膽汁那樣重視你,還要給你立個祭壇——就好似羅馬有座熱病神壇那樣。"
+        },
+        {
+          "id": "d3-7--sentence-1",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "What is it then that disturbs and terrifies the multitude?",
+          "vernacular": "咁到底係咩令群眾感到困擾同驚恐呢?",
+          "vernacularMandarin": "那到底是甚麼令群眾感到困擾同驚恐呢?"
+        },
+        {
+          "id": "d3-7--sentence-2",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "Is it the tyrant and his guards?",
+          "vernacular": "係暴君同佢嘅衛兵咩?(",
+          "vernacularMandarin": "是暴君同他的衛兵嗎?("
+        },
+        {
+          "id": "d3-7--sentence-3",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "(By no means.)",
+          "vernacular": "完全唔係。)",
+          "vernacularMandarin": "完全不是。)"
+        },
+        {
+          "id": "d3-7--sentence-4",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "I hope that it is not so.",
+          "vernacular": "我希望唔係。",
+          "vernacularMandarin": "我希望不是。"
+        },
+        {
+          "id": "d3-7--sentence-5",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "It is not possible that what is by nature free can be disturbed by anything else, or hindered by any other thing than by itself.",
+          "vernacular": "因為天生自由嘅嘢,係唔可能俾除咗自己之外嘅任何嘢困擾或者阻礙嘅。",
+          "vernacularMandarin": "因為天生自由的東西,是不可能被除了自己之外的任何東西困擾或者阻礙的。"
+        },
+        {
+          "id": "d3-7--sentence-6",
+          "title": "困擾同嚇怕群眾嘅,並唔係暴君,而係佢哋自己嘅睇法",
+          "original": "But it is a man’s own opinions which disturb him.",
+          "vernacular": "真正困擾一個人嘅,係佢自己嘅睇法。",
+          "vernacularMandarin": "真正困擾一個人的,是他自己的看法。"
+        },
+        {
+          "id": "d3-8--sentence-1",
+          "title": "睇重條腿嘅人就求饒,睇重意志嘅人就話「鎖啦」",
+          "original": "For when the tyrant says to a man, I will chain your leg, he who values his leg says, Do not; have pity.",
+          "vernacular": "所以當暴君對一個人講:「我會鎖住你條腿」嗰陣,睇重自己條腿嘅人就會話:「唔好呀,可憐吓我。」",
+          "vernacularMandarin": "所以當暴君對一個人說:「我會鎖住你的腿」的時候,看重自己那條腿的人就會說:「不要啊,可憐一下我。」"
+        },
+        {
+          "id": "d3-8--sentence-2",
+          "title": "睇重條腿嘅人就求饒,睇重意志嘅人就話「鎖啦」",
+          "original": "But he who values his own will says, If it appears more advantageous to you, chain it.",
+          "vernacular": "但睇重自己意志嘅人就會話:「如果你覺得咁樣對你有利,鎖啦。」",
+          "vernacularMandarin": "但看重自己意志的人就會說:「如果你覺得這樣對你有利,鎖吧。」"
+        },
+        {
+          "id": "d3-9--sentence-1",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "Do you not care?",
+          "vernacular": "「你唔在乎咩?」",
+          "vernacularMandarin": "「你不在乎嗎?」"
+        },
+        {
+          "id": "d3-9--sentence-2",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "I do not care.",
+          "vernacular": "我唔在乎。「",
+          "vernacularMandarin": "我不在乎。「"
+        },
+        {
+          "id": "d3-9--sentence-3",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "I will show you that I am master.",
+          "vernacular": "我會話你知邊個先係主人。」",
+          "vernacularMandarin": "我會讓你知道誰才是主人。」"
+        },
+        {
+          "id": "d3-9--sentence-4",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "You cannot do that.",
+          "vernacular": "你做唔到嘅。",
+          "vernacularMandarin": "你做不到的。"
+        },
+        {
+          "id": "d3-9--sentence-5",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "Zeus has set me free; do you think that he intended to allow his own son to be enslaved?",
+          "vernacular": "宙斯已經釋放咗我;你以為佢會容許自己嘅兒子被奴役咩?",
+          "vernacularMandarin": "宙斯已經釋放了我;你以為他會容許自己的兒子被奴役嗎?"
+        },
+        {
+          "id": "d3-9--sentence-6",
+          "title": "宙斯釋放咗我做自由人,你只不過係我具皮囊嘅主人",
+          "original": "But you are master of my carcase; take it.",
+          "vernacular": "你不過係我呢副軀殼嘅主人,攞去啦。",
+          "vernacularMandarin": "你不過是我這副軀殼的主人,拿去吧。"
+        },
+        {
+          "id": "d3-10--sentence-1",
+          "title": "我重視你嘅程度,就好似重視我個瓦罐",
+          "original": "So when you approach me, you have no regard to me?",
+          "vernacular": "「所以你接近我嗰陣,係咪完全唔重視我呢?」",
+          "vernacularMandarin": "「所以你接近我的時候,是不是完全不重視我呢?」"
+        },
+        {
+          "id": "d3-10--sentence-2",
+          "title": "我重視你嘅程度,就好似重視我個瓦罐",
+          "original": "No, but I have regard to myself; and if you wish me to say that I have regard to you also, I tell you that I have the same regard to you that I have to my pipkin.",
+          "vernacular": "唔係,我重視嘅係我自己;如果你想我講埋重視你,咁我話你知,我重視你嘅程度,就好似重視我個瓦罐咁。",
+          "vernacularMandarin": "不是,我重視的是我自己;如果你想我連你也重視,那我告訴你,我重視你的程度,就好似重視我的瓦罐那樣。"
+        },
+        {
+          "id": "d3-11--sentence-1",
+          "title": "荒謬地將唔操之在我嘅嘢當做好壞,先至要巴結暴君",
+          "original": "What then?",
+          "vernacular": "咁又點呢?",
+          "vernacularMandarin": "那又怎樣呢?"
+        },
+        {
+          "id": "d3-11--sentence-2",
+          "title": "荒謬地將唔操之在我嘅嘢當做好壞,先至要巴結暴君",
+          "original": "When absurd notions about things independent of our will, as if they were good and (or) bad, lie at the bottom of our opinions, we must of necessity pay regard to tyrants: for I wish that men would pay regard to tyrants only, and not also to the bedchamber men.",
+          "vernacular": "當人哋將唔操之在我嘅嘢,荒謬地當做係好或者壞,而呢種睇法成為心底嘅根基,咁人就必然要巴結暴君——我倒希望人哋只係巴結暴君,而唔使連寢宮嘅侍從都要巴結。",
+          "vernacularMandarin": "當人們把不操之在我的事物,荒謬地當作是好或者壞,而這種看法成為心底的根基,那麼人就必然要巴結暴君——我倒希望人們只是巴結暴君,而不用連寢宮的侍從都要巴結。"
+        },
+        {
+          "id": "d3-12--sentence-1",
+          "title": "凱撒一封佢做總管,佢即刻變聰明咗?",
+          "original": "How is it that the man becomes all at once wise, when Cæsar has made him superintendent of the close stool?",
+          "vernacular": "點解一個人俾凱撒封做便桶總管,佢就即刻變得咁有智慧呢?",
+          "vernacularMandarin": "為甚麼一個人被凱撒封做便桶總管,他就立刻變得這麼有智慧呢?"
+        },
+        {
+          "id": "d3-12--sentence-2",
+          "title": "凱撒一封佢做總管,佢即刻變聰明咗?",
+          "original": "How is it that we say immediately, Felicion spoke sensibly to me?",
+          "vernacular": "點解我哋會即刻話:「菲利喬啱啱同我講嘅嘢好有見地」?",
+          "vernacularMandarin": "為甚麼我們會立刻說:「菲利喬剛剛跟我說的話很有見地」?"
+        },
+        {
+          "id": "d3-12--sentence-3",
+          "title": "凱撒一封佢做總管,佢即刻變聰明咗?",
+          "original": "I wish he were ejected from the bedchamber, that he might again appear to you to be a fool.",
+          "vernacular": "我倒希望佢俾人踢出寢宮,咁樣佢喺你眼中先至會再次顯得係個蠢人。",
+          "vernacularMandarin": "我倒希望他被人踢出寢宮,這樣他在你眼中才會再次顯得是個蠢人。"
+        },
+        {
+          "id": "d3-13--sentence-1",
+          "title": "升咗做護民官,人人都恭賀、燒香拜神",
+          "original": "Has a man been exalted to the tribuneship?",
+          "vernacular": "有人升咗做護民官?",
+          "vernacularMandarin": "有人升了做護民官?"
+        },
+        {
+          "id": "d3-13--sentence-2",
+          "title": "升咗做護民官,人人都恭賀、燒香拜神",
+          "original": "All who meet him offer their congratulations; one kisses his eyes, another the neck, and the slaves kiss his hands.",
+          "vernacular": "所有遇見佢嘅人都紛紛道賀;有人錫佢眼,有人錫佢頸,連奴僕都爭住錫佢隻手。",
+          "vernacularMandarin": "所有遇見他的人都紛紛道賀;有人親吻他的眼睛,有人親吻他的頸,連奴僕都爭著親吻他的手。"
+        },
+        {
+          "id": "d3-13--sentence-3",
+          "title": "升咗做護民官,人人都恭賀、燒香拜神",
+          "original": "He goes to his house, he finds torches lighted.",
+          "vernacular": "佢返到屋企,發現火把已經點著晒。",
+          "vernacularMandarin": "他回到家裡,發現火把已經點著了。"
+        },
+        {
+          "id": "d3-13--sentence-4",
+          "title": "升咗做護民官,人人都恭賀、燒香拜神",
+          "original": "He ascends the Capitol; he offers a sacrifice on the occasion.",
+          "vernacular": "佢再上卡皮托山,為呢件事獻祭。",
+          "vernacularMandarin": "他再上卡皮托山,為這件事獻祭。"
+        },
+        {
+          "id": "d3-14",
+          "title": "有邊個因為心懷善願、行事合乎本性而獻祭?",
+          "original": "Now who ever sacrificed for having had good desires? for having acted conformably to nature? For in fact we thank the gods for those things in which we place our good.",
+          "vernacular": "但有邊個曾經因為自己心懷良好嘅渴求、或者行事合乎本性,而去獻祭呢?因為事實上,我哋只會為自己安放咗「善」嘅嗰啲嘢而感謝神明。",
+          "vernacularMandarin": "但有誰曾經因為自己心懷良好的渴求、或者行事合乎本性,而去獻祭呢?因為事實上,我們只會為自己安放了「善」的那些東西而感謝神明。"
+        },
+        {
+          "id": "d3-15--sentence-1",
+          "title": "有人今日同我傾奧古斯都祭司職位嘅事",
+          "original": "A person was talking to me to-day about the priesthood of Augustus.",
+          "vernacular": "今日有個人同我傾緊奧古斯都祭司職位嘅事。",
+          "vernacularMandarin": "今日有個人跟我談奧古斯都祭司職位的事。"
+        },
+        {
+          "id": "d3-15--sentence-2",
+          "title": "有人今日同我傾奧古斯都祭司職位嘅事",
+          "original": "I say to him: Man, let the thing alone; you will spend much for no purpose.",
+          "vernacular": "我同佢講:老兄,呢件事由佢去啦,你會枉花好多錢。",
+          "vernacularMandarin": "我跟他說:老兄,這件事由它去吧,你會枉花很多錢。"
+        },
+        {
+          "id": "d3-15--sentence-3",
+          "title": "有人今日同我傾奧古斯都祭司職位嘅事",
+          "original": "But he replies, Those who draw up agreements will write my name.",
+          "vernacular": "但佢答我話:嗰啲負責草擬合約嘅人,會將我個名寫落去。",
+          "vernacularMandarin": "但他回答我說:那些負責草擬合約的人,會把我的名字寫上去。"
+        },
+        {
+          "id": "d3-16--sentence-1",
+          "title": "你死咗之後,個名寫喺石頭都冇用",
+          "original": "Do you then stand by those who read them, and say to such persons, It is I whose name is written there?",
+          "vernacular": "咁你會唔會企埋去,對睇緊合約嘅人講:「呢個寫住嘅名就係我」呢?",
+          "vernacularMandarin": "那你會不會站到旁邊,對正在看合約的人說:「這個寫著的名字就是我」呢?"
+        },
+        {
+          "id": "d3-16--sentence-2",
+          "title": "你死咗之後,個名寫喺石頭都冇用",
+          "original": "And if you can now be present on ail such occasions, what will you do when you are dead?",
+          "vernacular": "就算你而家可以出席晒所有呢類場合,你死咗之後又點呢?「",
+          "vernacularMandarin": "就算你現在可以出席所有這類場合,你死了之後又怎樣呢?「"
+        },
+        {
+          "id": "d3-16--sentence-3",
+          "title": "你死咗之後,個名寫喺石頭都冇用",
+          "original": "My name will remain.",
+          "vernacular": "我個名會留低。」",
+          "vernacularMandarin": "我的名字會留下。」"
+        },
+        {
+          "id": "d3-16--sentence-4",
+          "title": "你死咗之後,個名寫喺石頭都冇用",
+          "original": "Write it on a stone, and it will remain.",
+          "vernacular": "你將佢刻喺塊石上,佢都一樣會留低。",
+          "vernacularMandarin": "你把它刻在石頭上,它也一樣會留下。"
+        },
+        {
+          "id": "d3-17--sentence-1",
+          "title": "尼科波利斯以外,又有邊個會記得你?玫瑰花環反而更靚",
+          "original": "But come, what remembrance of you will there be beyond Nicopolis?",
+          "vernacular": "但係,尼科波利斯以外,又會有邊個記得你呢?「",
+          "vernacularMandarin": "但是,尼科波利斯以外,又會有誰記得你呢?「"
+        },
+        {
+          "id": "d3-17--sentence-2",
+          "title": "尼科波利斯以外,又有邊個會記得你?玫瑰花環反而更靚",
+          "original": "But I shall wear a crown of gold.",
+          "vernacular": "但我會戴上一頂金冠。」",
+          "vernacularMandarin": "但我會戴上一頂金冠。」"
+        },
+        {
+          "id": "d3-17--sentence-3",
+          "title": "尼科波利斯以外,又有邊個會記得你?玫瑰花環反而更靚",
+          "original": "If you desire a crown at all, take a crown of roses and put it on, for it will be more elegant in appearance.",
+          "vernacular": "如果你真係想要一頂冠冕,不如攞一頂玫瑰花環戴上,睇落仲更加優雅。",
+          "vernacularMandarin": "如果你真的想要一頂冠冕,不如拿一頂玫瑰花環戴上,看起來還更加優雅。"
+        }
+      ]
+    },
+    {
+      "id": "disc-c4",
+      "title": "On Friendship 論友誼",
+      "passages": [
+        {
+          "id": "d4-1--sentence-1",
+          "title": "人真心投入嘅嘢,先至會真心鍾意",
+          "original": "What a man applies himself to earnestly, that he naturally loves.",
+          "vernacular": "一個人真心投入嘅嘢,佢自然就會鍾意。",
+          "vernacularMandarin": "一個人真心投入的東西,他自然就會喜愛。"
+        },
+        {
+          "id": "d4-1--sentence-2",
+          "title": "人真心投入嘅嘢,先至會真心鍾意",
+          "original": "Do men then apply themselves earnestly to the things which are bad?",
+          "vernacular": "人會真心投入去做壞事咩?",
+          "vernacularMandarin": "人會真心投入去做壞事嗎?"
+        },
+        {
+          "id": "d4-1--sentence-3",
+          "title": "人真心投入嘅嘢,先至會真心鍾意",
+          "original": "By no means.",
+          "vernacular": "完全唔會。",
+          "vernacularMandarin": "完全不會。"
+        },
+        {
+          "id": "d4-1--sentence-4",
+          "title": "人真心投入嘅嘢,先至會真心鍾意",
+          "original": "Well, do they apply themselves to things which in no way concern themselves?",
+          "vernacular": "咁人會真心投入啲同自己完全冇關嘅事咩?",
+          "vernacularMandarin": "那人會真心投入一些同自己完全無關的事嗎?"
+        },
+        {
+          "id": "d4-1--sentence-5",
+          "title": "人真心投入嘅嘢,先至會真心鍾意",
+          "original": "Not to these either.",
+          "vernacular": "都唔會。",
+          "vernacularMandarin": "也不會。"
+        },
+        {
+          "id": "d4-2",
+          "title": "所以人只會真心投入喺善嘅嘢上,亦都因此鍾意佢",
+          "original": "It remains then that they employ themselves earnestly only about things which are good; and if they are earnestly employed about things, they love such things also.",
+          "vernacular": "所以剩返嘅結論就係:人只會真心投入喺善嘅嘢上面;而如果佢哋真心投入某啲嘢,佢哋亦都會鍾意呢啲嘢。",
+          "vernacularMandarin": "所以剩下的結論就是:人只會真心投入在善的事物上面;而如果他們真心投入某些事物,他們也會喜愛這些事物。"
+        },
+        {
+          "id": "d4-3--sentence-1",
+          "title": "只有智者先識得愛",
+          "original": "Whoever then understands what is good can also know how to love; but he who cannot distinguish good from bad, and things which are neither good nor bad from both, how can he possess the power of loving?",
+          "vernacular": "咁樣,識得分辨善嘅人,先至識得點樣去愛;但一個連善同惡、以及非善非惡嘅嘢都分唔清嘅人,又點會擁有愛嘅能力呢?",
+          "vernacularMandarin": "這樣,懂得分辨善的人,才懂得怎樣去愛;但一個連善同惡、以及非善非惡的東西都分不清的人,又怎會擁有愛的能力呢?"
+        },
+        {
+          "id": "d4-3--sentence-2",
+          "title": "只有智者先識得愛",
+          "original": "To love, then, is only in the power of the wise.",
+          "vernacular": "所以,愛只係智者先擁有嘅能力。",
+          "vernacularMandarin": "所以,愛只是智者才擁有的能力。"
+        },
+        {
+          "id": "d4-4--sentence-1",
+          "title": "每種動物最緊要嘅係自己嘅利益",
+          "original": "For universally, be not deceived, every animal is attached to nothing so much as to its own interests.",
+          "vernacular": "因為講到底,唔好俾人呃咗——每種動物最緊要嘅始終係自己嘅利益。",
+          "vernacularMandarin": "因為說到底,不要被騙了——每種動物最緊要的始終是自己的利益。"
+        },
+        {
+          "id": "d4-4--sentence-2",
+          "title": "每種動物最緊要嘅係自己嘅利益",
+          "original": "Whatever then appears to it an impediment to this interest, whether this be a brother, or a father, or a child, or beloved, or lover, it hates, spurns, curses;",
+          "vernacular": "凡係睇落阻礙咗呢個利益嘅嘢,無論係兄弟、父親、仔女、愛人定係戀人,佢都會憎恨、唾棄、咒罵;",
+          "vernacularMandarin": "凡是看起來阻礙了這個利益的東西,無論是兄弟、父親、兒女、愛人還是戀人,牠都會憎恨、唾棄、咒罵;"
+        },
+        {
+          "id": "d4-5",
+          "title": "佢嘅本性就係最鍾意自己嘅利益,勝過父親、兄弟、國家同神明",
+          "original": "for its nature is to love nothing so much as its own interests: this is father, and brother, and kinsman, and country, and God.",
+          "vernacular": "因為佢嘅本性,就係最鍾意自己嘅利益——利益就係佢嘅父親、兄弟、親人、國家同神明。",
+          "vernacularMandarin": "因為牠的本性,就是最喜愛自己的利益——利益就是牠的父親、兄弟、親人、國家同神明。"
+        },
+        {
+          "id": "d4-6",
+          "title": "神明一旦阻礙利益,我哋就辱罵神、燒毀神廟",
+          "original": "When then the gods appear to us to be an impediment to this, we abuse them and throw down their statues and burn their temples, as Alexander ordered the temples of Aesculapius to be burned when his dear friend died.",
+          "vernacular": "所以一旦神明喺我哋眼中變成呢種利益嘅阻礙,我哋就會辱罵神明,推倒佢哋嘅雕像,燒毀佢哋嘅神廟——就好似亞歷山大喺摯友死咗嗰陣,下令燒毀阿斯克勒庇俄斯嘅神廟咁樣。",
+          "vernacularMandarin": "所以一旦神明在我們眼中變成這種利益的阻礙,我們就會辱罵神明,推倒他們的雕像,燒毀他們的神廟——就好似亞歷山大在摯友死了的時候,下令燒毀阿斯克勒庇俄斯的神廟那樣。"
+        },
+        {
+          "id": "d4-7",
+          "title": "利益同操守放埋一處,一切先至穩固",
+          "original": "For this reason, if a man put in the same place his interest, sanctity, goodness, and country, and parents, and friends, all these are secured: but if he puts in one place his interest, in another his friends, and his country and his kinsmen and justice itself, all these give way, being borne down by the weight of interest.",
+          "vernacular": "所以,如果一個人將利益,同神聖、善良、國家、父母、朋友放喺同一個地方,呢一切就會穩固;但如果佢將利益放喺一個地方,將朋友、國家、親人同公義本身放喺另一個地方,咁呢一切都會被利益嘅重量壓垮而讓步。",
+          "vernacularMandarin": "所以,如果一個人把利益,同神聖、善良、國家、父母、朋友放在同一個地方,這一切就會穩固;但如果他把利益放在一個地方,把朋友、國家、親人同公義本身放在另一個地方,那麼這一切都會被利益的重量壓垮而讓步。"
+        },
+        {
+          "id": "d4-8",
+          "title": "「我」同「我嘅」擺喺邊,個體就必然傾向邊",
+          "original": "For where the I and the Mine are placed, to that place of necessity the animal inclines; if in the flesh, there is the ruling power; if in the will, it is there; and if it is in externals, it is there.",
+          "vernacular": "因為凡係「我」同「我嘅」所擺放嘅地方,呢個生物就必然會傾向嗰個地方;如果擺喺肉身,主導力量就喺嗰度;如果擺喺意志,就喺嗰度;如果擺喺外物,就喺嗰度。",
+          "vernacularMandarin": "因為凡是「我」同「我的」所擺放的地方,這個生物就必然會傾向那個地方;如果擺在肉身,主導力量就在那裡;如果擺在意志,就在那裡;如果擺在外物,就在那裡。"
+        },
+        {
+          "id": "d4-9",
+          "title": "只有我嘅重心喺意志,我先至可以做返真正嘅朋友、兒子、父親",
+          "original": "If then I am there where my will is, then only shall I be a friend such as I ought to be, and son, and father; for this will be my interest, to maintain the character of fidelity, of modesty, of patience, of abstinence, of active co-operation, of observing my relations (towards all).",
+          "vernacular": "所以只有當我嘅重心喺我意志嗰度,我先至可以成為一個真正應有嘅朋友、兒子同父親;因為咁樣我嘅利益就會係:堅守忠誠、謙遜、忍耐、節制、積極合作,並且恪守我對一切人嘅本份關係。",
+          "vernacularMandarin": "所以只有當我的重心在我意志那裡,我才可以成為一個真正應有的朋友、兒子同父親;因為這樣我的利益就會是:堅守忠誠、謙遜、忍耐、節制、積極合作,並且恪守我對一切人的本份關係。"
+        },
+        {
+          "id": "d4-10",
+          "title": "但如果我同誠實各處一方,伊壁鳩魯嘅學說就會乘虛而入",
+          "original": "But if I put myself in one place, and honesty in another, then the doctrine of Epicurus becomes strong, which asserts either that there is no honesty or it is that which opinion holds to be honest (virtuous).",
+          "vernacular": "但如果我將自己放喺一個地方,將誠實放喺另一個地方,咁伊壁鳩魯嘅學說就會變得強而有力——嗰種主張根本冇誠實可言、或者誠實只不過係一種見仁見智嘅睇法嘅學說。",
+          "vernacularMandarin": "但如果我把自己放在一個地方,把誠實放在另一個地方,那伊壁鳩魯的學說就會變得強而有力——那種主張根本沒有誠實可言、或者誠實只不過是一種見仁見智的看法的學說。"
+        },
+        {
+          "id": "d4-11--sentence-1",
+          "title": "雅典同斯巴達反目、特洛伊戰爭,都係源於呢種無知",
+          "original": "It was through this ignorance that the Athenians and the Lacedaemonians quarrelled, and the Thebans with both; and the great king quarrelled with Hellas, and the Macedonians with both: and the Romans with the Getae.",
+          "vernacular": "正正係基於呢種無知,雅典人同斯巴達人先至反目,底比斯人又同兩者交惡;波斯大王同希臘交戰,馬其頓人又同兩者交戰;羅馬人又同蓋塔人交戰。",
+          "vernacularMandarin": "正是基於這種無知,雅典人同斯巴達人才反目,底比斯人又同兩者交惡;波斯大王同希臘交戰,馬其頓人又同兩者交戰;羅馬人又同蓋塔人交戰。"
+        },
+        {
+          "id": "d4-11--sentence-2",
+          "title": "雅典同斯巴達反目、特洛伊戰爭,都係源於呢種無知",
+          "original": "And still earlier the Trojan war happened for these reasons.",
+          "vernacular": "更早之前,特洛伊戰爭嘅爆發都係基於呢啲原因。",
+          "vernacularMandarin": "更早之前,特洛伊戰爭的爆發都是基於這些原因。"
+        },
+        {
+          "id": "d4-12--sentence-1",
+          "title": "阿歷山大同墨涅拉俄斯情同手足,一個美女就令佢哋反目",
+          "original": "Alexander was the guest of Menelaus, and if any man had seen their friendly disposition, he would not have believed any one who said that they were not friends.",
+          "vernacular": "阿歷山大曾經係墨涅拉俄斯嘅賓客,如果有人見過佢哋之間友好嘅樣子,絕對唔會相信有人話佢哋唔係朋友。",
+          "vernacularMandarin": "阿歷山大曾經是墨涅拉俄斯的賓客,如果有人見過他們之間友好的樣子,絕對不會相信有人說他們不是朋友。"
+        },
+        {
+          "id": "d4-12--sentence-2",
+          "title": "阿歷山大同墨涅拉俄斯情同手足,一個美女就令佢哋反目",
+          "original": "But there was cast between them (as between dogs) a bit of meat, a handsome woman, and about her war arose.",
+          "vernacular": "但一件肉(好似兩隻狗爭骨頭咁)——一個美豔嘅女子——投擲喺佢哋中間,戰爭就因為佢而爆發咗。",
+          "vernacularMandarin": "但一塊肉(好似兩隻狗爭骨頭那樣)——一個美豔的女子——投擲在他們中間,戰爭就因為她而爆發了。"
+        },
+        {
+          "id": "d4-13",
+          "title": "見到兄弟情同手足,都唔可以單憑呢個就斷定佢哋嘅友誼",
+          "original": "And now when you see brothers to be friends appearing to have one mind, do not conclude from this anything about their friendship, not even if they swear it and say that it is impossible for them to be separated from one another.",
+          "vernacular": "所以而家當你見到兄弟之間友愛,睇落同心同德嗰陣,唔好單憑呢個就斷定佢哋嘅友誼——就算佢哋發誓話永不分離都好。",
+          "vernacularMandarin": "所以現在當你見到兄弟之間友愛,看起來同心同德的時候,不要單憑這個就斷定他們的友誼——就算他們發誓說永不分離也好。"
+        },
+        {
+          "id": "d4-14",
+          "title": "壞人嘅主導原則唔可信,飄忽不定",
+          "original": "For the ruling principle of a bad man cannot be trusted; it is insecure, has no certain rule by which it is directed, and is overpowered at different times by different appearances.",
+          "vernacular": "因為一個壞人嘅主導原則係唔可信嘅;佢並唔穩固,冇一定嘅準則去指引,喺唔同時候俾唔同嘅表象牽著鼻子走。",
+          "vernacularMandarin": "因為一個壞人的主導原則是不可信的;他並不穩固,沒有一定的準則去指引,在不同時候被不同的表象牽著鼻子走。"
+        },
+        {
+          "id": "d4-15",
+          "title": "唔好睇佢哋係咪同父母、同老師,要睇佢哋將利益放喺邊",
+          "original": "But examine, not what other men examine, if they are born of the same parents and brought up together, and under the same pedagogue; but examine this only, wherein they place their interest, whether in externals or in the will.",
+          "vernacular": "但你要審視嘅,唔係其他人所審視嘅嗰啲事情——佢哋係咪同一對父母所生、一齊長大、跟同一個老師受教;你應該淨係審視呢一點:佢哋將自己嘅利益放喺邊度——係外物,定係意志。",
+          "vernacularMandarin": "但你要審視的,不是其他人所審視的那些事情——他們是不是同一對父母所生、一起長大、跟同一個老師受教;你應該只審視這一點:他們把自己的利益放在哪裡——是外物,還是意志。"
+        },
+        {
+          "id": "d4-16",
+          "title": "放喺外物,就唔配叫做朋友,甚至唔配叫做人",
+          "original": "If in externals, do not name them friends, no more than name them trustworthy or constant, or brave or free; do not name them even men, if you have any judgment.",
+          "vernacular": "如果放喺外物,咁就唔好叫佢哋做朋友,亦都唔好叫佢哋做可信、忠貞、勇敢或者自由——如果你有判斷力嘅話,甚至連「人」都唔好叫佢哋做。",
+          "vernacularMandarin": "如果放在外物,那就不要叫他們做朋友,也不要叫他們做可信、忠貞、勇敢或者自由——如果你有判斷力的話,甚至連「人」都不要叫他們做。"
+        },
+        {
+          "id": "d4-17",
+          "title": "互相撕咬、辱罵、行劫,並唔係人性嘅本份",
+          "original": "For that is not a principle of human nature which makes them bite one another, and abuse one another, and occupy deserted places or public places, as if they were mountains, and in the courts of justice display the acts of robbers;",
+          "vernacular": "因為令佢哋互相撕咬、互相辱罵、佔據荒野或者公共場所(好似進佔山頭咁)、喺法庭上表演劫匪嘅行徑,呢啲並唔係人性應有嘅原則;",
+          "vernacularMandarin": "因為令他們互相撕咬、互相辱罵、佔據荒野或者公共場所(好似進佔山頭那樣)、在法庭上表演劫匪的行徑,這些並不是人性應有的原則;"
+        },
+        {
+          "id": "d4-18",
+          "title": "令佢哋放縱、通姦、腐化,都係源於呢一個睇法——將利益放喺意志以外",
+          "original": "nor yet that which makes them intemperate and adulterers and corrupters, nor that which makes them do whatever else men do against one another through this one opinion only, that of placing themselves and their interests in the things which are not within the power of their will.",
+          "vernacular": "令佢哋放縱無度、通姦、腐化墮落,以及做出人哋互相加害嘅任何其他事,都係源於同一個睇法——就係將自己同自己嘅利益,放喺意志嘅範圍之外。",
+          "vernacularMandarin": "令他們放縱無度、通姦、腐化墮落,以及做出人們互相加害的任何其他事,都是源於同一個看法——就是把自己同自己的利益,放在意志的範圍之外。"
+        },
+        {
+          "id": "d4-19",
+          "title": "但如果聽聞佢哋真係只將善放喺意志、放喺正確運用表象嗰度",
+          "original": "But if you hear that in truth these men think the good to be only there, where will is, and where there is a right use of appearances, no longer trouble yourself whether they are father or son, or brothers, or have associated a long time and are companions,",
+          "vernacular": "但如果你聽聞呢啲人真係只將善,放喺意志所在、放喺表象嘅正確運用之處,咁你就唔使再操心佢哋係咪父子、兄弟,或者相交已久嘅同伴,",
+          "vernacularMandarin": "但如果你聽聞這些人真的只把善,放在意志所在、放在表象的正確運用之處,那你就不用再操心他們是不是父子、兄弟,或者相交已久的同伴,"
+        },
+        {
+          "id": "d4-20--sentence-1",
+          "title": "只要確認呢一點,就可以放心宣稱佢哋係朋友——友誼只在忠誠謙遜之處",
+          "original": "but when you have ascertained this only, confidently declare that they are friends, as you declare that they are faithful, that they are just.",
+          "vernacular": "只要確認咗呢一點,你就可以滿懷信心咁宣稱佢哋係朋友,就好似你宣稱佢哋忠信、公義一樣。",
+          "vernacularMandarin": "只要確認了這一點,你就可以滿懷信心地宣稱他們是朋友,就好似你宣稱他們忠信、公義一樣。"
+        },
+        {
+          "id": "d4-20--sentence-2",
+          "title": "只要確認呢一點,就可以放心宣稱佢哋係朋友——友誼只在忠誠謙遜之處",
+          "original": "For where else is friendship than where there is fidelity, and modesty, where there is a communion of honest things and of nothing else.",
+          "vernacular": "因為除咗有忠誠、有謙遜、有純粹嘅美德相通之外,友誼仲可以喺邊度呢?",
+          "vernacularMandarin": "因為除了有忠誠、有謙遜、有純粹的美德相通之外,友誼還可以在哪裡呢?"
+        },
+        {
+          "id": "d4-21--sentence-1",
+          "title": "佢對你咁好咁耐,就等於愛你咩?",
+          "original": "But you may say, Such a one treated me with regard so long; and did he not love me?",
+          "vernacular": "但你可能會話:呢個人對我咁樣關照咗咁耐,佢唔係鍾意我咩?",
+          "vernacularMandarin": "但你可能會說:這個人對我這樣關照了這麼久,他不是喜歡我嗎?"
+        },
+        {
+          "id": "d4-21--sentence-2",
+          "title": "佢對你咁好咁耐,就等於愛你咩?",
+          "original": "How do you know, slave, if he did not regard you in the same way as he wipes his shoes with a sponge, or as he takes care of his beast?",
+          "vernacular": "奴隸,你點知佢對你嘅關照,唔係好似佢用海綿抹鞋、或者照顧自己啲牲口咁樣呢?",
+          "vernacularMandarin": "奴隸,你怎知他對你的關照,不是好似他用海綿抹鞋、或者照顧自己的牲口那樣呢?"
+        },
+        {
+          "id": "d4-22",
+          "title": "一旦你冇用,佢會唔會好似掉爛碟咁掉咗你?",
+          "original": "How do you know, when you have ceased to be useful as a vessel, he will not throw you away like a broken platter? But this woman is my wife, and we have lived together so long. And how long did Eriphyle live with Amphiaraus, and was the mother of children and of many?",
+          "vernacular": "你點知一旦你唔再有用,佢唔會好似掉一隻爛咗嘅碟咁樣掉咗你呢?「但呢個女人係我老婆,我哋一齊生活咗咁耐。」咁厄里菲勒又同安菲阿拉俄斯一齊生活咗幾耐呢?佢仲係好多個仔女嘅母親。",
+          "vernacularMandarin": "你怎知一旦你不再有用,他不會好似掉一隻打破了的碟子那樣掉了你呢?「但這個女人是我妻子,我們一起生活了這麼久。」那厄里菲勒又同安菲阿拉俄斯一起生活了多久呢?她還是很多個兒女的母親。"
+        },
+        {
+          "id": "d4-23--sentence-1",
+          "title": "一條項鍊就拆散咗夫妻——項鍊本身唔係問題,睇法先係",
+          "original": "But a necklace came between them: and what is a necklace?",
+          "vernacular": "但一條項鍊插咗喺佢哋中間:項鍊係咩呢?",
+          "vernacularMandarin": "但一條項鍊插在他們中間:項鍊是甚麼呢?"
+        },
+        {
+          "id": "d4-23--sentence-2",
+          "title": "一條項鍊就拆散咗夫妻——項鍊本身唔係問題,睇法先係",
+          "original": "It is the opinion about such things.",
+          "vernacular": "就係對呢類嘢嘅睇法。",
+          "vernacularMandarin": "就是對這類東西的看法。"
+        },
+        {
+          "id": "d4-23--sentence-3",
+          "title": "一條項鍊就拆散咗夫妻——項鍊本身唔係問題,睇法先係",
+          "original": "That was the bestial principle, that was the thing which broke asunder the friendship between husband and wife, that which did not allow the woman to be a wife nor the mother to be a mother.",
+          "vernacular": "呢個就係嗰種獸性嘅原則,正正就係佢拆散咗夫妻之間嘅情誼,令妻子唔再係妻子,母親唔再係母親。",
+          "vernacularMandarin": "這個就是那種獸性的原則,正是它拆散了夫妻之間的情誼,令妻子不再是妻子,母親不再是母親。"
+        },
+        {
+          "id": "d4-24",
+          "title": "真心想做朋友嘅人,要剷除呢啲睇法",
+          "original": "And let every man among you who has seriously resolved either to be a friend himself or to have another for his friend, cut out these opinions, hate them, drive them from his soul.",
+          "vernacular": "所以你哋之中,凡係認真下定決心要做一個朋友、或者交一個朋友嘅人,都要將呢啲睇法連根拔起、憎恨佢哋、由靈魂之中驅逐佢哋出去。",
+          "vernacularMandarin": "所以你們之中,凡是認真下定決心要做一個朋友、或者交一個朋友的人,都要把這些看法連根拔起、憎恨它們、從靈魂之中驅逐它們出去。"
+        },
+        {
+          "id": "d4-25--sentence-1",
+          "title": "咁樣就唔會自責、唔會自相矛盾;對同類就會完全真誠相待",
+          "original": "And thus first of all he will not reproach himself, he will not be at variance with himself, he will not change his mind, he will not torture himself.",
+          "vernacular": "咁樣一嚟,首先佢就唔會自責,唔會同自己矛盾,唔會反覆變心,唔會折磨自己。",
+          "vernacularMandarin": "這樣一來,首先他就不會自責,不會同自己矛盾,不會反覆變心,不會折磨自己。"
+        },
+        {
+          "id": "d4-25--sentence-2",
+          "title": "咁樣就唔會自責、唔會自相矛盾;對同類就會完全真誠相待",
+          "original": "In the next place, to another also, who is like himself, he will be altogether and completely a friend.",
+          "vernacular": "再者,對於一個同佢一樣嘅人,佢就會做一個完完全全嘅朋友。",
+          "vernacularMandarin": "再者,對於一個同他一樣的人,他就會做一個完完全全的朋友。"
+        },
+        {
+          "id": "d4-26",
+          "title": "對唔同類嘅人,佢會包容體諒,深信柏拉圖「無人自願背離真理」嘅道理",
+          "original": "But he will bear with the man who is unlike himself, he will be kind to him, gentle, ready to pardon on account of his ignorance, on account of his being mistaken in things of the greatest importance; but he will be harsh to no man, being well convinced of Plato’s doctrine that every mind is deprived of truth unwillingly.",
+          "vernacular": "但對於一個同佢唔同類嘅人,佢會包容佢、善待佢、溫和以對,因為佢嘅無知、因為佢喺最重大嘅事上犯錯而樂意原諒佢;佢唔會對任何人苛刻,因為佢深信柏拉圖嘅道理:每個心靈都係非自願咁失去真理嘅。",
+          "vernacularMandarin": "但對於一個同他不同類的人,他會包容他、善待他、溫和以對,因為他的無知、因為他在最重大的事上犯錯而樂意原諒他;他不會對任何人苛刻,因為他深信柏拉圖的道理:每個心靈都是非自願地失去真理的。"
+        },
+        {
+          "id": "d4-27",
+          "title": "做唔到咁,都可以一齊飲酒同居,但只要仍存獸性睇法,就永遠唔係朋友",
+          "original": "If you cannot do this, yet you can do in all other respects as friends do, drink together, and lodge together, and sail together, and you may be born of the same parents, for snakes also are: but neither will they be friends, nor you, so long as you retain these bestial and cursed opinions.",
+          "vernacular": "如果你做唔到呢一點,你至少仲可以喺其他方面好似朋友咁樣:一齊飲酒、一齊寄宿、一齊航行,你哋甚至可以係同一對父母所生——因為蛇都係咁。但只要你哋仍然抱持呢啲獸性、被詛咒嘅睇法,佢哋同你都永遠唔會係真正嘅朋友。",
+          "vernacularMandarin": "如果你做不到這一點,你至少還可以在其他方面好似朋友那樣:一起飲酒、一起寄宿、一起航行,你們甚至可以是同一對父母所生——因為蛇也是這樣。但只要你們仍然抱持這些獸性、被詛咒的看法,他們同你都永遠不會是真正的朋友。"
+        }
+      ]
+    },
+    {
+      "id": "disc-c5",
+      "title": "In What Manner We Ought to Bear Sickness 論點樣忍受疾病",
+      "passages": [
+        {
+          "id": "d5-1",
+          "title": "每種意見嘅需要一到,就要即刻用得上",
+          "original": "When the need of each opinion comes, we ought to have it in readiness: on the occasion of breakfast, such opinions as relate to breakfast; in the bath, those that concern the bath; in bed, those that concern bed.",
+          "vernacular": "每種意見需要用到嗰陣,我哋都應該預備好隨時可用:食早餐嗰陣,就要有關於早餐嘅意見;沖涼嗰陣,就要有關於沖涼嘅意見;瞓覺嗰陣,就要有關於瞓覺嘅意見。",
+          "vernacularMandarin": "每種意見需要用到的時候,我們都應該預備好隨時可用:吃早餐的時候,就要有關於早餐的意見;沖涼的時候,就要有關於沖涼的意見;睡覺的時候,就要有關於睡覺的意見。"
+        },
+        {
+          "id": "d5-2",
+          "title": "克里安提斯嘅詩:瞓覺之前先反省一日",
+          "original": "Let sleep not come upon thy languid eyes Before each daily action thou hast scann’d; What’s done amiss, what done, what left undone; From first to last examine all, and then Blame what is wrong, in what is right rejoice.",
+          "vernacular": "「瞓覺之前,莫俾倦眼合上,先審視返自己一日嘅所作所為:做啱咗啲乜,做漏咗啲乜,由頭到尾細心檢視,錯嘅就要責備自己,啱嘅就要為此歡喜。」",
+          "vernacularMandarin": "「睡覺之前,莫讓倦眼合上,先審視自己一日的所作所為:做對了些甚麼,做漏了些甚麼,從頭到尾細心檢視,錯的就要責備自己,對的就要為此歡喜。」"
+        },
+        {
+          "id": "d5-3--sentence-1",
+          "title": "呢啲詩句要用嚟實踐,唔係淨係用嚟背誦",
+          "original": "And we ought to retain these verses in such way that we may use them, not that we may utter them aloud, as when we exclaim, “Paean Apollo.”",
+          "vernacular": "我哋要謹記呢啲詩句,係要用嚟實踐,而唔係淨係大聲背誦,好似我哋高呼「阿波羅萬歲」咁。",
+          "vernacularMandarin": "我們要謹記這些詩句,是要用來實踐,而不是只是大聲背誦,好似我們高呼「阿波羅萬歲」那樣。"
+        },
+        {
+          "id": "d5-3--sentence-2",
+          "title": "呢啲詩句要用嚟實踐,唔係淨係用嚟背誦",
+          "original": "Again in fever we should have ready such opinions as concern a fever; and we ought not, as soon as the fever begins, to lose and forget all.",
+          "vernacular": "同樣道理,發燒嗰陣,我哋都應該預備好關於發燒嘅意見;唔應該一發燒就將呢一切都忘記晒。",
+          "vernacularMandarin": "同樣道理,發燒的時候,我們也應該預備好關於發燒的意見;不應該一發燒就把這一切都忘記了。"
+        },
+        {
+          "id": "d5-4--sentence-1",
+          "title": "發燒嘅人話:我而家唔講哲學喇——但哲學唔就係為咗應對呢啲事咩",
+          "original": "A man who has a fever may say: If I philosophize any longer, may I be hanged: wherever I go, I must take care of the poor body, that a fever may not come.",
+          "vernacular": "一個發緊燒嘅人可能會話:「我如果仲要講哲學,咪由得我遭殃囉;不論去到邊,我都要照顧好呢副可憐嘅身軀,唔好再發燒。」",
+          "vernacularMandarin": "一個發燒的人可能會說:「我如果還要講哲學,就由得我遭殃吧;不論到哪裡,我都要照顧好這副可憐的身軀,不要再發燒。」"
+        },
+        {
+          "id": "d5-4--sentence-2",
+          "title": "發燒嘅人話:我而家唔講哲學喇——但哲學唔就係為咗應對呢啲事咩",
+          "original": "But what is philosophizing?",
+          "vernacular": "但講哲學究竟係咩呢?",
+          "vernacularMandarin": "但講哲學究竟是甚麼呢?"
+        },
+        {
+          "id": "d5-4--sentence-3",
+          "title": "發燒嘅人話:我而家唔講哲學喇——但哲學唔就係為咗應對呢啲事咩",
+          "original": "Is it not a preparation against events which may happen?",
+          "vernacular": "唔就係為咗應對可能發生嘅事而做嘅準備咩?",
+          "vernacularMandarin": "不就是為了應對可能發生的事而做的準備嗎?"
+        },
+        {
+          "id": "d5-5--sentence-1",
+          "title": "你其實係話:我如果仲要有耐性面對逆境,咪由得我遭殃囉",
+          "original": "Do you not understand that you are saying something of this kind?",
+          "vernacular": "你明唔明白自己其實講緊類似咁嘅嘢呢?「",
+          "vernacularMandarin": "你明不明白自己其實在講類似這樣的話呢?「"
+        },
+        {
+          "id": "d5-5--sentence-2",
+          "title": "你其實係話:我如果仲要有耐性面對逆境,咪由得我遭殃囉",
+          "original": "“If I shall still prepare myself to bear with patience what happens, may I be hanged.”",
+          "vernacular": "我如果仲要準備好耐心面對發生嘅事,咪由得我遭殃囉。」",
+          "vernacularMandarin": "我如果還要準備好耐心面對發生的事,就由得我遭殃吧。」"
+        },
+        {
+          "id": "d5-5--sentence-3",
+          "title": "你其實係話:我如果仲要有耐性面對逆境,咪由得我遭殃囉",
+          "original": "But this is just as if a man after receiving blows should give up the Pancratium.",
+          "vernacular": "但呢個就好似一個人捱咗幾拳就退出格鬥賽咁樣。",
+          "vernacularMandarin": "但這就好似一個人捱了幾拳就退出格鬥賽那樣。"
+        },
+        {
+          "id": "d5-5--sentence-4",
+          "title": "你其實係話:我如果仲要有耐性面對逆境,咪由得我遭殃囉",
+          "original": "In the Pancratium it is in our power to desist and not to receive blows.",
+          "vernacular": "喺格鬥賽入面,你操之在我嘅係停手、唔再捱拳。",
+          "vernacularMandarin": "在格鬥賽裡面,你操之在我的是停手、不再捱拳。"
+        },
+        {
+          "id": "d5-6--sentence-1",
+          "title": "但退出哲學,我哋又攞到啲乜呢?",
+          "original": "But in the other matter if we give up philosophy, what shall we gain?",
+          "vernacular": "但喺另一件事上,如果我哋放棄哲學,又可以攞到啲乜呢?",
+          "vernacularMandarin": "但在另一件事上,如果我們放棄哲學,又可以得到些甚麼呢?"
+        },
+        {
+          "id": "d5-6--sentence-2",
+          "title": "但退出哲學,我哋又攞到啲乜呢?",
+          "original": "What then should a man say on the occasion of each painful thing?",
+          "vernacular": "一個人遇到每件痛苦嘅事,應該對自己講咩呢?",
+          "vernacularMandarin": "一個人遇到每件痛苦的事,應該對自己說甚麼呢?"
+        },
+        {
+          "id": "d5-6--sentence-3",
+          "title": "但退出哲學,我哋又攞到啲乜呢?",
+          "original": "It was for this that I exercised myself, for this I disciplined myself.",
+          "vernacular": "就係:我修煉自己,就係為咗呢一刻;我操練自己,就係為咗呢一刻。",
+          "vernacularMandarin": "就是:我修煉自己,就是為了這一刻;我操練自己,就是為了這一刻。"
+        },
+        {
+          "id": "d5-7--sentence-1",
+          "title": "神話你知:證明你有認真操練——關鍵時刻,你會唔會反而顯得軟弱?",
+          "original": "God says to you: Give me a proof that you have duly practised athletics, that you have eaten what you ought, that you have been exercised, that you have obeyed the aliptes (the oiler and rubber).",
+          "vernacular": "神會對你講:「畀個證明我睇,話你已經按規矩鍛鍊過,食得啱、練得夠,亦都聽從咗按摩師嘅指導。」",
+          "vernacularMandarin": "神會對你說:「給個證明我看,說你已經按規矩鍛鍊過,吃得對、練得夠,也聽從了按摩師的指導。」"
+        },
+        {
+          "id": "d5-7--sentence-2",
+          "title": "神話你知:證明你有認真操練——關鍵時刻,你會唔會反而顯得軟弱?",
+          "original": "Then do you show yourself weak when the time for action comes?",
+          "vernacular": "但到咗行動嘅關鍵時刻,你反而顯得軟弱咩?",
+          "vernacularMandarin": "但到了行動的關鍵時刻,你反而顯得軟弱嗎?"
+        },
+        {
+          "id": "d5-8",
+          "title": "而家就係發燒嘅時候、口渴嘅時候、肚餓嘅時候——好好承受佢",
+          "original": "Now is the time for the fever. Let it be borne well. Now is the time for thirst, bear it well. Now is the time for hunger, bear it well. Is it not in your power? Who shall hinder you?",
+          "vernacular": "而家就係發燒嘅時候,好好承受佢。而家就係口渴嘅時候,好好承受佢。而家就係肚餓嘅時候,好好承受佢。呢個唔係操之在我咩?邊個可以阻止你呢?",
+          "vernacularMandarin": "現在就是發燒的時候,好好承受它。現在就是口渴的時候,好好承受它。現在就是肚餓的時候,好好承受它。這個不是操之在我嗎?誰可以阻止你呢?"
+        },
+        {
+          "id": "d5-9",
+          "title": "醫生可以阻止你飲水,但阻止唔到你好好忍受口渴",
+          "original": "The physician will hinder you from drinking; but he cannot prevent you from bearing thirst well: and he will hinder you from eating; but he cannot prevent you from bearing hunger well.",
+          "vernacular": "醫生可以阻止你飲水;但佢阻止唔到你好好忍受口渴。佢可以阻止你食嘢;但佢阻止唔到你好好忍受肚餓。",
+          "vernacularMandarin": "醫生可以阻止你飲水;但他阻止不到你好好忍受口渴。他可以阻止你吃東西;但他阻止不到你好好忍受肚餓。"
+        },
+        {
+          "id": "d5-10--sentence-1",
+          "title": "你追求哲學,唔就係為咗令自己幸福、恆常、合乎本性咩",
+          "original": "But I cannot attend to my philosophical studies.",
+          "vernacular": "「但我冇辦法繼續做哲學修習喇。」",
+          "vernacularMandarin": "「但我沒有辦法繼續做哲學修習了。」"
+        },
+        {
+          "id": "d5-10--sentence-2",
+          "title": "你追求哲學,唔就係為咗令自己幸福、恆常、合乎本性咩",
+          "original": "And for what purpose do you follow them?",
+          "vernacular": "咁你追求哲學到底係為咗乜呢?",
+          "vernacularMandarin": "那你追求哲學到底是為了甚麼呢?"
+        },
+        {
+          "id": "d5-10--sentence-3",
+          "title": "你追求哲學,唔就係為咗令自己幸福、恆常、合乎本性咩",
+          "original": "Slave, is it not that you may be happy, that you may be constant, is it not that you may be in a state conformable to nature and live so?",
+          "vernacular": "奴隸,唔就係為咗令你可以幸福、可以恆常穩定、可以處於一種合乎本性嘅狀態去生活咩?",
+          "vernacularMandarin": "奴隸,不就是為了令你可以幸福、可以恆常穩定、可以處於一種合乎本性的狀態去生活嗎?"
+        },
+        {
+          "id": "d5-11--sentence-1",
+          "title": "發燒都可以保持主導理性合乎本性——呢個就係哲學家嘅考驗",
+          "original": "What hinders you when you have a fever from having your ruling faculty conformable to nature?",
+          "vernacular": "發燒嘅時候,有咩阻止到你令自己嘅主導理性合乎本性呢?",
+          "vernacularMandarin": "發燒的時候,有甚麼阻止到你令自己的主導理性合乎本性呢?"
+        },
+        {
+          "id": "d5-11--sentence-2",
+          "title": "發燒都可以保持主導理性合乎本性——呢個就係哲學家嘅考驗",
+          "original": "Here is the proof of the thing, here is the test of the philosopher.",
+          "vernacular": "呢個正正就係證明嘅時刻,正正就係哲學家嘅考驗。",
+          "vernacularMandarin": "這正是證明的時刻,正是哲學家的考驗。"
+        },
+        {
+          "id": "d5-11--sentence-3",
+          "title": "發燒都可以保持主導理性合乎本性——呢個就係哲學家嘅考驗",
+          "original": "For this also is a part of life, like walking, like sailing, like journeying by land, so also is fever.",
+          "vernacular": "因為發燒都係人生嘅一部分,好似行路、好似航海、好似陸路旅行咁。",
+          "vernacularMandarin": "因為發燒也是人生的一部分,好似走路、好似航海、好似陸路旅行那樣。"
+        },
+        {
+          "id": "d5-12--sentence-1",
+          "title": "行路嗰陣唔會睇書;發燒嗰陣都係咁——只要做好本份就夠",
+          "original": "Do you read when you are walking?",
+          "vernacular": "你行路嗰陣會唔會睇書呢?",
+          "vernacularMandarin": "你走路的時候會不會看書呢?"
+        },
+        {
+          "id": "d5-12--sentence-2",
+          "title": "行路嗰陣唔會睇書;發燒嗰陣都係咁——只要做好本份就夠",
+          "original": "No.",
+          "vernacular": "唔會。",
+          "vernacularMandarin": "不會。"
+        },
+        {
+          "id": "d5-12--sentence-3",
+          "title": "行路嗰陣唔會睇書;發燒嗰陣都係咁——只要做好本份就夠",
+          "original": "Nor do you when you have a fever.",
+          "vernacular": "發燒嗰陣都係咁。",
+          "vernacularMandarin": "發燒的時候也是這樣。"
+        },
+        {
+          "id": "d5-12--sentence-4",
+          "title": "行路嗰陣唔會睇書;發燒嗰陣都係咁——只要做好本份就夠",
+          "original": "But if you walk about well, you have all that belongs to a man who walks.",
+          "vernacular": "但如果你行得好,你就已經擁有一個行路人應有嘅一切。",
+          "vernacularMandarin": "但如果你走得好,你就已經擁有一個走路人應有的一切。"
+        },
+        {
+          "id": "d5-12--sentence-5",
+          "title": "行路嗰陣唔會睇書;發燒嗰陣都係咁——只要做好本份就夠",
+          "original": "If you bear a fever well, you have all that belongs to a man in a fever.",
+          "vernacular": "如果你好好承受發燒,你就已經擁有一個發燒者應有嘅一切。",
+          "vernacularMandarin": "如果你好好承受發燒,你就已經擁有一個發燒者應有的一切。"
+        },
+        {
+          "id": "d5-13--sentence-1",
+          "title": "好好承受發燒,就係唔怪神唔怪人,坦然面對死亡",
+          "original": "What is it to bear a fever well?",
+          "vernacular": "好好承受發燒係咩意思呢?",
+          "vernacularMandarin": "好好承受發燒是甚麼意思呢?"
+        },
+        {
+          "id": "d5-13--sentence-2",
+          "title": "好好承受發燒,就係唔怪神唔怪人,坦然面對死亡",
+          "original": "Not to blame God or man; not to be afflicted at that which happens, to expect death well and nobly, to do what must be done: when the physician comes in, not to be frightened at what he says;",
+          "vernacular": "就係唔怪責神,唔怪責人;唔為發生嘅事而痛苦;安然、堂堂正正咁預期死亡;做應該做嘅事;醫生入嚟嗰陣,唔會被佢講嘅嘢嚇倒;",
+          "vernacularMandarin": "就是不怪責神,不怪責人;不為發生的事而痛苦;安然、堂堂正正地預期死亡;做應該做的事;醫生進來的時候,不會被他講的話嚇倒;"
+        },
+        {
+          "id": "d5-14--sentence-1",
+          "title": "醫生話你冇事都唔使狂喜,話你唔妥都唔使沮喪",
+          "original": "nor if he says you are doing well, to be overjoyed.",
+          "vernacular": "如果佢話你冇事,都唔使因此而狂喜過頭。",
+          "vernacularMandarin": "如果他說你沒事,也不用因此而狂喜過頭。"
+        },
+        {
+          "id": "d5-14--sentence-2",
+          "title": "醫生話你冇事都唔使狂喜,話你唔妥都唔使沮喪",
+          "original": "For what good has he told you?",
+          "vernacular": "因為佢話你冇事,對你嚟講又有咩好處呢?",
+          "vernacularMandarin": "因為他說你沒事,對你來說又有甚麼好處呢?"
+        },
+        {
+          "id": "d5-14--sentence-3",
+          "title": "醫生話你冇事都唔使狂喜,話你唔妥都唔使沮喪",
+          "original": "and when you were in health, what good was that to you?",
+          "vernacular": "而你健康嗰陣,呢件事對你又有咩好處呢?",
+          "vernacularMandarin": "而你健康的時候,這件事對你又有甚麼好處呢?"
+        },
+        {
+          "id": "d5-14--sentence-4",
+          "title": "醫生話你冇事都唔使狂喜,話你唔妥都唔使沮喪",
+          "original": "And even if he says you are in a bad way, do not despond.",
+          "vernacular": "就算佢話你情況唔妥,你都唔使因此而沮喪。",
+          "vernacularMandarin": "就算他說你情況不妥,你也不用因此而沮喪。"
+        },
+        {
+          "id": "d5-15--sentence-1",
+          "title": "生病即係靈魂同身體快啲分開——呢個有咩害呢?",
+          "original": "For what is it to be ill?",
+          "vernacular": "因為生病到底係咩呢?",
+          "vernacularMandarin": "因為生病到底是甚麼呢?"
+        },
+        {
+          "id": "d5-15--sentence-2",
+          "title": "生病即係靈魂同身體快啲分開——呢個有咩害呢?",
+          "original": "is it that you are near the severance of the soul and the body?",
+          "vernacular": "唔就係你即將面對靈魂同肉身嘅分離咩?",
+          "vernacularMandarin": "不就是你即將面對靈魂同肉身的分離嗎?"
+        },
+        {
+          "id": "d5-15--sentence-3",
+          "title": "生病即係靈魂同身體快啲分開——呢個有咩害呢?",
+          "original": "what harm is there in this?",
+          "vernacular": "呢件事本身有咩害呢?",
+          "vernacularMandarin": "這件事本身有甚麼害呢?"
+        },
+        {
+          "id": "d5-15--sentence-4",
+          "title": "生病即係靈魂同身體快啲分開——呢個有咩害呢?",
+          "original": "If you are not near now, will you not afterwards be near?",
+          "vernacular": "就算而家未到,將來都遲早會到。",
+          "vernacularMandarin": "就算現在未到,將來也遲早會到。"
+        },
+        {
+          "id": "d5-15--sentence-5",
+          "title": "生病即係靈魂同身體快啲分開——呢個有咩害呢?",
+          "original": "Is the world going to be turned upside down when you are dead?",
+          "vernacular": "你死咗之後,世界會因此而天翻地覆咩?",
+          "vernacularMandarin": "你死了之後,世界會因此而天翻地覆嗎?"
+        },
+        {
+          "id": "d5-16--sentence-1",
+          "title": "你點解要巴結醫生?點解要俾機會佢趾高氣揚?",
+          "original": "Why then do you flatter the physician?",
+          "vernacular": "咁你點解要巴結醫生呢?",
+          "vernacularMandarin": "那你為甚麼要巴結醫生呢?"
+        },
+        {
+          "id": "d5-16--sentence-2",
+          "title": "你點解要巴結醫生?點解要俾機會佢趾高氣揚?",
+          "original": "Why do you say if you please, master, I shall be well?",
+          "vernacular": "點解要話:「醫生呀,只要你願意,我就會好返」呢?",
+          "vernacularMandarin": "為甚麼要說:「醫生啊,只要你願意,我就會好起來」呢?"
+        },
+        {
+          "id": "d5-16--sentence-3",
+          "title": "你點解要巴結醫生?點解要俾機會佢趾高氣揚?",
+          "original": "Why do you give him an opportunity of raising his eyebrows (being proud; or showing his importance)?",
+          "vernacular": "你點解要俾機會佢揚起眉頭、擺出高高在上嘅樣子呢?",
+          "vernacularMandarin": "你為甚麼要給機會他揚起眉頭、擺出高高在上的樣子呢?"
+        },
+        {
+          "id": "d5-17",
+          "title": "睇醫生要好似睇鞋匠、木匠咁,身體本來就唔屬於你",
+          "original": "Do you not value a physician, as you do a shoemaker when he is measuring your foot, or a carpenter when he is building your house, and so treat the physician as to the body which is not yours, but by nature dead?",
+          "vernacular": "你唔應該好似對住幫你度腳嘅鞋匠、或者幫你起屋嘅木匠咁樣去重視醫生咩?咁樣去對待醫生,將呢副身體視為本來唔屬於你自己、而係本性上注定會死嘅嘢呢?",
+          "vernacularMandarin": "你不應該好似對著幫你度腳的鞋匠、或者幫你建屋的木匠那樣去重視醫生嗎?這樣去對待醫生,把這副身體視為本來不屬於你自己、而是本性上注定會死的東西呢?"
+        },
+        {
+          "id": "d5-18--sentence-1",
+          "title": "發燒嘅人有機會咁樣做,咁佢就擁有屬於自己嘅嘢",
+          "original": "He who has a fever has an opportunity of doing this: if he does these things, he has what belongs to him.",
+          "vernacular": "發燒嘅人正正有機會咁樣做:如果佢做到呢啲事,佢就擁有真正屬於自己嘅嘢。",
+          "vernacularMandarin": "發燒的人正好有機會這樣做:如果他做到這些事,他就擁有真正屬於自己的東西。"
+        },
+        {
+          "id": "d5-18--sentence-2",
+          "title": "發燒嘅人有機會咁樣做,咁佢就擁有屬於自己嘅嘢",
+          "original": "For it is not the business of a philosopher to look after these externals, neither his wine nor his oil nor his poor body, but his own ruling power.",
+          "vernacular": "因為照顧呢啲外在嘢——無論係佢嘅酒、佢嘅油,定係佢呢副可憐嘅身軀——都唔係哲學家嘅本份,佢嘅本份係照顧自己嘅主導力量。",
+          "vernacularMandarin": "因為照顧這些外在的東西——無論是他的酒、他的油,還是他這副可憐的身軀——都不是哲學家的本份,他的本份是照顧自己的主導力量。"
+        },
+        {
+          "id": "d5-19--sentence-1",
+          "title": "外物只要唔忽視就夠,咁樣仲有咩理由驚同嬲?",
+          "original": "But as to externals how must he act?",
+          "vernacular": "至於外物,佢應該點對待呢?",
+          "vernacularMandarin": "至於外物,他應該怎樣對待呢?"
+        },
+        {
+          "id": "d5-19--sentence-2",
+          "title": "外物只要唔忽視就夠,咁樣仲有咩理由驚同嬲?",
+          "original": "so far as not to be careless about them.",
+          "vernacular": "只要唔忽視佢哋就夠。",
+          "vernacularMandarin": "只要不忽視它們就夠。"
+        },
+        {
+          "id": "d5-19--sentence-3",
+          "title": "外物只要唔忽視就夠,咁樣仲有咩理由驚同嬲?",
+          "original": "Where then is there reason for fear?",
+          "vernacular": "咁樣,仲有咩理由要驚呢?",
+          "vernacularMandarin": "這樣,還有甚麼理由要害怕呢?"
+        },
+        {
+          "id": "d5-19--sentence-4",
+          "title": "外物只要唔忽視就夠,咁樣仲有咩理由驚同嬲?",
+          "original": "where is there then still reason for anger, and of fear about what belongs to others, about things which are of no value?",
+          "vernacular": "仲有咩理由要嬲、要為咗一啲屬於別人、亦都冇任何價值嘅嘢而擔驚受怕呢?",
+          "vernacularMandarin": "還有甚麼理由要生氣、要為了一些屬於別人、也沒有任何價值的東西而擔驚受怕呢?"
+        },
+        {
+          "id": "d5-20",
+          "title": "除咗意志,冇嘢係善或者惡;我哋唔應該主導事情,而係要跟隨事情",
+          "original": "For we ought to have these two principles in readiness, that except the will nothing is good nor bad; and that we ought not to lead events, but to follow them.",
+          "vernacular": "因為我哋應該時刻牢記兩個原則:除咗意志之外,冇任何嘢係善,亦都冇任何嘢係惡;同埋,我哋唔應該去引領事情嘅發生,而係要跟隨事情嘅發生。",
+          "vernacularMandarin": "因為我們應該時刻牢記兩個原則:除了意志之外,沒有任何東西是善,也沒有任何東西是惡;以及,我們不應該去引領事情的發生,而是要跟隨事情的發生。"
+        },
+        {
+          "id": "d5-21--sentence-1",
+          "title": "我兄弟唔應該咁對我——但嗰係佢嘅事;我自己嘅本份,冇人可以阻止",
+          "original": "My brother ought not to have behaved thus to me.",
+          "vernacular": "「我兄弟本來唔應該咁樣對我。」",
+          "vernacularMandarin": "「我兄弟本來不應該這樣對我。」"
+        },
+        {
+          "id": "d5-21--sentence-2",
+          "title": "我兄弟唔應該咁對我——但嗰係佢嘅事;我自己嘅本份,冇人可以阻止",
+          "original": "No, but he will see to that; and, however he may behave, I will conduct myself towards him as I ought.",
+          "vernacular": "係嘅,但呢個由佢自己去負責;無論佢點對我,我都會按照我應有嘅方式去對待佢。",
+          "vernacularMandarin": "是的,但這個由他自己去負責;無論他怎樣對我,我都會按照我應有的方式去對待他。"
+        },
+        {
+          "id": "d5-21--sentence-3",
+          "title": "我兄弟唔應該咁對我——但嗰係佢嘅事;我自己嘅本份,冇人可以阻止",
+          "original": "For this is my own business; that belongs to another: no man can prevent this, the other thing can be hindered.",
+          "vernacular": "因為呢個先至係我自己嘅本份;嗰個係屬於別人嘅事:呢邊冇人可以阻止,嗰邊就可能會受阻。",
+          "vernacularMandarin": "因為這才是我自己的本份;那個是屬於別人的事:這邊沒有人可以阻止,那邊就可能會受阻。"
+        }
+      ]
+    },
+    {
+      "id": "disc-c6",
+      "title": "About Freedom 論自由",
+      "passages": [
+        {
+          "id": "d6-1",
+          "title": "自由嘅人隨心而活,唔受強逼、阻礙或者武力擺佈",
+          "original": "He is free who lives as he wishes to live; who is neither subject to compulsion nor to hindrance, nor to force; whose movements to action are not impeded, whose desires attain their purpose, and who does not fall into that which he would avoid.",
+          "vernacular": "自由嘅人,就係按照自己心意生活嘅人;佢唔受強逼,唔受阻礙,唔受武力擺佈;佢嘅行動唔受妨害,佢嘅渴求得償所願,亦都唔會撞正自己想避開嘅嘢。",
+          "vernacularMandarin": "自由的人,就是按照自己心意生活的人;他不受強迫,不受阻礙,不受武力擺佈;他的行動不受妨害,他的渴求得償所願,也不會撞上自己想避開的事。"
+        },
+        {
+          "id": "d6-2--sentence-1",
+          "title": "有邊個會揀住錯誤、受騙、唔公道咁生活呢?",
+          "original": "Who then chooses to live in error?",
+          "vernacular": "咁樣,邊個會揀住喺錯謬入面生活呢?",
+          "vernacularMandarin": "這樣,誰會選擇在錯謬裡面生活呢?"
+        },
+        {
+          "id": "d6-2--sentence-2",
+          "title": "有邊個會揀住錯誤、受騙、唔公道咁生活呢?",
+          "original": "No man.",
+          "vernacular": "冇人。",
+          "vernacularMandarin": "沒有人。"
+        },
+        {
+          "id": "d6-2--sentence-3",
+          "title": "有邊個會揀住錯誤、受騙、唔公道咁生活呢?",
+          "original": "Who chooses to live deceived, liable to mistake, unjust, unrestrained, discontented, mean?",
+          "vernacular": "邊個會揀住喺被欺騙、易犯錯、唔公道、放縱失控、鬱鬱不歡、器量狹小入面生活呢?",
+          "vernacularMandarin": "誰會選擇在被欺騙、易犯錯、不公道、放縱失控、鬱鬱不歡、器量狹小裡面生活呢?"
+        },
+        {
+          "id": "d6-2--sentence-4",
+          "title": "有邊個會揀住錯誤、受騙、唔公道咁生活呢?",
+          "original": "No man.",
+          "vernacular": "冇人。",
+          "vernacularMandarin": "沒有人。"
+        },
+        {
+          "id": "d6-3--sentence-1",
+          "title": "壞人冇一個係按照自己心意生活嘅,亦都冇一個係自由嘅",
+          "original": "Not one then of the bad lives as he wishes; nor is he then free.",
+          "vernacular": "所以壞人之中,冇一個係按照自己心意生活嘅;所以佢都唔係自由嘅。",
+          "vernacularMandarin": "所以壞人之中,沒有一個是按照自己心意生活的;所以他也不是自由的。"
+        },
+        {
+          "id": "d6-3--sentence-2",
+          "title": "壞人冇一個係按照自己心意生活嘅,亦都冇一個係自由嘅",
+          "original": "And who chooses to live in sorrow, fear, envy, pity, desiring and failing in his desires, attempting to avoid something and falling into it?",
+          "vernacular": "仲有邊個會揀住喺悲傷、恐懼、妒忌、憐憫、渴求落空、或者一心避開卻偏偏撞正入面生活呢?",
+          "vernacularMandarin": "還有誰會選擇在悲傷、恐懼、妒忌、憐憫、渴求落空、或者一心避開卻偏偏撞上裡面生活呢?"
+        },
+        {
+          "id": "d6-3--sentence-3",
+          "title": "壞人冇一個係按照自己心意生活嘅,亦都冇一個係自由嘅",
+          "original": "Not one.",
+          "vernacular": "一個都冇。",
+          "vernacularMandarin": "一個都沒有。"
+        },
+        {
+          "id": "d6-4--sentence-1",
+          "title": "咁我哋搵唔搵到一個免於悲傷恐懼嘅壞人呢?一個都搵唔到",
+          "original": "Do we then find any of the bad free from sorrow, free from fear, who does not fall into that which he would avoid, and does not obtain that which he wishes?",
+          "vernacular": "咁我哋喺壞人之中,搵唔搵到一個免於悲傷、免於恐懼、唔會撞正自己想避開嘅嘢、亦都得到自己想要嘅嘢嘅人呢?",
+          "vernacularMandarin": "那我們在壞人之中,找不找到一個免於悲傷、免於恐懼、不會撞上自己想避開的事、也得到自己想要的東西的人呢?"
+        },
+        {
+          "id": "d6-4--sentence-2",
+          "title": "咁我哋搵唔搵到一個免於悲傷恐懼嘅壞人呢?一個都搵唔到",
+          "original": "Not one; nor then do we find any bad man free.",
+          "vernacular": "一個都搵唔到;所以我哋亦都搵唔到任何一個自由嘅壞人。",
+          "vernacularMandarin": "一個都找不到;所以我們也找不到任何一個自由的壞人。"
+        },
+        {
+          "id": "d6-5--sentence-1",
+          "title": "自由喺你眼中係咪偉大高尚珍貴嘅?咁又點可能同時器量狹小?",
+          "original": "Further, then, answer me this question, also: does freedom seem to you to be something great and noble and valuable?",
+          "vernacular": "再進一步問你另一個問題:喺你眼中,自由係咪一樣偉大、高尚、珍貴嘅嘢呢?",
+          "vernacularMandarin": "再進一步問你另一個問題:在你眼中,自由是不是一樣偉大、高尚、珍貴的事物呢?"
+        },
+        {
+          "id": "d6-5--sentence-2",
+          "title": "自由喺你眼中係咪偉大高尚珍貴嘅?咁又點可能同時器量狹小?",
+          "original": "How should it not seem so?",
+          "vernacular": "點會唔係呢?",
+          "vernacularMandarin": "怎會不是呢?"
+        },
+        {
+          "id": "d6-5--sentence-3",
+          "title": "自由喺你眼中係咪偉大高尚珍貴嘅?咁又點可能同時器量狹小?",
+          "original": "Is it possible then when a man obtains anything so great and valuable and noble to be mean?",
+          "vernacular": "咁樣,一個人獲得咗一樣咁偉大、珍貴、高尚嘅嘢,又點可能同時器量狹小呢?",
+          "vernacularMandarin": "這樣,一個人獲得了一樣如此偉大、珍貴、高尚的事物,又怎可能同時器量狹小呢?"
+        },
+        {
+          "id": "d6-5--sentence-4",
+          "title": "自由喺你眼中係咪偉大高尚珍貴嘅?咁又點可能同時器量狹小?",
+          "original": "It is not possible.",
+          "vernacular": "呢個係唔可能嘅。",
+          "vernacularMandarin": "這是不可能的。"
+        },
+        {
+          "id": "d6-6",
+          "title": "見到人屈從於人、違心奉承,就可以斷定佢唔自由",
+          "original": "When then you see any man subject to another or flattering him contrary to his own opinion, confidently affirm that this man also is not free; and not only if he do this for a bit of supper, but also if he does it for a government (province) or a consulship;",
+          "vernacular": "所以當你見到有人屈從於另一個人,或者違背自己嘅睇法去奉承佢嗰陣,你就可以滿懷信心咁斷言:呢個人亦都唔係自由嘅;而且唔單止係為咗一頓便飯先咁做,就算係為咗一個行省、一個執政官嘅職位而咁做,都一樣;",
+          "vernacularMandarin": "所以當你見到有人屈從於另一個人,或者違背自己的看法去奉承他的時候,你就可以滿懷信心地斷言:這個人也不是自由的;而且不單止是為了一頓便飯才這樣做,就算是為了一個行省、一個執政官的職位而這樣做,都一樣;"
+        },
+        {
+          "id": "d6-7",
+          "title": "為小事咁做嘅係小奴隸,為大事咁做嘅就係大奴隸",
+          "original": "and call these men little slaves who for the sake of little matters do these things, and those who do so for the sake of great things call great slaves, as they deserve to be.",
+          "vernacular": "而且要將呢啲為咗小事而咁樣做嘅人,叫做「小奴隸」;將嗰啲為咗大事而咁樣做嘅人,叫做「大奴隸」——因為佢哋確實當之無愧。",
+          "vernacularMandarin": "而且要把這些為了小事而這樣做的人,叫做「小奴隸」;把那些為了大事而這樣做的人,叫做「大奴隸」——因為他們確實當之無愧。"
+        },
+        {
+          "id": "d6-8--sentence-1",
+          "title": "自由係一樣獨立自主嘅嘢;受制於人嘅,就唔自由",
+          "original": "This is admitted also.",
+          "vernacular": "呢一點都已經獲得同意喇。",
+          "vernacularMandarin": "這一點都已經獲得同意了。"
+        },
+        {
+          "id": "d6-8--sentence-2",
+          "title": "自由係一樣獨立自主嘅嘢;受制於人嘅,就唔自由",
+          "original": "Do you think that freedom is a thing independent and self-governing?",
+          "vernacular": "咁樣,你覺唔覺得自由係一樣獨立、自主嘅嘢呢?",
+          "vernacularMandarin": "這樣,你覺不覺得自由是一樣獨立、自主的事物呢?"
+        },
+        {
+          "id": "d6-8--sentence-3",
+          "title": "自由係一樣獨立自主嘅嘢;受制於人嘅,就唔自由",
+          "original": "Certainly.",
+          "vernacular": "當然係。",
+          "vernacularMandarin": "當然是。"
+        },
+        {
+          "id": "d6-8--sentence-4",
+          "title": "自由係一樣獨立自主嘅嘢;受制於人嘅,就唔自由",
+          "original": "Whomsoever then it is in the power of another to hinder and compel, declare that he is not free.",
+          "vernacular": "所以任何一個受制於他人、可以被阻礙、可以被強逼嘅人,你都要斷言,佢並唔自由。",
+          "vernacularMandarin": "所以任何一個受制於他人、可以被阻礙、可以被強迫的人,你都要斷言,他並不自由。"
+        },
+        {
+          "id": "d6-9",
+          "title": "唔使查佢祖宗三代或者買賣紀錄,佢由衷咁講「主人」,就係奴隸",
+          "original": "And do not look, I entreat you, after his grandfathers and great-grandfathers, or inquire about his being bought or sold, but if you hear him saying from his heart and with feeling, “Master,” even if the twelve fasces precede him (as consul), call him a slave.",
+          "vernacular": "而且我懇求你,唔使去查佢祖父、曾祖父係邊個,亦都唔使查佢有冇被買賣過;只要你聽到佢由衷咁講出「主人」呢個詞,就算前面有十二支束棒開路(即係做緊執政官),都要照樣叫佢做奴隸。",
+          "vernacularMandarin": "而且我懇求你,不用去查他祖父、曾祖父是誰,也不用查他有沒有被買賣過;只要你聽到他由衷地說出「主人」這個詞,就算前面有十二支束棒開路(也就是做著執政官),都要照樣叫他做奴隸。"
+        },
+        {
+          "id": "d6-10--sentence-1",
+          "title": "聽到佢自嘆「我幾咁慘」、見佢喊訴不快,都要叫佢做奴隸",
+          "original": "And if you hear him say, “Wretch that I am, how much I suffer,” call him a slave.",
+          "vernacular": "如果你聽到佢話:「我真係慘,要捱受幾多苦楚呀」,就叫佢做奴隸。",
+          "vernacularMandarin": "如果你聽到他說:「我真是慘,要捱受多少苦楚啊」,就叫他做奴隸。"
+        },
+        {
+          "id": "d6-10--sentence-2",
+          "title": "聽到佢自嘆「我幾咁慘」、見佢喊訴不快,都要叫佢做奴隸",
+          "original": "If, finally, you see him lamenting, complaining, unhappy, call him a slave, though he wears a praetexta.",
+          "vernacular": "最後,如果你見到佢喊訴、抱怨、不開心,就算佢著住紫邊袍,都要叫佢做奴隸。",
+          "vernacularMandarin": "最後,如果你見到他哭訴、抱怨、不開心,就算他穿著紫邊袍,都要叫他做奴隸。"
+        },
+        {
+          "id": "d6-11",
+          "title": "冇明顯表露呢啲,就要留意佢嘅睇法——受制於強逼定係好運壞運嘅擺佈",
+          "original": "If, then, he is doing nothing of this kind do not yet say that he is free, but learn his opinions, whether they are subject to compulsion, or may produce hindrance, or to bad fortune, and if you find him such, call him a slave who has a holiday in the Saturnalia; say that his master is from home; he will return soon, and you will know what he suffers.",
+          "vernacular": "如果佢冇做以上呢啲行為,先都唔好斷言佢就係自由;要探究佢嘅睇法,睇吓佢係咪受制於強逼,或者容易受阻,或者受制於厄運;如果你發現係咁,就叫佢做一個喺農神節放咗假嘅奴隸——話佢主人只係外出咗,好快會返嚟,到時你就會知佢要承受啲乜。",
+          "vernacularMandarin": "如果他沒有做以上這些行為,先不要斷言他就是自由;要探究他的看法,看他是否受制於強迫,或者容易受阻,或者受制於厄運;如果你發現是這樣,就叫他做一個在農神節放了假的奴隸——說他的主人只是外出了,很快會回來,到時你就會知道他要承受些甚麼。"
+        },
+        {
+          "id": "d6-12--sentence-1",
+          "title": "令人免於阻礙、成為自己主人嘅係咩?財富官職權力都唔係",
+          "original": "What then is that which makes a man free from hindrance and makes him his own master?",
+          "vernacular": "咁到底係咩令一個人可以免於阻礙、成為自己嘅主人呢?",
+          "vernacularMandarin": "那到底是甚麼令一個人可以免於阻礙、成為自己的主人呢?"
+        },
+        {
+          "id": "d6-12--sentence-2",
+          "title": "令人免於阻礙、成為自己主人嘅係咩?財富官職權力都唔係",
+          "original": "For wealth does not do it, nor consulship, nor provincial government, nor royal power; but something else must be discovered.",
+          "vernacular": "因為財富做唔到呢件事,執政官嘅職位做唔到,行省總督嘅職位做唔到,王權都做唔到;一定要搵到啲另外嘅嘢。",
+          "vernacularMandarin": "因為財富做不到這件事,執政官的職位做不到,行省總督的職位做不到,王權都做不到;一定要找到些另外的東西。"
+        },
+        {
+          "id": "d6-13--sentence-1",
+          "title": "寫字要識文法,彈琴要識樂理;人生就要識得人生嘅學問",
+          "original": "What then is that which when we write makes us free from hindrance and unimpeded?",
+          "vernacular": "咁樣,喺寫字嗰陣,令我哋免於阻礙、暢通無阻嘅係咩呢?",
+          "vernacularMandarin": "這樣,在寫字的時候,令我們免於阻礙、暢通無阻的是甚麼呢?"
+        },
+        {
+          "id": "d6-13--sentence-2",
+          "title": "寫字要識文法,彈琴要識樂理;人生就要識得人生嘅學問",
+          "original": "The knowledge of the art of writing.",
+          "vernacular": "就係識得寫字嘅技藝。",
+          "vernacularMandarin": "就是懂得寫字的技藝。"
+        },
+        {
+          "id": "d6-13--sentence-3",
+          "title": "寫字要識文法,彈琴要識樂理;人生就要識得人生嘅學問",
+          "original": "What then is it in playing the lute?",
+          "vernacular": "咁彈琴又係咩呢?",
+          "vernacularMandarin": "那彈琴又是甚麼呢?"
+        },
+        {
+          "id": "d6-13--sentence-4",
+          "title": "寫字要識文法,彈琴要識樂理;人生就要識得人生嘅學問",
+          "original": "The science of playing the lute.",
+          "vernacular": "就係彈琴嘅學問。",
+          "vernacularMandarin": "就是彈琴的學問。"
+        },
+        {
+          "id": "d6-13--sentence-5",
+          "title": "寫字要識文法,彈琴要識樂理;人生就要識得人生嘅學問",
+          "original": "Therefore in life also it is the science of life.",
+          "vernacular": "所以喺人生入面,都係咁——就係人生嘅學問。",
+          "vernacularMandarin": "所以在人生裡面,也是這樣——就是人生的學問。"
+        },
+        {
+          "id": "d6-14--sentence-1",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "You have then heard in a general way; but examine the thing also in the several parts.",
+          "vernacular": "你而家聽到咗一個大概;但都要喺各個細節入面審視返呢件事。",
+          "vernacularMandarin": "你現在聽到了一個大概;但都要在各個細節裡面審視這件事。"
+        },
+        {
+          "id": "d6-14--sentence-2",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "Is it possible that he who desires any of the things which depend on others can be free from hindrance?",
+          "vernacular": "一個人如果渴求任何操之於他人嘅嘢,佢有可能免於阻礙咩?",
+          "vernacularMandarin": "一個人如果渴求任何操之於他人的東西,他有可能免於阻礙嗎?"
+        },
+        {
+          "id": "d6-14--sentence-3",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "No.",
+          "vernacular": "冇可能。",
+          "vernacularMandarin": "沒可能。"
+        },
+        {
+          "id": "d6-14--sentence-4",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "Is it possible for him to be unimpeded?",
+          "vernacular": "佢有可能暢通無阻咩?",
+          "vernacularMandarin": "他有可能暢通無阻嗎?"
+        },
+        {
+          "id": "d6-14--sentence-5",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "No.",
+          "vernacular": "冇可能。",
+          "vernacularMandarin": "沒可能。"
+        },
+        {
+          "id": "d6-14--sentence-6",
+          "title": "渴求操之於人嘅嘢嘅人,唔可能免於阻礙",
+          "original": "Therefore he cannot be free.",
+          "vernacular": "所以佢唔可能自由。",
+          "vernacularMandarin": "所以他不可能自由。"
+        },
+        {
+          "id": "d6-15",
+          "title": "諗吓:我哋係咪完全冇操之在我嘅嘢,定係有部分操之在我?",
+          "original": "Consider then, whether we have nothing which is in our own power only, or whether we have all things, or whether some things are in our own power, and others in the power of others.",
+          "vernacular": "咁樣就要諗清楚:我哋係咪完全冇一樣操之在我哋自己手嘅嘢,定係我哋樣樣都有,又或者其中有啲操之在我,有啲就操之於人。",
+          "vernacularMandarin": "這樣就要想清楚:我們是不是完全沒有一樣操之在我們自己手的東西,還是我們樣樣都有,又或者其中有些操之在我,有些就操之於人。"
+        },
+        {
+          "id": "d6-16--sentence-1",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "What do you mean?",
+          "vernacular": "你話係咩意思呢?",
+          "vernacularMandarin": "你說是甚麼意思呢?"
+        },
+        {
+          "id": "d6-16--sentence-2",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "When you wish the body to be entire (sound) is it in your power or not?",
+          "vernacular": "當你想身體完整無缺嗰陣,呢個操之在我咩?",
+          "vernacularMandarin": "當你想身體完整無缺的時候,這個操之在我嗎?"
+        },
+        {
+          "id": "d6-16--sentence-3",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "It is not in my power.",
+          "vernacular": "唔操之在我。",
+          "vernacularMandarin": "不操之在我。"
+        },
+        {
+          "id": "d6-16--sentence-4",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "When you wish it to be healthy?",
+          "vernacular": "你想身體健康呢?",
+          "vernacularMandarin": "你想身體健康呢?"
+        },
+        {
+          "id": "d6-16--sentence-5",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "Neither is this in my power.",
+          "vernacular": "都唔操之在我。",
+          "vernacularMandarin": "都不操之在我。"
+        },
+        {
+          "id": "d6-16--sentence-6",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "When you wish it to be handsome?",
+          "vernacular": "你想樣貌俊美呢?",
+          "vernacularMandarin": "你想樣貌俊美呢?"
+        },
+        {
+          "id": "d6-16--sentence-7",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "Nor is this.",
+          "vernacular": "都唔係。",
+          "vernacularMandarin": "都不是。"
+        },
+        {
+          "id": "d6-16--sentence-8",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "Life or death?",
+          "vernacular": "生同死呢?",
+          "vernacularMandarin": "生同死呢?"
+        },
+        {
+          "id": "d6-16--sentence-9",
+          "title": "你想身體完整、健康、靚仔,操之在我咩?生死呢?都唔操之在我",
+          "original": "Neither is this in my power.",
+          "vernacular": "一樣唔操之在我。",
+          "vernacularMandarin": "一樣不操之在我。"
+        },
+        {
+          "id": "d6-17--sentence-1",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "Your body then is another’s, subject to every man who is stronger than yourself.",
+          "vernacular": "所以你嘅身體係屬於別人嘅,受任何比你更強嘅人擺佈。",
+          "vernacularMandarin": "所以你的身體是屬於別人的,受任何比你更強的人擺佈。"
+        },
+        {
+          "id": "d6-17--sentence-2",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "It is.",
+          "vernacular": "的確係。",
+          "vernacularMandarin": "的確是。"
+        },
+        {
+          "id": "d6-17--sentence-3",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "But your estate is it in your power to have it when you please, and as long as you please, and such as you please?",
+          "vernacular": "咁你嘅田產,你可以隨自己心意、隨自己想要嘅時間、隨自己想要嘅方式去擁有咩?",
+          "vernacularMandarin": "那你的田產,你可以隨自己心意、隨自己想要的時間、隨自己想要的方式去擁有嗎?"
+        },
+        {
+          "id": "d6-17--sentence-4",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "No.",
+          "vernacular": "唔可以。",
+          "vernacularMandarin": "不可以。"
+        },
+        {
+          "id": "d6-17--sentence-5",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "And your slaves?",
+          "vernacular": "你嘅奴僕呢?",
+          "vernacularMandarin": "你的奴僕呢?"
+        },
+        {
+          "id": "d6-17--sentence-6",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "No.",
+          "vernacular": "唔可以。",
+          "vernacularMandarin": "不可以。"
+        },
+        {
+          "id": "d6-17--sentence-7",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "And your clothes?",
+          "vernacular": "你嘅衣物呢?",
+          "vernacularMandarin": "你的衣物呢?"
+        },
+        {
+          "id": "d6-17--sentence-8",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "No.",
+          "vernacular": "唔可以。",
+          "vernacularMandarin": "不可以。"
+        },
+        {
+          "id": "d6-17--sentence-9",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "And your house?",
+          "vernacular": "你嘅屋企呢?",
+          "vernacularMandarin": "你的房子呢?"
+        },
+        {
+          "id": "d6-17--sentence-10",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "No.",
+          "vernacular": "唔可以。",
+          "vernacularMandarin": "不可以。"
+        },
+        {
+          "id": "d6-17--sentence-11",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "And your horses?",
+          "vernacular": "你嘅馬呢?",
+          "vernacularMandarin": "你的馬呢?"
+        },
+        {
+          "id": "d6-17--sentence-12",
+          "title": "身體屬於別人,受任何比你強嘅人擺佈;田產、奴僕、衣物、屋、馬都唔操之在我",
+          "original": "Not one of these things.",
+          "vernacular": "一樣都唔操之在我。",
+          "vernacularMandarin": "一樣都不操之在我。"
+        },
+        {
+          "id": "d6-18--sentence-1",
+          "title": "想仔女老婆兄弟朋友無論如何都活著,操之在我咩?都唔係",
+          "original": "And if you wish by all means your children to live, or your wife, or your brother, or your friends, is it in your power?",
+          "vernacular": "如果你無論如何都想自己嘅仔女、老婆、兄弟或者朋友活著,呢個操之在我咩?",
+          "vernacularMandarin": "如果你無論如何都想自己的兒女、妻子、兄弟或者朋友活著,這個操之在我嗎?"
+        },
+        {
+          "id": "d6-18--sentence-2",
+          "title": "想仔女老婆兄弟朋友無論如何都活著,操之在我咩?都唔係",
+          "original": "This also is not in my power.",
+          "vernacular": "呢個同樣都唔操之在我。",
+          "vernacularMandarin": "這個同樣都不操之在我。"
+        },
+        {
+          "id": "d6-19",
+          "title": "咁你係咪連一樣真正操之在我、攞唔走嘅嘢都冇?讓我哋審視吓",
+          "original": "Whether then have you nothing which is in your own power, which depends on yourself only and cannot be taken from you, or have you anything of the kind? I know not. Look at the thing then thus, and examine it.",
+          "vernacular": "咁樣,你到底係咪連一樣真正只操之在你自己、唔會被人攞走嘅嘢都冇呢?定係你有呢種嘢呢?我唔知。咁就咁樣睇睇件事,審視吓佢。",
+          "vernacularMandarin": "這樣,你到底是不是連一樣真正只操之在你自己、不會被人拿走的東西都沒有呢?還是你有這種東西呢?我不知道。那就這樣看看這件事,審視一下它。"
+        },
+        {
+          "id": "d6-20--sentence-1",
+          "title": "有冇人可以迫你贊同錯嘅嘢?冇。喺贊同呢一點上,你係免於阻礙嘅",
+          "original": "Is any man able to make you assent to that which is false?",
+          "vernacular": "有邊個人可以逼你贊同一樣虛假嘅嘢呢?",
+          "vernacularMandarin": "有誰可以逼你贊同一樣虛假的東西呢?"
+        },
+        {
+          "id": "d6-20--sentence-2",
+          "title": "有冇人可以迫你贊同錯嘅嘢?冇。喺贊同呢一點上,你係免於阻礙嘅",
+          "original": "No man.",
+          "vernacular": "冇人做得到。",
+          "vernacularMandarin": "沒人做得到。"
+        },
+        {
+          "id": "d6-20--sentence-3",
+          "title": "有冇人可以迫你贊同錯嘅嘢?冇。喺贊同呢一點上,你係免於阻礙嘅",
+          "original": "In the matter of assent then you are free from hindrance and obstruction.",
+          "vernacular": "所以喺「贊同」呢件事上面,你係免於阻礙同妨害嘅。",
+          "vernacularMandarin": "所以在「贊同」這件事上面,你是免於阻礙同妨害的。"
+        },
+        {
+          "id": "d6-20--sentence-4",
+          "title": "有冇人可以迫你贊同錯嘅嘢?冇。喺贊同呢一點上,你係免於阻礙嘅",
+          "original": "Granted.",
+          "vernacular": "呢一點承認喇。",
+          "vernacularMandarin": "這一點承認了。"
+        },
+        {
+          "id": "d6-21--sentence-1",
+          "title": "但人可唔可以迫你渴求你唔揀嘅目標?可以——因為威脅死亡或者鎖鏈",
+          "original": "Well; and can a man force you to desire to move towards that to which you do not choose?",
+          "vernacular": "好啦,咁人可唔可以強逼你,去渴求走向一樣你本來唔揀嘅目標呢?",
+          "vernacularMandarin": "好啊,那人可不可以強迫你,去渴求走向一樣你本來不選的目標呢?"
+        },
+        {
+          "id": "d6-21--sentence-2",
+          "title": "但人可唔可以迫你渴求你唔揀嘅目標?可以——因為威脅死亡或者鎖鏈",
+          "original": "He can, for when he threatens me with death or bonds he compels me to desire to move towards it.",
+          "vernacular": "可以——因為當佢用死亡或者鎖鏈威脅我嗰陣,佢就強逼咗我渴求走向嗰個方向。",
+          "vernacularMandarin": "可以——因為當他用死亡或者鎖鏈威脅我的時候,他就強迫了我渴求走向那個方向。"
+        },
+        {
+          "id": "d6-21--sentence-3",
+          "title": "但人可唔可以迫你渴求你唔揀嘅目標?可以——因為威脅死亡或者鎖鏈",
+          "original": "If then you despise death and bonds, do you still pay any regard to him?",
+          "vernacular": "如果你鄙視死亡同鎖鏈,你仲會理佢咩?",
+          "vernacularMandarin": "如果你鄙視死亡同鎖鏈,你還會理他嗎?"
+        },
+        {
+          "id": "d6-21--sentence-4",
+          "title": "但人可唔可以迫你渴求你唔揀嘅目標?可以——因為威脅死亡或者鎖鏈",
+          "original": "No.",
+          "vernacular": "唔會。",
+          "vernacularMandarin": "不會。"
+        },
+        {
+          "id": "d6-22",
+          "title": "鄙視死亡呢件事,係咪你自己嘅行為?係",
+          "original": "Is then the despising of death an act of your own or is it not yours? It is my act.",
+          "vernacular": "咁樣,「鄙視死亡」呢件事,到底係咪你自己嘅行為呢?定係唔屬於你嘅呢?呢個係我自己嘅行為。",
+          "vernacularMandarin": "這樣,「鄙視死亡」這件事,到底是不是你自己的行為呢?還是不屬於你的呢?這是我自己的行為。"
+        },
+        {
+          "id": "d6-23",
+          "title": "做好準備,操練呢種紀律:分清咩屬於別人,咩屬於自己",
+          "original": "When you have made this preparation, and have practised this discipline, to distinguish that which belongs to another from that which is your own, the things which are subject to hindrance from those which are not,",
+          "vernacular": "當你做好咗呢種準備、操練咗呢種紀律,識得分辨咩係屬於別人嘅,咩係屬於你自己嘅;識得分辨咩容易受阻,咩唔會受阻;",
+          "vernacularMandarin": "當你做好了這種準備、操練了這種紀律,懂得分辨甚麼是屬於別人的,甚麼是屬於你自己的;懂得分辨甚麼容易受阻,甚麼不會受阻;"
+        },
+        {
+          "id": "d6-24--sentence-1",
+          "title": "將渴求牢牢鎖定喺關乎自己嘅嘢上,咁你仲驚邊個?一個都唔驚",
+          "original": "to consider the things free from hindrance to concern yourself, and those which are not free not to concern yourself, to keep your desire steadily fixed to the things which do concern yourself, and turned from the things which do not concern yourself; do you still fear any man?",
+          "vernacular": "識得將免於阻礙嘅嘢當做關乎自己,將唔屬於自己嘅嘢當做唔關自己事;將你嘅渴求穩穩咁鎖定喺真正關乎自己嘅嘢上面,遠離唔關乎自己嘅嘢——咁樣你仲會驚邊個呢?",
+          "vernacularMandarin": "懂得把免於阻礙的事物當作關乎自己,把不屬於自己的事物當作不關自己的事;把你的渴求穩穩地鎖定在真正關乎自己的事物上面,遠離不關乎自己的事物——這樣你還會怕誰呢?"
+        },
+        {
+          "id": "d6-24--sentence-2",
+          "title": "將渴求牢牢鎖定喺關乎自己嘅嘢上,咁你仲驚邊個?一個都唔驚",
+          "original": "No one.",
+          "vernacular": "一個都唔會。",
+          "vernacularMandarin": "一個都不會。"
+        },
+        {
+          "id": "d6-25--sentence-1",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "For about what will you be afraid?",
+          "vernacular": "因為你到底會驚咩呢?",
+          "vernacularMandarin": "因為你到底會怕甚麼呢?"
+        },
+        {
+          "id": "d6-25--sentence-2",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "About the things which are your own, in which consists the nature of good and evil?",
+          "vernacular": "驚嗰啲屬於你自己、決定咗善惡本質嘅嘢咩?",
+          "vernacularMandarin": "怕那些屬於你自己、決定了善惡本質的東西嗎?"
+        },
+        {
+          "id": "d6-25--sentence-3",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "and who has power over these things?",
+          "vernacular": "咁邊個對呢啲嘢有權力呢?",
+          "vernacularMandarin": "那誰對這些東西有權力呢?"
+        },
+        {
+          "id": "d6-25--sentence-4",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "who can take them away?",
+          "vernacular": "邊個可以攞走佢哋呢?",
+          "vernacularMandarin": "誰可以拿走它們呢?"
+        },
+        {
+          "id": "d6-25--sentence-5",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "who can impede them?",
+          "vernacular": "邊個可以阻礙佢哋呢?",
+          "vernacularMandarin": "誰可以阻礙它們呢?"
+        },
+        {
+          "id": "d6-25--sentence-6",
+          "title": "你會驚咩呢?驚屬於自己嘅嘢咩?冇人可以攞走",
+          "original": "No man can, no more than he can impede God.",
+          "vernacular": "冇人可以,正如冇人可以阻礙神一樣。",
+          "vernacularMandarin": "沒有人可以,正如沒有人可以阻礙神一樣。"
+        },
+        {
+          "id": "d6-26",
+          "title": "你會驚身體同財產咩?但由頭到尾你唔就係喺學緊分辨咩係自己嘅咩",
+          "original": "But will you be afraid about your body and your possessions, about things which are not yours, about things which in no way concern you? and what else have you been studying from the beginning than to distinguish between your own and not your own, the things which are in your power and not in your power, the things subject to hindrance and not subject?",
+          "vernacular": "但你係咪會驚你嘅身體同財產呢?驚嗰啲根本唔屬於你、亦都同你完全冇關嘅嘢呢?你由一開始學習,究竟又係為咗學啲乜呢?唔就係要分辨咩係屬於自己、咩係唔屬於自己,咩操之在我、咩唔操之在我,咩容易受阻、咩唔會受阻咩?",
+          "vernacularMandarin": "但你是不是會怕你的身體同財產呢?怕那些根本不屬於你、也同你完全無關的東西呢?你從一開始學習,究竟又是為了學些甚麼呢?不就是要分辨甚麼是屬於自己、甚麼是不屬於自己,甚麼操之在我、甚麼不操之在我,甚麼容易受阻、甚麼不會受阻嗎?"
+        },
+        {
+          "id": "d6-27--sentence-1",
+          "title": "你去投奔哲學家,係咪就係為咗最後仍然不幸唔開心?",
+          "original": "and why have you come to the philosophers?",
+          "vernacular": "咁你去投奔哲學家,又係為咗乜呢?",
+          "vernacularMandarin": "那你去投奔哲學家,又是為了甚麼呢?"
+        },
+        {
+          "id": "d6-27--sentence-2",
+          "title": "你去投奔哲學家,係咪就係為咗最後仍然不幸唔開心?",
+          "original": "was it that you may nevertheless be unfortunate and unhappy?",
+          "vernacular": "係咪為咗到頭嚟仍然不幸、仍然唔開心呢?",
+          "vernacularMandarin": "是不是為了到頭來仍然不幸、仍然不快樂呢?"
+        },
+        {
+          "id": "d6-27--sentence-3",
+          "title": "你去投奔哲學家,係咪就係為咗最後仍然不幸唔開心?",
+          "original": "You will then in this way, as I have supposed you to have done, be without fear and disturbance.",
+          "vernacular": "咁樣嘅話,正如我假設你已經做到咁,你就會冇恐懼、冇不安。",
+          "vernacularMandarin": "這樣的話,正如我假設你已經做到這樣,你就會沒有恐懼、沒有不安。"
+        },
+        {
+          "id": "d6-28--sentence-1",
+          "title": "傷心又同你有咩關係?恐懼源於期待,傷心源於現狀",
+          "original": "And what is grief to you?",
+          "vernacular": "咁傷心又同你有咩關係呢?",
+          "vernacularMandarin": "那傷心又同你有甚麼關係呢?"
+        },
+        {
+          "id": "d6-28--sentence-2",
+          "title": "傷心又同你有咩關係?恐懼源於期待,傷心源於現狀",
+          "original": "for fear comes from what you expect, but grief from that which is present.",
+          "vernacular": "因為恐懼係源於你所預期嘅嘢,但傷心係源於已經發生嘅嘢。",
+          "vernacularMandarin": "因為恐懼是源於你所預期的東西,但傷心是源於已經發生的東西。"
+        },
+        {
+          "id": "d6-28--sentence-3",
+          "title": "傷心又同你有咩關係?恐懼源於期待,傷心源於現狀",
+          "original": "But what further will you desire?",
+          "vernacular": "而你仲想渴求啲乜呢?",
+          "vernacularMandarin": "而你還想渴求些甚麼呢?"
+        },
+        {
+          "id": "d6-29",
+          "title": "操之在意志嘅嘢,渴求要得體;唔操之在我嘅,就一件都唔渴求",
+          "original": "For of the things which are within the power of the will, as being good and present, you have a proper and regulated desire; but of the things which are not in the power of the will you do not desire any one, and so you do not allow any place to that which is irrational, and impatient, and above measure hasty.",
+          "vernacular": "因為對於操之在意志、屬於善、而且已經擺喺你眼前嘅嘢,你自然會有一種得體、有節制嘅渴求;但對於唔操之在意志嘅嘢,你就一件都唔渴求,所以你唔會俾任何無理性、缺乏耐性、過分急躁嘅情緒有立足之地。",
+          "vernacularMandarin": "因為對於操之在意志、屬於善、而且已經擺在你眼前的東西,你自然會有一種得體、有節制的渴求;但對於不操之在意志的東西,你就一件都不渴求,所以你不會讓任何無理性、缺乏耐性、過分急躁的情緒有立足之地。"
+        },
+        {
+          "id": "d6-30--sentence-1",
+          "title": "你連自己都係由別人度接收返嚟,俾人攞返啲嘢又點會嬲?",
+          "original": "Then after receiving everything from another and even yourself, are you angry and do you blame the giver if he takes anything from you?",
+          "vernacular": "咁樣,你連自己嘅存在都係由別人度領受返嚟嘅,一旦施予者攞返啲乜嘢,你就會發嬲、怪責佢咩?",
+          "vernacularMandarin": "這樣,你連自己的存在都是從別人那裡領受回來的,一旦施予者拿回些甚麼,你就會發怒、怪責他嗎?"
+        },
+        {
+          "id": "d6-30--sentence-2",
+          "title": "你連自己都係由別人度接收返嚟,俾人攞返啲嘢又點會嬲?",
+          "original": "Who are you, and for what purpose did you come into the world?",
+          "vernacular": "你到底係邊個,又係為咗乜嘢嚟到呢個世界呢?",
+          "vernacularMandarin": "你到底是誰,又是為了甚麼來到這個世界呢?"
+        },
+        {
+          "id": "d6-31",
+          "title": "神引領你嚟到呢度,賜俾你光明、同伴、感知同理性——你係佢帶入嚟嘅",
+          "original": "Did not he (God) introduce you here, did he not show you the light, did he not give you fellow-workers, and perceptions and reason? and as whom did he introduce you here? did he not introduce you as subject to death, and as one to live on the earth with a little flesh, and to observe his administration, and to join with him in the spectacle and the festival for a short time?",
+          "vernacular": "唔就係佢(神)將你引入呢個世界咩?唔就係佢向你展示光明咩?唔就係佢賜俾你同伴、感知同理性咩?佢又係將你以咩身份引入呢個世界嘅呢?佢唔就係將你引入,做一個終將一死嘅人、住喺呢個世界、帶住一具小小嘅血肉之軀、去觀察佢嘅治理、並且短暫咁同佢一齊參與呢場盛會同慶典咩?",
+          "vernacularMandarin": "不就是他(神)把你引入這個世界嗎?不就是他向你展示光明嗎?不就是他賜給你同伴、感知同理性嗎?他又是把你以甚麼身份引入這個世界的呢?他不就是把你引入,做一個終將一死的人、住在這個世界、帶著一具小小的血肉之軀、去觀察他的治理、並且短暫地同他一起參與這場盛會同慶典嗎?"
+        },
+        {
+          "id": "d6-32--sentence-1",
+          "title": "睇完呢場盛會,佢帶你出去嗰陣,你唔應該懷住感恩敬拜離開咩?",
+          "original": "Will you not then, as long as you have been permitted, after seeing the spectacle and the solemnity, when he leads you out, go with adoration of him and thanks for what you have heard and seen?",
+          "vernacular": "咁樣,喺你獲准嘅時間之內,睇完呢場盛會同儀式之後,當佢帶你出場嗰陣,你唔應該懷住對佢嘅崇敬、同埋為你所見所聞而感恩,咁樣離開咩?「",
+          "vernacularMandarin": "這樣,在你獲准的時間之內,看完這場盛會同儀式之後,當他帶你出場的時候,你不應該懷著對他的崇敬、以及為你所見所聞而感恩,這樣離開嗎?「"
+        },
+        {
+          "id": "d6-32--sentence-2",
+          "title": "睇完呢場盛會,佢帶你出去嗰陣,你唔應該懷住感恩敬拜離開咩?",
+          "original": "No; but I would still enjoy the feast.",
+          "vernacular": "唔,我仲想繼續留低享受呢場盛宴。」",
+          "vernacularMandarin": "不,我還想繼續留下享受這場盛宴。」"
+        },
+        {
+          "id": "d6-33--sentence-1",
+          "title": "受過秘儀嘅人都想留耐啲,但盛會已經結束,要讓路俾其他人",
+          "original": "The initiated too would wish to be longer in the initiation; and perhaps also those at Olympia to see other athletes.",
+          "vernacular": "受過秘儀嘅人都會想喺入教儀式入面留耐啲;喺奧林匹亞嘅人可能都想繼續睇其他選手比賽。",
+          "vernacularMandarin": "受過秘儀的人都會想在入教儀式裡面留久一點;在奧林匹亞的人可能也想繼續看其他選手比賽。"
+        },
+        {
+          "id": "d6-33--sentence-2",
+          "title": "受過秘儀嘅人都想留耐啲,但盛會已經結束,要讓路俾其他人",
+          "original": "But the solemnity is ended; go away like a grateful and modest man; make room for others;",
+          "vernacular": "但盛會已經結束喇;你要好似一個懂得感恩、謙遜嘅人咁樣離開,為其他人騰出空間;",
+          "vernacularMandarin": "但盛會已經結束了;你要好似一個懂得感恩、謙遜的人那樣離開,為其他人騰出空間;"
+        },
+        {
+          "id": "d6-34--sentence-1",
+          "title": "後嚟嘅人同你一樣都要出世,都需要有位有屋;你點解要貪得無厭?",
+          "original": "others also must be born, as you were, and, being born, they must have a place, and houses, and necessary things.",
+          "vernacular": "因為其他人都要好似你一樣出世,而佢哋出世之後,都需要有個位置,有屋企,有生活必需品。",
+          "vernacularMandarin": "因為其他人都要好似你一樣出世,而他們出世之後,都需要有個位置,有房子,有生活必需品。"
+        },
+        {
+          "id": "d6-34--sentence-2",
+          "title": "後嚟嘅人同你一樣都要出世,都需要有位有屋;你點解要貪得無厭?",
+          "original": "And if the first do not retire, what remains?",
+          "vernacular": "如果第一批人唔肯讓位,咁又點會有剩呢?",
+          "vernacularMandarin": "如果第一批人不肯讓位,那又怎會有剩呢?"
+        },
+        {
+          "id": "d6-34--sentence-3",
+          "title": "後嚟嘅人同你一樣都要出世,都需要有位有屋;你點解要貪得無厭?",
+          "original": "Why are you insatiable?",
+          "vernacular": "你點解要貪得無厭呢?",
+          "vernacularMandarin": "你為甚麼要貪得無厭呢?"
+        },
+        {
+          "id": "d6-34--sentence-4",
+          "title": "後嚟嘅人同你一樣都要出世,都需要有位有屋;你點解要貪得無厭?",
+          "original": "Why are you not content?",
+          "vernacular": "你點解唔知足呢?",
+          "vernacularMandarin": "你為甚麼不知足呢?"
+        },
+        {
+          "id": "d6-34--sentence-5",
+          "title": "後嚟嘅人同你一樣都要出世,都需要有位有屋;你點解要貪得無厭?",
+          "original": "why do you contract the world?",
+          "vernacular": "你點解要霸佔埋成個世界呢?",
+          "vernacularMandarin": "你為甚麼要霸佔整個世界呢?"
+        },
+        {
+          "id": "d6-35--sentence-1",
+          "title": "我想同我啲仔女老婆一齊——但佢哋係屬於你嘅咩?",
+          "original": "Yes, but I would have my little children with me and my wife.",
+          "vernacular": "「係嘅,但我想同我啲細路仔同我老婆一齊。」",
+          "vernacularMandarin": "「是的,但我想同我的孩子同我妻子一起。」"
+        },
+        {
+          "id": "d6-35--sentence-2",
+          "title": "我想同我啲仔女老婆一齊——但佢哋係屬於你嘅咩?",
+          "original": "What, are they yours?",
+          "vernacular": "但佢哋係屬於你嘅咩?",
+          "vernacularMandarin": "但他們是屬於你的嗎?"
+        },
+        {
+          "id": "d6-35--sentence-3",
+          "title": "我想同我啲仔女老婆一齊——但佢哋係屬於你嘅咩?",
+          "original": "do they not belong to the giver, and to him who made you?",
+          "vernacular": "佢哋唔就係屬於施予者、屬於創造你嗰位嘅咩?",
+          "vernacularMandarin": "他們不就是屬於施予者、屬於創造你那位的嗎?"
+        },
+        {
+          "id": "d6-35--sentence-4",
+          "title": "我想同我啲仔女老婆一齊——但佢哋係屬於你嘅咩?",
+          "original": "then will you not give up what belongs to others?",
+          "vernacular": "咁你係咪唔肯放低屬於別人嘅嘢呢?",
+          "vernacularMandarin": "那你是不是不肯放下屬於別人的東西呢?"
+        },
+        {
+          "id": "d6-35--sentence-5",
+          "title": "我想同我啲仔女老婆一齊——但佢哋係屬於你嘅咩?",
+          "original": "will you not give way to him who is superior?",
+          "vernacular": "你係咪唔肯向比你更高嘅一位讓步呢?",
+          "vernacularMandarin": "你是不是不肯向比你更高的一位讓步呢?"
+        },
+        {
+          "id": "d6-36--sentence-1",
+          "title": "點解要喺呢啲條件下引我嚟世界?——如果唔啱意,咁就離開啦",
+          "original": "Why then did he introduce me into the world on these conditions?",
+          "vernacular": "「咁佢點解要喺呢啲條件下,將我引入呢個世界呢?」",
+          "vernacularMandarin": "「那他為甚麼要在這些條件下,把我引入這個世界呢?」"
+        },
+        {
+          "id": "d6-36--sentence-2",
+          "title": "點解要喺呢啲條件下引我嚟世界?——如果唔啱意,咁就離開啦",
+          "original": "And if the conditions do not suit you, depart.",
+          "vernacular": "如果呢啲條件唔啱你心意,咁就離開啦。",
+          "vernacularMandarin": "如果這些條件不合你心意,那就離開吧。"
+        },
+        {
+          "id": "d6-36--sentence-3",
+          "title": "點解要喺呢啲條件下引我嚟世界?——如果唔啱意,咁就離開啦",
+          "original": "He has no need of a spectator who is not satisfied.",
+          "vernacular": "佢唔需要一個唔滿意嘅觀眾。",
+          "vernacularMandarin": "他不需要一個不滿意的觀眾。"
+        },
+        {
+          "id": "d6-37--sentence-1",
+          "title": "神要嘅係樂意讚頌慶典嘅人,而唔係吝嗇離場嘅懦夫",
+          "original": "He wants those who join in the festival, those who take part in the chorus, that they may rather applaud, admire, and celebrate with hymns the solemnity.",
+          "vernacular": "佢想要嘅係嗰啲樂意參與盛會、參與合唱嘅人,佢哋會鼓掌、讚嘆、以聖詩慶祝呢場盛典。",
+          "vernacularMandarin": "他想要的是那些樂意參與盛會、參與合唱的人,他們會鼓掌、讚嘆、以聖詩慶祝這場盛典。"
+        },
+        {
+          "id": "d6-37--sentence-2",
+          "title": "神要嘅係樂意讚頌慶典嘅人,而唔係吝嗇離場嘅懦夫",
+          "original": "But those who can bear no trouble, and the cowardly, he will not unwillingly see absent from the great assembly",
+          "vernacular": "至於嗰啲承受唔到任何困難、怯懦嘅人,佢缺席呢場盛會,佢都唔會唔情願;",
+          "vernacularMandarin": "至於那些承受不了任何困難、怯懦的人,他缺席這場盛會,他也不會不情願;"
+        },
+        {
+          "id": "d6-38",
+          "title": "因為佢哋出席都做唔到應有嘅本份,只識埋怨神明、命運同同伴",
+          "original": "for they did not when they were present behave as they ought to do at a festival nor fill up their place properly, but they lamented, found fault with the deity, fortune, their companions; not seeing both what they had, and their own powers, which they received for contrary purposes, the powers of magnanimity, of a generous mind, manly spirit, and what we are now inquiring about, freedom.",
+          "vernacular": "因為呢啲人喺出席嗰陣,都做唔到喺盛會入面應有嘅本份,亦都填補唔到自己應有嘅位置,反而只識喊苦喊忽、怪責神明、命運同同伴;佢哋睇唔到自己已經擁有嘅嘢,亦都睇唔到自己所領受、原本用嚟成就相反目的嘅能力——即係胸襟、慷慨、陽剛之氣,以及我哋而家正在探討嘅自由。",
+          "vernacularMandarin": "因為這些人在出席時,都做不到在盛會裡面應有的本份,也填補不到自己應有的位置,反而只懂哭訴、怪責神明、命運同同伴;他們看不到自己已經擁有的東西,也看不到自己所領受、原本用來成就相反目的的能力——也就是胸襟、慷慨、陽剛之氣,以及我們現在正在探討的自由。"
+        },
+        {
+          "id": "d6-39--sentence-1",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "For what purpose then have I received these things?",
+          "vernacular": "咁樣,我領受呢啲能力到底係為咗乜?",
+          "vernacularMandarin": "這樣,我領受這些能力到底是為了甚麼?"
+        },
+        {
+          "id": "d6-39--sentence-2",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "To use them.",
+          "vernacular": "係為咗使用佢哋。",
+          "vernacularMandarin": "是為了使用它們。"
+        },
+        {
+          "id": "d6-39--sentence-3",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "How long?",
+          "vernacular": "可以用幾耐呢?",
+          "vernacularMandarin": "可以用多久呢?"
+        },
+        {
+          "id": "d6-39--sentence-4",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "So long as he who has lent them chooses.",
+          "vernacular": "就用到出借嘅人願意為止。",
+          "vernacularMandarin": "就用到出借的人願意為止。"
+        },
+        {
+          "id": "d6-39--sentence-5",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "What if they are necessary to me?",
+          "vernacular": "如果佢哋係我必需嘅呢?",
+          "vernacularMandarin": "如果它們是我必需的呢?"
+        },
+        {
+          "id": "d6-39--sentence-6",
+          "title": "我領受呢啲能力係為咗使用;能夠用幾耐?視乎出借者嘅意思",
+          "original": "Do not attach yourself to them and they will not be necessary; do not say to yourself that they are necessary, and then they are not necessary.",
+          "vernacular": "咁就唔好依附住佢哋,佢哋就唔會係必需嘅;唔好對自己講「佢哋係必需嘅」,咁佢哋就唔係必需嘅。",
+          "vernacularMandarin": "那就不要依附著它們,它們就不會是必需的;不要對自己說「它們是必需的」,那它們就不是必需的。"
+        },
+        {
+          "id": "d6-40--sentence-1",
+          "title": "你自己自由咩?我祈望係,但我仲未做得到",
+          "original": "You then, a man may say, are you free?",
+          "vernacular": "有人可能會咁樣問我:「你自己自由咩?」",
+          "vernacularMandarin": "有人可能會這樣問我:「你自己自由嗎?」"
+        },
+        {
+          "id": "d6-40--sentence-2",
+          "title": "你自己自由咩?我祈望係,但我仲未做得到",
+          "original": "I wish, by the gods, and pray to be free; but I am not yet able to face my masters, I still value my poor body, I value greatly the preservation of it entire, though I do not possess it entire.",
+          "vernacular": "我祈望,亦都向神明祈求做到自由;但我仍然未做得到面對自己嘅主人,我依然重視呢副可憐嘅身軀,好珍惜佢完整無缺——雖然我其實從未真正擁有過完整嘅佢。",
+          "vernacularMandarin": "我祈望,也向神明祈求做到自由;但我仍然未做得到面對自己的主人,我依然重視這副可憐的身軀,很珍惜它完整無缺——雖然我其實從未真正擁有過完整的它。"
+        },
+        {
+          "id": "d6-41--sentence-1",
+          "title": "但我可以話俾你知有個真正自由嘅人——第歐根尼並唔係因為父母自由而自由",
+          "original": "But I can point out to you a free man, that you may no longer seek an example.",
+          "vernacular": "但我可以話俾你知,有個自由嘅人,咁你就唔使再搵例子喇。",
+          "vernacularMandarin": "但我可以告訴你,有個自由的人,那你就不用再找例子了。"
+        },
+        {
+          "id": "d6-41--sentence-2",
+          "title": "但我可以話俾你知有個真正自由嘅人——第歐根尼並唔係因為父母自由而自由",
+          "original": "Diogenes was free.",
+          "vernacular": "第歐根尼就係自由嘅。",
+          "vernacularMandarin": "第歐根尼就是自由的。"
+        },
+        {
+          "id": "d6-41--sentence-3",
+          "title": "但我可以話俾你知有個真正自由嘅人——第歐根尼並唔係因為父母自由而自由",
+          "original": "How was he free?",
+          "vernacular": "佢點樣自由呢?",
+          "vernacularMandarin": "他怎樣自由呢?"
+        },
+        {
+          "id": "d6-41--sentence-4",
+          "title": "但我可以話俾你知有個真正自由嘅人——第歐根尼並唔係因為父母自由而自由",
+          "original": "Not because he was born of free parents, but because he was himself free, because he had cast off all the handles of slavery, and it was not possible for any man to approach him, nor had any man the means of laying hold of him to enslave him.",
+          "vernacular": "唔係因為佢由自由嘅父母所生,而係因為佢自己本身自由,因為佢已經拋棄晒一切奴役嘅把柄,冇人可以接近佢,亦都冇人有辦法捉住佢去奴役佢。",
+          "vernacularMandarin": "不是因為他由自由的父母所生,而是因為他自己本身自由,因為他已經拋棄了一切奴役的把柄,沒有人可以接近他,也沒有人有辦法捉住他去奴役他。"
+        },
+        {
+          "id": "d6-42--sentence-1",
+          "title": "佢嘅一切都輕輕鬆鬆,只係鬆散咁掛喺身上——你攞得走佢田產,佢由得你攞",
+          "original": "He had everything easily loosed, everything only hanging to him.",
+          "vernacular": "佢嘅一切都輕易鬆脫,一切都只不過係鬆散咁掛喺佢身上。",
+          "vernacularMandarin": "他的一切都輕易鬆脫,一切都只不過是鬆散地掛在他身上。"
+        },
+        {
+          "id": "d6-42--sentence-2",
+          "title": "佢嘅一切都輕輕鬆鬆,只係鬆散咁掛喺身上——你攞得走佢田產,佢由得你攞",
+          "original": "If you laid hold of his property, he would have rather let it go and be yours, than he would have followed you for it; if you had laid hold of his leg, he would have let go his leg; if of all his body, all his poor body; his intimates, friends, country, just the same.",
+          "vernacular": "如果你捉住咗佢嘅財產,佢寧願放手俾你攞去,都唔會為咗嗰件財產而追住你唔放;如果你捉住咗佢條腿,佢就由得你攞去條腿;如果捉住咗佢成個身,咁就係佢呢副可憐嘅身軀;至於佢嘅摯友、朋友、國家,都係一樣。",
+          "vernacularMandarin": "如果你捉住了他的財產,他寧願放手給你拿去,都不會為了那件財產而追著你不放;如果你捉住了他的腿,他就由得你拿走那條腿;如果捉住了他整個身體,那就是他這副可憐的身軀;至於他的摯友、朋友、國家,都是一樣。"
+        },
+        {
+          "id": "d6-43--sentence-1",
+          "title": "佢知道自己嘅真父母同祖國喺邊,絕對唔會離棄",
+          "original": "For he knew from whence he had them, and from whom, and on what conditions.",
+          "vernacular": "因為佢知道自己嘅一切係由邊度嚟、由邊個度嚟、又係喺咩條件之下嚟嘅。",
+          "vernacularMandarin": "因為他知道自己的一切是從哪裡來、從誰那裡來、又是在甚麼條件之下來的。"
+        },
+        {
+          "id": "d6-43--sentence-2",
+          "title": "佢知道自己嘅真父母同祖國喺邊,絕對唔會離棄",
+          "original": "His true parents indeed, the gods, and his real country he would never have deserted, nor would he have yielded to any man in obedience to them and to their orders, nor would any man have died for his country more readily.",
+          "vernacular": "至於佢真正嘅父母——即係眾神——同埋佢真正嘅祖國,佢就絕對唔會離棄;亦都唔會喺服從佢哋同佢哋嘅命令呢件事上向任何人讓步;更加冇人會比佢更加甘願為自己嘅祖國而死。",
+          "vernacularMandarin": "至於他真正的父母——也就是眾神——以及他真正的祖國,他就絕對不會離棄;也不會在服從他們同他們的命令這件事上向任何人讓步;更加沒有人會比他更加甘願為自己的祖國而死。"
+        },
+        {
+          "id": "d6-44",
+          "title": "佢從唔查問自己有冇為萬物做啲乜——因為一切都係源於萬物,亦都係為咗萬物而做",
+          "original": "For he was not used to inquire when he should be considered to have done anything on behalf of the whole of things (the universe, or all the world), but he remembered that everything which is done comes from thence and is done on behalf of that country and is commanded by him who administers it.",
+          "vernacular": "因為佢從來唔慣去查問,自己幾時先算係為咗萬物(即係宇宙,或者整個世界)做過啲乜嘢,佢只係記得,凡係做嘅一切,都係源於嗰度、亦都係為咗嗰個祖國而做,並且係由治理萬物嗰位所命令嘅。",
+          "vernacularMandarin": "因為他從來不慣去查問,自己幾時才算是為了萬物(也就是宇宙,或者整個世界)做過些甚麼,他只是記得,凡是做的一切,都是源於那裡、也是為了那個祖國而做,並且是由治理萬物那位所命令的。"
+        },
+        {
+          "id": "d6-45",
+          "title": "第歐根尼自己嘅話:我可以隨意同波斯王同斯巴達王講嘢",
+          "original": "Therefore see what Diogenes himself says and writes: “For this reason,” he says, “Diogenes, it is in your power to speak both with the King of the Persians and with Archidamus the King of the Lacedaemonians, as you please.”",
+          "vernacular": "所以睇吓第歐根尼自己講過同寫過啲乜:佢話:「正正係基於呢個原因,第歐根尼,你有權隨意同波斯王、同斯巴達嘅阿爾奇達穆斯王講嘢。」",
+          "vernacularMandarin": "所以看看第歐根尼自己講過同寫過些甚麼:他說:「正是基於這個原因,第歐根尼,你有權隨意同波斯王、同斯巴達的阿爾奇達穆斯王講話。」"
+        },
+        {
+          "id": "d6-46--sentence-1",
+          "title": "難道係因為佢由自由嘅父母所生咩?雅典人斯巴達人都係自由人所生,但佢哋卻懼怕巴結",
+          "original": "Was it because he was born of free parents?",
+          "vernacular": "係咪因為佢由自由嘅父母所生呢?",
+          "vernacularMandarin": "是不是因為他由自由的父母所生呢?"
+        },
+        {
+          "id": "d6-46--sentence-2",
+          "title": "難道係因為佢由自由嘅父母所生咩?雅典人斯巴達人都係自由人所生,但佢哋卻懼怕巴結",
+          "original": "I suppose all the Athenians and all the Lacedaemonians, because they were born of slaves, could not talk with them (these kings) as they wished, but feared and paid court to them.",
+          "vernacular": "我諗全體雅典人同斯巴達人,都唔會係因為由奴隸所生,先至冇辦法隨心咁同呢啲君王講嘢;反而,佢哋係因為驚同巴結先咁樣。",
+          "vernacularMandarin": "我想全體雅典人同斯巴達人,都不會是因為由奴隸所生,才沒有辦法隨心地同這些君王講話;反而,他們是因為害怕同巴結才這樣。"
+        },
+        {
+          "id": "d6-47--sentence-1",
+          "title": "點解佢會話呢個操之在我?因為我唔將身體當自己嘅,亦都乜都唔想要",
+          "original": "Why then does he say that it is in his power?",
+          "vernacular": "咁樣,佢點解會話呢個操之在我呢?",
+          "vernacularMandarin": "這樣,他為甚麼會說這個操之在我呢?"
+        },
+        {
+          "id": "d6-47--sentence-2",
+          "title": "點解佢會話呢個操之在我?因為我唔將身體當自己嘅,亦都乜都唔想要",
+          "original": "Because I do not consider the poor body to be my own, because I want nothing, because law is everything to me, and nothing else is.",
+          "vernacular": "因為我唔將呢副可憐嘅身軀當做屬於自己嘅嘢,因為我乜都唔想要,因為法則對我嚟講就係一切,除此之外冇其他嘢。",
+          "vernacularMandarin": "因為我不把這副可憐的身軀當作屬於自己的東西,因為我甚麼都不想要,因為法則對我來說就是一切,除此之外沒有其他東西。"
+        },
+        {
+          "id": "d6-47--sentence-3",
+          "title": "點解佢會話呢個操之在我?因為我唔將身體當自己嘅,亦都乜都唔想要",
+          "original": "These were the things which permitted him to be free.",
+          "vernacular": "呢啲就係令佢可以自由嘅嘢。",
+          "vernacularMandarin": "這些就是令他可以自由的東西。"
+        },
+        {
+          "id": "d6-48--sentence-1",
+          "title": "想自由就要諗呢啲睇法,學呢啲例子——付出咁大代價換嚟自由,又何足為奇",
+          "original": "Think of these things, these opinions, these words; look to these examples, if you would be free, if you desire the thing according to its worth.",
+          "vernacular": "如果你想自由,如果你按照自由應有嘅價值去渴求佢,咁就要思考呢啲事、呢啲睇法、呢啲言語;要效法呢啲榜樣。",
+          "vernacularMandarin": "如果你想自由,如果你按照自由應有的價值去渴求它,那就要思考這些事、這些看法、這些言語;要效法這些榜樣。"
+        },
+        {
+          "id": "d6-48--sentence-2",
+          "title": "想自由就要諗呢啲睇法,學呢啲例子——付出咁大代價換嚟自由,又何足為奇",
+          "original": "And what is the wonder if you buy so great a thing at the price of things so many and so great?",
+          "vernacular": "既然你要用咁多、咁大嘅代價,去換取咁重大嘅一樣嘢,又有咩值得驚訝呢?",
+          "vernacularMandarin": "既然你要用這麼多、這麼大的代價,去換取這麼重大的一樣東西,又有甚麼值得驚訝呢?"
+        },
+        {
+          "id": "d6-49",
+          "title": "有人為咗自由而自縊、跳崖,甚至整座城市滅亡——難道你唔願為真正嘅自由歸還神所賜嘅嘢?",
+          "original": "For the sake of this which is called liberty, some hang themselves, others throw themselves down precipices, and sometimes even whole cities have perished; and will you not for the sake of the true and unassailable and secure liberty give back to God when he demands them the things which he has given?",
+          "vernacular": "為咗呢個叫做「自由」嘅嘢,有啲人上吊自盡,有啲人跳崖尋死,甚至有成座城市因此而覆滅;咁樣,為咗真正嘅、不可侵犯嘅、穩固嘅自由,神一旦要求討返佢賜落嚟嘅嘢,你就唔願意歸還咩?",
+          "vernacularMandarin": "為了這個叫做「自由」的東西,有些人上吊自盡,有些人跳崖尋死,甚至有整座城市因此而覆滅;這樣,為了真正的、不可侵犯的、穩固的自由,神一旦要求討回他賜下來的東西,你就不願意歸還嗎?"
+        },
+        {
+          "id": "d6-50--sentence-1",
+          "title": "正如柏拉圖所講,要學習嘅唔淨止係死,仲有忍受酷刑、流放、鞭打——放棄一切唔屬於自己嘅嘢",
+          "original": "Will you not, as Plato says, study not to die only, but also to endure torture, and exile, and scourging, and, in a word, to give up all which is not your own?",
+          "vernacular": "正如柏拉圖所講,你唔應該只學習點樣去死,仲要學習忍受酷刑、流放、鞭打,簡單講就係要放棄一切唔屬於自己嘅嘢咩?",
+          "vernacularMandarin": "正如柏拉圖所講,你不應該只學習怎樣去死,還要學習忍受酷刑、流放、鞭打,簡單講就是要放棄一切不屬於自己的東西嗎?"
+        },
+        {
+          "id": "d6-50--sentence-2",
+          "title": "正如柏拉圖所講,要學習嘅唔淨止係死,仲有忍受酷刑、流放、鞭打——放棄一切唔屬於自己嘅嘢",
+          "original": "If you will not, you will be a slave among slaves, even if you be ten thousand times a consul;",
+          "vernacular": "如果你唔願意,咁你就會成為奴隸中嘅奴隸,就算你做過一萬次執政官都好;",
+          "vernacularMandarin": "如果你不願意,那你就會成為奴隸中的奴隸,就算你做過一萬次執政官也好;"
+        },
+        {
+          "id": "d6-51",
+          "title": "就算你爬到皇宮,你都一樣係奴隸;呢啲並唔係違反理性嘅話",
+          "original": "and if you make your way up to the palace (Cæsar’s residence), you will no less be a slave; and you will feel that perhaps philosophers utter words which are contrary to common opinion (paradoxes), as Cleanthes also said, but not words contrary to reason.",
+          "vernacular": "就算你一路爬到皇宮(凱撒嘅居所)入面,你都一樣係個奴隸;到時你就會明白,或者哲學家講嘅嘢,同一般人嘅睇法相違背(即係所謂嘅悖論),正如克利安提斯都講過咁,但呢啲並唔係違反理性嘅話。",
+          "vernacularMandarin": "就算你一路爬到皇宮(凱撒的居所)裡面,你都一樣是個奴隸;到時你就會明白,或者哲學家講的話,同一般人的看法相違背(也就是所謂的悖論),正如克利安提斯都講過那樣,但這些並不是違反理性的話。"
+        },
+        {
+          "id": "d6-52",
+          "title": "你會親身體會到:得到嗰啲被珍視、被熱切追求嘅嘢,其實毫無益處",
+          "original": "For you will know by experience that the words are true, and that there is no profit from the things which are valued and eagerly sought to those who have obtained them; and to those who have not yet obtained them there is an imagination, that when these things are come, all that is good will come with them;",
+          "vernacular": "因為你會親身體會到,呢啲話係真嘅——嗰啲備受珍視、俾人熱切追求嘅嘢,對於已經攞到手嘅人嚟講,其實毫無益處;而對於仲未攞到手嘅人嚟講,就有種幻想,以為呢啲嘢一到手,一切美好嘅嘢都會隨之而嚟;",
+          "vernacularMandarin": "因為你會親身體會到,這些話是真的——那些備受珍視、被人熱切追求的東西,對於已經拿到手的人來說,其實毫無益處;而對於還未拿到手的人來說,就有種幻想,以為這些東西一到手,一切美好的東西都會隨之而來;"
+        },
+        {
+          "id": "d6-53",
+          "title": "但到手之後,煩躁焦慮依舊,反而多咗厭膩同對未擁有嘅新渴求——自由源於除去渴求,而唔係擁有渴求嘅嘢",
+          "original": "then, when they are come, the feverish feeling is the same, the tossing to and fro is the same, the satiety, the desire of things, which are not present; for freedom is acquired not by the full possession of the things which are desired, but by removing the desire.",
+          "vernacular": "但等到真正到手嗰陣,一樣嘅煩躁不安,一樣嘅反覆不定,只係加多咗一份厭膩,同埋一份對眼前未擁有嘅新嘢嘅渴求;因為自由嘅獲得,並唔係靠完全擁有你所渴求嘅嘢,而係靠除去渴求本身。",
+          "vernacularMandarin": "但等到真正到手的時候,一樣的煩躁不安,一樣的反覆不定,只是加多了一份厭膩,以及一份對眼前未擁有的新東西的渴求;因為自由的獲得,並不是靠完全擁有你所渴求的東西,而是靠除去渴求本身。"
+        },
+        {
+          "id": "d6-54",
+          "title": "為咗確認呢個道理係真嘅,將你以前為咗財富所落嘅苦功,轉移到呢邊嚟",
+          "original": "And that you may know that this is true, as you have labored for those things, so transfer your labor to these: be vigilant for the purpose of acquiring an opinion which will make you free; pay court to a philosopher instead of to a rich old man;",
+          "vernacular": "為咗確認呢個道理係真嘅,你要好似以前為咗嗰啲嘢咁樣勞碌,將你嘅努力轉移到呢方面嚟:要警醒咁去追求一種可以令你自由嘅睇法;與其巴結一個有錢嘅老頭,不如去巴結一位哲學家;",
+          "vernacularMandarin": "為了確認這個道理是真的,你要好似以前為了那些東西那樣勞碌,把你的努力轉移到這方面來:要警醒地去追求一種可以令你自由的看法;與其巴結一個有錢的老頭,不如去巴結一位哲學家;"
+        },
+        {
+          "id": "d6-55",
+          "title": "喺哲學家門前流連俾人見到都唔係恥辱;去見佢就算失敗,嘗試本身都唔可恥",
+          "original": "be seen about a philosopher’s doors; you will not disgrace yourself by being seen; you will not go away empty nor without profit, if you go to the philosopher as you ought, and if not (if you do not succeed), try at least; the trial (attempt) is not disgraceful.",
+          "vernacular": "俾人見到你流連喺哲學家門前,並唔會令你蒙羞;你如果按照應有嘅方式去投奔哲學家,就唔會空手而回、一無所得;就算失敗咗都好,至少嘗試過——嘗試本身並唔可恥。",
+          "vernacularMandarin": "被人見到你流連在哲學家門前,並不會令你蒙羞;你如果按照應有的方式去投奔哲學家,就不會空手而回、一無所得;就算失敗了也好,至少嘗試過——嘗試本身並不可恥。"
+        }
+      ]
+    },
+    {
+      "id": "disc-c7",
+      "title": "What Things We Ought to Despise and What Things We Ought to Value 論該輕視同該重視嘅嘢",
+      "passages": [
+        {
+          "id": "d7-1--sentence-1",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "The difficulties of all men are about external things, their helplessness is about external.",
+          "vernacular": "所有人嘅困難都係關於外物,佢哋嘅無助都係關於外物。「",
+          "vernacularMandarin": "所有人的困難都是關於外物,他們的無助都是關於外物。「"
+        },
+        {
+          "id": "d7-1--sentence-2",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "What shall I do?",
+          "vernacular": "我應該點做?」「",
+          "vernacularMandarin": "我應該怎麼做?」「"
+        },
+        {
+          "id": "d7-1--sentence-3",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "how will it be?",
+          "vernacular": "事情會點?」「",
+          "vernacularMandarin": "事情會怎樣?」「"
+        },
+        {
+          "id": "d7-1--sentence-4",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "how will it turn out?",
+          "vernacular": "結果會點?」「",
+          "vernacularMandarin": "結果會怎樣?」「"
+        },
+        {
+          "id": "d7-1--sentence-5",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "will this happen?",
+          "vernacular": "呢件事會唔會發生?」「",
+          "vernacularMandarin": "這件事會不會發生?」「"
+        },
+        {
+          "id": "d7-1--sentence-6",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "will that?",
+          "vernacular": "嗰件呢?」",
+          "vernacularMandarin": "那件呢?」"
+        },
+        {
+          "id": "d7-1--sentence-7",
+          "title": "眾人嘅困難都喺外物,佢哋嘅無助都喺外物",
+          "original": "All these are the words of those who are turning themselves to things which are not within the power of the will.",
+          "vernacular": "呢一切,都係嗰啲成日轉向唔操之在意志嘅嘢嘅人所講嘅說話。",
+          "vernacularMandarin": "這一切,都是那些常常轉向不操之在意志的事物的人所講的話。"
+        },
+        {
+          "id": "d7-2--sentence-1",
+          "title": "有邊個會問「我點樣先至唔會贊同虛假」?",
+          "original": "For who says, How shall I not assent to that which is false?",
+          "vernacular": "因為有邊個會咁問呢:「我點樣先至唔會贊同虛假嘅嘢?",
+          "vernacularMandarin": "因為有誰會這樣問呢:「我怎樣才不會贊同虛假的東西?"
+        },
+        {
+          "id": "d7-2--sentence-2",
+          "title": "有邊個會問「我點樣先至唔會贊同虛假」?",
+          "original": "how shall I not turn away from the truth?",
+          "vernacular": "我點樣先至唔會偏離真理?」",
+          "vernacularMandarin": "我怎樣才不會偏離真理?」"
+        },
+        {
+          "id": "d7-2--sentence-3",
+          "title": "有邊個會問「我點樣先至唔會贊同虛假」?",
+          "original": "If a man be of such a good disposition as to be anxious about these things I will remind him of this: Why are you anxious?",
+          "vernacular": "如果一個人天性良好,連呢啲事都會憂慮,我會咁樣提醒佢:你憂慮嚟做咩?",
+          "vernacularMandarin": "如果一個人天性良好,連這些事都會憂慮,我會這樣提醒他:你憂慮做甚麼?"
+        },
+        {
+          "id": "d7-2--sentence-4",
+          "title": "有邊個會問「我點樣先至唔會贊同虛假」?",
+          "original": "The thing is in your own power, be assured; do not be precipitate in assenting before you apply the natural rule.",
+          "vernacular": "呢件事操之在你,你放心;喺應用自然嘅準則之前,唔好急住去贊同任何嘢。",
+          "vernacularMandarin": "這件事操之在你,你放心;在應用自然的準則之前,不要急著去贊同任何東西。"
+        },
+        {
+          "id": "d7-3",
+          "title": "如果一個人擔心渴求落空、擔心撞正想避開嘅嘢,我會先錫佢一啖",
+          "original": "On the other side, if a man is anxious (uneasy) about desire, lest it fail in its purpose and miss its end, and with respect to the avoidance of things, lest he should fall into that which he would avoid, I will first kiss (love) him, because he throws away the things about which others are in a flutter (others desire) and their fears, and employs his thoughts about his own affairs and his own condition.",
+          "vernacular": "另一方面,如果一個人擔心自己嘅渴求會落空、達唔到目標,或者驚喺避開一啲嘢嗰陣,偏偏撞正想避開嗰件事,我會先錫佢一啖,因為佢摒棄咗嗰啲令其他人心緒不寧嘅追求同恐懼,反而將心思用喺自己嘅事務、自己嘅狀況度。",
+          "vernacularMandarin": "另一方面,如果一個人擔心自己的渴求會落空、達不到目標,或者害怕在避開一些東西的時候,偏偏撞上想避開那件事,我會先親他一下,因為他摒棄了那些令其他人心緒不寧的追求同恐懼,反而把心思用在自己的事務、自己的狀況上。"
+        },
+        {
+          "id": "d7-4",
+          "title": "唔好渴求會落空嘅嘢,唔好逃避操之於人嘅嘢",
+          "original": "Then I shall say to him: If you do not choose to desire that which you will fail to obtain nor to attempt to avoid that into which you will fall, desire nothing which belongs to (which is in the power of) others, nor try to avoid any of the things which are not in your power.",
+          "vernacular": "跟住我就會同佢講:如果你唔想渴求嗰啲你會落空嘅嘢,亦都唔想嘗試避開嗰啲你會撞正嘅嘢,咁就唔好渴求任何屬於別人、操之於人嘅嘢,亦都唔好嘗試避開任何唔操之在你嘅嘢。",
+          "vernacularMandarin": "接著我就會同他說:如果你不想渴求那些你會落空的東西,也不想嘗試避開那些你會撞上的東西,那就不要渴求任何屬於別人、操之於人的東西,也不要嘗試避開任何不操之在你的東西。"
+        },
+        {
+          "id": "d7-5",
+          "title": "唔守呢條規矩,渴求必然落空——咁邊有咩「會點呢」嘅疑問",
+          "original": "If you do not observe this rule, you must of necessity fail in your desires and fall into that which you would avoid. What is the difficulty here? where is there room for the words How will it be? and How will it turn out? and Will this happen or that?",
+          "vernacular": "如果你唔守呢條規矩,你嘅渴求就必然會落空,你都必然會撞正你想避開嘅嘢。咁到底困難喺邊呢?「事情會點?」「結果會點?」「會唔會發生?」呢啲問題又邊有立足之地呢?",
+          "vernacularMandarin": "如果你不守這條規矩,你的渴求就必然會落空,你也必然會撞上你想避開的東西。那到底困難在哪呢?「事情會怎樣?」「結果會怎樣?」「會不會發生?」這些問題又哪有立足之地呢?"
+        },
+        {
+          "id": "d7-6--sentence-1",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "Now is not that which will happen independent of the will?",
+          "vernacular": "咁樣,將要發生嘅事,唔就係獨立於意志之外咩?",
+          "vernacularMandarin": "這樣,將要發生的事,不就是獨立於意志之外嗎?"
+        },
+        {
+          "id": "d7-6--sentence-2",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "Yes.",
+          "vernacular": "係嘅。",
+          "vernacularMandarin": "是的。"
+        },
+        {
+          "id": "d7-6--sentence-3",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "And the nature of good and of evil, is it not in the things which are within the power of the will?",
+          "vernacular": "而善惡嘅本質,唔就係喺操之在意志範圍之內嘅嘢入面咩?",
+          "vernacularMandarin": "而善惡的本質,不就是在操之在意志範圍之內的事物裡面嗎?"
+        },
+        {
+          "id": "d7-6--sentence-4",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "Yes.",
+          "vernacular": "係嘅。",
+          "vernacularMandarin": "是的。"
+        },
+        {
+          "id": "d7-6--sentence-5",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "Is it in your power then to treat according to nature everything which happens?",
+          "vernacular": "咁樣,將一切發生嘅事按合乎本性嘅方式去應對,唔就操之在你咩?",
+          "vernacularMandarin": "這樣,把一切發生的事按合乎本性的方式去應對,不就操之在你嗎?"
+        },
+        {
+          "id": "d7-6--sentence-6",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "Can any person hinder you?",
+          "vernacular": "有邊個可以阻止你呢?",
+          "vernacularMandarin": "有誰可以阻止你呢?"
+        },
+        {
+          "id": "d7-6--sentence-7",
+          "title": "將要發生嘅事,唔就係獨立於意志之外咩?善惡本質唔係喺意志操之在我嘅嘢入面咩?",
+          "original": "No man.",
+          "vernacular": "冇人。",
+          "vernacularMandarin": "沒有人。"
+        },
+        {
+          "id": "d7-7--sentence-1",
+          "title": "唔好再問我「事情會點」——無論結果點,你都會妥善處理",
+          "original": "No longer then say to me, How will it be?",
+          "vernacular": "所以唔好再問我:「事情會點呢?」",
+          "vernacularMandarin": "所以不要再問我:「事情會怎樣呢?」"
+        },
+        {
+          "id": "d7-7--sentence-2",
+          "title": "唔好再問我「事情會點」——無論結果點,你都會妥善處理",
+          "original": "For, however it may be, you will dispose of it well, and the result to you will be a fortunate one.",
+          "vernacular": "因為無論結果點,你都會妥善咁去應對佢,而對你嚟講,結果就會係幸運嘅。",
+          "vernacularMandarin": "因為無論結果怎樣,你都會妥善地去應對它,而對你來說,結果就會是幸運的。"
+        },
+        {
+          "id": "d7-8",
+          "title": "如果赫拉克勒斯話「唔好比我遇到猛獅或者惡人」,佢會變成點?",
+          "original": "What would Hercules have been if he said: How shall a great lion not appear to me, or a great boar, or savage men? And what do you care for that? If a great boar appear, you will fight a greater fight; if bad men appear, you will relieve the earth of the bad.",
+          "vernacular": "如果赫拉克勒斯話:「點樣先至可以令我唔會遇到巨獅、巨野豬或者兇殘嘅人呢?」咁佢會變成點呢?你又點會理呢啲呢?如果巨野豬出現,你就打一場更大嘅仗;如果惡人出現,你就將呢個世界由惡人手中解放出嚟。",
+          "vernacularMandarin": "如果赫拉克勒斯說:「怎樣才可以令我不會遇到巨獅、巨野豬或者兇殘的人呢?」那他會變成怎樣呢?你又怎會理這些呢?如果巨野豬出現,你就打一場更大的仗;如果惡人出現,你就把這個世界從惡人手中解放出來。"
+        },
+        {
+          "id": "d7-9--sentence-1",
+          "title": "就算因此送命,都係死得其所——反正每個人都要死於某件事",
+          "original": "Suppose then that I lose my life in this way.",
+          "vernacular": "「咁假設我因此而送命呢?」",
+          "vernacularMandarin": "「那假設我因此而送命呢?」"
+        },
+        {
+          "id": "d7-9--sentence-2",
+          "title": "就算因此送命,都係死得其所——反正每個人都要死於某件事",
+          "original": "You will die a good man, doing a noble act.",
+          "vernacular": "你都會死得其所,做咗一件高尚嘅事而死。",
+          "vernacularMandarin": "你都會死得其所,做了一件高尚的事而死。"
+        },
+        {
+          "id": "d7-9--sentence-3",
+          "title": "就算因此送命,都係死得其所——反正每個人都要死於某件事",
+          "original": "For since he must certainly die, of necessity a man must be found doing something, either following the employment of a husbandman, or digging, or trading, or serving in a consulship, or suffering from indigestion or from diarrhoea.",
+          "vernacular": "因為每個人都必然一死,而人一定會被發現正做緊某件事——無論係務農、掘地、經商、任執政官,定係患緊消化不良或者肚瀉。",
+          "vernacularMandarin": "因為每個人都必然一死,而人一定會被發現正在做某件事——無論是務農、挖地、經商、任執政官,還是患著消化不良或者肚瀉。"
+        },
+        {
+          "id": "d7-10--sentence-1",
+          "title": "你想俾死神搵到嗰陣,自己正做緊啲乜嘢呢?",
+          "original": "What then do you wish to be doing when you are found by death?",
+          "vernacular": "咁樣,你想喺俾死神搵到嗰陣,自己正做緊咩呢?",
+          "vernacularMandarin": "這樣,你想在被死神找到的時候,自己正做著甚麼呢?"
+        },
+        {
+          "id": "d7-10--sentence-2",
+          "title": "你想俾死神搵到嗰陣,自己正做緊啲乜嘢呢?",
+          "original": "I, for my part, would wish to be found doing something which belongs to a man, beneficent, suitable to the general interest, noble.",
+          "vernacular": "就我而言,我希望俾人發現嗰陣,正做緊一啲配得上人嘅事——造福於人、對大眾有益、高尚嘅事。",
+          "vernacularMandarin": "就我而言,我希望被人發現的時候,正做著一些配得上人的事——造福於人、對大眾有益、高尚的事。"
+        },
+        {
+          "id": "d7-11",
+          "title": "如果做唔到咁大嘅事,至少要做緊自己有能力做嘅事——修正自己、運用表象、追求心境平靜、盡人倫本份",
+          "original": "But if I cannot be found doing things so great, I would be found doing at least that which I cannot be hindered from doing, that which is permitted me to do, correcting myself, cultivating the faculty which makes use of appearances, laboring at freedom from the affects (laboring at tranquillity of mind); rendering to the relations of life their due.",
+          "vernacular": "但如果我做唔到咁大嘅事,我至少希望正做緊一啲冇人可以阻止我做、亦都容許我去做嘅事:修正自己,培養運用表象嘅能力,努力擺脫情緒嘅擾動(努力求心境平靜),盡好人倫關係應有嘅本份。",
+          "vernacularMandarin": "但如果我做不到這麼大的事,我至少希望正做著一些沒有人可以阻止我做、也容許我去做的事:修正自己,培養運用表象的能力,努力擺脫情緒的擾動(努力求心境平靜),盡好人倫關係應有的本份。"
+        },
+        {
+          "id": "d7-12--sentence-1",
+          "title": "如果做得到呢一步,我仲想埋做到第三個範疇——安穩咁判斷事物",
+          "original": "If I succeed so far, also (I would be found) touching on (advancing to) the third topic (or head) safety in forming judgments about things.",
+          "vernacular": "如果我能夠做到呢一步,我仲想進一步觸及到第三個範疇——就係喺判斷事物嗰陣保持穩妥可靠。",
+          "vernacularMandarin": "如果我能夠做到這一步,我還想進一步觸及到第三個範疇——就是在判斷事物的時候保持穩妥可靠。"
+        },
+        {
+          "id": "d7-12--sentence-2",
+          "title": "如果做得到呢一步,我仲想埋做到第三個範疇——安穩咁判斷事物",
+          "original": "If death surprises me when I am busy about these things, it is enough for me if I can stretch out my hands to God and say:",
+          "vernacular": "如果死亡喺我忙住做呢啲事嗰陣突然降臨,只要我可以伸手向神明講出以下呢番話,我就已經心滿意足:",
+          "vernacularMandarin": "如果死亡在我忙著做這些事的時候突然降臨,只要我可以伸手向神明講出以下這番話,我就已經心滿意足:"
+        },
+        {
+          "id": "d7-13",
+          "title": "我一直冇忽略祢賜俾我去觀察同跟從祢治理嘅工具,我嘅行為亦都冇令祢蒙羞",
+          "original": "The means which I have received from thee for seeing thy administration (of the world) and following it I have not neglected; I have not dishonored thee by my acts; see how I have used my perceptions, see how I have used my preconceptions;",
+          "vernacular": "『祢賜俾我嘅工具,用嚟觀察祢對世界嘅治理、並且跟從佢,我從未忽略過;我從未用自己嘅行為令祢蒙羞;請睇吓我點樣運用我嘅感知,請睇吓我點樣運用我嘅先設觀念;",
+          "vernacularMandarin": "『祢賜給我的工具,用來觀察祢對世界的治理、並且跟從它,我從未忽略過;我從未用自己的行為令祢蒙羞;請看看我怎樣運用我的感知,請看看我怎樣運用我的先設觀念;"
+        },
+        {
+          "id": "d7-14",
+          "title": "我幾時怪責過祢?我曾經對發生嘅事唔滿咩?我曾經想違背人倫本份咩?",
+          "original": "have I ever blamed thee? have I been discontented with anything that happens, or wished it to be otherwise? have I wished to transgress the (established) relations (of things)?",
+          "vernacular": "我幾時怪責過祢呢?我曾經對任何發生嘅事感到唔滿咩?或者希望佢有唔同嘅結果咩?我曾經想過違背(既定嘅)人倫關係咩?",
+          "vernacularMandarin": "我幾時怪責過祢呢?我曾經對任何發生的事感到不滿嗎?或者希望它有不同的結果嗎?我曾經想過違背(既定的)人倫關係嗎?"
+        },
+        {
+          "id": "d7-15",
+          "title": "祢賜俾我生命,我感謝祢所賜嘅一切;只要仍然使用祢嘅嘢,我就心滿意足;祢想攞返幾時就攞返",
+          "original": "That thou hast given me life, I thank thee for what thou hast given. So long as I have used the things which are thine I am content. Take them back and place them wherever thou mayest choose, for thine were all things, thou gavest them to me.",
+          "vernacular": "祢賜俾我生命,我為祢所賜嘅一切而感謝祢。只要我仍然喺使用屬於祢嘅嘢,我就心滿意足;祢隨時可以攞返呢一切,擺喺祢想擺嘅任何地方,因為一切本來就係祢嘅,係祢將佢賜俾我。』",
+          "vernacularMandarin": "祢賜給我生命,我為祢所賜的一切而感謝祢。只要我仍然在使用屬於祢的東西,我就心滿意足;祢隨時可以拿回這一切,放在祢想放的任何地方,因為一切本來就是祢的,是祢把它賜給我。』"
+        },
+        {
+          "id": "d7-16--sentence-1",
+          "title": "帶住呢種心境離開,難道仲唔夠咩?邊有人生比呢個更美好,邊有結局比呢個更幸福?",
+          "original": "Is it not enough to depart in this state of mind?",
+          "vernacular": "帶住呢種心境離開呢個世界,難道仲唔夠咩?",
+          "vernacularMandarin": "帶著這種心境離開這個世界,難道還不夠嗎?"
+        },
+        {
+          "id": "d7-16--sentence-2",
+          "title": "帶住呢種心境離開,難道仲唔夠咩?邊有人生比呢個更美好,邊有結局比呢個更幸福?",
+          "original": "and what life is better and more becoming than that of a man who is in this state of mind?",
+          "vernacular": "比得上呢種心境嘅人生,邊度仲有更美好、更得體嘅呢?",
+          "vernacularMandarin": "比得上這種心境的人生,哪裡還有更美好、更得體的呢?"
+        },
+        {
+          "id": "d7-16--sentence-3",
+          "title": "帶住呢種心境離開,難道仲唔夠咩?邊有人生比呢個更美好,邊有結局比呢個更幸福?",
+          "original": "and what end is more happy?",
+          "vernacular": "比得起呢個嘅結局,邊度仲有更幸福嘅呢?",
+          "vernacularMandarin": "比得起這個的結局,哪裡還有更幸福的呢?"
+        }
+      ]
+    },
+    {
+      "id": "disc-c8",
+      "title": "About Purity 論潔淨",
+      "passages": [
+        {
+          "id": "d8-1",
+          "title": "有人質疑合群天性,但冇人質疑愛潔淨係人嘅天性,呢個正正係人區別於動物之處",
+          "original": "Some persons raise a question whether the social feeling is contained in the nature of man; and yet I think that these same persons would have no doubt that love of purity is certainly contained in it, and that if man is distinguished from other animals by anything, he is distinguished by this.",
+          "vernacular": "有人質疑,合群嘅天性係咪本來就存在於人性之中;但我諗,呢班人都唔會質疑,鍾意潔淨嘅天性肯定係包含喺人性入面嘅,而且如果人有咩係同其他動物有分別嘅,正正就係呢一點。",
+          "vernacularMandarin": "有人質疑,合群的天性是否本來就存在於人性之中;但我想,這班人都不會質疑,喜愛潔淨的天性肯定是包含在人性裡面的,而且如果人有甚麼是同其他動物有分別的,正正就是這一點。"
+        },
+        {
+          "id": "d8-2",
+          "title": "見到動物自己清潔就話佢做得似人,見到人污糟就話佢唔似人",
+          "original": "When then we see any other animal cleaning itself, we are accustomed to speak of the act with surprise, and to add that the animal is acting like a man; and on the other hand, if a man blames an animal for being dirty, straightway, as if we were making an excuse for it, we say that of course the animal is not a human creature.",
+          "vernacular": "所以我哋見到其他動物清潔自己嗰陣,通常都會驚訝咁講一句,仲會加多句話呢隻動物「表現得好似人咁」;反過嚟講,如果有人指責一隻動物污糟,我哋就會即刻好似幫佢辯解咁講:「牠當然唔係人囉。」",
+          "vernacularMandarin": "所以我們見到其他動物清潔自己的時候,通常都會驚訝地說一句,還會加多句說這隻動物「表現得好似人那樣」;反過來講,如果有人指責一隻動物污糟,我們就會立刻好似幫牠辯解那樣說:「牠當然不是人囉。」"
+        },
+        {
+          "id": "d8-3--sentence-1",
+          "title": "我哋假定人身上有一種優越嘅特質,呢種特質係我哋首先由神明度領受返嚟嘅",
+          "original": "So we suppose that there is something superior in man, and that we first receive it from the gods.",
+          "vernacular": "所以我哋假定,人身上有一種優越嘅特質,而呢種特質,我哋係首先由神明度領受返嚟嘅。",
+          "vernacularMandarin": "所以我們假定,人身上有一種優越的特質,而這種特質,我們是首先從神明那裡領受回來的。"
+        },
+        {
+          "id": "d8-3--sentence-2",
+          "title": "我哋假定人身上有一種優越嘅特質,呢種特質係我哋首先由神明度領受返嚟嘅",
+          "original": "For since the gods by their nature are pure and free from corruption, so far as men approach them by reason, so far do they cling to purity and to a love (habit) of purity.",
+          "vernacular": "因為神明喺本性上係純潔、免於腐敗嘅,所以人類憑理性接近神明嘅程度,亦都會相應咁堅持潔淨、鍾意潔淨嘅習慣。",
+          "vernacularMandarin": "因為神明在本性上是純潔、免於腐敗的,所以人類憑理性接近神明的程度,也會相應地堅持潔淨、喜愛潔淨的習慣。"
+        },
+        {
+          "id": "d8-4",
+          "title": "人嘅本質由多種材料混雜而成,唔可能完全純潔;理性就盡力令人性鍾意潔淨",
+          "original": "But since it is impossible that man’s nature can be altogether pure, being mixed (composed) of such materials, reason is applied, as far as it is possible, and reason endeavors to make human nature love purity.",
+          "vernacular": "但由於人嘅本質係由各種材料混雜而成,唔可能完全純潔,所以理性就要盡量發揮作用,努力令人性鍾意潔淨。",
+          "vernacularMandarin": "但由於人的本質是由各種材料混雜而成,不可能完全純潔,所以理性就要盡量發揮作用,努力令人性喜愛潔淨。"
+        },
+        {
+          "id": "d8-5--sentence-1",
+          "title": "第一同最高嘅潔淨,係靈魂嘅潔淨;靈魂嘅污穢又點樣察覺呢?",
+          "original": "The first then and highest purity is that which is in the soul; and we say the same of impurity.",
+          "vernacular": "所以第一位、亦都係最高層次嘅潔淨,就係靈魂嘅潔淨;不潔亦都係一樣。",
+          "vernacularMandarin": "所以第一位、也是最高層次的潔淨,就是靈魂的潔淨;不潔也是一樣。"
+        },
+        {
+          "id": "d8-5--sentence-2",
+          "title": "第一同最高嘅潔淨,係靈魂嘅潔淨;靈魂嘅污穢又點樣察覺呢?",
+          "original": "Now you could not discover the impurity of the soul as you could discover that of the body; but as to the soul, what else could you find in it than that which makes it filthy in respect to the acts which are her own?",
+          "vernacular": "你唔可以好似察覺身體嘅污穢咁樣,去發現靈魂嘅污穢;但講到靈魂,除咗令佢喺自身行為上顯得污穢嘅嗰種嘢,你重可以喺入面搵到咩呢?",
+          "vernacularMandarin": "你不可以好似察覺身體的污穢那樣,去發現靈魂的污穢;但講到靈魂,除了令它在自身行為上顯得污穢的那種東西,你還可以在裡面找到甚麼呢?"
+        },
+        {
+          "id": "d8-6--sentence-1",
+          "title": "靈魂嘅行為包括趨向、渴求、厭惡、準備、意圖、贊同——令佢污穢嘅,只有佢自己嘅劣質判斷",
+          "original": "Now the acts of the soul are movement towards an object or movement from it, desire, aversion, preparation, design (purpose), assent.",
+          "vernacular": "靈魂嘅行為包括:趨向或者退避一樣嘢、渴求、厭惡、準備、意圖、贊同。",
+          "vernacularMandarin": "靈魂的行為包括:趨向或者退避一樣東西、渴求、厭惡、準備、意圖、贊同。"
+        },
+        {
+          "id": "d8-6--sentence-2",
+          "title": "靈魂嘅行為包括趨向、渴求、厭惡、準備、意圖、贊同——令佢污穢嘅,只有佢自己嘅劣質判斷",
+          "original": "What then is it which in these acts makes the soul filthy and impure?",
+          "vernacular": "咁樣喺呢啲行為之中,令靈魂變得污穢不潔嘅,係咩呢?",
+          "vernacularMandarin": "這樣在這些行為之中,令靈魂變得污穢不潔的,是甚麼呢?"
+        },
+        {
+          "id": "d8-6--sentence-3",
+          "title": "靈魂嘅行為包括趨向、渴求、厭惡、準備、意圖、贊同——令佢污穢嘅,只有佢自己嘅劣質判斷",
+          "original": "Nothing else than her own bad judgments.",
+          "vernacular": "唔係其他嘢,正正就係佢自己嘅劣質判斷。",
+          "vernacularMandarin": "不是其他東西,正是它自己的劣質判斷。"
+        },
+        {
+          "id": "d8-7",
+          "title": "靈魂嘅不潔就係佢嘅劣質睇法;種返正確嘅睇法,就係淨化靈魂",
+          "original": "Consequently the impurity of the soul is the soul’s bad opinions; and the purification of the soul is the planting in it of proper opinions; and the soul is pure which has proper opinions, for the soul alone in her own acts is free from perturbation and pollution.",
+          "vernacular": "所以,靈魂嘅不潔,就係靈魂本身嘅劣質睇法;而淨化靈魂,就係喺入面種返正確嘅睇法;有正確睇法嘅靈魂就係潔淨嘅,因為唯獨靈魂喺自身嘅行為上,先至可以免於擾動同污染。",
+          "vernacularMandarin": "所以,靈魂的不潔,就是靈魂本身的劣質看法;而淨化靈魂,就是在裡面種回正確的看法;有正確看法的靈魂就是潔淨的,因為唯獨靈魂在自身的行為上,才可以免於擾動同污染。"
+        },
+        {
+          "id": "d8-8",
+          "title": "唔應該因為身體嘅外表就令眾人卻步於哲學;哲學家喺身體上都應該顯得開朗自在",
+          "original": "For we ought not even by the appearance of the body to deter the multitude from philosophy; but as in other things, a philosopher should show himself cheerful and tranquil, so also he should in the things that relate to the body.",
+          "vernacular": "因為我哋唔應該連身體嘅外表都令眾人對哲學卻步;哲學家喺其他事上應該表現得開朗自在,喺同身體有關嘅事上,都一樣要咁樣。",
+          "vernacularMandarin": "因為我們不應該連身體的外表都令眾人對哲學卻步;哲學家在其他事上應該表現得開朗自在,在同身體有關的事上,也一樣要這樣。"
+        },
+        {
+          "id": "d8-9",
+          "title": "各位睇吓,我一無所有,我乜都唔想要;我冇屋企、冇城邦、係流亡者,都活得比貴族富豪更加自在幸福",
+          "original": "See, ye men, that I have nothing, that I want nothing; see how I am without a house, and without a city, and an exile, if it happens to be so, and without a hearth I live more free from trouble and more happily than all of noble birth and than the rich.",
+          "vernacular": "各位睇吓,我一無所有,我乜都唔想要;睇吓我點樣冇屋企、冇城邦、可能仲要流亡在外、冇個安身嘅家,但我過得比一切出身高貴嘅人、比富豪都更加冇煩惱、更加幸福。",
+          "vernacularMandarin": "各位看看,我一無所有,我甚麼都不想要;看看我怎樣沒有房子、沒有城邦、可能還要流亡在外、沒有一個安身的家,但我過得比一切出身高貴的人、比富豪都更加沒有煩惱、更加幸福。"
+        },
+        {
+          "id": "d8-10--sentence-1",
+          "title": "睇吓我呢副可憐嘅身軀,都冇因為刻苦嘅生活而受損",
+          "original": "But look at my poor body also and observe that it is not injured by my hard way of living.",
+          "vernacular": "但都睇吓我呢副可憐嘅身軀,留意吓佢並冇因為我刻苦嘅生活方式而受到損害。",
+          "vernacularMandarin": "但都看看我這副可憐的身軀,留意它並沒有因為我刻苦的生活方式而受到損害。"
+        },
+        {
+          "id": "d8-10--sentence-2",
+          "title": "睇吓我呢副可憐嘅身軀,都冇因為刻苦嘅生活而受損",
+          "original": "But if a man says this to me, who has the appearance (dress) and face of a condemned man, what god shall persuade me to approach philosophy, if it makes men such persons?",
+          "vernacular": "但如果一個帶住囚犯般嘅裝扮同面容嘅人,對我講呢番話,有邊個神明可以說服我去接近哲學呢,如果佢令人變成咁樣嘅話?",
+          "vernacularMandarin": "但如果一個帶著囚犯般的裝扮同面容的人,對我講這番話,有哪個神明可以說服我去接近哲學呢,如果它令人變成這樣的話?"
+        },
+        {
+          "id": "d8-11--sentence-1",
+          "title": "絕對唔會——就算變成智者都好,我都唔會揀呢種樣;年輕人頭髮修剪整齊好過污糟蓬亂",
+          "original": "Far from it; I would not choose to do so, even if I were going to become a wise man.",
+          "vernacular": "絕對唔會;就算我可以因此而變成智者,我都唔會揀呢種方式。",
+          "vernacularMandarin": "絕對不會;就算我可以因此而變成智者,我都不會選這種方式。"
+        },
+        {
+          "id": "d8-11--sentence-2",
+          "title": "絕對唔會——就算變成智者都好,我都唔會揀呢種樣;年輕人頭髮修剪整齊好過污糟蓬亂",
+          "original": "I indeed would rather that a young man, who is making his first movements towards philosophy, should come to me with his hair carefully trimmed than with it dirty and rough,",
+          "vernacular": "事實上,我寧願一個剛剛踏出哲學第一步嘅年輕人,係修剪整齊咁嚟見我,好過佢污糟邋遢、頭髮蓬亂咁嚟見我,",
+          "vernacularMandarin": "事實上,我寧願一個剛剛踏出哲學第一步的年輕人,是修剪整齊地來見我,好過他污糟邋遢、頭髮蓬亂地來見我,"
+        },
+        {
+          "id": "d8-12",
+          "title": "因為喺佢身上見到一種對美嘅想望,同埋對得體嘅追求",
+          "original": "for there is seen in him a certain notion (appearance) of beauty and a desire of (attempt at) that which is becoming; and where he supposes it to be, there also he strives that it shall be.",
+          "vernacular": "因為喺佢身上,可以睇到一種對美嘅初步概念,同埋一種對得體嘅追求;而佢認為美喺邊度,佢就會努力喺嗰度追求。",
+          "vernacularMandarin": "因為在他身上,可以看到一種對美的初步概念,以及一種對得體的追求;而他認為美在哪裡,他就會努力在那裡追求。"
+        },
+        {
+          "id": "d8-13",
+          "title": "只需要指出俾佢知:年輕人,你追求嘅美,原來喺你有理性官能嗰部分",
+          "original": "It is only necessary to show him (what it is), and to say: Young man, you seek beauty, and you do well; you must know then that it (is produced) grows in that part of you where you have the rational faculty;",
+          "vernacular": "只需要向佢指出(美嘅所在),對佢講:年輕人,你追求美,呢個做得好;但你要知,美其實喺你擁有理性官能嘅嗰部分入面生長出嚟嘅;",
+          "vernacularMandarin": "只需要向他指出(美的所在),對他說:年輕人,你追求美,這個做得好;但你要知道,美其實是在你擁有理性官能的那部分裡面生長出來的;"
+        },
+        {
+          "id": "d8-14",
+          "title": "喺你嘅趨向退避、渴求厭惡嗰度搵美;可憐嘅身軀本質只不過係塵土",
+          "original": "seek it there where you have the movements towards and movements from things, where you have the desires towards and the aversion from things; for this is what you have in yourself of a superior kind; but the poor body is naturally only earth; why do you labor about it to no purpose?",
+          "vernacular": "喺你有趨向同退避、有渴求同厭惡嘅嗰個地方去搵美,因為呢個先至係你自身之中更加優越嘅部分;而呢副可憐嘅身軀,本質只不過係泥土;你點解要徒勞咁為佢勞碌呢?",
+          "vernacularMandarin": "在你有趨向同退避、有渴求同厭惡的那個地方去找美,因為這才是你自身之中更加優越的部分;而這副可憐的身軀,本質只不過是泥土;你為甚麼要徒勞地為它勞碌呢?"
+        },
+        {
+          "id": "d8-15",
+          "title": "如果你乜都學唔到,你都會由時間度學到:身體其實乜都唔係",
+          "original": "if you shall learn nothing else, you will learn from time that the body is nothing. But if a man comes to me daubed with filth, dirty, with a moustache down to his knees, what can I say to him, by what kind of resemblance can I lead him on?",
+          "vernacular": "就算你乜都學唔到,你都會由時間身上學到:身體其實乜都唔係。但如果一個人渾身污泥、骯髒、髭鬚長到及膝咁嚟見我,我可以同佢講啲乜呢?我又可以借助咩相似之處去引導佢呢?",
+          "vernacularMandarin": "就算你甚麼都學不到,你都會從時間身上學到:身體其實甚麼都不是。但如果一個人渾身污泥、骯髒、鬍鬚長到及膝這樣來見我,我可以同他說些甚麼呢?我又可以借助甚麼相似之處去引導他呢?"
+        },
+        {
+          "id": "d8-16",
+          "title": "佢究竟為咗啲乜同美沾邊嘅嘢用過心機,等我可以話俾佢知美唔喺呢度而喺嗰度?",
+          "original": "For about what has he busied himself which resembles beauty, that I may be able to change him and say, Beauty is not in this, but in that? Would you have me to tell him, that beauty consists not in being daubed with muck, but that it lies in the rational part?",
+          "vernacular": "佢到底喺邊一方面,曾經為咗一啲類似美嘅嘢用過心機呢?等我可以有辦法改變佢,同佢講:美唔係喺呢度,而係喺嗰度?你想我同佢講,美並唔在於渾身污泥,而係在於理性嘅部分咩?",
+          "vernacularMandarin": "他到底在哪一方面,曾經為了一些類似美的事物用過心機呢?等我可以有辦法改變他,同他說:美不是在這裡,而是在那裡?你想我同他說,美並不在於渾身污泥,而是在於理性的部分嗎?"
+        },
+        {
+          "id": "d8-17--sentence-1",
+          "title": "佢對美有渴望咩?佢心中有美嘅形象咩?不如去同隻豬講,叫佢唔好喺泥漿度打滾啦",
+          "original": "Has he any desire of beauty?",
+          "vernacular": "佢對美有任何渴望咩?",
+          "vernacularMandarin": "他對美有任何渴望嗎?"
+        },
+        {
+          "id": "d8-17--sentence-2",
+          "title": "佢對美有渴望咩?佢心中有美嘅形象咩?不如去同隻豬講,叫佢唔好喺泥漿度打滾啦",
+          "original": "has he any form of it in his mind?",
+          "vernacular": "佢心目中有任何美嘅形象咩?",
+          "vernacularMandarin": "他心目中有任何美的形象嗎?"
+        },
+        {
+          "id": "d8-17--sentence-3",
+          "title": "佢對美有渴望咩?佢心中有美嘅形象咩?不如去同隻豬講,叫佢唔好喺泥漿度打滾啦",
+          "original": "Go and talk to a hog, and tell him not to roll in the mud.",
+          "vernacular": "不如你去同一隻豬講嘢,叫佢唔好喺泥漿入面打滾啦。",
+          "vernacularMandarin": "不如你去同一隻豬講話,叫牠不要在泥漿裡面打滾吧。"
+        }
+      ]
+    }
+  ]
+}
