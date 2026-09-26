@@ -74,6 +74,7 @@ export default function ReaderScreen({
     rate,
     setRate,
     snapScroll,
+    tapPassageToPlay,
   } = useReaderPrefs();
   const hasTranslation = chapter.passages.every((passage) => passage.vernacular.trim().length > 0);
   const textSource = hasTranslation ? preferredTextSource : 'original';
@@ -620,8 +621,19 @@ export default function ReaderScreen({
       >
         {chapter.passages.map((passage) => {
           const active = playingPassageId === passage.id;
+          const PassageCard = tapPassageToPlay ? Pressable : View;
+          const onPassagePress = () => {
+            if (!active) handlePlayFrom(passage);
+            else if (supportsPauseResume) handlePauseResume();
+            else handleStop();
+          };
+          const actionLabel = !active ? '播放段落' : supportsPauseResume ? (isPaused ? '繼續播放' : '暫停播放') : '停止播放';
           return (
-            <View
+            <PassageCard
+              onPress={tapPassageToPlay ? onPassagePress : undefined}
+              accessible={tapPassageToPlay}
+              accessibilityRole={tapPassageToPlay ? 'button' : undefined}
+              accessibilityLabel={tapPassageToPlay ? actionLabel + '：' + (passage.title || passage.original) : undefined}
               key={passage.id}
               style={[styles.passageCard, active && styles.passageCardActive]}
               onLayout={(e) => handlePassageLayout(passage.id, e)}
@@ -632,22 +644,11 @@ export default function ReaderScreen({
                 ) : (
                   <View />
                 )}
-                <Pressable
-                  onPress={() => {
-                    if (!active) {
-                      handlePlayFrom(passage);
-                    } else if (supportsPauseResume) {
-                      handlePauseResume();
-                    } else {
-                      // No pause/resume on this platform (Android's TTS has no such
-                      // concept) — tapping the "active" icon here must stop playback,
-                      // not restart the passage from the top.
-                      handleStop();
-                    }
-                  }}
+                {!tapPassageToPlay && <Pressable
+                  onPress={onPassagePress}
                   style={styles.passagePlayButton}
                   accessibilityRole="button"
-                  accessibilityLabel={!active ? '播放段落' : supportsPauseResume ? (isPaused ? '繼續播放' : '暫停播放') : '停止播放'}
+                  accessibilityLabel={actionLabel}
                 >
                   {!active || (supportsPauseResume && isPaused) ? (
                     <View style={styles.playTriangle} />
@@ -659,13 +660,13 @@ export default function ReaderScreen({
                   ) : (
                     <View style={styles.stopIcon} />
                   )}
-                </Pressable>
+                </Pressable>}
               </View>
               <Text style={styles.originalText}>{passage.original}</Text>
               {showVernacular && !!vernacularFor(passage) && (
                 <Text style={styles.vernacularText}>{vernacularFor(passage)}</Text>
               )}
-            </View>
+            </PassageCard>
           );
         })}
       </ScrollView>

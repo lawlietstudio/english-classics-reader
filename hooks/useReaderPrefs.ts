@@ -5,6 +5,7 @@ const TEXT_SOURCE_KEY = 'reader-text-source';
 const SHOW_VERNACULAR_KEY = 'reader-show-vernacular';
 const FONT_SIZE_KEY = 'reader-font-size';
 const RATE_KEY = 'reader-speech-rate';
+const TAP_PASSAGE_KEY = 'reader-tap-passage-to-play';
 const SNAP_SCROLL_KEY = 'reader-snap-scroll';
 
 export type TextSource = 'original' | 'vernacular';
@@ -44,6 +45,7 @@ export function useReaderPrefs() {
   const [showVernacular, setShowVernacularState] = useState(true);
   const [fontSize, setFontSizeState] = useState<FontSize>('medium');
   const [rate, setRateState] = useState(DEFAULT_RATE);
+  const [tapPassageToPlay, setTapPassageToPlayState] = useState(false);
   const [snapScroll, setSnapScrollState] = useState(false);
 
   useEffect(() => {
@@ -60,6 +62,9 @@ export function useReaderPrefs() {
       const parsed = raw != null ? Number(raw) : NaN;
       if (!Number.isNaN(parsed)) setRateState(clampRate(parsed));
     });
+    AsyncStorage.getItem(TAP_PASSAGE_KEY).then((raw) => {
+      if (raw === 'true' || raw === 'false') setTapPassageToPlayState(raw === 'true');
+    }).catch(() => {});
     AsyncStorage.getItem(SNAP_SCROLL_KEY).then((raw) => {
       if (raw === 'true' || raw === 'false') setSnapScrollState(raw === 'true');
     });
@@ -92,6 +97,11 @@ export function useReaderPrefs() {
     });
   }, []);
 
+  const setTapPassageToPlay = useCallback((next: boolean) => {
+    setTapPassageToPlayState(next);
+    AsyncStorage.setItem(TAP_PASSAGE_KEY, String(next)).catch(() => {});
+  }, []);
+
   const setSnapScroll = useCallback((next: boolean) => {
     setSnapScrollState(next);
     AsyncStorage.setItem(SNAP_SCROLL_KEY, String(next)).catch(() => {});
@@ -109,5 +119,7 @@ export function useReaderPrefs() {
     setRate,
     snapScroll,
     setSnapScroll,
+    tapPassageToPlay,
+    setTapPassageToPlay,
   };
 }

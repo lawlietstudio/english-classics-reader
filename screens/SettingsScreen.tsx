@@ -34,7 +34,7 @@ export default function SettingsScreen({
 }: Props) {
   const { passageMode, setPassageMode } = usePassageMode();
   const styles = useMemo(() => createStyles(colors), [colors]);
-  const { fontSize, setFontSize, snapScroll, setSnapScroll } = useReaderPrefs();
+  const { fontSize, setFontSize, snapScroll, setSnapScroll, tapPassageToPlay, setTapPassageToPlay } = useReaderPrefs();
 
   return (
     <View style={styles.container}>
@@ -137,6 +137,15 @@ export default function SettingsScreen({
           ))}
         </View>
         <Text style={styles.hint}>顯示同朗讀會一齊切換。譯文未能逐句對齊嘅段落會保持完整，避免錯配。原段落保留歷史版本，可能未包含之後嘅文字修訂。</Text>
+
+        <Text style={[styles.sectionTitle, styles.sectionTitleSpaced]}>播放方式</Text>
+        <View style={styles.switchCard}>
+          <View style={styles.switchCardText}>
+            <Text style={styles.switchCardLabel}>按段落播放</Text>
+            <Text style={styles.hint}>隱藏段落播放按鈕，點按整段即可播放；再按可暫停或繼續，不支援暫停時會停止。</Text>
+          </View>
+          <Switch accessibilityLabel="按段落播放" value={tapPassageToPlay} onValueChange={setTapPassageToPlay} />
+        </View>
 
         <Text style={[styles.sectionTitle, styles.sectionTitleSpaced]}>捲動</Text>
         <View style={styles.switchCard}>
