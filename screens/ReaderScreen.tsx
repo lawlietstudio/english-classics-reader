@@ -483,6 +483,8 @@ export default function ReaderScreen({
     PanResponder.create({
       onStartShouldSetPanResponder: () => false,
       onMoveShouldSetPanResponder: (_evt, gestureState) =>
+        // Leave the iOS left edge to native-stack's interactive back gesture.
+        !(Platform.OS === 'ios' && gestureState.x0 < 32) &&
         Math.abs(gestureState.dx) > 12 && Math.abs(gestureState.dx) > Math.abs(gestureState.dy) * 1.5,
       onPanResponderMove: (_evt, gestureState) => {
         const movingToNext = gestureState.dx < 0;
