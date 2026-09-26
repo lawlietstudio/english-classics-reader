@@ -22,6 +22,7 @@ import { FONT_SIZE_VALUES, useReaderPrefs } from '../hooks/useReaderPrefs';
 import { SpeechLang } from '../hooks/useSpeechLang';
 import { EffectiveSpeechLang, useSpeechVoice } from '../hooks/useSpeechVoice';
 import { ThemeColors } from '../theme/colors';
+import { getPassageSnapTarget } from '../utils/passageSnap';
 
 // react-native-web's `Platform.OS` is always `'web'`, even when the page is running inside
 // Android Chrome — it doesn't distinguish the underlying mobile OS the way the native
@@ -148,11 +149,7 @@ export default function ReaderScreen({
         .filter((offset): offset is number => offset != null);
       if (!offsets.length) return;
       const y = lastScrollYRef.current;
-      const nearest = offsets.reduce((best, offset) =>
-        Math.abs(offset - y) < Math.abs(best - y) ? offset : best
-      );
-      // The last card may not reach the top; clamp to avoid repeated snapping at the bottom.
-      const target = Math.max(0, Math.min(nearest, maxScrollYRef.current));
+      const target = getPassageSnapTarget(offsets, y, maxScrollYRef.current);
       if (Math.abs(target - y) > 1) {
         scrollRef.current?.scrollTo({ y: target, animated: true });
       }
@@ -612,6 +609,14 @@ export default function ReaderScreen({
         contentContainerStyle={styles.scrollContent}
         onScroll={handleScroll}
         scrollEventThrottle={16}
+        onMomentumScrollBegin={() => {
+          draggingRef.current = true;
+          clearScrollTimer();
+        }}
+        onMomentumScrollEnd={() => {
+          draggingRef.current = false;
+          scheduleSnap();
+        }}
         onScrollBeginDrag={() => {
           draggingRef.current = true;
           clearScrollTimer();
