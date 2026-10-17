@@ -7,6 +7,8 @@ import discoursesParagraphs from './paragraphs/discourses.json';
 import discoursesSentences from './sentences/discourses.json';
 import enchiridionParagraphs from './paragraphs/enchiridion.json';
 import enchiridionSentences from './sentences/enchiridion.json';
+import franklinParagraphs from './paragraphs/franklin.json';
+import franklinSentences from './sentences/franklin.json';
 import guofulunParagraphs from './paragraphs/guofulun.json';
 import guofulunSentences from './sentences/guofulun.json';
 import independenceParagraphs from './paragraphs/independence.json';
@@ -57,6 +59,7 @@ export const books: Book[] = [
   onliberty,
   socialcontract,
   justforfun,
+  franklinSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -64,6 +67,7 @@ const paragraphBooks: Book[] = [
   commonsenseParagraphs,
   discoursesParagraphs,
   enchiridionParagraphs,
+  franklinParagraphs,
   guofulunParagraphs,
   independenceParagraphs,
   justforfunParagraphs,
@@ -80,6 +84,7 @@ const sentenceBooks: Book[] = [
   commonsenseSentences,
   discoursesSentences,
   enchiridionSentences,
+  franklinSentences,
   guofulunSentences,
   independenceSentences,
   justforfun,

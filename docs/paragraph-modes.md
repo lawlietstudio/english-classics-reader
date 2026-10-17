@@ -1,6 +1,6 @@
 # Paragraph editions
 
-Settings > 段落顯示 selects sentence (default) or paragraph editions for all 14 books. The persisted shared preference is `reader-passage-mode`. Display, chapter counts and speech use the same selected book. Reader remounts when the edition/chapter changes, clearing playback and scroll state; chapter IDs stay unchanged.
+Settings > 段落顯示 selects sentence (default) or paragraph editions for every book. The persisted shared preference is `reader-passage-mode`. Display, chapter counts and speech use the same selected book. Reader remounts when the edition/chapter changes, clearing playback and scroll state; chapter IDs stay unchanged.
 
 `data/paragraphs/*.json` archives the original editions. Most books had not previously been resegmented, so their original data comes from `c2c5d72`. Just for Fun comes from `8b301fc`, before the sentence/PDF repair change. Full commit hashes are recorded in `provenance.json`.
 
@@ -10,3 +10,5 @@ For the other books, `data/sentences/*.json` stores generated aligned sentence p
 
 Regenerate: `node scripts/archive-paragraphs.cjs` (requires Git history).
 Validate: `node --test scripts/paragraph-modes.test.cjs`, `npx tsc --noEmit`, `npm run build:web`.
+
+Books added after the archive (listed as `nativeBookIds` in `scripts/paragraph-modes.test.cjs`, starting with Franklin's Autobiography) are written directly as both editions: `data/sentences/<id>.json` has one aligned sentence per passage and `data/paragraphs/<id>.json` the same text grouped by source paragraph. They have no archived revision; the test only checks that both editions share chapter IDs and carry identical text.

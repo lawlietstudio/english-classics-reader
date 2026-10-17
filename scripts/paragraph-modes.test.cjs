@@ -10,9 +10,11 @@ const before = loadBooks(root, provenance.revision);
 const historicalJff = loadBooks(root, provenance.justForFunRevision).find(b => b.id === 'justforfun');
 const plain = value => JSON.parse(JSON.stringify(value));
 const compact = text => text.replace(/\s+/g, '');
+// Books written natively with both editions (no archived pre-sentence revision).
+const nativeBookIds = ['franklin'];
 
-test('all 14 books have both modes with stable chapter identities and exact archived text', () => {
-  assert.equal(catalog.books.length, 14);
+test('all 14 archived books have both modes with stable chapter identities and exact archived text', () => {
+  assert.equal(catalog.books.length, 14 + nativeBookIds.length);
   for (const book of before) {
     const paragraphs = catalog.getBook(book.id, 'paragraph');
     const split = catalog.getBook(book.id, 'sentence');
@@ -57,4 +59,24 @@ test('Just for Fun keeps its repaired current sentence edition and historical pa
   assert.deepEqual(plain(catalog.getBook('justforfun', 'sentence')), plain(before.find(b => b.id === 'justforfun')));
   assert.equal(catalog.getBook('justforfun', 'sentence').chapters.reduce((n,c)=>n+c.passages.length,0), 4995);
   assert.equal(catalog.getBook('justforfun', 'paragraph').chapters.reduce((n,c)=>n+c.passages.length,0), 494);
+});
+
+test('native books have aligned sentence and paragraph editions with identical text', () => {
+  for (const id of nativeBookIds) {
+    const sentence = catalog.getBook(id, 'sentence');
+    const paragraph = catalog.getBook(id, 'paragraph');
+    assert.ok(sentence && paragraph, id);
+    assert.equal(catalog.getBook(id), sentence);
+    assert.ok(catalog.books.includes(sentence), id);
+    assert.deepEqual(Array.from(sentence.chapters, c => c.id), Array.from(paragraph.chapters, c => c.id));
+    sentence.chapters.forEach((chapter, index) => {
+      assert.equal(new Set(chapter.passages.map(p => p.id)).size, chapter.passages.length, chapter.id);
+      assert.ok(chapter.passages.length >= paragraph.chapters[index].passages.length, chapter.id);
+      for (const field of ['original', 'vernacular', 'vernacularMandarin']) {
+        const join = c => compact(c.passages.map(p => p[field]).join(''));
+        assert.ok(chapter.passages.every(p => p[field] && p[field].trim()), `${chapter.id}/${field}`);
+        assert.equal(join(chapter), join(paragraph.chapters[index]), `${chapter.id}/${field}`);
+      }
+    });
+  }
 });
