@@ -30,6 +30,8 @@ import socialcontractParagraphs from './paragraphs/socialcontract.json';
 import socialcontractSentences from './sentences/socialcontract.json';
 import carnegieParagraphs from './paragraphs/carnegie.json';
 import carnegieSentences from './sentences/carnegie.json';
+import sonnetsParagraphs from './paragraphs/sonnets.json';
+import sonnetsSentences from './sentences/sonnets.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -66,6 +68,7 @@ export const books: Book[] = [
   franklinSentences,
   upfromslaverySentences,
   carnegieSentences,
+  sonnetsSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -86,6 +89,7 @@ const paragraphBooks: Book[] = [
   socialcontractParagraphs,
   upfromslaveryParagraphs,
   carnegieParagraphs,
+  sonnetsParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -105,6 +109,7 @@ const sentenceBooks: Book[] = [
   socialcontractSentences,
   upfromslaverySentences,
   carnegieSentences,
+  sonnetsSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
