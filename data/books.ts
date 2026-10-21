@@ -28,6 +28,8 @@ import seneca_lettersParagraphs from './paragraphs/seneca-letters.json';
 import seneca_lettersSentences from './sentences/seneca-letters.json';
 import socialcontractParagraphs from './paragraphs/socialcontract.json';
 import socialcontractSentences from './sentences/socialcontract.json';
+import carnegieParagraphs from './paragraphs/carnegie.json';
+import carnegieSentences from './sentences/carnegie.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -63,6 +65,7 @@ export const books: Book[] = [
   justforfun,
   franklinSentences,
   upfromslaverySentences,
+  carnegieSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -82,6 +85,7 @@ const paragraphBooks: Book[] = [
   seneca_lettersParagraphs,
   socialcontractParagraphs,
   upfromslaveryParagraphs,
+  carnegieParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -100,6 +104,7 @@ const sentenceBooks: Book[] = [
   seneca_lettersSentences,
   socialcontractSentences,
   upfromslaverySentences,
+  carnegieSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
