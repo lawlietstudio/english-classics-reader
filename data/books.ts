@@ -41,6 +41,7 @@ import midsummerParagraphs from './paragraphs/midsummer.json';
 import caesarParagraphs from './paragraphs/caesar.json';
 import sherlockParagraphs from './paragraphs/sherlock.json';
 import animalfarmParagraphs from './paragraphs/animalfarm.json';
+import oldmanParagraphs from './paragraphs/oldman.json';
 import sonnetsSentences from './sentences/sonnets.json';
 import hamletSentences from './sentences/hamlet.json';
 import othelloSentences from './sentences/othello.json';
@@ -52,6 +53,7 @@ import midsummerSentences from './sentences/midsummer.json';
 import caesarSentences from './sentences/caesar.json';
 import sherlockSentences from './sentences/sherlock.json';
 import animalfarmSentences from './sentences/animalfarm.json';
+import oldmanSentences from './sentences/oldman.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -99,6 +101,7 @@ export const books: Book[] = [
   caesarSentences,
   sherlockSentences,
   animalfarmSentences,
+  oldmanSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -130,6 +133,7 @@ const paragraphBooks: Book[] = [
   caesarParagraphs,
   sherlockParagraphs,
   animalfarmParagraphs,
+  oldmanParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -160,6 +164,7 @@ const sentenceBooks: Book[] = [
   caesarSentences,
   sherlockSentences,
   animalfarmSentences,
+  oldmanSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
