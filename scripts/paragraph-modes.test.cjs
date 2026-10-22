@@ -11,7 +11,7 @@ const historicalJff = loadBooks(root, provenance.justForFunRevision).find(b => b
 const plain = value => JSON.parse(JSON.stringify(value));
 const compact = text => text.replace(/\s+/g, '');
 // Books written natively with both editions (no archived pre-sentence revision).
-const nativeBookIds = ['franklin', 'upfromslavery', 'carnegie', 'sonnets', 'hamlet', 'othello', 'lear', 'macbeth'];
+const nativeBookIds = ['franklin', 'upfromslavery', 'carnegie', 'sonnets', 'hamlet', 'othello', 'lear', 'macbeth', 'romeo'];
 
 test('all 14 archived books have both modes with stable chapter identities and exact archived text', () => {
   assert.equal(catalog.books.length, 14 + nativeBookIds.length);
