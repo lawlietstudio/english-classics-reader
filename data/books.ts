@@ -37,6 +37,7 @@ import learParagraphs from './paragraphs/lear.json';
 import macbethParagraphs from './paragraphs/macbeth.json';
 import romeoParagraphs from './paragraphs/romeo.json';
 import merchantParagraphs from './paragraphs/merchant.json';
+import midsummerParagraphs from './paragraphs/midsummer.json';
 import sonnetsSentences from './sentences/sonnets.json';
 import hamletSentences from './sentences/hamlet.json';
 import othelloSentences from './sentences/othello.json';
@@ -44,6 +45,7 @@ import learSentences from './sentences/lear.json';
 import macbethSentences from './sentences/macbeth.json';
 import romeoSentences from './sentences/romeo.json';
 import merchantSentences from './sentences/merchant.json';
+import midsummerSentences from './sentences/midsummer.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -87,6 +89,7 @@ export const books: Book[] = [
   macbethSentences,
   romeoSentences,
   merchantSentences,
+  midsummerSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -114,6 +117,7 @@ const paragraphBooks: Book[] = [
   macbethParagraphs,
   romeoParagraphs,
   merchantParagraphs,
+  midsummerParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -140,6 +144,7 @@ const sentenceBooks: Book[] = [
   macbethSentences,
   romeoSentences,
   merchantSentences,
+  midsummerSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
