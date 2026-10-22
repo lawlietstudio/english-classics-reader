@@ -36,12 +36,14 @@ import othelloParagraphs from './paragraphs/othello.json';
 import learParagraphs from './paragraphs/lear.json';
 import macbethParagraphs from './paragraphs/macbeth.json';
 import romeoParagraphs from './paragraphs/romeo.json';
+import merchantParagraphs from './paragraphs/merchant.json';
 import sonnetsSentences from './sentences/sonnets.json';
 import hamletSentences from './sentences/hamlet.json';
 import othelloSentences from './sentences/othello.json';
 import learSentences from './sentences/lear.json';
 import macbethSentences from './sentences/macbeth.json';
 import romeoSentences from './sentences/romeo.json';
+import merchantSentences from './sentences/merchant.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -84,6 +86,7 @@ export const books: Book[] = [
   learSentences,
   macbethSentences,
   romeoSentences,
+  merchantSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -110,6 +113,7 @@ const paragraphBooks: Book[] = [
   learParagraphs,
   macbethParagraphs,
   romeoParagraphs,
+  merchantParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -135,6 +139,7 @@ const sentenceBooks: Book[] = [
   learSentences,
   macbethSentences,
   romeoSentences,
+  merchantSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
