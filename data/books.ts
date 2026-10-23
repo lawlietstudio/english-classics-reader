@@ -68,6 +68,8 @@ import aesopParagraphs from './paragraphs/aesop.json';
 import aesopSentences from './sentences/aesop.json';
 import potterParagraphs from './paragraphs/potter.json';
 import potterSentences from './sentences/potter.json';
+import bbParagraphs from './paragraphs/bb.json';
+import bbSentences from './sentences/bb.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -123,6 +125,7 @@ export const books: Book[] = [
   sgSentences,
   aesopSentences,
   potterSentences,
+  bbSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -162,6 +165,7 @@ const paragraphBooks: Book[] = [
   sgParagraphs,
   aesopParagraphs,
   potterParagraphs,
+  bbParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -200,6 +204,7 @@ const sentenceBooks: Book[] = [
   sgSentences,
   aesopSentences,
   potterSentences,
+  bbSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
