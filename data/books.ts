@@ -60,6 +60,8 @@ import panParagraphs from './paragraphs/pan.json';
 import panSentences from './sentences/pan.json';
 import hpParagraphs from './paragraphs/hp.json';
 import hpSentences from './sentences/hp.json';
+import tomParagraphs from './paragraphs/tom.json';
+import tomSentences from './sentences/tom.json';
 import upfromslaveryParagraphs from './paragraphs/upfromslavery.json';
 import upfromslaverySentences from './sentences/upfromslavery.json';
 import { Book } from './types';
@@ -111,6 +113,7 @@ export const books: Book[] = [
   ozSentences,
   panSentences,
   hpSentences,
+  tomSentences,
 ];
 
 const paragraphBooks: Book[] = [
@@ -146,6 +149,7 @@ const paragraphBooks: Book[] = [
   ozParagraphs,
   panParagraphs,
   hpParagraphs,
+  tomParagraphs,
 ];
 const sentenceBooks: Book[] = [
   capitalSentences,
@@ -180,6 +184,7 @@ const sentenceBooks: Book[] = [
   ozSentences,
   panSentences,
   hpSentences,
+  tomSentences,
 ];
 
 export function getBook(id: string, mode: PassageMode = 'sentence'): Book | undefined {
