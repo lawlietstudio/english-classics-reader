@@ -1,0 +1,2420 @@
+{
+  "id": "hp",
+  "title": "快樂王子及其他故事",
+  "author": "Oscar Wilde 奧斯卡·王爾德",
+  "description": "《The Happy Prince and Other Tales》(1888)。王爾德的五篇童話:〈快樂王子〉〈夜鶯與玫瑰〉〈自私的巨人〉〈忠實的朋友〉〈了不起的火箭〉,以詩意而諷刺的筆法寫愛、犧牲與虛榮。英文原文對照廣東話/普通話翻譯。",
+  "chapters": [
+    {
+      "id": "hp-001",
+      "title": "The Happy Prince 快樂王子",
+      "passages": [
+        {
+          "id": "hp001-1",
+          "original": "HIGH above the city, on a tall column, stood the statue of the Happy Prince. He was gilded all over with thin leaves of fine gold, for eyes he had two bright sapphires, and a large red ruby glowed on his sword-hilt.",
+          "vernacular": "高高喺城市上方,一根高柱上,矗立住快樂王子嘅雕像。佢全身貼滿薄薄嘅純金葉子,眼睛係兩顆明亮嘅藍寶石,劍柄上閃耀住一顆巨大嘅紅寶石。",
+          "vernacularMandarin": "高高在城市上方,一根高柱上,矗立著快樂王子的雕像。他全身貼滿薄薄的純金葉子,眼睛是兩顆明亮的藍寶石,劍柄上閃耀著一顆巨大的紅寶石。"
+        },
+        {
+          "id": "hp001-2",
+          "original": "He was very much admired indeed. “He is as beautiful as a weathercock,” remarked one of the Town Councillors who wished to gain a reputation for having artistic tastes; “only not quite so useful,” he added, fearing lest people should think him unpractical, which he really was not.",
+          "vernacular": "佢確實好受人欣賞。「佢像風標一樣美麗,」一位想博取懂藝術嘅名聲嘅市議員講;「只係冇咁有用,」佢補充講,怕人家認為佢不切實際,其實佢並唔係。",
+          "vernacularMandarin": "他確實很受人欣賞。「他像風標一樣美麗,」一位想博取懂藝術的名聲的市議員說;「只是沒那麼有用,」他補充說,怕人家認為他不切實際,其實他並不是。"
+        },
+        {
+          "id": "hp001-3",
+          "original": "“Why can’t you be like the Happy Prince?” asked a sensible mother of her little boy who was crying for the moon. “The Happy Prince never dreams of crying for anything.”",
+          "vernacular": "「你點解唔能夠像快樂王子一樣?」一位明理嘅母親問佢哭住要月亮嘅小男孩。「快樂王子從來唔會夢想為任何事哭。」",
+          "vernacularMandarin": "「你為什麼不能像快樂王子一樣?」一位明理的母親問她哭著要月亮的小男孩。「快樂王子從來不會夢想為任何事哭。」"
+        },
+        {
+          "id": "hp001-4",
+          "original": "“I am glad there is some one in the world who is quite happy,” muttered a disappointed man as he gazed at the wonderful statue.",
+          "vernacular": "「我好高興世上有一個人係完全快樂嘅,」一個失意嘅人凝視住呢座奇妙嘅雕像時喃喃講。",
+          "vernacularMandarin": "「我很高興世上有一個人是完全快樂的,」一個失意的人凝視著這座奇妙的雕像時喃喃說。"
+        },
+        {
+          "id": "hp001-5",
+          "original": "“He looks just like an angel,” said the Charity Children as they came out of the cathedral in their bright scarlet cloaks and their clean white pinafores.",
+          "vernacular": "「佢睇起嚟簡直像天使,」慈善學校嘅細路哋穿住鮮豔嘅猩紅色斗篷同乾淨嘅白圍裙從大教堂出嚟時講。",
+          "vernacularMandarin": "「他看起來簡直像天使,」慈善學校的孩子們穿著鮮豔的猩紅色斗篷和乾淨的白圍裙從大教堂出來時說。"
+        },
+        {
+          "id": "hp001-6",
+          "original": "“How do you know?” said the Mathematical Master, “you have never seen one.”",
+          "vernacular": "「你哋點知道?」數學老師講,「你哋從冇見過天使。」",
+          "vernacularMandarin": "「你們怎麼知道?」數學老師說,「你們從沒見過天使。」"
+        },
+        {
+          "id": "hp001-7",
+          "original": "“Ah! but we have, in our dreams,” answered the children; and the Mathematical Master frowned and looked very severe, for he did not approve of children dreaming.",
+          "vernacular": "「啊!但我哋見過,喺夢裡,」細路哋回答;數學老師皺起眉頭,顯得好嚴厲,因為佢不贊成細路做夢。",
+          "vernacularMandarin": "「啊!但我們見過,在夢裡,」孩子們回答;數學老師皺起眉頭,顯得很嚴厲,因為他不贊成孩子做夢。"
+        },
+        {
+          "id": "hp001-8",
+          "original": "One night there flew over the city a little Swallow. His friends had gone away to Egypt six weeks before, but he had stayed behind, for he was in love with the most beautiful Reed. He had met her early in the spring as he was flying down the river after a big yellow moth, and had been so attracted by her slender waist that he had stopped to talk to her.",
+          "vernacular": "一天夜裡,一隻小燕子飛過呢座城市。佢嘅朋友哋六個星期前就去咗埃及,但佢留咗下嚟,因為佢愛上咗最美麗嘅蘆葦。佢係早春時節認識佢嘅,當時佢正沿住河追一隻大黃蛾,被佢纖細嘅腰身吸引,就停下嚟同佢講話。",
+          "vernacularMandarin": "一天夜裡,一隻小燕子飛過這座城市。他的朋友們六個星期前就去了埃及,但他留了下來,因為他愛上了最美麗的蘆葦。他是早春時節認識她的,當時他正沿著河追一隻大黃蛾,被她纖細的腰身吸引,就停下來同她說話。"
+        },
+        {
+          "id": "hp001-9",
+          "original": "“Shall I love you?” said the Swallow, who liked to come to the point at once, and the Reed made him a low bow. So he flew round and round her, touching the water with his wings, and making silver ripples. This was his courtship, and it lasted all through the summer.",
+          "vernacular": "「我可以愛你嗎?」燕子講,佢鍾意一開始就直奔主題,蘆葦向佢深深鞠躬。於是佢繞住佢一圈一圈地飛,翅膀碰到水面,激起銀色嘅漣漪。呢個就係佢嘅求愛,持續咗整個夏天。",
+          "vernacularMandarin": "「我可以愛你嗎?」燕子說,他喜歡一開始就直奔主題,蘆葦向他深深鞠躬。於是他繞著她一圈一圈地飛,翅膀碰到水面,激起銀色的漣漪。這就是他的求愛,持續了整個夏天。"
+        },
+        {
+          "id": "hp001-10",
+          "original": "“It is a ridiculous attachment,” twittered the other Swallows; “she has no money, and far too many relations”; and indeed the river was quite full of Reeds. Then, when the autumn came they all flew away.",
+          "vernacular": "「呢個係一段荒謬嘅戀情,」其他燕子嘰嘰喳喳地講;「佢冇錢,而且親戚太多」;確實,河裡滿係蘆葦。然後,秋天嚟喇,佢哋都飛走喇。",
+          "vernacularMandarin": "「這是一段荒謬的戀情,」其他燕子嘰嘰喳喳地說;「她沒有錢,而且親戚太多」;確實,河裡滿是蘆葦。然後,秋天來了,他們都飛走了。"
+        },
+        {
+          "id": "hp001-11",
+          "original": "After they had gone he felt lonely, and began to tire of his lady-love. “She has no conversation,” he said, “and I am afraid that she is a coquette, for she is always flirting with the wind.” And certainly, whenever the wind blew, the Reed made the most graceful curtseys. “I admit that she is domestic,” he continued, “but I love travelling, and my wife, consequently, should love travelling also.”",
+          "vernacular": "佢哋走後,佢感到孤獨,開始厭倦佢嘅情人。「佢唔會講話,」佢講,「我怕佢係個賣弄風情嘅人,因為佢總是同風調情。」確實,每當風吹過,蘆葦就行最優雅嘅屈膝禮。「我承認佢愛家,」佢繼續講,「但我愛旅行,所以我嘅妻子都應該愛旅行。」",
+          "vernacularMandarin": "他們走後,他感到孤獨,開始厭倦他的情人。「她不會說話,」他說,「我怕她是個賣弄風情的人,因為她總是同風調情。」確實,每當風吹過,蘆葦就行最優雅的屈膝禮。「我承認她愛家,」他繼續說,「但我愛旅行,所以我的妻子也應該愛旅行。」"
+        },
+        {
+          "id": "hp001-12",
+          "original": "“Will you come away with me?” he said finally to her; but the Reed shook her head, she was so attached to her home.",
+          "vernacular": "「你願意同我走嗎?」佢終於對佢講;但蘆葦搖咗搖頭,佢太依戀佢嘅家喇。",
+          "vernacularMandarin": "「你願意同我走嗎?」他終於對她說;但蘆葦搖了搖頭,她太依戀她的家了。"
+        },
+        {
+          "id": "hp001-13",
+          "original": "“You have been trifling with me,” he cried. “I am off to the Pyramids. Good-bye!” and he flew away.",
+          "vernacular": "「你一直喺玩弄我,」佢喊道。「我要去金字塔喇。再見!」佢飛走喇。",
+          "vernacularMandarin": "「你一直在玩弄我,」他喊道。「我要去金字塔了。再見!」他飛走了。"
+        },
+        {
+          "id": "hp001-14",
+          "original": "All day long he flew, and at night-time he arrived at the city. “Where shall I put up?” he said; “I hope the town has made preparations.”",
+          "vernacular": "佢飛咗一整天,晚上佢到咗呢座城市。「我喺邊度落腳?」佢講;「我希望呢座城市作咗準備。」",
+          "vernacularMandarin": "他飛了一整天,晚上他到了這座城市。「我在哪裡落腳?」他說;「我希望這座城市作了準備。」"
+        },
+        {
+          "id": "hp001-15",
+          "original": "Then he saw the statue on the tall column.",
+          "vernacular": "然後佢睇到高柱上嘅雕像。",
+          "vernacularMandarin": "然後他看到高柱上的雕像。"
+        },
+        {
+          "id": "hp001-16",
+          "original": "“I will put up there,” he cried; “it is a fine position, with plenty of fresh air.” So he alighted just between the feet of the Happy Prince.",
+          "vernacular": "「我就喺嗰度落腳,」佢喊道;「呢個位置好好,空氣新鮮。」於是佢落喺快樂王子嘅雙腳之間。",
+          "vernacularMandarin": "「我就在那裡落腳,」他喊道;「這個位置很好,空氣新鮮。」於是他落在快樂王子的雙腳之間。"
+        },
+        {
+          "id": "hp001-17",
+          "original": "“I have a golden bedroom,” he said softly to himself as he looked round, and he prepared to go to sleep; but just as he was putting his head under his wing a large drop of water fell on him. “What a curious thing!” he cried; “there is not a single cloud in the sky, the stars are quite clear and bright, and yet it is raining. The climate in the north of Europe is really dreadful. The Reed used to like the rain, but that was merely her selfishness.”",
+          "vernacular": "「我有一間金色嘅臥室,」佢環顧四周,輕輕對自己講,準備瞓覺;但就喺佢把頭藏到翅膀下時,一大滴水落喺佢身上。「真奇怪!」佢喊道;「天上一片雲都冇,星星清晰明亮,不過卻喺下雨。歐洲北部嘅氣候真係可怕。蘆葦以前鍾意雨,但嗰只係佢自私。」",
+          "vernacularMandarin": "「我有一間金色的臥室,」他環顧四周,輕輕對自己說,準備睡覺;但就在他把頭藏到翅膀下時,一大滴水落在他身上。「真奇怪!」他喊道;「天上一片雲也沒有,星星清晰明亮,可是卻在下雨。歐洲北部的氣候真是可怕。蘆葦以前喜歡雨,但那只是她自私。」"
+        },
+        {
+          "id": "hp001-18",
+          "original": "Then another drop fell.",
+          "vernacular": "然後又掉下一滴。",
+          "vernacularMandarin": "然後又掉下一滴。"
+        },
+        {
+          "id": "hp001-19",
+          "original": "“What is the use of a statue if it cannot keep the rain off?” he said; “I must look for a good chimney-pot,” and he determined to fly away.",
+          "vernacular": "「如果雕像唔能夠擋雨,有乜嘢用?」佢講;「我必須找一個好嘅煙囪帽,」佢決定飛走。",
+          "vernacularMandarin": "「如果雕像不能擋雨,有什麼用?」他說;「我必須找一個好的煙囪帽,」他決定飛走。"
+        },
+        {
+          "id": "hp001-20",
+          "original": "But before he had opened his wings, a third drop fell, and he looked up, and saw—Ah! what did he see?",
+          "vernacular": "但喺佢展開翅膀之前,第三滴落下,佢抬頭一睇,睇到——啊!佢睇到咗乜嘢?",
+          "vernacularMandarin": "但在他展開翅膀之前,第三滴落下,他抬頭一看,看到——啊!他看到了什麼?"
+        },
+        {
+          "id": "hp001-21",
+          "original": "The eyes of the Happy Prince were filled with tears, and tears were running down his golden cheeks. His face was so beautiful in the moonlight that the little Swallow was filled with pity.",
+          "vernacular": "快樂王子嘅眼睛裡充滿咗淚水,淚水沿住佢嘅金色臉頰流淌。佢嘅臉喺月光下係咁美,小燕子充滿咗憐憫。",
+          "vernacularMandarin": "快樂王子的眼睛裡充滿了淚水,淚水沿著他的金色臉頰流淌。他的臉在月光下是那麼美,小燕子充滿了憐憫。"
+        },
+        {
+          "id": "hp001-22",
+          "original": "“Who are you?” he said.",
+          "vernacular": "「你係邊個?」佢講。",
+          "vernacularMandarin": "「你是誰?」他說。"
+        },
+        {
+          "id": "hp001-23",
+          "original": "“I am the Happy Prince.”",
+          "vernacular": "「我係快樂王子。」",
+          "vernacularMandarin": "「我是快樂王子。」"
+        },
+        {
+          "id": "hp001-24",
+          "original": "“Why are you weeping then?” asked the Swallow; “you have quite drenched me.”",
+          "vernacular": "「嗰你點解哭?」燕子問;「你把我淋得全濕喇。」",
+          "vernacularMandarin": "「那你為什麼哭?」燕子問;「你把我淋得全濕了。」"
+        },
+        {
+          "id": "hp001-25",
+          "original": "“When I was alive and had a human heart,” answered the statue, “I did not know what tears were, for I lived in the Palace of Sans-Souci, where sorrow is not allowed to enter. In the daytime I played with my companions in the garden, and in the evening I led the dance in the Great Hall. Round the garden ran a very lofty wall, but I never cared to ask what lay beyond it, everything about me was so beautiful. My courtiers called me the Happy Prince, and happy indeed I was, if pleasure be happiness. So I lived, and so I died. And now that I am dead they have set me up here so high that I can see all the ugliness and all the misery of my city, and though my heart is made of lead yet I cannot chose but weep.”",
+          "vernacular": "「我活住、有一顆人類嘅心時,」雕像回答,「我唔知道眼淚係乜嘢,因為我住喺無憂宮,悲傷不許進入嗰度。白天我同我嘅伙伴哋喺花園裡玩,晚上我喺大廳裡領舞。花園周圍有一堵好高嘅圍牆,但我從唔想問牆外係乜嘢,我周圍嘅一切都咁美。我嘅朝臣哋叫我快樂王子,如果快樂就係幸福,我確實係快樂嘅。我就咁樣活住,都咁樣死去。而家我死喇,佢哋把我放喺咁高嘅地方,我可以睇到我嘅城市所有嘅醜陋同所有嘅苦難,雖然我嘅心係鉛做嘅,我都不禁要哭。」",
+          "vernacularMandarin": "「我活著、有一顆人類的心時,」雕像回答,「我不知道眼淚是什麼,因為我住在無憂宮,悲傷不許進入那裡。白天我同我的伙伴們在花園裡玩,晚上我在大廳裡領舞。花園周圍有一堵很高的圍牆,但我從不想問牆外是什麼,我周圍的一切都那麼美。我的朝臣們叫我快樂王子,如果快樂就是幸福,我確實是快樂的。我就這樣活著,也這樣死去。現在我死了,他們把我放在這麼高的地方,我可以看到我的城市所有的醜陋和所有的苦難,雖然我的心是鉛做的,我也不禁要哭。」"
+        },
+        {
+          "id": "hp001-26",
+          "original": "“What! is he not solid gold?” said the Swallow to himself. He was too polite to make any personal remarks out loud.",
+          "vernacular": "「乜嘢!佢唔係純金嘅嗎?」燕子對自己講。佢太有禮貌喇,唔會大聲發表任何針對個人嘅評論。",
+          "vernacularMandarin": "「什麼!他不是純金的嗎?」燕子對自己說。他太有禮貌了,不會大聲發表任何針對個人的評論。"
+        },
+        {
+          "id": "hp001-27",
+          "original": "“Far away,” continued the statue in a low musical voice, “far away in a little street there is a poor house. One of the windows is open, and through it I can see a woman seated at a table. Her face is thin and worn, and she has coarse, red hands, all pricked by the needle, for she is a seamstress. She is embroidering passion-flowers on a satin gown for the loveliest of the Queen’s maids-of-honour to wear at the next Court-ball. In a bed in the corner of the room her little boy is lying ill. He has a fever, and is asking for oranges. His mother has nothing to give him but river water, so he is crying. Swallow, Swallow, little Swallow, will you not bring her the ruby out of my sword-hilt? My feet are fastened to this pedestal and I cannot move.”",
+          "vernacular": "「好遠好遠,」雕像用低沉悅耳嘅聲音繼續講,「好遠嘅一條小街上,有一間窮人嘅房子。其中一扇窗係開住嘅,透過佢我可以睇到一個女人坐喺桌旁。佢嘅臉消瘦憔悴,雙手粗糙發紅,被針扎滿喇,因為佢係個女裁縫。佢喺一件緞子長袍上繡西番蓮,畀王后最可愛嘅宮女喺下次宮廷舞會上穿。房間角落嘅床上躺住佢生病嘅小男孩。佢發燒喇,要橙子食。佢母親只有河水畀佢,所以佢喺哭。燕子,燕子,小燕子,你能唔能夠把我劍柄上嘅紅寶石帶畀佢?我嘅腳被固定喺呢個基座上,我唔能夠動。」",
+          "vernacularMandarin": "「很遠很遠,」雕像用低沉悅耳的聲音繼續說,「很遠的一條小街上,有一間窮人的房子。其中一扇窗是開著的,透過它我可以看到一個女人坐在桌旁。她的臉消瘦憔悴,雙手粗糙發紅,被針扎滿了,因為她是個女裁縫。她在一件緞子長袍上繡西番蓮,給王后最可愛的宮女在下次宮廷舞會上穿。房間角落的床上躺著她生病的小男孩。他發燒了,要橙子吃。他母親只有河水給他,所以他在哭。燕子,燕子,小燕子,你能不能把我劍柄上的紅寶石帶給她?我的腳被固定在這個基座上,我不能動。」"
+        },
+        {
+          "id": "hp001-28",
+          "original": "“I am waited for in Egypt,” said the Swallow. “My friends are flying up and down the Nile, and talking to the large lotus-flowers. Soon they will go to sleep in the tomb of the great King. The King is there himself in his painted coffin. He is wrapped in yellow linen, and embalmed with spices. Round his neck is a chain of pale green jade, and his hands are like withered leaves.”",
+          "vernacular": "「埃及喺等我,」燕子講。「我嘅朋友哋正在尼羅河上下飛翔,同大蓮花講話。不久佢哋就要喺大王嘅墓裡瞓覺。國王自己就喺嗰度,喺佢彩繪嘅棺材裡。佢裹住黃色嘅亞麻布,用香料防腐。佢脖子上有一條淡綠色嘅玉鏈,佢嘅手像枯葉。」",
+          "vernacularMandarin": "「埃及在等我,」燕子說。「我的朋友們正在尼羅河上下飛翔,同大蓮花說話。不久他們就要在大王的墓裡睡覺。國王自己就在那裡,在他彩繪的棺材裡。他裹著黃色的亞麻布,用香料防腐。他脖子上有一條淡綠色的玉鏈,他的手像枯葉。」"
+        },
+        {
+          "id": "hp001-29",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “will you not stay with me for one night, and be my messenger? The boy is so thirsty, and the mother so sad.”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「你能唔能夠同我待一晚,做我嘅信使?男孩咁口渴,母親咁悲傷。」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「你能不能和我待一晚,做我的信使?男孩那麼口渴,母親那麼悲傷。」"
+        },
+        {
+          "id": "hp001-30",
+          "original": "“I don’t think I like boys,” answered the Swallow. “Last summer, when I was staying on the river, there were two rude boys, the miller’s sons, who were always throwing stones at me. They never hit me, of course; we swallows fly far too well for that, and besides, I come of a family famous for its agility; but still, it was a mark of disrespect.”",
+          "vernacular": "「我想我不鍾意男孩,」燕子回答。「去年夏天,我住喺河上時,有兩個粗魯嘅男孩,磨坊主嘅兒子,總是向我扔石頭。當然佢哋從冇打中我;我哋燕子飛得太好喇;而且我出身一個以敏捷著稱嘅家族;但無論如何,嗰個係不尊重嘅表示。」",
+          "vernacularMandarin": "「我想我不喜歡男孩,」燕子回答。「去年夏天,我住在河上時,有兩個粗魯的男孩,磨坊主的兒子,總是向我扔石頭。當然他們從沒打中我;我們燕子飛得太好了;而且我出身一個以敏捷著稱的家族;但無論如何,那是不尊重的表示。」"
+        },
+        {
+          "id": "hp001-31",
+          "original": "But the Happy Prince looked so sad that the little Swallow was sorry. “It is very cold here,” he said; “but I will stay with you for one night, and be your messenger.”",
+          "vernacular": "但快樂王子睇起嚟咁悲傷,小燕子覺得抱歉。「呢度好冷,」佢講;「但我會同你待一晚,做你嘅信使。」",
+          "vernacularMandarin": "但快樂王子看起來那麼悲傷,小燕子覺得抱歉。「這裡很冷,」他說;「但我會同你待一晚,做你的信使。」"
+        },
+        {
+          "id": "hp001-32",
+          "original": "“Thank you, little Swallow,” said the Prince.",
+          "vernacular": "「謝謝你,小燕子,」王子講。",
+          "vernacularMandarin": "「謝謝你,小燕子,」王子說。"
+        },
+        {
+          "id": "hp001-33",
+          "original": "So the Swallow picked out the great ruby from the Prince’s sword, and flew away with it in his beak over the roofs of the town.",
+          "vernacular": "於是燕子從王子嘅劍上取下大紅寶石,叼喺嘴裡,飛越城市嘅屋頂。",
+          "vernacularMandarin": "於是燕子從王子的劍上取下大紅寶石,叼在嘴裡,飛越城市的屋頂。"
+        },
+        {
+          "id": "hp001-34",
+          "original": "He passed by the cathedral tower, where the white marble angels were sculptured. He passed by the palace and heard the sound of dancing. A beautiful girl came out on the balcony with her lover. “How wonderful the stars are,” he said to her, “and how wonderful is the power of love!”",
+          "vernacular": "佢經過大教堂塔樓,嗰度雕刻住白色大理石天使。佢經過王宮,聽到舞蹈嘅聲音。一位美麗嘅女孩同佢嘅情人走上陽台。「星星幾咁奇妙,」佢對佢講,「愛嘅力量幾咁奇妙!」",
+          "vernacularMandarin": "他經過大教堂塔樓,那裡雕刻著白色大理石天使。他經過王宮,聽到舞蹈的聲音。一位美麗的女孩同她的情人走上陽台。「星星多麼奇妙,」他對她說,「愛的力量多麼奇妙!」"
+        },
+        {
+          "id": "hp001-35",
+          "original": "“I hope my dress will be ready in time for the State-ball,” she answered; “I have ordered passion-flowers to be embroidered on it; but the seamstresses are so lazy.”",
+          "vernacular": "「我希望我嘅衣服能及時做好參加國宴舞會,」佢回答;「我已經訂咗喺上面繡西番蓮;但女裁縫哋太懶喇。」",
+          "vernacularMandarin": "「我希望我的衣服能及時做好參加國宴舞會,」她回答;「我已經訂了在上面繡西番蓮;但女裁縫們太懶了。」"
+        },
+        {
+          "id": "hp001-36",
+          "original": "He passed over the river, and saw the lanterns hanging to the masts of the ships. He passed over the Ghetto, and saw the old Jews bargaining with each other, and weighing out money in copper scales. At last he came to the poor house and looked in. The boy was tossing feverishly on his bed, and the mother had fallen asleep, she was so tired. In he hopped, and laid the great ruby on the table beside the woman’s thimble. Then he flew gently round the bed, fanning the boy’s forehead with his wings. “How cool I feel,” said the boy, “I must be getting better”; and he sank into a delicious slumber.",
+          "vernacular": "佢飛過河,睇到船桅上掛住嘅燈籠。佢飛過猶太區,睇到老猶太人互相討價仲價,用銅天平稱錢。最後佢到咗窮人嘅房子,往裡睇。男孩喺床上發燒地翻嚟覆去,母親瞓住喇,佢太累喇。佢跳進去,把大紅寶石放喺桌上女人嘅頂針旁邊。然後佢輕輕繞住床飛,用翅膀為男孩嘅額頭扇風。「我覺得多涼快,」男孩講,「我一定喺好起嚟;」佢沉入咗甜美嘅瞓眠。",
+          "vernacularMandarin": "他飛過河,看到船桅上掛著的燈籠。他飛過猶太區,看到老猶太人互相討價還價,用銅天平稱錢。最後他到了窮人的房子,往裡看。男孩在床上發燒地翻來覆去,母親睡著了,她太累了。他跳進去,把大紅寶石放在桌上女人的頂針旁邊。然後他輕輕繞著床飛,用翅膀為男孩的額頭扇風。「我覺得多涼快,」男孩說,「我一定在好起來;」他沉入了甜美的睡眠。"
+        },
+        {
+          "id": "hp001-37",
+          "original": "Then the Swallow flew back to the Happy Prince, and told him what he had done. “It is curious,” he remarked, “but I feel quite warm now, although it is so cold.”",
+          "vernacular": "然後燕子飛回快樂王子嗰度,告訴佢自己做咗乜嘢。「真奇怪,」佢講,「雖然咁冷,我卻覺得好暖同。」",
+          "vernacularMandarin": "然後燕子飛回快樂王子那裡,告訴他自己做了什麼。「真奇怪,」他說,「雖然這麼冷,我卻覺得很暖和。」"
+        },
+        {
+          "id": "hp001-38",
+          "original": "“That is because you have done a good action,” said the Prince. And the little Swallow began to think, and then he fell asleep. Thinking always made him sleepy.",
+          "vernacular": "「嗰個係因為你做咗一件好事,」王子講。小燕子開始思考,然後瞓住喇。思考總是讓佢想瞓覺。",
+          "vernacularMandarin": "「那是因為你做了一件好事,」王子說。小燕子開始思考,然後睡著了。思考總是讓他想睡覺。"
+        },
+        {
+          "id": "hp001-39",
+          "original": "When day broke he flew down to the river and had a bath. “What a remarkable phenomenon,” said the Professor of Ornithology as he was passing over the bridge. “A swallow in winter!” And he wrote a long letter about it to the local newspaper. Every one quoted it, it was full of so many words that they could not understand.",
+          "vernacular": "天亮時佢飛到河邊洗咗個澡。「幾咁了不起嘅現象,」鳥類學教授經過橋上時講。「冬天裡有一隻燕子!」佢畀當地嘅報紙寫咗一封關於呢個嘅長信。每個人都引用佢,佢充滿咗咁多佢哋睇不懂嘅詞。",
+          "vernacularMandarin": "天亮時他飛到河邊洗了個澡。「多麼了不起的現象,」鳥類學教授經過橋上時說。「冬天裡有一隻燕子!」他給當地的報紙寫了一封關於這個的長信。每個人都引用它,它充滿了那麼多他們看不懂的詞。"
+        },
+        {
+          "id": "hp001-40",
+          "original": "“To-night I go to Egypt,” said the Swallow, and he was in high spirits at the prospect. He visited all the public monuments, and sat a long time on top of the church steeple. Wherever he went the Sparrows chirruped, and said to each other, “What a distinguished stranger!” so he enjoyed himself very much.",
+          "vernacular": "「今晚我去埃及,」燕子講,想到呢個前景,佢興高采烈。佢參觀咗所有嘅公共紀念碑,喺教堂尖塔頂上坐咗好久。佢到邊度,麻雀哋都吱吱喳喳,互相講:「幾咁傑出嘅陌生人!」所以佢玩得好開心。",
+          "vernacularMandarin": "「今晚我去埃及,」燕子說,想到這個前景,他興高采烈。他參觀了所有的公共紀念碑,在教堂尖塔頂上坐了很久。他到哪裡,麻雀們都吱吱喳喳,互相說:「多麼傑出的陌生人!」所以他玩得很開心。"
+        },
+        {
+          "id": "hp001-41",
+          "original": "When the moon rose he flew back to the Happy Prince. “Have you any commissions for Egypt?” he cried; “I am just starting.”",
+          "vernacular": "月亮升起時佢飛回快樂王子嗰度。「你有乜嘢嘢要我帶去埃及嗎?」佢喊道;「我正要出發。」",
+          "vernacularMandarin": "月亮升起時他飛回快樂王子那裡。「你有什麼東西要我帶去埃及嗎?」他喊道;「我正要出發。」"
+        },
+        {
+          "id": "hp001-42",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “will you not stay with me one night longer?”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「你能唔能夠再同我多待一晚?」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「你能不能再同我多待一晚?」"
+        },
+        {
+          "id": "hp001-43",
+          "original": "“I am waited for in Egypt,” answered the Swallow. “To-morrow my friends will fly up to the Second Cataract. The river-horse couches there among the bulrushes, and on a great granite throne sits the God Memnon. All night long he watches the stars, and when the morning star shines he utters one cry of joy, and then he is silent. At noon the yellow lions come down to the water’s edge to drink. They have eyes like green beryls, and their roar is louder than the roar of the cataract.”",
+          "vernacular": "「埃及喺等我,」燕子回答。「聽日我嘅朋友哋會飛到第二瀑布。河馬躺喺嗰度嘅蒲草叢中,一個巨大嘅花崗岩寶座上坐住門農神。佢整夜睇住星星,晨星閃耀時,佢發出一聲歡呼,然後沉默。中午黃色嘅獅子哋下嚟到水邊飲水。牠哋嘅眼睛像綠色嘅綠柱石,牠哋嘅吼聲比瀑布嘅轟鳴更響。」",
+          "vernacularMandarin": "「埃及在等我,」燕子回答。「明天我的朋友們會飛到第二瀑布。河馬躺在那裡的蒲草叢中,一個巨大的花崗岩寶座上坐著門農神。他整夜看著星星,晨星閃耀時,他發出一聲歡呼,然後沉默。中午黃色的獅子們下來到水邊喝水。牠們的眼睛像綠色的綠柱石,牠們的吼聲比瀑布的轟鳴更響。」"
+        },
+        {
+          "id": "hp001-44",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “far away across the city I see a young man in a garret. He is leaning over a desk covered with papers, and in a tumbler by his side there is a bunch of withered violets. His hair is brown and crisp, and his lips are red as a pomegranate, and he has large and dreamy eyes. He is trying to finish a play for the Director of the Theatre, but he is too cold to write any more. There is no fire in the grate, and hunger has made him faint.”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「遠喺城市對面,我睇到一個年輕人喺閣樓裡。佢俯喺一張堆滿紙嘅書桌上,身邊嘅玻璃杯裡有一束枯萎嘅紫羅蘭。佢嘅頭髮係棕色捲曲嘅,嘴唇紅得像石榴,有一雙大而夢幻嘅眼睛。佢正努力為劇院經理寫完一個劇本,但佢冷得再都寫不下去。爐子裡冇火,飢餓讓佢虛弱。」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「遠在城市對面,我看到一個年輕人在閣樓裡。他俯在一張堆滿紙的書桌上,身邊的玻璃杯裡有一束枯萎的紫羅蘭。他的頭髮是棕色捲曲的,嘴唇紅得像石榴,有一雙大而夢幻的眼睛。他正努力為劇院經理寫完一個劇本,但他冷得再也寫不下去。爐子裡沒有火,飢餓讓他虛弱。」"
+        },
+        {
+          "id": "hp001-45",
+          "original": "“I will wait with you one night longer,” said the Swallow, who really had a good heart. “Shall I take him another ruby?”",
+          "vernacular": "「我再同你待一晚,」燕子講,佢真嘅有一顆善良嘅心。「我再帶一顆紅寶石畀佢嗎?」",
+          "vernacularMandarin": "「我再同你待一晚,」燕子說,他真的有一顆善良的心。「我再帶一顆紅寶石給他嗎?」"
+        },
+        {
+          "id": "hp001-46",
+          "original": "“Alas! I have no ruby now,” said the Prince; “my eyes are all that I have left. They are made of rare sapphires, which were brought out of India a thousand years ago. Pluck out one of them and take it to him. He will sell it to the jeweller, and buy food and firewood, and finish his play.”",
+          "vernacular": "「唉!我而家冇紅寶石喇,」王子講;「我嘅眼睛係我僅剩嘅。佢哋係稀有嘅藍寶石做嘅,係一千年前從印度帶嚟嘅。拔出其中一顆,帶畀佢。佢會賣畀珠寶商,買食物同柴火,完成佢嘅劇本。」",
+          "vernacularMandarin": "「唉!我現在沒有紅寶石了,」王子說;「我的眼睛是我僅剩的。它們是稀有的藍寶石做的,是一千年前從印度帶來的。拔出其中一顆,帶給他。他會賣給珠寶商,買食物和柴火,完成他的劇本。」"
+        },
+        {
+          "id": "hp001-47",
+          "original": "“Dear Prince,” said the Swallow, “I cannot do that”; and he began to weep.",
+          "vernacular": "「親愛嘅王子,」燕子講,「我唔能夠嗰樣做;」佢開始哭泣。",
+          "vernacularMandarin": "「親愛的王子,」燕子說,「我不能那樣做;」他開始哭泣。"
+        },
+        {
+          "id": "hp001-48",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “do as I command you.”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「照我嘅命令做。」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「照我的命令做。」"
+        },
+        {
+          "id": "hp001-49",
+          "original": "So the Swallow plucked out the Prince’s eye, and flew away to the student’s garret. It was easy enough to get in, as there was a hole in the roof. Through this he darted, and came into the room. The young man had his head buried in his hands, so he did not hear the flutter of the bird’s wings, and when he looked up he found the beautiful sapphire lying on the withered violets.",
+          "vernacular": "於是燕子拔出王子嘅一隻眼睛,飛往學生嘅閣樓。進去好容易,因為屋頂有個洞。佢從呢度飛進,進咗房間。年輕人把頭埋喺手裡,所以冇聽到鳥嘅翅膀拍動聲,佢抬頭時,發現美麗嘅藍寶石躺喺枯萎嘅紫羅蘭上。",
+          "vernacularMandarin": "於是燕子拔出王子的一隻眼睛,飛往學生的閣樓。進去很容易,因為屋頂有個洞。他從這裡飛進,進了房間。年輕人把頭埋在手裡,所以沒聽到鳥的翅膀拍動聲,他抬頭時,發現美麗的藍寶石躺在枯萎的紫羅蘭上。"
+        },
+        {
+          "id": "hp001-50",
+          "original": "“I am beginning to be appreciated,” he cried; “this is from some great admirer. Now I can finish my play,” and he looked quite happy.",
+          "vernacular": "「我開始被人賞識喇,」佢喊道;「呢個係某位大仰慕者送嘅。而家我可以完成我嘅劇本喇,」佢睇起嚟好快樂。",
+          "vernacularMandarin": "「我開始被人賞識了,」他喊道;「這是某位大仰慕者送的。現在我可以完成我的劇本了,」他看起來非常快樂。"
+        },
+        {
+          "id": "hp001-51",
+          "original": "The next day the Swallow flew down to the harbour. He sat on the mast of a large vessel and watched the sailors hauling big chests out of the hold with ropes. “Heave a-hoy!” they shouted as each chest came up. “I am going to Egypt”! cried the Swallow, but nobody minded, and when the moon rose he flew back to the Happy Prince.",
+          "vernacular": "第二天燕子飛到港口。佢坐喺一艘大船嘅桅杆上,睇水手哋用繩子把大箱子從船艙拉出嚟。「嗨喲!」每個箱子出嚟時佢哋都喊道。「我要去埃及喇」!燕子喊道,但冇人理會,月亮升起時佢飛回快樂王子嗰度。",
+          "vernacularMandarin": "第二天燕子飛到港口。他坐在一艘大船的桅杆上,看水手們用繩子把大箱子從船艙拉出來。「嗨喲!」每個箱子出來時他們都喊道。「我要去埃及了」!燕子喊道,但沒有人理會,月亮升起時他飛回快樂王子那裡。"
+        },
+        {
+          "id": "hp001-52",
+          "original": "“I am come to bid you good-bye,” he cried.",
+          "vernacular": "「我嚟向你道別,」佢喊道。",
+          "vernacularMandarin": "「我來向你道別,」他喊道。"
+        },
+        {
+          "id": "hp001-53",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “will you not stay with me one night longer?”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「你能唔能夠再同我多待一晚?」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「你能不能再同我多待一晚?」"
+        },
+        {
+          "id": "hp001-54",
+          "original": "“It is winter,” answered the Swallow, “and the chill snow will soon be here. In Egypt the sun is warm on the green palm-trees, and the crocodiles lie in the mud and look lazily about them. My companions are building a nest in the Temple of Baalbec, and the pink and white doves are watching them, and cooing to each other. Dear Prince, I must leave you, but I will never forget you, and next spring I will bring you back two beautiful jewels in place of those you have given away. The ruby shall be redder than a red rose, and the sapphire shall be as blue as the great sea.”",
+          "vernacular": "「而家係冬天,」燕子回答,「寒冷嘅雪好快就要嚟喇。喺埃及,陽光暖暖地照喺綠色嘅棕櫚樹上,鱷魚躺喺泥裡,懶洋洋地四處張望。我嘅同伴哋正在巴勒貝克神廟裡築巢,粉紅色同白色嘅鴿子睇住佢哋,互相咕咕叫。親愛嘅王子,我必須離開你,但我永遠唔會忘記你,明年春天我會畀你帶回兩顆美麗嘅寶石,代替你送出去嘅嗰兩顆。紅寶石會比紅玫瑰更紅,藍寶石會像大海一樣藍。」",
+          "vernacularMandarin": "「現在是冬天,」燕子回答,「寒冷的雪很快就要來了。在埃及,陽光暖暖地照在綠色的棕櫚樹上,鱷魚躺在泥裡,懶洋洋地四處張望。我的同伴們正在巴勒貝克神廟裡築巢,粉紅色和白色的鴿子看著他們,互相咕咕叫。親愛的王子,我必須離開你,但我永遠不會忘記你,明年春天我會給你帶回兩顆美麗的寶石,代替你送出去的那兩顆。紅寶石會比紅玫瑰更紅,藍寶石會像大海一樣藍。」"
+        },
+        {
+          "id": "hp001-55",
+          "original": "“In the square below,” said the Happy Prince, “there stands a little match-girl. She has let her matches fall in the gutter, and they are all spoiled. Her father will beat her if she does not bring home some money, and she is crying. She has no shoes or stockings, and her little head is bare. Pluck out my other eye, and give it to her, and her father will not beat her.”",
+          "vernacular": "「下面嘅廣場上,」快樂王子講,「站住一個賣火柴嘅小女孩。佢把火柴掉喺水溝裡,全都壞喇。如果佢不帶些錢回家,佢爸爸會打佢,佢喺哭。佢冇鞋子同襪子,小小嘅頭都光住。拔出我嘅另一隻眼睛,畀佢,佢爸爸就唔會打佢喇。」",
+          "vernacularMandarin": "「下面的廣場上,」快樂王子說,「站著一個賣火柴的小女孩。她把火柴掉在水溝裡,全都壞了。如果她不帶些錢回家,她爸爸會打她,她在哭。她沒有鞋子和襪子,小小的頭也光著。拔出我的另一隻眼睛,給她,她爸爸就不會打她了。」"
+        },
+        {
+          "id": "hp001-56",
+          "original": "“I will stay with you one night longer,” said the Swallow, “but I cannot pluck out your eye. You would be quite blind then.”",
+          "vernacular": "「我再同你待一晚,」燕子講,「但我唔能夠拔你嘅眼睛。嗰樣你就完全瞎喇。」",
+          "vernacularMandarin": "「我再同你待一晚,」燕子說,「但我不能拔你的眼睛。那樣你就完全瞎了。」"
+        },
+        {
+          "id": "hp001-57",
+          "original": "“Swallow, Swallow, little Swallow,” said the Prince, “do as I command you.”",
+          "vernacular": "「燕子,燕子,小燕子,」王子講,「照我嘅命令做。」",
+          "vernacularMandarin": "「燕子,燕子,小燕子,」王子說,「照我的命令做。」"
+        },
+        {
+          "id": "hp001-58",
+          "original": "So he plucked out the Prince’s other eye, and darted down with it. He swooped past the match-girl, and slipped the jewel into the palm of her hand. “What a lovely bit of glass,” cried the little girl; and she ran home, laughing.",
+          "vernacular": "於是佢拔出王子嘅另一隻眼睛,帶住佢俯衝下去。佢掠過賣火柴嘅女孩,把寶石塞進佢嘅手掌心。「多可愛嘅一小塊玻璃,」小女孩喊道;佢笑住跑回家。",
+          "vernacularMandarin": "於是他拔出王子的另一隻眼睛,帶著它俯衝下去。他掠過賣火柴的女孩,把寶石塞進她的手掌心。「多可愛的一小塊玻璃,」小女孩喊道;她笑著跑回家。"
+        },
+        {
+          "id": "hp001-59",
+          "original": "Then the Swallow came back to the Prince. “You are blind now,” he said, “so I will stay with you always.”",
+          "vernacular": "然後燕子回到王子嗰度。「你而家瞎喇,」佢講,「所以我要永遠留喺你身邊。」",
+          "vernacularMandarin": "然後燕子回到王子那裡。「你現在瞎了,」他說,「所以我要永遠留在你身邊。」"
+        },
+        {
+          "id": "hp001-60",
+          "original": "“No, little Swallow,” said the poor Prince, “you must go away to Egypt.”",
+          "vernacular": "「不,小燕子,」可憐嘅王子講,「你必須去埃及。」",
+          "vernacularMandarin": "「不,小燕子,」可憐的王子說,「你必須去埃及。」"
+        },
+        {
+          "id": "hp001-61",
+          "original": "“I will stay with you always,” said the Swallow, and he slept at the Prince’s feet.",
+          "vernacular": "「我要永遠同你喺一起,」燕子講,佢瞓喺王子嘅腳邊。",
+          "vernacularMandarin": "「我要永遠同你在一起,」燕子說,他睡在王子的腳邊。"
+        },
+        {
+          "id": "hp001-62",
+          "original": "All the next day he sat on the Prince’s shoulder, and told him stories of what he had seen in strange lands. He told him of the red ibises, who stand in long rows on the banks of the Nile, and catch gold-fish in their beaks; of the Sphinx, who is as old as the world itself, and lives in the desert, and knows everything; of the merchants, who walk slowly by the side of their camels, and carry amber beads in their hands; of the King of the Mountains of the Moon, who is as black as ebony, and worships a large crystal; of the great green snake that sleeps in a palm-tree, and has twenty priests to feed it with honey-cakes; and of the pygmies who sail over a big lake on large flat leaves, and are always at war with the butterflies.",
+          "vernacular": "第二天一整天,佢坐喺王子嘅肩膀上,畀佢講佢喺陌生地方見到嘅事。佢畀佢講紅色嘅朱鷺,牠哋排成長隊站喺尼羅河岸邊,用嘴捉金魚;講斯芬克斯,同世界一樣古老,住喺沙漠裡,乜嘢都知道;講商人哋,慢慢走喺佢哋嘅駱駝旁邊,手裡攞住琥珀珠子;講月亮山嘅國王,像烏木一樣黑,崇拜一塊大水晶;講瞓喺棕櫚樹上嘅大綠蛇,有二十個祭司用蜜餅餵牠;講侏儒哋,乘住大片扁平嘅樹葉越過大湖,總是同蝴蝶打仗。",
+          "vernacularMandarin": "第二天一整天,他坐在王子的肩膀上,給他講他在陌生地方見到的事。他給他講紅色的朱鷺,牠們排成長隊站在尼羅河岸邊,用嘴捉金魚;講斯芬克斯,與世界一樣古老,住在沙漠裡,什麼都知道;講商人們,慢慢走在他們的駱駝旁邊,手裡拿著琥珀珠子;講月亮山的國王,像烏木一樣黑,崇拜一塊大水晶;講睡在棕櫚樹上的大綠蛇,有二十個祭司用蜜餅餵牠;講侏儒們,乘著大片扁平的樹葉越過大湖,總是同蝴蝶打仗。"
+        },
+        {
+          "id": "hp001-63",
+          "original": "“Dear little Swallow,” said the Prince, “you tell me of marvellous things, but more marvellous than anything is the suffering of men and of women. There is no Mystery so great as Misery. Fly over my city, little Swallow, and tell me what you see there.”",
+          "vernacular": "「親愛嘅小燕子,」王子講,「你畀我講嘅都係奇妙嘅事,但比任何事更奇妙嘅係男人同女人嘅苦難。冇邊個奧祕比苦難更大。飛過我嘅城市,小燕子,告訴我你喺嗰度睇到乜嘢。」",
+          "vernacularMandarin": "「親愛的小燕子,」王子說,「你給我講的都是奇妙的事,但比任何事更奇妙的是男人和女人的苦難。沒有哪個奧祕比苦難更大。飛過我的城市,小燕子,告訴我你在那裡看到什麼。」"
+        },
+        {
+          "id": "hp001-64",
+          "original": "So the Swallow flew over the great city, and saw the rich making merry in their beautiful houses, while the beggars were sitting at the gates. He flew into dark lanes, and saw the white faces of starving children looking out listlessly at the black streets. Under the archway of a bridge two little boys were lying in one another’s arms to try and keep themselves warm. “How hungry we are!” they said. “You must not lie here,” shouted the Watchman, and they wandered out into the rain.",
+          "vernacular": "於是燕子飛過大城市,睇到富人喺佢哋美麗嘅房子裡尋歡作樂,而乞丐坐喺門口。佢飛進黑暗嘅小巷,睇到飢餓嘅細路哋蒼白嘅臉無精打采地望住黑色嘅街道。喺橋拱下,兩個小男孩互相抱住躺住,試圖保暖。「我哋多餓啊!」佢哋講。「你哋不許躺喺呢度,」警衛喊道,佢哋走進咗雨中。",
+          "vernacularMandarin": "於是燕子飛過大城市,看到富人在他們美麗的房子裡尋歡作樂,而乞丐坐在門口。他飛進黑暗的小巷,看到飢餓的孩子們蒼白的臉無精打采地望著黑色的街道。在橋拱下,兩個小男孩互相抱著躺著,試圖保暖。「我們多餓啊!」他們說。「你們不許躺在這裡,」警衛喊道,他們走進了雨中。"
+        },
+        {
+          "id": "hp001-65",
+          "original": "Then he flew back and told the Prince what he had seen.",
+          "vernacular": "然後佢飛回去,告訴王子佢睇到嘅。",
+          "vernacularMandarin": "然後他飛回去,告訴王子他看到的。"
+        },
+        {
+          "id": "hp001-66",
+          "original": "“I am covered with fine gold,” said the Prince, “you must take it off, leaf by leaf, and give it to my poor; the living always think that gold can make them happy.”",
+          "vernacular": "「我身上蓋住純金,」王子講,「你必須一片一片把佢取下嚟,畀我嘅窮人;活住嘅人總以為黃金能使佢哋快樂。」",
+          "vernacularMandarin": "「我身上蓋著純金,」王子說,「你必須一片一片把它取下來,給我的窮人;活著的人總以為黃金能使他們快樂。」"
+        },
+        {
+          "id": "hp001-67",
+          "original": "Leaf after leaf of the fine gold the Swallow picked off, till the Happy Prince looked quite dull and grey. Leaf after leaf of the fine gold he brought to the poor, and the children’s faces grew rosier, and they laughed and played games in the street. “We have bread now!” they cried.",
+          "vernacular": "燕子一片又一片地啄下純金葉子,直到快樂王子睇起嚟暗淡灰色。佢一片又一片地把純金帶畀窮人,細路哋嘅臉變得紅潤,佢哋喺街上笑住玩遊戲。「我哋有麵包喇!」佢哋喊道。",
+          "vernacularMandarin": "燕子一片又一片地啄下純金葉子,直到快樂王子看起來暗淡灰色。他一片又一片地把純金帶給窮人,孩子們的臉變得紅潤,他們在街上笑著玩遊戲。「我們有麵包了!」他們喊道。"
+        },
+        {
+          "id": "hp001-68",
+          "original": "Then the snow came, and after the snow came the frost. The streets looked as if they were made of silver, they were so bright and glistening; long icicles like crystal daggers hung down from the eaves of the houses, everybody went about in furs, and the little boys wore scarlet caps and skated on the ice.",
+          "vernacular": "然後雪嚟喇,雪後霜嚟喇。街道睇起嚟像銀子做嘅,咁明亮閃爍;長長嘅冰柱像水晶匕首從房子嘅屋簷垂下,每個人都穿住毛皮外出,小男孩哋戴住猩紅色帽子喺冰上滑冰。",
+          "vernacularMandarin": "然後雪來了,雪後霜來了。街道看起來像銀子做的,那麼明亮閃爍;長長的冰柱像水晶匕首從房子的屋簷垂下,每個人都穿著毛皮外出,小男孩們戴著猩紅色帽子在冰上滑冰。"
+        },
+        {
+          "id": "hp001-69",
+          "original": "The poor little Swallow grew colder and colder, but he would not leave the Prince, he loved him too well. He picked up crumbs outside the baker’s door when the baker was not looking and tried to keep himself warm by flapping his wings.",
+          "vernacular": "可憐嘅小燕子越嚟越冷,但佢唔肯離開王子,佢太愛佢喇。佢趁麵包師不注意時喺麵包店門外撿麵包屑,試圖拍動翅膀保持溫暖。",
+          "vernacularMandarin": "可憐的小燕子越來越冷,但他不肯離開王子,他太愛他了。他趁麵包師不注意時在麵包店門外撿麵包屑,試圖拍動翅膀保持溫暖。"
+        },
+        {
+          "id": "hp001-70",
+          "original": "But at last he knew that he was going to die. He had just strength to fly up to the Prince’s shoulder once more. “Good-bye, dear Prince!” he murmured, “will you let me kiss your hand?”",
+          "vernacular": "但最後佢知道自己要死喇。佢剛好有力氣再飛到王子嘅肩膀上。「再見,親愛嘅王子!」佢喃喃講,「你讓我吻你嘅手好嗎?」",
+          "vernacularMandarin": "但最後他知道自己要死了。他剛好有力氣再飛到王子的肩膀上。「再見,親愛的王子!」他喃喃說,「你讓我吻你的手好嗎?」"
+        },
+        {
+          "id": "hp001-71",
+          "original": "“I am glad that you are going to Egypt at last, little Swallow,” said the Prince, “you have stayed too long here; but you must kiss me on the lips, for I love you.”",
+          "vernacular": "「我好高興你終於要去埃及喇,小燕子,」王子講,「你喺呢度待得太久喇;但你必須吻我嘅嘴唇,因為我愛你。」",
+          "vernacularMandarin": "「我很高興你終於要去埃及了,小燕子,」王子說,「你在這裡待得太久了;但你必須吻我的嘴唇,因為我愛你。」"
+        },
+        {
+          "id": "hp001-72",
+          "original": "“It is not to Egypt that I am going,” said the Swallow. “I am going to the House of Death. Death is the brother of Sleep, is he not?”",
+          "vernacular": "「我要去嘅唔係埃及,」燕子講。「我要去死亡之家。死亡係瞓眠嘅兄弟,唔係嗎?」",
+          "vernacularMandarin": "「我要去的不是埃及,」燕子說。「我要去死亡之家。死亡是睡眠的兄弟,不是嗎?」"
+        },
+        {
+          "id": "hp001-73",
+          "original": "And he kissed the Happy Prince on the lips, and fell down dead at his feet.",
+          "vernacular": "佢吻咗快樂王子嘅嘴唇,倒喺佢腳下死喇。",
+          "vernacularMandarin": "他吻了快樂王子的嘴唇,倒在他腳下死了。"
+        },
+        {
+          "id": "hp001-74",
+          "original": "At that moment a curious crack sounded inside the statue, as if something had broken. The fact is that the leaden heart had snapped right in two. It certainly was a dreadfully hard frost.",
+          "vernacular": "就喺嗰一刻,雕像裡面響起一聲奇怪嘅斷裂聲,好像乜嘢嘢破喇。事實係鉛做嘅心完全斷成咗兩半。嗰確實係可怕嘅嚴寒。",
+          "vernacularMandarin": "就在那一刻,雕像裡面響起一聲奇怪的斷裂聲,好像什麼東西破了。事實是鉛做的心完全斷成了兩半。那確實是可怕的嚴寒。"
+        },
+        {
+          "id": "hp001-75",
+          "original": "Early the next morning the Mayor was walking in the square below in company with the Town Councillors. As they passed the column he looked up at the statue: “Dear me! how shabby the Happy Prince looks!” he said.",
+          "vernacular": "第二天一早,市長同市議員哋喺下面嘅廣場上散步。佢哋經過柱子時,佢抬頭睇雕像:「天呀!快樂王子睇起嚟幾咁破舊!」佢講。",
+          "vernacularMandarin": "第二天一早,市長同市議員們在下面的廣場上散步。他們經過柱子時,他抬頭看雕像:「天哪!快樂王子看起來多麼破舊!」他說。"
+        },
+        {
+          "id": "hp001-76",
+          "original": "“How shabby indeed!” cried the Town Councillors, who always agreed with the Mayor; and they went up to look at it.",
+          "vernacular": "「確實幾咁破舊!」市議員哋喊道,佢哋總是同意市長;佢哋走上去睇。",
+          "vernacularMandarin": "「確實多麼破舊!」市議員們喊道,他們總是同意市長;他們走上去看。"
+        },
+        {
+          "id": "hp001-77",
+          "original": "“The ruby has fallen out of his sword, his eyes are gone, and he is golden no longer,” said the Mayor in fact, “he is little better than a beggar!”",
+          "vernacular": "「紅寶石從佢嘅劍上掉喇,佢嘅眼睛冇喇,佢唔再係金色嘅,」市長其實係講,「佢比乞丐好不咗多少!」",
+          "vernacularMandarin": "「紅寶石從他的劍上掉了,他的眼睛沒了,他不再是金色的,」市長其實是說,「他比乞丐好不了多少!」"
+        },
+        {
+          "id": "hp001-78",
+          "original": "“Little better than a beggar,” said the Town Councillors.",
+          "vernacular": "「比乞丐好不咗多少,」市議員哋講。",
+          "vernacularMandarin": "「比乞丐好不了多少,」市議員們說。"
+        },
+        {
+          "id": "hp001-79",
+          "original": "“And here is actually a dead bird at his feet!” continued the Mayor. “We must really issue a proclamation that birds are not to be allowed to die here.” And the Town Clerk made a note of the suggestion.",
+          "vernacular": "「呢度佢腳下居然有一隻死鳥!」市長繼續講。「我哋真嘅必須發布一道公告,不許鳥喺呢度死去。」市政書記記下咗呢個建議。",
+          "vernacularMandarin": "「這裡他腳下居然有一隻死鳥!」市長繼續說。「我們真的必須發布一道公告,不許鳥在這裡死去。」市政書記記下了這個建議。"
+        },
+        {
+          "id": "hp001-80",
+          "original": "So they pulled down the statue of the Happy Prince. “As he is no longer beautiful he is no longer useful,” said the Art Professor at the University.",
+          "vernacular": "於是佢哋拆掉咗快樂王子嘅雕像。「既然佢唔再美麗,佢就唔再有用,」大學嘅藝術教授講。",
+          "vernacularMandarin": "於是他們拆掉了快樂王子的雕像。「既然他不再美麗,他就不再有用,」大學的藝術教授說。"
+        },
+        {
+          "id": "hp001-81",
+          "original": "Then they melted the statue in a furnace, and the Mayor held a meeting of the Corporation to decide what was to be done with the metal. “We must have another statue, of course,” he said, “and it shall be a statue of myself.”",
+          "vernacular": "然後佢哋把雕像放進熔爐融化喇,市長召開市政會議,決定點樣處理呢啲金屬。「我哋當然必須有另一座雕像,」佢講,「嗰會係我自己嘅雕像。」",
+          "vernacularMandarin": "然後他們把雕像放進熔爐融化了,市長召開市政會議,決定怎樣處理這些金屬。「我們當然必須有另一座雕像,」他說,「那會是我自己的雕像。」"
+        },
+        {
+          "id": "hp001-82",
+          "original": "“Of myself,” said each of the Town Councillors, and they quarrelled. When I last heard of them they were quarrelling still.",
+          "vernacular": "「我自己嘅,」每個市議員都講,佢哋吵咗起嚟。我最後聽到佢哋嘅消息時,佢哋仲喺吵。",
+          "vernacularMandarin": "「我自己的,」每個市議員都說,他們吵了起來。我最後聽到他們的消息時,他們還在吵。"
+        },
+        {
+          "id": "hp001-83",
+          "original": "“What a strange thing!” said the overseer of the workmen at the foundry. “This broken lead heart will not melt in the furnace. We must throw it away.” So they threw it on a dust-heap where the dead Swallow was also lying.",
+          "vernacular": "「真奇怪!」鑄造廠嘅工頭講。「呢顆破裂嘅鉛心喺熔爐裡唔會融化。我哋必須把佢扔掉。」於是佢哋把佢扔喺垃圾堆上,死燕子都躺喺嗰度。",
+          "vernacularMandarin": "「真奇怪!」鑄造廠的工頭說。「這顆破裂的鉛心在熔爐裡不會融化。我們必須把它扔掉。」於是他們把它扔在垃圾堆上,死燕子也躺在那裡。"
+        },
+        {
+          "id": "hp001-84",
+          "original": "“Bring me the two most precious things in the city,” said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.",
+          "vernacular": "「畀我帶嚟城市裡兩件最珍貴嘅嘢,」上帝對祂嘅一位天使講;天使畀祂帶嚟咗鉛心同死鳥。",
+          "vernacularMandarin": "「給我帶來城市裡兩件最珍貴的東西,」上帝對祂的一位天使說;天使給祂帶來了鉛心和死鳥。"
+        },
+        {
+          "id": "hp001-85",
+          "original": "“You have rightly chosen,” said God, “for in my garden of Paradise this little bird shall sing for evermore, and in my city of gold the Happy Prince shall praise me.”",
+          "vernacular": "「你選得對,」上帝講,「因為喺我天堂嘅花園裡,呢隻小鳥將永遠歌唱,喺我嘅黃金之城裡,快樂王子將讚美我。」",
+          "vernacularMandarin": "「你選得對,」上帝說,「因為在我天堂的花園裡,這隻小鳥將永遠歌唱,在我的黃金之城裡,快樂王子將讚美我。」"
+        }
+      ]
+    },
+    {
+      "id": "hp-002",
+      "title": "The Nightingale and the Rose 夜鶯與玫瑰",
+      "passages": [
+        {
+          "id": "hp002-1",
+          "original": "“SHE said that she would dance with me if I brought her red roses,” cried the young Student; “but in all my garden there is no red rose.”",
+          "vernacular": "「佢講如果我畀佢帶紅玫瑰,佢就同我跳舞,」年輕嘅學生喊道;「但我整個花園裡冇一朵紅玫瑰。」",
+          "vernacularMandarin": "「她說如果我給她帶紅玫瑰,她就同我跳舞,」年輕的學生喊道;「但我整個花園裡沒有一朵紅玫瑰。」"
+        },
+        {
+          "id": "hp002-2",
+          "original": "From her nest in the holm-oak tree the Nightingale heard him, and she looked out through the leaves, and wondered.",
+          "vernacular": "夜鶯喺佢嘅冬青櫟樹巢裡聽到咗佢,佢透過葉子向外睇,感到奇怪。",
+          "vernacularMandarin": "夜鶯在她的冬青櫟樹巢裡聽到了他,她透過葉子向外看,感到奇怪。"
+        },
+        {
+          "id": "hp002-3",
+          "original": "“No red rose in all my garden!” he cried, and his beautiful eyes filled with tears. “Ah, on what little things does happiness depend! I have read all that the wise men have written, and all the secrets of philosophy are mine, yet for want of a red rose is my life made wretched.”",
+          "vernacular": "「我整個花園裡冇紅玫瑰!」佢喊道,美麗嘅眼睛裡充滿淚水。「啊,幸福幾咁依賴小事!智者寫下嘅一切我都讀過,哲學嘅所有秘密都屬於我,然而因為缺一朵紅玫瑰,我嘅生命卻變得悲慘。」",
+          "vernacularMandarin": "「我整個花園裡沒有紅玫瑰!」他喊道,美麗的眼睛裡充滿淚水。「啊,幸福多麼依賴小事!智者寫下的一切我都讀過,哲學的所有秘密都屬於我,然而因為缺一朵紅玫瑰,我的生命卻變得悲慘。」"
+        },
+        {
+          "id": "hp002-4",
+          "original": "“Here at last is a true lover,” said the Nightingale. “Night after night have I sung of him, though I knew him not: night after night have I told his story to the stars, and now I see him. His hair is dark as the hyacinth-blossom, and his lips are red as the rose of his desire; but passion has made his face like pale ivory, and sorrow has set her seal upon his brow.”",
+          "vernacular": "「終於有一個真正嘅情人喇,」夜鶯講。「夜復一夜我為佢歌唱,雖然我不認識佢:夜復一夜我把佢嘅故事講畀星星聽,而家我睇到佢喇。佢嘅頭髮黑如風信子花,嘴唇紅如佢渴望嘅玫瑰;但激情使佢嘅臉像淡淡嘅象牙,悲傷喺佢眉頭蓋上咗印。」",
+          "vernacularMandarin": "「終於有一個真正的情人了,」夜鶯說。「夜復一夜我為他歌唱,雖然我不認識他:夜復一夜我把他的故事講給星星聽,現在我看到他了。他的頭髮黑如風信子花,嘴唇紅如他渴望的玫瑰;但激情使他的臉像淡淡的象牙,悲傷在他眉頭蓋上了印。」"
+        },
+        {
+          "id": "hp002-5",
+          "original": "“The Prince gives a ball to-morrow night,” murmured the young Student, “and my love will be of the company. If I bring her a red rose she will dance with me till dawn. If I bring her a red rose, I shall hold her in my arms, and she will lean her head upon my shoulder, and her hand will be clasped in mine. But there is no red rose in my garden, so I shall sit lonely, and she will pass me by. She will have no heed of me, and my heart will break.”",
+          "vernacular": "「王子明晚舉行舞會,」年輕嘅學生喃喃講,「我嘅愛人會喺賓客之中。如果我畀佢帶一朵紅玫瑰,佢會同我跳舞到天亮。如果我畀佢帶一朵紅玫瑰,我會把佢擁喺懷裡,佢會把頭靠喺我肩上,佢嘅手會握喺我嘅手裡。但我嘅花園裡冇紅玫瑰,所以我會孤獨地坐住,佢會從我身邊經過。佢唔會理會我,我嘅心會碎。」",
+          "vernacularMandarin": "「王子明晚舉行舞會,」年輕的學生喃喃說,「我的愛人會在賓客之中。如果我給她帶一朵紅玫瑰,她會同我跳舞到天亮。如果我給她帶一朵紅玫瑰,我會把她擁在懷裡,她會把頭靠在我肩上,她的手會握在我的手裡。但我的花園裡沒有紅玫瑰,所以我會孤獨地坐著,她會從我身邊經過。她不會理會我,我的心會碎。」"
+        },
+        {
+          "id": "hp002-6",
+          "original": "“Here indeed is the true lover,” said the Nightingale. “What I sing of, he suffers—what is joy to me, to him is pain. Surely Love is a wonderful thing. It is more precious than emeralds, and dearer than fine opals. Pearls and pomegranates cannot buy it, nor is it set forth in the marketplace. It may not be purchased of the merchants, nor can it be weighed out in the balance for gold.”",
+          "vernacular": "「呢確實係一個真正嘅情人,」夜鶯講。「我歌唱嘅,佢喺受苦——對我係歡樂嘅,對佢係痛苦。愛確實係奇妙嘅嘢。佢比翡翠更珍貴,比上等蛋白石更可貴。珍珠同石榴買唔到佢,佢都不喺市場上陳列。商人嗰度買唔到佢,都唔能夠喺天平上用黃金稱量。」",
+          "vernacularMandarin": "「這確實是一個真正的情人,」夜鶯說。「我歌唱的,他在受苦——對我是歡樂的,對他是痛苦。愛確實是奇妙的東西。它比翡翠更珍貴,比上等蛋白石更可貴。珍珠和石榴買不到它,它也不在市場上陳列。商人那裡買不到它,也不能在天平上用黃金稱量。」"
+        },
+        {
+          "id": "hp002-7",
+          "original": "“The musicians will sit in their gallery,” said the young Student, “and play upon their stringed instruments, and my love will dance to the sound of the harp and the violin. She will dance so lightly that her feet will not touch the floor, and the courtiers in their gay dresses will throng round her. But with me she will not dance, for I have no red rose to give her”; and he flung himself down on the grass, and buried his face in his hands, and wept.",
+          "vernacular": "「樂師哋會坐喺佢哋嘅樓座裡,」年輕嘅學生講,「彈奏佢哋嘅弦樂器,我嘅愛人會隨住豎琴同小提琴嘅聲音跳舞。佢會跳得咁輕盈,腳唔會碰到地板,穿住鮮豔衣服嘅朝臣哋會圍住佢。但佢唔會同我跳舞,因為我冇紅玫瑰畀佢」;佢撲倒喺草地上,把臉埋喺手裡,哭咗起嚟。",
+          "vernacularMandarin": "「樂師們會坐在他們的樓座裡,」年輕的學生說,「彈奏他們的弦樂器,我的愛人會隨著豎琴和小提琴的聲音跳舞。她會跳得那麼輕盈,腳不會碰到地板,穿著鮮豔衣服的朝臣們會圍著她。但她不會同我跳舞,因為我沒有紅玫瑰給她」;他撲倒在草地上,把臉埋在手裡,哭了起來。"
+        },
+        {
+          "id": "hp002-8",
+          "original": "“Why is he weeping?” asked a little Green Lizard, as he ran past him with his tail in the air.",
+          "vernacular": "「佢點解哭?」一隻小綠蜥蜴問,佢翹住尾巴從佢旁邊跑過。",
+          "vernacularMandarin": "「他為什麼哭?」一隻小綠蜥蜴問,他翹著尾巴從他旁邊跑過。"
+        },
+        {
+          "id": "hp002-9",
+          "original": "“Why, indeed?” said a Butterfly, who was fluttering about after a sunbeam.",
+          "vernacular": "「點解呢?」一隻追住陽光飛舞嘅蝴蝶講。",
+          "vernacularMandarin": "「為什麼呢?」一隻追著陽光飛舞的蝴蝶說。"
+        },
+        {
+          "id": "hp002-10",
+          "original": "“Why, indeed?” whispered a Daisy to his neighbour, in a soft, low voice.",
+          "vernacular": "「點解呢?」一朵雛菊用柔和低沉嘅聲音對鄰居低語。",
+          "vernacularMandarin": "「為什麼呢?」一朵雛菊用柔和低沉的聲音對鄰居低語。"
+        },
+        {
+          "id": "hp002-11",
+          "original": "“He is weeping for a red rose,” said the Nightingale.",
+          "vernacular": "「佢喺為一朵紅玫瑰哭,」夜鶯講。",
+          "vernacularMandarin": "「他在為一朵紅玫瑰哭,」夜鶯說。"
+        },
+        {
+          "id": "hp002-12",
+          "original": "“For a red rose?” they cried; “how very ridiculous!” and the little Lizard, who was something of a cynic, laughed outright.",
+          "vernacular": "「為一朵紅玫瑰?」佢哋喊道;「幾咁荒謬!」嗰隻有點憤世嫉俗嘅小蜥蜴放聲大笑。",
+          "vernacularMandarin": "「為一朵紅玫瑰?」他們喊道;「多麼荒謬!」那隻有點憤世嫉俗的小蜥蜴放聲大笑。"
+        },
+        {
+          "id": "hp002-13",
+          "original": "But the Nightingale understood the secret of the Student’s sorrow, and she sat silent in the oak-tree, and thought about the mystery of Love.",
+          "vernacular": "但夜鶯理解學生悲傷嘅祕密,佢默默地坐喺橡樹上,思考住愛嘅奧祕。",
+          "vernacularMandarin": "但夜鶯理解學生悲傷的祕密,她默默地坐在橡樹上,思考著愛的奧祕。"
+        },
+        {
+          "id": "hp002-14",
+          "original": "Suddenly she spread her brown wings for flight, and soared into the air. She passed through the grove like a shadow, and like a shadow she sailed across the garden.",
+          "vernacular": "突然佢展開棕色嘅翅膀飛起,升入空中。佢像影子一樣穿過樹林,像影子一樣掠過花園。",
+          "vernacularMandarin": "突然她展開棕色的翅膀飛起,升入空中。她像影子一樣穿過樹林,像影子一樣掠過花園。"
+        },
+        {
+          "id": "hp002-15",
+          "original": "In the centre of the grass-plot was standing a beautiful Rose-tree, and when she saw it she flew over to it, and lit upon a spray.",
+          "vernacular": "草坪中央站住一棵美麗嘅玫瑰樹,佢睇到佢,飛過去,落喺一根嫩枝上。",
+          "vernacularMandarin": "草坪中央站著一棵美麗的玫瑰樹,她看到它,飛過去,落在一根嫩枝上。"
+        },
+        {
+          "id": "hp002-16",
+          "original": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
+          "vernacular": "「畀我一朵紅玫瑰,」佢喊道,「我就為你唱我最甜美嘅歌。」",
+          "vernacularMandarin": "「給我一朵紅玫瑰,」她喊道,「我就為你唱我最甜美的歌。」"
+        },
+        {
+          "id": "hp002-17",
+          "original": "But the Tree shook its head.",
+          "vernacular": "但樹搖咗搖頭。",
+          "vernacularMandarin": "但樹搖了搖頭。"
+        },
+        {
+          "id": "hp002-18",
+          "original": "“My roses are white,” it answered; “as white as the foam of the sea, and whiter than the snow upon the mountain. But go to my brother who grows round the old sun-dial, and perhaps he will give you what you want.”",
+          "vernacular": "「我嘅玫瑰係白嘅,」佢回答;「像海浪嘅泡沫一樣白,比山上嘅雪仲白。但去找我哥哥,佢長喺老日晷周圍,或者佢會畀你想要嘅。」",
+          "vernacularMandarin": "「我的玫瑰是白的,」它回答;「像海浪的泡沫一樣白,比山上的雪還白。但去找我哥哥,他長在老日晷周圍,也許他會給你想要的。」"
+        },
+        {
+          "id": "hp002-19",
+          "original": "So the Nightingale flew over to the Rose-tree that was growing round the old sun-dial.",
+          "vernacular": "於是夜鶯飛向長喺老日晷周圍嘅玫瑰樹。",
+          "vernacularMandarin": "於是夜鶯飛向長在老日晷周圍的玫瑰樹。"
+        },
+        {
+          "id": "hp002-20",
+          "original": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
+          "vernacular": "「畀我一朵紅玫瑰,」佢喊道,「我就為你唱我最甜美嘅歌。」",
+          "vernacularMandarin": "「給我一朵紅玫瑰,」她喊道,「我就為你唱我最甜美的歌。」"
+        },
+        {
+          "id": "hp002-21",
+          "original": "But the Tree shook its head.",
+          "vernacular": "但樹搖咗搖頭。",
+          "vernacularMandarin": "但樹搖了搖頭。"
+        },
+        {
+          "id": "hp002-22",
+          "original": "“My roses are yellow,” it answered; “as yellow as the hair of the mermaiden who sits upon an amber throne, and yellower than the daffodil that blooms in the meadow before the mower comes with his scythe. But go to my brother who grows beneath the Student’s window, and perhaps he will give you what you want.”",
+          "vernacular": "「我嘅玫瑰係黃嘅,」佢回答;「像坐喺琥珀寶座上嘅美人魚嘅頭髮一樣黃,比割草人攞住鐮刀嚟之前草地上開嘅水仙仲黃。但去找我哥哥,佢長喺學生嘅窗下,或者佢會畀你想要嘅。」",
+          "vernacularMandarin": "「我的玫瑰是黃的,」它回答;「像坐在琥珀寶座上的美人魚的頭髮一樣黃,比割草人拿著鐮刀來之前草地上開的水仙還黃。但去找我哥哥,他長在學生的窗下,也許他會給你想要的。」"
+        },
+        {
+          "id": "hp002-23",
+          "original": "So the Nightingale flew over to the Rose-tree that was growing beneath the Student’s window.",
+          "vernacular": "於是夜鶯飛向長喺學生窗下嘅玫瑰樹。",
+          "vernacularMandarin": "於是夜鶯飛向長在學生窗下的玫瑰樹。"
+        },
+        {
+          "id": "hp002-24",
+          "original": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
+          "vernacular": "「畀我一朵紅玫瑰,」佢喊道,「我就為你唱我最甜美嘅歌。」",
+          "vernacularMandarin": "「給我一朵紅玫瑰,」她喊道,「我就為你唱我最甜美的歌。」"
+        },
+        {
+          "id": "hp002-25",
+          "original": "But the Tree shook its head.",
+          "vernacular": "但樹搖咗搖頭。",
+          "vernacularMandarin": "但樹搖了搖頭。"
+        },
+        {
+          "id": "hp002-26",
+          "original": "“My roses are red,” it answered, “as red as the feet of the dove, and redder than the great fans of coral that wave and wave in the ocean-cavern. But the winter has chilled my veins, and the frost has nipped my buds, and the storm has broken my branches, and I shall have no roses at all this year.”",
+          "vernacular": "「我嘅玫瑰係紅嘅,」佢回答,「像鴿子嘅腳一樣紅,比喺海洋洞穴中搖擺不停嘅大珊瑚扇仲紅。但冬天凍壞咗我嘅血管,霜凍傷咗我嘅花蕾,暴風雨折斷咗我嘅枝條,今年我根本唔會有玫瑰。」",
+          "vernacularMandarin": "「我的玫瑰是紅的,」它回答,「像鴿子的腳一樣紅,比在海洋洞穴中搖擺不停的大珊瑚扇還紅。但冬天凍壞了我的血管,霜凍傷了我的花蕾,暴風雨折斷了我的枝條,今年我根本不會有玫瑰。」"
+        },
+        {
+          "id": "hp002-27",
+          "original": "“One red rose is all I want,” cried the Nightingale, “only one red rose! Is there no way by which I can get it?”",
+          "vernacular": "「我只要一朵紅玫瑰,」夜鶯喊道,「只要一朵紅玫瑰!有冇乜嘢辦法可以得到佢?」",
+          "vernacularMandarin": "「我只要一朵紅玫瑰,」夜鶯喊道,「只要一朵紅玫瑰!有沒有什麼辦法可以得到它?」"
+        },
+        {
+          "id": "hp002-28",
+          "original": "“There is a way,” answered the Tree; “but it is so terrible that I dare not tell it to you.”",
+          "vernacular": "「有辦法,」樹回答;「但佢太可怕喇,我唔敢告訴你。」",
+          "vernacularMandarin": "「有辦法,」樹回答;「但它太可怕了,我不敢告訴你。」"
+        },
+        {
+          "id": "hp002-29",
+          "original": "“Tell it to me,” said the Nightingale, “I am not afraid.”",
+          "vernacular": "「告訴我,」夜鶯講,「我不怕。」",
+          "vernacularMandarin": "「告訴我,」夜鶯說,「我不怕。」"
+        },
+        {
+          "id": "hp002-30",
+          "original": "“If you want a red rose,” said the Tree, “you must build it out of music by moonlight, and stain it with your own heart’s-blood. You must sing to me with your breast against a thorn. All night long you must sing to me, and the thorn must pierce your heart, and your life-blood must flow into my veins, and become mine.”",
+          "vernacular": "「如果你想要一朵紅玫瑰,」樹講,「你必須喺月光下用音樂把佢建造出嚟,並用你自己嘅心頭血染紅佢。你必須讓胸口抵住一根刺為我歌唱。整夜你都必須為我歌唱,刺必須刺穿你嘅心,你嘅生命之血必須流進我嘅血管,成為我嘅。」",
+          "vernacularMandarin": "「如果你想要一朵紅玫瑰,」樹說,「你必須在月光下用音樂把它建造出來,並用你自己的心頭血染紅它。你必須讓胸口抵著一根刺為我歌唱。整夜你都必須為我歌唱,刺必須刺穿你的心,你的生命之血必須流進我的血管,成為我的。」"
+        },
+        {
+          "id": "hp002-31",
+          "original": "“Death is a great price to pay for a red rose,” cried the Nightingale, “and Life is very dear to all. It is pleasant to sit in the green wood, and to watch the Sun in his chariot of gold, and the Moon in her chariot of pearl. Sweet is the scent of the hawthorn, and sweet are the bluebells that hide in the valley, and the heather that blows on the hill. Yet Love is better than Life, and what is the heart of a bird compared to the heart of a man?”",
+          "vernacular": "「死亡係為一朵紅玫瑰付出嘅巨大代價,」夜鶯喊道,「而生命對所有人都好寶貴。坐喺綠色嘅樹林裡,睇太陽坐喺佢嘅金色馬車裡,月亮坐喺佢嘅珍珠馬車裡,係愉快嘅。山楂嘅香氣係甜美嘅,藏喺山谷裡嘅藍鈴花同山上開嘅石楠花係甜美嘅。然而愛比生命更好,鳥兒嘅心同人嘅心相比算得咗乜嘢?」",
+          "vernacularMandarin": "「死亡是為一朵紅玫瑰付出的巨大代價,」夜鶯喊道,「而生命對所有人都很寶貴。坐在綠色的樹林裡,看太陽坐在他的金色馬車裡,月亮坐在她的珍珠馬車裡,是愉快的。山楂的香氣是甜美的,藏在山谷裡的藍鈴花和山上開的石楠花是甜美的。然而愛比生命更好,鳥兒的心與人的心相比算得了什麼?」"
+        },
+        {
+          "id": "hp002-32",
+          "original": "So she spread her brown wings for flight, and soared into the air. She swept over the garden like a shadow, and like a shadow she sailed through the grove.",
+          "vernacular": "於是佢展開棕色嘅翅膀飛起,升入空中。佢像影子一樣掠過花園,像影子一樣穿過樹林。",
+          "vernacularMandarin": "於是她展開棕色的翅膀飛起,升入空中。她像影子一樣掠過花園,像影子一樣穿過樹林。"
+        },
+        {
+          "id": "hp002-33",
+          "original": "The young Student was still lying on the grass, where she had left him, and the tears were not yet dry in his beautiful eyes.",
+          "vernacular": "年輕嘅學生仲躺喺佢離開佢嘅草地上,美麗嘅眼睛裡淚水仲冇乾。",
+          "vernacularMandarin": "年輕的學生還躺在她離開他的草地上,美麗的眼睛裡淚水還沒乾。"
+        },
+        {
+          "id": "hp002-34",
+          "original": "“Be happy,” cried the Nightingale, “be happy; you shall have your red rose. I will build it out of music by moonlight, and stain it with my own heart’s-blood. All that I ask of you in return is that you will be a true lover, for Love is wiser than Philosophy, though she is wise, and mightier than Power, though he is mighty. Flame-coloured are his wings, and coloured like flame is his body. His lips are sweet as honey, and his breath is like frankincense.”",
+          "vernacular": "「高興起嚟,」夜鶯喊道,「高興起嚟;你會得到你嘅紅玫瑰。我會喺月光下用音樂建造佢,並用我自己嘅心頭血染紅佢。作為回報,我只要求你做一個真正嘅情人,因為愛比哲學更聰明,雖然哲學都聰明,比權力更強大,雖然權力都強大。佢嘅翅膀係火焰嘅顏色,佢嘅身體像火焰嘅顏色。佢嘅嘴唇像蜜一樣甜,佢嘅呼吸像乳香。」",
+          "vernacularMandarin": "「高興起來,」夜鶯喊道,「高興起來;你會得到你的紅玫瑰。我會在月光下用音樂建造它,並用我自己的心頭血染紅它。作為回報,我只要求你做一個真正的情人,因為愛比哲學更聰明,雖然哲學也聰明,比權力更強大,雖然權力也強大。他的翅膀是火焰的顏色,他的身體像火焰的顏色。他的嘴唇像蜜一樣甜,他的呼吸像乳香。」"
+        },
+        {
+          "id": "hp002-35",
+          "original": "The Student looked up from the grass, and listened, but he could not understand what the Nightingale was saying to him, for he only knew the things that are written down in books.",
+          "vernacular": "學生從草地上抬頭聽住,但佢聽不懂夜鶯對佢講嘅話,因為佢只知道書上寫嘅嘢。",
+          "vernacularMandarin": "學生從草地上抬頭聽著,但他聽不懂夜鶯對他說的話,因為他只知道書上寫的東西。"
+        },
+        {
+          "id": "hp002-36",
+          "original": "But the Oak-tree understood, and felt sad, for he was very fond of the little Nightingale who had built her nest in his branches.",
+          "vernacular": "但橡樹聽懂喇,感到悲傷,因為佢好鍾意喺佢枝條上築巢嘅小夜鶯。",
+          "vernacularMandarin": "但橡樹聽懂了,感到悲傷,因為他非常喜歡在他枝條上築巢的小夜鶯。"
+        },
+        {
+          "id": "hp002-37",
+          "original": "“Sing me one last song,” he whispered; “I shall feel very lonely when you are gone.”",
+          "vernacular": "「再為我唱最後一首歌,」佢低聲講;「你走咗我會感到好孤單。」",
+          "vernacularMandarin": "「再為我唱最後一首歌,」他低聲說;「你走了我會感到很孤單。」"
+        },
+        {
+          "id": "hp002-38",
+          "original": "So the Nightingale sang to the Oak-tree, and her voice was like water bubbling from a silver jar.",
+          "vernacular": "於是夜鶯為橡樹歌唱,佢嘅聲音像水從銀罐裡冒泡而出。",
+          "vernacularMandarin": "於是夜鶯為橡樹歌唱,她的聲音像水從銀罐裡冒泡而出。"
+        },
+        {
+          "id": "hp002-39",
+          "original": "When she had finished her song the Student got up, and pulled a note-book and a lead-pencil out of his pocket.",
+          "vernacular": "佢唱完歌,學生站起嚟,從口袋裡掏出筆記本同鉛筆。",
+          "vernacularMandarin": "她唱完歌,學生站起來,從口袋裡掏出筆記本和鉛筆。"
+        },
+        {
+          "id": "hp002-40",
+          "original": "“She has form,” he said to himself, as he walked away through the grove—“that cannot be denied to her; but has she got feeling? I am afraid not. In fact, she is like most artists; she is all style, without any sincerity. She would not sacrifice herself for others. She thinks merely of music, and everybody knows that the arts are selfish. Still, it must be admitted that she has some beautiful notes in her voice. What a pity it is that they do not mean anything, or do any practical good.” And he went into his room, and lay down on his little pallet-bed, and began to think of his love; and, after a time, he fell asleep.",
+          "vernacular": "「佢有形式,」佢一邊穿過樹林走開,一邊對自己講——「呢個係唔能夠否認嘅;但佢有感情嗎?我恐怕冇。事實上,佢像大多數藝術家;全係風格,冇任何誠意。佢唔會為別人犧牲自己。佢只想住音樂,而人人都知道藝術係自私嘅。不過,必須承認佢嘅聲音裡有啲美麗嘅音符。可惜佢哋冇任何意義,都冇任何實際嘅好處。」佢走進自己嘅房間,躺喺佢嘅小草墊床上,開始想佢嘅愛人;過咗一會兒,佢瞓住喇。",
+          "vernacularMandarin": "「她有形式,」他一邊穿過樹林走開,一邊對自己說——「這是不能否認的;但她有感情嗎?我恐怕沒有。事實上,她像大多數藝術家;全是風格,沒有任何誠意。她不會為別人犧牲自己。她只想著音樂,而人人都知道藝術是自私的。不過,必須承認她的聲音裡有一些美麗的音符。可惜它們沒有任何意義,也沒有任何實際的好處。」他走進自己的房間,躺在他的小草墊床上,開始想他的愛人;過了一會兒,他睡著了。"
+        },
+        {
+          "id": "hp002-41",
+          "original": "And when the Moon shone in the heavens the Nightingale flew to the Rose-tree, and set her breast against the thorn. All night long she sang with her breast against the thorn, and the cold crystal Moon leaned down and listened. All night long she sang, and the thorn went deeper and deeper into her breast, and her life-blood ebbed away from her.",
+          "vernacular": "月亮喺天空中照耀時,夜鶯飛到玫瑰樹上,把胸口抵住刺。整夜佢胸口抵住刺歌唱,冰冷嘅水晶月亮俯身傾聽。整夜佢歌唱,刺越嚟越深地刺進佢嘅胸口,佢嘅生命之血從佢身上流走。",
+          "vernacularMandarin": "月亮在天空中照耀時,夜鶯飛到玫瑰樹上,把胸口抵著刺。整夜她胸口抵著刺歌唱,冰冷的水晶月亮俯身傾聽。整夜她歌唱,刺越來越深地刺進她的胸口,她的生命之血從她身上流走。"
+        },
+        {
+          "id": "hp002-42",
+          "original": "She sang first of the birth of love in the heart of a boy and a girl. And on the top-most spray of the Rose-tree there blossomed a marvellous rose, petal following petal, as song followed song. Pale was it, at first, as the mist that hangs over the river—pale as the feet of the morning, and silver as the wings of the dawn. As the shadow of a rose in a mirror of silver, as the shadow of a rose in a water-pool, so was the rose that blossomed on the topmost spray of the Tree.",
+          "vernacular": "佢先唱嘅係愛喺一個男孩同一個女孩心中嘅誕生。玫瑰樹最頂端嘅嫩枝上,綻放出一朵奇妙嘅玫瑰,花瓣接住花瓣,如同歌曲接住歌曲。起初佢係蒼白嘅,像懸喺河上嘅霧——像晨曦嘅腳一樣蒼白,像黎明嘅翅膀一樣銀白。像銀鏡裡嘅玫瑰影子,像水池裡嘅玫瑰影子,就係綻放喺樹頂嫩枝上嘅嗰朵玫瑰。",
+          "vernacularMandarin": "她先唱的是愛在一個男孩和一個女孩心中的誕生。玫瑰樹最頂端的嫩枝上,綻放出一朵奇妙的玫瑰,花瓣接著花瓣,如同歌曲接著歌曲。起初它是蒼白的,像懸在河上的霧——像晨曦的腳一樣蒼白,像黎明的翅膀一樣銀白。像銀鏡裡的玫瑰影子,像水池裡的玫瑰影子,就是綻放在樹頂嫩枝上的那朵玫瑰。"
+        },
+        {
+          "id": "hp002-43",
+          "original": "But the Tree cried to the Nightingale to press closer against the thorn. “Press closer, little Nightingale,” cried the Tree, “or the Day will come before the rose is finished.”",
+          "vernacular": "但樹對夜鶯喊,要佢更緊地壓向刺。「再壓緊些,小夜鶯,」樹喊道,「否則玫瑰仲冇完成白天就嚟喇。」",
+          "vernacularMandarin": "但樹對夜鶯喊,要她更緊地壓向刺。「再壓緊些,小夜鶯,」樹喊道,「否則玫瑰還沒完成白天就來了。」"
+        },
+        {
+          "id": "hp002-44",
+          "original": "So the Nightingale pressed closer against the thorn, and louder and louder grew her song, for she sang of the birth of passion in the soul of a man and a maid.",
+          "vernacular": "於是夜鶯更緊地壓向刺,佢嘅歌聲越嚟越響,因為佢唱嘅係激情喺男人同少女心中嘅誕生。",
+          "vernacularMandarin": "於是夜鶯更緊地壓向刺,她的歌聲越來越響,因為她唱的是激情在男人和少女心中的誕生。"
+        },
+        {
+          "id": "hp002-45",
+          "original": "And a delicate flush of pink came into the leaves of the rose, like the flush in the face of the bridegroom when he kisses the lips of the bride. But the thorn had not yet reached her heart, so the rose’s heart remained white, for only a Nightingale’s heart’s-blood can crimson the heart of a rose.",
+          "vernacular": "玫瑰嘅葉子上出現咗一抹淡淡嘅粉紅,像新郎吻新娘嘅嘴唇時臉上嘅紅暈。但刺仲冇到達佢嘅心,所以玫瑰嘅心仍然係白嘅,因為只有夜鶯嘅心頭血才能染紅玫瑰嘅心。",
+          "vernacularMandarin": "玫瑰的葉子上出現了一抹淡淡的粉紅,像新郎吻新娘的嘴唇時臉上的紅暈。但刺還沒有到達她的心,所以玫瑰的心仍然是白的,因為只有夜鶯的心頭血才能染紅玫瑰的心。"
+        },
+        {
+          "id": "hp002-46",
+          "original": "And the Tree cried to the Nightingale to press closer against the thorn. “Press closer, little Nightingale,” cried the Tree, “or the Day will come before the rose is finished.”",
+          "vernacular": "樹又對夜鶯喊,要佢更緊地壓向刺。「再壓緊些,小夜鶯,」樹喊道,「否則玫瑰仲冇完成白天就嚟喇。」",
+          "vernacularMandarin": "樹又對夜鶯喊,要她更緊地壓向刺。「再壓緊些,小夜鶯,」樹喊道,「否則玫瑰還沒完成白天就來了。」"
+        },
+        {
+          "id": "hp002-47",
+          "original": "So the Nightingale pressed closer against the thorn, and the thorn touched her heart, and a fierce pang of pain shot through her. Bitter, bitter was the pain, and wilder and wilder grew her song, for she sang of the Love that is perfected by Death, of the Love that dies not in the tomb.",
+          "vernacular": "於是夜鶯更緊地壓向刺,刺碰到咗佢嘅心,一陣劇烈嘅痛楚穿過佢全身。痛得苦,痛得苦,佢嘅歌越嚟越狂野,因為佢唱嘅係因死亡而完美嘅愛,係喺墳墓中都不死嘅愛。",
+          "vernacularMandarin": "於是夜鶯更緊地壓向刺,刺碰到了她的心,一陣劇烈的痛楚穿過她全身。痛得苦,痛得苦,她的歌越來越狂野,因為她唱的是因死亡而完美的愛,是在墳墓中也不死的愛。"
+        },
+        {
+          "id": "hp002-48",
+          "original": "And the marvellous rose became crimson, like the rose of the eastern sky. Crimson was the girdle of petals, and crimson as a ruby was the heart.",
+          "vernacular": "奇妙嘅玫瑰變成咗深紅色,像東方天空嘅玫瑰。花瓣嘅腰帶係深紅嘅,花心像紅寶石一樣深紅。",
+          "vernacularMandarin": "奇妙的玫瑰變成了深紅色,像東方天空的玫瑰。花瓣的腰帶是深紅的,花心像紅寶石一樣深紅。"
+        },
+        {
+          "id": "hp002-49",
+          "original": "But the Nightingale’s voice grew fainter, and her little wings began to beat, and a film came over her eyes. Fainter and fainter grew her song, and she felt something choking her in her throat.",
+          "vernacular": "但夜鶯嘅聲音越嚟越弱,佢嘅小翅膀開始拍打,一層薄膜蓋上咗佢嘅眼睛。佢嘅歌越嚟越微弱,佢覺得有乜嘢嘢喺佢喉嚨裡哽住咗佢。",
+          "vernacularMandarin": "但夜鶯的聲音越來越弱,她的小翅膀開始拍打,一層薄膜蓋上了她的眼睛。她的歌越來越微弱,她覺得有什麼東西在她喉嚨裡哽住了她。"
+        },
+        {
+          "id": "hp002-50",
+          "original": "Then she gave one last burst of music. The white Moon heard it, and she forgot the dawn, and lingered on in the sky. The red rose heard it, and it trembled all over with ecstasy, and opened its petals to the cold morning air. Echo bore it to her purple cavern in the hills, and woke the sleeping shepherds from their dreams. It floated through the reeds of the river, and they carried its message to the sea.",
+          "vernacular": "然後佢發出咗最後一陣音樂。白色嘅月亮聽到喇,佢忘咗黎明,喺天空中逗留不去。紅玫瑰聽到喇,佢全身狂喜地顫抖,向寒冷嘅晨風張開花瓣。回聲把佢帶到山裡佢嘅紫色洞穴,把沉瞓嘅牧羊人從夢中喚醒。佢飄過河裡嘅蘆葦,蘆葦把佢嘅消息帶到咗大海。",
+          "vernacularMandarin": "然後她發出了最後一陣音樂。白色的月亮聽到了,她忘了黎明,在天空中逗留不去。紅玫瑰聽到了,它全身狂喜地顫抖,向寒冷的晨風張開花瓣。回聲把它帶到山裡她的紫色洞穴,把沉睡的牧羊人從夢中喚醒。它飄過河裡的蘆葦,蘆葦把它的消息帶到了大海。"
+        },
+        {
+          "id": "hp002-51",
+          "original": "“Look, look!” cried the Tree, “the rose is finished now”; but the Nightingale made no answer, for she was lying dead in the long grass, with the thorn in her heart.",
+          "vernacular": "「睇,睇!」樹喊道,「玫瑰完成喇」;但夜鶯冇回答,因為佢躺喺長草裡死喇,刺仲喺佢嘅心裡。",
+          "vernacularMandarin": "「看,看!」樹喊道,「玫瑰完成了」;但夜鶯沒有回答,因為她躺在長草裡死了,刺還在她的心裡。"
+        },
+        {
+          "id": "hp002-52",
+          "original": "And at noon the Student opened his window and looked out.",
+          "vernacular": "中午學生打開窗向外睇。",
+          "vernacularMandarin": "中午學生打開窗向外看。"
+        },
+        {
+          "id": "hp002-53",
+          "original": "“Why, what a wonderful piece of luck!” he cried; “here is a red rose! I have never seen any rose like it in all my life. It is so beautiful that I am sure it has a long Latin name”; and he leaned down and plucked it.",
+          "vernacular": "「哎呀,幾咁奇妙嘅運氣!」佢喊道;「呢度有一朵紅玫瑰!我一生中從冇見過咁樣嘅玫瑰。佢咁美,我肯定佢有一個好長嘅拉丁文名字」;佢彎下身摘咗佢。",
+          "vernacularMandarin": "「哎呀,多麼奇妙的運氣!」他喊道;「這裡有一朵紅玫瑰!我一生中從沒見過這樣的玫瑰。它那麼美,我肯定它有一個很長的拉丁文名字」;他彎下身摘了它。"
+        },
+        {
+          "id": "hp002-54",
+          "original": "Then he put on his hat, and ran up to the Professor’s house with the rose in his hand.",
+          "vernacular": "然後佢戴上帽子,手裡攞住玫瑰跑到教授家。",
+          "vernacularMandarin": "然後他戴上帽子,手裡拿著玫瑰跑到教授家。"
+        },
+        {
+          "id": "hp002-55",
+          "original": "The daughter of the Professor was sitting in the doorway winding blue silk on a reel, and her little dog was lying at her feet.",
+          "vernacular": "教授嘅女兒坐喺門口,把藍色絲線繞喺線軸上,佢嘅小狗躺喺佢腳邊。",
+          "vernacularMandarin": "教授的女兒坐在門口,把藍色絲線繞在線軸上,她的小狗躺在她腳邊。"
+        },
+        {
+          "id": "hp002-56",
+          "original": "“You said that you would dance with me if I brought you a red rose,” cried the Student. “Here is the reddest rose in all the world. You will wear it to-night next your heart, and as we dance together it will tell you how I love you.”",
+          "vernacular": "「你講過如果我畀你帶紅玫瑰,你就同我跳舞,」學生喊道。「呢度係世界上最紅嘅玫瑰。你今晚把佢戴喺心口,我哋一起跳舞時,佢會告訴你我幾咁愛你。」",
+          "vernacularMandarin": "「你說過如果我給你帶紅玫瑰,你就同我跳舞,」學生喊道。「這裡是世界上最紅的玫瑰。你今晚把它戴在心口,我們一起跳舞時,它會告訴你我多麼愛你。」"
+        },
+        {
+          "id": "hp002-57",
+          "original": "But the girl frowned.",
+          "vernacular": "但女孩皺起眉頭。",
+          "vernacularMandarin": "但女孩皺起眉頭。"
+        },
+        {
+          "id": "hp002-58",
+          "original": "“I am afraid it will not go with my dress,” she answered; “and, besides, the Chamberlain’s nephew has sent me some real jewels, and everybody knows that jewels cost far more than flowers.”",
+          "vernacular": "「我恐怕佢同我嘅衣服不配,」佢回答;「而且,侍從長嘅侄子送咗我啲真正嘅珠寶,人人都知道珠寶比花貴得多。」",
+          "vernacularMandarin": "「我恐怕它和我的衣服不配,」她回答;「而且,侍從長的侄子送了我一些真正的珠寶,人人都知道珠寶比花貴得多。」"
+        },
+        {
+          "id": "hp002-59",
+          "original": "“Well, upon my word, you are very ungrateful,” said the Student angrily; and he threw the rose into the street, where it fell into the gutter, and a cart-wheel went over it.",
+          "vernacular": "「哼,講真嘅,你太忘恩負義喇,」學生生氣地講;佢把玫瑰扔到街上,佢落喺水溝裡,一個車輪從佢上面碾過。",
+          "vernacularMandarin": "「哼,說真的,你太忘恩負義了,」學生生氣地說;他把玫瑰扔到街上,它落在水溝裡,一個車輪從它上面碾過。"
+        },
+        {
+          "id": "hp002-60",
+          "original": "“Ungrateful!” said the girl. “I tell you what, you are very rude; and, after all, who are you? Only a Student. Why, I don’t believe you have even got silver buckles to your shoes as the Chamberlain’s nephew has”; and she got up from her chair and went into the house.",
+          "vernacular": "「忘恩負義!」女孩講。「我告訴你,你好無禮;而且,你到底係邊個?只係一個學生。哎呀,我不相信你鞋子上連侍從長嘅侄子嗰樣嘅銀扣都冇」;佢從椅子上站起嚟,走進咗屋。",
+          "vernacularMandarin": "「忘恩負義!」女孩說。「我告訴你,你很無禮;而且,你到底是誰?只是一個學生。哎呀,我不相信你鞋子上連侍從長的侄子那樣的銀扣都沒有」;她從椅子上站起來,走進了屋。"
+        },
+        {
+          "id": "hp002-61",
+          "original": "“What a silly thing Love is,” said the Student as he walked away. “It is not half as useful as Logic, for it does not prove anything, and it is always telling one of things that are not going to happen, and making one believe things that are not true. In fact, it is quite unpractical, and, as in this age to be practical is everything, I shall go back to Philosophy and study Metaphysics.”",
+          "vernacular": "「愛情係幾咁愚蠢嘅嘢,」學生走開時講。「佢連邏輯一半有用都冇,因為佢乜嘢都證明不喇,總是告訴人啲唔會發生嘅事,讓人相信啲不真實嘅事。事實上,佢好不切實際,而喺呢個時代,實際就係一切,我要回去學哲學,研究形而上學。」",
+          "vernacularMandarin": "「愛情是多麼愚蠢的東西,」學生走開時說。「它連邏輯一半有用都沒有,因為它什麼也證明不了,總是告訴人一些不會發生的事,讓人相信一些不真實的事。事實上,它非常不切實際,而在這個時代,實際就是一切,我要回去學哲學,研究形而上學。」"
+        },
+        {
+          "id": "hp002-62",
+          "original": "So he returned to his room and pulled out a great dusty book, and began to read.",
+          "vernacular": "於是佢回到自己嘅房間,取出一本積滿灰塵嘅大書,開始讀。",
+          "vernacularMandarin": "於是他回到自己的房間,取出一本積滿灰塵的大書,開始讀。"
+        }
+      ]
+    },
+    {
+      "id": "hp-003",
+      "title": "The Selfish Giant 自私的巨人",
+      "passages": [
+        {
+          "id": "hp003-1",
+          "original": "EVERY afternoon, as they were coming from school, the children used to go and play in the Giant’s garden.",
+          "vernacular": "每天下午,細路哋放學回嚟時,都會去巨人嘅花園裡玩。",
+          "vernacularMandarin": "每天下午,孩子們放學回來時,都會去巨人的花園裡玩。"
+        },
+        {
+          "id": "hp003-2",
+          "original": "It was a large lovely garden, with soft green grass. Here and there over the grass stood beautiful flowers like stars, and there were twelve peach-trees that in the spring-time broke out into delicate blossoms of pink and pearl, and in the autumn bore rich fruit. The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them. “How happy we are here!” they cried to each other.",
+          "vernacular": "嗰個係一座寬大可愛嘅花園,有柔軟嘅綠草。草地上呢度嗰度長住像星星一樣嘅美麗花朵,仲有十二棵桃樹,春天開出粉紅色同珍珠色嘅嬌嫩花朵,秋天結出豐盛嘅果實。鳥兒坐喺樹上唱得咁甜美,細路哋常常停下遊戲嚟聽牠哋唱歌。「我哋喺呢度幾咁快樂!」佢哋互相喊道。",
+          "vernacularMandarin": "那是一座寬大可愛的花園,有柔軟的綠草。草地上這裡那裡長著像星星一樣的美麗花朵,還有十二棵桃樹,春天開出粉紅色和珍珠色的嬌嫩花朵,秋天結出豐盛的果實。鳥兒坐在樹上唱得那麼甜美,孩子們常常停下遊戲來聽牠們唱歌。「我們在這裡多麼快樂!」他們互相喊道。"
+        },
+        {
+          "id": "hp003-3",
+          "original": "One day the Giant came back. He had been to visit his friend the Cornish ogre, and had stayed with him for seven years. After the seven years were over he had said all that he had to say, for his conversation was limited, and he determined to return to his own castle. When he arrived he saw the children playing in the garden.",
+          "vernacular": "一天,巨人回嚟喇。佢去拜訪佢嘅朋友康沃爾食人魔,同佢住咗七年。七年過去後,佢講完咗佢要講嘅話,因為佢嘅談話有限,佢決定回佢自己嘅城堡。佢到咗嘅時候,睇到細路哋喺花園裡玩。",
+          "vernacularMandarin": "一天,巨人回來了。他去拜訪他的朋友康沃爾食人魔,同他住了七年。七年過去後,他說完了他要說的話,因為他的談話有限,他決定回他自己的城堡。他到了的時候,看到孩子們在花園裡玩。"
+        },
+        {
+          "id": "hp003-4",
+          "original": "“What are you doing here?” he cried in a very gruff voice, and the children ran away.",
+          "vernacular": "「你哋喺呢度做乜嘢?」佢用好粗暴嘅聲音喊道,細路哋都跑開喇。",
+          "vernacularMandarin": "「你們在這裡做什麼?」他用很粗暴的聲音喊道,孩子們都跑開了。"
+        },
+        {
+          "id": "hp003-5",
+          "original": "“My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.” So he built a high wall all round it, and put up a notice-board.",
+          "vernacular": "「我自己嘅花園就係我自己嘅花園,」巨人講;「任何人都能明白,我不允許任何人喺裡面玩,除咗我自己。」於是佢喺佢周圍築咗一堵高牆,立咗一塊告示牌。",
+          "vernacularMandarin": "「我自己的花園就是我自己的花園,」巨人說;「任何人都能明白,我不允許任何人在裡面玩,除了我自己。」於是他在它周圍築了一堵高牆,立了一塊告示牌。"
+        },
+        {
+          "id": "hp003-6",
+          "original": "TRESPASSERS",
+          "vernacular": "擅入者",
+          "vernacularMandarin": "擅入者"
+        },
+        {
+          "id": "hp003-7",
+          "original": "WILL BE",
+          "vernacular": "將被",
+          "vernacularMandarin": "將被"
+        },
+        {
+          "id": "hp003-8",
+          "original": "PROSECUTED",
+          "vernacular": "起訴",
+          "vernacularMandarin": "起訴"
+        },
+        {
+          "id": "hp003-9",
+          "original": "He was a very selfish Giant.",
+          "vernacular": "佢係個好自私嘅巨人。",
+          "vernacularMandarin": "他是個非常自私的巨人。"
+        },
+        {
+          "id": "hp003-10",
+          "original": "The poor children had now nowhere to play. They tried to play on the road, but the road was very dusty and full of hard stones, and they did not like it. They used to wander round the high wall when their lessons were over, and talk about the beautiful garden inside. “How happy we were there,” they said to each other.",
+          "vernacular": "可憐嘅細路哋而家冇地方玩喇。佢哋試住喺路上玩,但路上塵土飛揚,滿係硬石頭,佢哋不鍾意。佢哋下課後常常喺高牆外徘徊,談論裡面美麗嘅花園。「我哋喺嗰度多快樂,」佢哋互相講。",
+          "vernacularMandarin": "可憐的孩子們現在沒有地方玩了。他們試著在路上玩,但路上塵土飛揚,滿是硬石頭,他們不喜歡。他們下課後常常在高牆外徘徊,談論裡面美麗的花園。「我們在那裡多快樂,」他們互相說。"
+        },
+        {
+          "id": "hp003-11",
+          "original": "Then the Spring came, and all over the country there were little blossoms and little birds. Only in the garden of the Selfish Giant it was still winter. The birds did not care to sing in it as there were no children, and the trees forgot to blossom. Once a beautiful flower put its head out from the grass, but when it saw the notice-board it was so sorry for the children that it slipped back into the ground again, and went off to sleep. The only people who were pleased were the Snow and the Frost. “Spring has forgotten this garden,” they cried, “so we will live here all the year round.” The Snow covered up the grass with her great white cloak, and the Frost painted all the trees silver. Then they invited the North Wind to stay with them, and he came. He was wrapped in furs, and he roared all day about the garden, and blew the chimney-pots down. “This is a delightful spot,” he said, “we must ask the Hail on a visit.” So the Hail came. Every day for three hours he rattled on the roof of the castle till he broke most of the slates, and then he ran round and round the garden as fast as he could go. He was dressed in grey, and his breath was like ice.",
+          "vernacular": "然後春天嚟喇,全國到處係小小嘅花朵同小鳥。只有自私巨人嘅花園裡仍然係冬天。鳥兒唔想喺嗰度唱歌,因為冇細路,樹都忘咗開花。有一次一朵美麗嘅花從草裡探出頭,但睇到告示牌,佢為細路哋感到咁難過,又縮回地裡,瞓住喇。唯一高興嘅係雪同霜。「春天忘咗呢座花園,」佢哋喊道,「所以我哋要整年住喺呢度。」雪用佢嘅大白斗篷蓋住咗草,霜把所有嘅樹漆成銀色。然後佢哋邀請北風嚟同住,佢嚟喇。佢裹住毛皮,整天喺花園周圍咆哮,把煙囪帽吹倒。「呢個係個令人愉快嘅地方,」佢講,「我哋必須請冰雹嚟訪。」於是冰雹嚟喇。每天佢喺城堡屋頂上劈劈啪啪響三個小時,直到打破大部分石板瓦,然後佢盡可能快地繞住花園跑圈。佢穿住灰色衣服,呼吸像冰。",
+          "vernacularMandarin": "然後春天來了,全國到處是小小的花朵和小鳥。只有自私巨人的花園裡仍然是冬天。鳥兒不想在那裡唱歌,因為沒有孩子,樹也忘了開花。有一次一朵美麗的花從草裡探出頭,但看到告示牌,它為孩子們感到那麼難過,又縮回地裡,睡著了。唯一高興的是雪和霜。「春天忘了這座花園,」他們喊道,「所以我們要整年住在這裡。」雪用她的大白斗篷蓋住了草,霜把所有的樹漆成銀色。然後他們邀請北風來同住,他來了。他裹著毛皮,整天在花園周圍咆哮,把煙囪帽吹倒。「這是個令人愉快的地方,」他說,「我們必須請冰雹來訪。」於是冰雹來了。每天他在城堡屋頂上劈劈啪啪響三個小時,直到打破大部分石板瓦,然後他盡可能快地繞著花園跑圈。他穿著灰色衣服,呼吸像冰。"
+        },
+        {
+          "id": "hp003-12",
+          "original": "“I cannot understand why the Spring is so late in coming,” said the Selfish Giant, as he sat at the window and looked out at his cold white garden; “I hope there will be a change in the weather.”",
+          "vernacular": "「我不明白春天點解嚟得咁晚,」自私嘅巨人坐喺窗邊,望住佢寒冷嘅白色花園講;「我希望天氣會有變化。」",
+          "vernacularMandarin": "「我不明白春天為什麼來得這麼晚,」自私的巨人坐在窗邊,望著他寒冷的白色花園說;「我希望天氣會有變化。」"
+        },
+        {
+          "id": "hp003-13",
+          "original": "But the Spring never came, nor the Summer. The Autumn gave golden fruit to every garden, but to the Giant’s garden she gave none. “He is too selfish,” she said. So it was always Winter there, and the North Wind, and the Hail, and the Frost, and the Snow danced about through the trees.",
+          "vernacular": "但春天始終冇嚟,夏天都冇。秋天畀每座花園金色嘅果實,但冇畀巨人嘅花園任何嘢。「佢太自私喇,」佢講。所以嗰度永遠係冬天,北風、冰雹、霜同雪喺樹林間跳舞。",
+          "vernacularMandarin": "但春天始終沒有來,夏天也沒有。秋天給每座花園金色的果實,但沒給巨人的花園任何東西。「他太自私了,」她說。所以那裡永遠是冬天,北風、冰雹、霜和雪在樹林間跳舞。"
+        },
+        {
+          "id": "hp003-14",
+          "original": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King’s musicians passing by. It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world. Then the Hail stopped dancing over his head, and the North Wind ceased roaring, and a delicious perfume came to him through the open casement. “I believe the Spring has come at last,” said the Giant; and he jumped out of bed and looked out.",
+          "vernacular": "一天早晨,巨人醒住躺喺床上,聽到啲可愛嘅音樂。佢喺佢耳中聽起嚟咁甜美,佢以為一定係國王嘅樂師經過。其實只係一隻紅雀喺佢窗外歌唱,但佢已經好久冇聽到鳥喺佢花園裡唱歌喇,所以對佢來講,嗰似乎係世界上最美嘅音樂。然後冰雹唔再喺佢頭上跳舞,北風停止咗咆哮,一股美妙嘅香氣透過敞開嘅窗子飄嚟。「我相信春天終於嚟喇,」巨人講;佢跳下床,向外睇。",
+          "vernacularMandarin": "一天早晨,巨人醒著躺在床上,聽到一些可愛的音樂。它在他耳中聽起來那麼甜美,他以為一定是國王的樂師經過。其實只是一隻紅雀在他窗外歌唱,但他已經很久沒聽到鳥在他花園裡唱歌了,所以對他來說,那似乎是世界上最美的音樂。然後冰雹不再在他頭上跳舞,北風停止了咆哮,一股美妙的香氣透過敞開的窗子飄來。「我相信春天終於來了,」巨人說;他跳下床,向外看。"
+        },
+        {
+          "id": "hp003-15",
+          "original": "What did he see?",
+          "vernacular": "佢睇到咗乜嘢?",
+          "vernacularMandarin": "他看到了什麼?"
+        },
+        {
+          "id": "hp003-16",
+          "original": "He saw a most wonderful sight. Through a little hole in the wall the children had crept in, and they were sitting in the branches of the trees. In every tree that he could see there was a little child. And the trees were so glad to have the children back again that they had covered themselves with blossoms, and were waving their arms gently above the children’s heads. The birds were flying about and twittering with delight, and the flowers were looking up through the green grass and laughing. It was a lovely scene, only in one corner it was still winter. It was the farthest corner of the garden, and in it was standing a little boy. He was so small that he could not reach up to the branches of the tree, and he was wandering all round it, crying bitterly. The poor tree was still quite covered with frost and snow, and the North Wind was blowing and roaring above it. “Climb up! little boy,” said the Tree, and it bent its branches down as low as it could; but the boy was too tiny.",
+          "vernacular": "佢睇到咗一幅最奇妙嘅景象。細路哋從牆上嘅一個小洞爬咗進嚟,坐喺樹枝上。喺佢能睇到嘅每棵樹上都有一個小孩。樹哋好高興細路哋回嚟喇,佢哋畀自己蓋滿咗花朵,輕輕地喺細路哋頭上揮動手臂。鳥兒到處飛翔,高興地啾啾叫,花朵從綠草中向上睇住,笑住。嗰個係一幅可愛嘅景象,只有喺一個角落裡仍然係冬天。嗰個係花園最遠嘅角落,嗰度站住一個小男孩。佢太小喇,夠唔到樹枝,佢繞住樹轉圈,傷心地哭。可憐嘅樹仍然全被霜同雪覆蓋,北風喺佢上面吹住咆哮。「爬上嚟!小男孩,」樹講,佢盡可能把樹枝彎低;但男孩太小喇。",
+          "vernacularMandarin": "他看到了一幅最奇妙的景象。孩子們從牆上的一個小洞爬了進來,坐在樹枝上。在他能看到的每棵樹上都有一個小孩。樹們非常高興孩子們回來了,它們給自己蓋滿了花朵,輕輕地在孩子們頭上揮動手臂。鳥兒到處飛翔,高興地啾啾叫,花朵從綠草中向上看著,笑著。那是一幅可愛的景象,只有在一個角落裡仍然是冬天。那是花園最遠的角落,那裡站著一個小男孩。他太小了,夠不到樹枝,他繞著樹轉圈,傷心地哭。可憐的樹仍然全被霜和雪覆蓋,北風在它上面吹著咆哮。「爬上來!小男孩,」樹說,它盡可能把樹枝彎低;但男孩太小了。"
+        },
+        {
+          "id": "hp003-17",
+          "original": "And the Giant’s heart melted as he looked out. “How selfish I have been!” he said; “now I know why the Spring would not come here. I will put that poor little boy on the top of the tree, and then I will knock down the wall, and my garden shall be the children’s playground for ever and ever.” He was really very sorry for what he had done.",
+          "vernacular": "巨人向外睇時,佢嘅心融化喇。「我幾咁自私!」佢講;「而家我知道春天點解不嚟呢度喇。我要把嗰個可憐嘅小男孩放到樹頂上,然後我要把牆拆掉,我嘅花園將永遠永遠成為細路哋嘅遊樂場。」佢對佢所做嘅事真嘅好抱歉。",
+          "vernacularMandarin": "巨人向外看時,他的心融化了。「我多麼自私!」他說;「現在我知道春天為什麼不來這裡了。我要把那個可憐的小男孩放到樹頂上,然後我要把牆拆掉,我的花園將永遠永遠成為孩子們的遊樂場。」他對他所做的事真的非常抱歉。"
+        },
+        {
+          "id": "hp003-18",
+          "original": "So he crept downstairs and opened the front door quite softly, and went out into the garden. But when the children saw him they were so frightened that they all ran away, and the garden became winter again. Only the little boy did not run, for his eyes were so full of tears that he did not see the Giant coming. And the Giant stole up behind him and took him gently in his hand, and put him up into the tree. And the tree broke at once into blossom, and the birds came and sang on it, and the little boy stretched out his two arms and flung them round the Giant’s neck, and kissed him. And the other children, when they saw that the Giant was not wicked any longer, came running back, and with them came the Spring. “It is your garden now, little children,” said the Giant, and he took a great axe and knocked down the wall. And when the people were going to market at twelve o’clock they found the Giant playing with the children in the most beautiful garden they had ever seen.",
+          "vernacular": "於是佢輕輕地爬下樓,悄悄打開前門,走進花園。但細路哋睇到佢時,嚇得全跑喇,花園又變成咗冬天。只有小男孩冇跑,因為佢嘅眼睛裡滿係淚水,冇睇到巨人嚟。巨人悄悄走到佢身後,輕輕把佢托喺手裡,放到樹上。樹即刻綻放出花朵,鳥兒嚟到佢上面歌唱,小男孩伸出雙臂,摟住巨人嘅脖子,吻咗佢。其他細路睇到巨人唔再邪惡,跑咗回嚟,春天都跟住佢哋嚟喇。「而家呢個係你哋嘅花園喇,小朋友哋,」巨人講,佢攞起一把大斧頭,把牆拆倒喇。十二點人哋去趕集時,發現巨人同細路哋喺佢哋見過嘅最美麗嘅花園裡玩耍。",
+          "vernacularMandarin": "於是他輕輕地爬下樓,悄悄打開前門,走進花園。但孩子們看到他時,嚇得全跑了,花園又變成了冬天。只有小男孩沒有跑,因為他的眼睛裡滿是淚水,沒有看到巨人來。巨人悄悄走到他身後,輕輕把他托在手裡,放到樹上。樹立刻綻放出花朵,鳥兒來到它上面歌唱,小男孩伸出雙臂,摟住巨人的脖子,吻了他。其他孩子看到巨人不再邪惡,跑了回來,春天也跟著他們來了。「現在這是你們的花園了,小朋友們,」巨人說,他拿起一把大斧頭,把牆拆倒了。十二點人們去趕集時,發現巨人同孩子們在他們見過的最美麗的花園裡玩耍。"
+        },
+        {
+          "id": "hp003-19",
+          "original": "All day long they played, and in the evening they came to the Giant to bid him good-bye.",
+          "vernacular": "佢哋玩咗一整天,晚上佢哋嚟向巨人道別。",
+          "vernacularMandarin": "他們玩了一整天,晚上他們來向巨人道別。"
+        },
+        {
+          "id": "hp003-20",
+          "original": "“But where is your little companion?” he said: “the boy I put into the tree.” The Giant loved him the best because he had kissed him.",
+          "vernacular": "「但你哋嘅小夥伴喺邊度?」佢講:「我放到樹上嘅嗰個男孩。」巨人最愛佢,因為佢吻咗佢。",
+          "vernacularMandarin": "「但你們的小夥伴在哪裡?」他說:「我放到樹上的那個男孩。」巨人最愛他,因為他吻了他。"
+        },
+        {
+          "id": "hp003-21",
+          "original": "“We don’t know,” answered the children; “he has gone away.”",
+          "vernacular": "「我哋唔知道,」細路哋回答;「佢走喇。」",
+          "vernacularMandarin": "「我們不知道,」孩子們回答;「他走了。」"
+        },
+        {
+          "id": "hp003-22",
+          "original": "“You must tell him to be sure and come here to-morrow,” said the Giant. But the children said that they did not know where he lived, and had never seen him before; and the Giant felt very sad.",
+          "vernacular": "「你哋一定要告訴佢聽日嚟呢度,」巨人講。但細路哋講佢哋唔知道佢住喺邊度,以前都從冇見過佢;巨人覺得好悲傷。",
+          "vernacularMandarin": "「你們一定要告訴他明天來這裡,」巨人說。但孩子們說他們不知道他住在哪裡,以前也從沒見過他;巨人覺得很悲傷。"
+        },
+        {
+          "id": "hp003-23",
+          "original": "Every afternoon, when school was over, the children came and played with the Giant. But the little boy whom the Giant loved was never seen again. The Giant was very kind to all the children, yet he longed for his first little friend, and often spoke of him. “How I would like to see him!” he used to say.",
+          "vernacular": "每天下午放學後,細路哋嚟同巨人玩。但巨人愛嘅嗰個小男孩再都冇出現過。巨人對所有細路都好好,但佢渴望佢嘅第一個小朋友,常常提起佢。「我幾咁想見佢!」佢常講。",
+          "vernacularMandarin": "每天下午放學後,孩子們來同巨人玩。但巨人愛的那個小男孩再也沒有出現過。巨人對所有孩子都非常好,但他渴望他的第一個小朋友,常常提起他。「我多麼想見他!」他常說。"
+        },
+        {
+          "id": "hp003-24",
+          "original": "Years went over, and the Giant grew very old and feeble. He could not play about any more, so he sat in a huge armchair, and watched the children at their games, and admired his garden. “I have many beautiful flowers,” he said; “but the children are the most beautiful flowers of all.”",
+          "vernacular": "歲月流逝,巨人變得好老好虛弱。佢唔能夠再到處玩喇,所以佢坐喺一張巨大嘅扶手椅上,睇細路哋玩遊戲,欣賞佢嘅花園。「我有許多美麗嘅花,」佢講;「但細路哋係所有花中最美嘅。」",
+          "vernacularMandarin": "歲月流逝,巨人變得很老很虛弱。他不能再到處玩了,所以他坐在一張巨大的扶手椅上,看孩子們玩遊戲,欣賞他的花園。「我有許多美麗的花,」他說;「但孩子們是所有花中最美的。」"
+        },
+        {
+          "id": "hp003-25",
+          "original": "One winter morning he looked out of his window as he was dressing. He did not hate the Winter now, for he knew that it was merely the Spring asleep, and that the flowers were resting.",
+          "vernacular": "一個冬天嘅早晨,佢穿衣服時向窗外睇。佢而家不恨冬天喇,因為佢知道佢只係春天喺瞓覺,花朵喺休息。",
+          "vernacularMandarin": "一個冬天的早晨,他穿衣服時向窗外看。他現在不恨冬天了,因為他知道它只是春天在睡覺,花朵在休息。"
+        },
+        {
+          "id": "hp003-26",
+          "original": "Suddenly he rubbed his eyes in wonder, and looked and looked. It certainly was a marvellous sight. In the farthest corner of the garden was a tree quite covered with lovely white blossoms. Its branches were all golden, and silver fruit hung down from them, and underneath it stood the little boy he had loved.",
+          "vernacular": "突然佢驚奇地揉咗揉眼睛,睇咗又睇。嗰確實係一幅奇妙嘅景象。喺花園最遠嘅角落裡有一棵樹,全被可愛嘅白花覆蓋。佢嘅樹枝都係金色嘅,銀色嘅果實從上面垂下嚟,樹下站住佢愛嘅嗰個小男孩。",
+          "vernacularMandarin": "突然他驚奇地揉了揉眼睛,看了又看。那確實是一幅奇妙的景象。在花園最遠的角落裡有一棵樹,全被可愛的白花覆蓋。它的樹枝都是金色的,銀色的果實從上面垂下來,樹下站著他愛的那個小男孩。"
+        },
+        {
+          "id": "hp003-27",
+          "original": "Downstairs ran the Giant in great joy, and out into the garden. He hastened across the grass, and came near to the child. And when he came quite close his face grew red with anger, and he said, “Who hath dared to wound thee?” For on the palms of the child’s hands were the prints of two nails, and the prints of two nails were on the little feet.",
+          "vernacular": "巨人高興地跑下樓,跑進花園。佢匆匆穿過草地,走近細路。佢走得好近時,臉氣得發紅,佢講:「邊個敢傷害你?」因為細路手掌上有兩個釘子嘅印記,小腳上都有兩個釘子嘅印記。",
+          "vernacularMandarin": "巨人高興地跑下樓,跑進花園。他匆匆穿過草地,走近孩子。他走得很近時,臉氣得發紅,他說:「誰敢傷害你?」因為孩子手掌上有兩個釘子的印記,小腳上也有兩個釘子的印記。"
+        },
+        {
+          "id": "hp003-28",
+          "original": "“Who hath dared to wound thee?” cried the Giant; “tell me, that I may take my big sword and slay him.”",
+          "vernacular": "「邊個敢傷害你?」巨人喊道;「告訴我,我要攞我嘅大劍殺咗佢。」",
+          "vernacularMandarin": "「誰敢傷害你?」巨人喊道;「告訴我,我要拿我的大劍殺了他。」"
+        },
+        {
+          "id": "hp003-29",
+          "original": "“Nay!” answered the child; “but these are the wounds of Love.”",
+          "vernacular": "「不!」細路回答;「呢啲係愛嘅傷口。」",
+          "vernacularMandarin": "「不!」孩子回答;「這些是愛的傷口。」"
+        },
+        {
+          "id": "hp003-30",
+          "original": "“Who art thou?” said the Giant, and a strange awe fell on him, and he knelt before the little child.",
+          "vernacular": "「你係邊個?」巨人講,一種奇異嘅敬畏降臨喺佢身上,佢跪喺小孩面前。",
+          "vernacularMandarin": "「你是誰?」巨人說,一種奇異的敬畏降臨在他身上,他跪在小孩面前。"
+        },
+        {
+          "id": "hp003-31",
+          "original": "And the child smiled on the Giant, and said to him, “You let me play once in your garden, to-day you shall come with me to my garden, which is Paradise.”",
+          "vernacular": "細路對巨人微笑,對佢講:「你曾經讓我喺你嘅花園裡玩,今日你要同我到我嘅花園去,嗰個就係天堂。」",
+          "vernacularMandarin": "孩子對巨人微笑,對他說:「你曾經讓我在你的花園裡玩,今天你要同我到我的花園去,那就是天堂。」"
+        },
+        {
+          "id": "hp003-32",
+          "original": "And when the children ran in that afternoon, they found the Giant lying dead under the tree, all covered with white blossoms.",
+          "vernacular": "嗰天下午細路哋跑進嚟時,發現巨人躺喺樹下死喇,身上蓋滿白花。",
+          "vernacularMandarin": "那天下午孩子們跑進來時,發現巨人躺在樹下死了,身上蓋滿白花。"
+        }
+      ]
+    },
+    {
+      "id": "hp-004",
+      "title": "The Devoted Friend 忠實的朋友",
+      "passages": [
+        {
+          "id": "hp004-1",
+          "original": "ONE morning the old Water-rat put his head out of his hole. He had bright beady eyes and stiff grey whiskers and his tail was like a long bit of black india-rubber. The little ducks were swimming about in the pond, looking just like a lot of yellow canaries, and their mother, who was pure white with real red legs, was trying to teach them how to stand on their heads in the water.",
+          "vernacular": "一天早晨,老水鼠把頭從洞裡探出嚟。佢有明亮嘅珠子般嘅眼睛同硬硬嘅灰鬍鬚,尾巴像一長條黑色橡膠。小鴨子哋喺池塘裡游嚟游去,睇起嚟就像一群黃色金絲雀,佢哋嘅母親,純白色,有真正嘅紅腿,正在試住教佢哋點樣喺水裡倒立。",
+          "vernacularMandarin": "一天早晨,老水鼠把頭從洞裡探出來。他有明亮的珠子般的眼睛和硬硬的灰鬍鬚,尾巴像一長條黑色橡膠。小鴨子們在池塘裡游來游去,看起來就像一群黃色金絲雀,他們的母親,純白色,有真正的紅腿,正在試著教他們怎樣在水裡倒立。"
+        },
+        {
+          "id": "hp004-2",
+          "original": "“You will never be in the best society unless you can stand on your heads,” she kept saying to them; and every now and then she showed them how it was done. But the little ducks paid no attention to her. They were so young that they did not know what an advantage it is to be in society at all.",
+          "vernacular": "「你哋除非能倒立,否則永遠進不咗上流社會,」佢不斷地對佢哋講;不時仲示範點做。但小鴨子哋不理佢。佢哋太年輕喇,唔知道能進入社交界係多大嘅好處。",
+          "vernacularMandarin": "「你們除非能倒立,否則永遠進不了上流社會,」她不斷地對他們說;不時還示範怎麼做。但小鴨子們不理她。他們太年輕了,不知道能進入社交界是多大的好處。"
+        },
+        {
+          "id": "hp004-3",
+          "original": "“What disobedient children!” cried the old Water-rat; “they really deserve to be drowned.”",
+          "vernacular": "「幾咁不聽話嘅細路!」老水鼠喊道;「佢哋真該被淹死。」",
+          "vernacularMandarin": "「多麼不聽話的孩子!」老水鼠喊道;「他們真該被淹死。」"
+        },
+        {
+          "id": "hp004-4",
+          "original": "“Nothing of the kind,” answered the Duck, “every one must make a beginning, and parents cannot be too patient.”",
+          "vernacular": "「完全唔係嗰樣,」鴨子回答,「每個人都得有個開始,父母點有耐心都不為過。」",
+          "vernacularMandarin": "「完全不是那樣,」鴨子回答,「每個人都得有個開始,父母怎麼有耐心都不為過。」"
+        },
+        {
+          "id": "hp004-5",
+          "original": "“Ah! I know nothing about the feelings of parents,” said the Water-rat; “I am not a family man. In fact, I have never been married, and I never intend to be. Love is all very well in its way, but friendship is much higher. Indeed, I know of nothing in the world that is either nobler or rarer than a devoted friendship.”",
+          "vernacular": "「啊!我對父母嘅感情一無所知,」水鼠講;「我唔係個有家嘅人。事實上,我從冇結過婚,都不打算結。愛情喺佢嘅方式上好好,但友誼要高得多。確實,我知道世上冇比忠實嘅友誼更高貴或更稀有嘅嘢喇。」",
+          "vernacularMandarin": "「啊!我對父母的感情一無所知,」水鼠說;「我不是個有家的人。事實上,我從沒結過婚,也不打算結。愛情在它的方式上很好,但友誼要高得多。確實,我知道世上沒有比忠實的友誼更高貴或更稀有的東西了。」"
+        },
+        {
+          "id": "hp004-6",
+          "original": "“And what, pray, is your idea of the duties of a devoted friend?” asked a Green Linnet, who was sitting in a willow-tree hard by, and had overheard the conversation.",
+          "vernacular": "「請問,你認為忠實朋友嘅責任係乜嘢?」一隻綠紅雀問,佢坐喺附近一棵柳樹上,偷聽到咗呢番談話。",
+          "vernacularMandarin": "「請問,你認為忠實朋友的責任是什麼?」一隻綠紅雀問,他坐在附近一棵柳樹上,偷聽到了這番談話。"
+        },
+        {
+          "id": "hp004-7",
+          "original": "“Yes, that is just what I want to know,” said the Duck; and she swam away to the end of the pond, and stood upon her head, in order to give her children a good example.",
+          "vernacular": "「對,呢正是我想知道嘅,」鴨子講;佢游到池塘盡頭,倒立起嚟,畀佢嘅細路哋做個好榜樣。",
+          "vernacularMandarin": "「對,這正是我想知道的,」鴨子說;她游到池塘盡頭,倒立起來,給她的孩子們做個好榜樣。"
+        },
+        {
+          "id": "hp004-8",
+          "original": "“What a silly question!” cried the Water-rat. “I should expect my devoted friend to be devoted to me, of course.”",
+          "vernacular": "「幾咁愚蠢嘅問題!」水鼠喊道。「我當然期望我忠實嘅朋友對我忠實。」",
+          "vernacularMandarin": "「多麼愚蠢的問題!」水鼠喊道。「我當然期望我忠實的朋友對我忠實。」"
+        },
+        {
+          "id": "hp004-9",
+          "original": "“And what would you do in return?” said the little bird, swinging upon a silver spray, and flapping his tiny wings.",
+          "vernacular": "「嗰你會做乜嘢作為回報?」小鳥講,喺一根銀色嘅嫩枝上搖晃,拍住小小嘅翅膀。",
+          "vernacularMandarin": "「那你會做什麼作為回報?」小鳥說,在一根銀色的嫩枝上搖晃,拍著小小的翅膀。"
+        },
+        {
+          "id": "hp004-10",
+          "original": "“I don’t understand you,” answered the Water-rat.",
+          "vernacular": "「我不明白你嘅意思,」水鼠回答。",
+          "vernacularMandarin": "「我不明白你的意思,」水鼠回答。"
+        },
+        {
+          "id": "hp004-11",
+          "original": "“Let me tell you a story on the subject,” said the Linnet.",
+          "vernacular": "「讓我畀你講一個關於呢個主題嘅故事,」紅雀講。",
+          "vernacularMandarin": "「讓我給你講一個關於這個主題的故事,」紅雀說。"
+        },
+        {
+          "id": "hp004-12",
+          "original": "“Is the story about me?” asked the Water-rat. “If so, I will listen to it, for I am extremely fond of fiction.”",
+          "vernacular": "「呢故事係關於我嘅嗎?」水鼠問。「如果係,我就聽,因為我好鍾意小講。」",
+          "vernacularMandarin": "「這故事是關於我的嗎?」水鼠問。「如果是,我就聽,因為我非常喜歡小說。」"
+        },
+        {
+          "id": "hp004-13",
+          "original": "“It is applicable to you,” answered the Linnet; and he flew down, and alighting upon the bank, he told the story of The Devoted Friend.",
+          "vernacular": "「佢適用於你,」紅雀回答;佢飛下嚟,落喺岸邊,講咗〈忠實嘅朋友〉嘅故事。",
+          "vernacularMandarin": "「它適用於你,」紅雀回答;他飛下來,落在岸邊,講了〈忠實的朋友〉的故事。"
+        },
+        {
+          "id": "hp004-14",
+          "original": "“Once upon a time,” said the Linnet, “there was an honest little fellow named Hans.”",
+          "vernacular": "「從前,」紅雀講,「有一個誠實嘅小伙子叫漢斯。」",
+          "vernacularMandarin": "「從前,」紅雀說,「有一個誠實的小伙子叫漢斯。」"
+        },
+        {
+          "id": "hp004-15",
+          "original": "“Was he very distinguished?” asked the Water-rat.",
+          "vernacular": "「佢好傑出嗎?」水鼠問。",
+          "vernacularMandarin": "「他很傑出嗎?」水鼠問。"
+        },
+        {
+          "id": "hp004-16",
+          "original": "“No,” answered the Linnet, “I don’t think he was distinguished at all, except for his kind heart, and his funny round good-humoured face. He lived in a tiny cottage all by himself, and every day he worked in his garden. In all the country-side there was no garden so lovely as his. Sweet-william grew there, and Gilly-flowers, and Shepherds’-purses, and Fair-maids of France. There were damask Roses, and yellow Roses, lilac Crocuses, and gold, purple Violets and white. Columbine and Ladysmock, Marjoram and Wild Basil, the Cowslip and the Flower-de-luce, the Daffodil and the Clove-Pink bloomed or blossomed in their proper order as the months went by, one flower taking another flower’s place, so that there were always beautiful things to look at, and pleasant odours to smell.",
+          "vernacular": "「不,」紅雀回答,「我想佢啲都不傑出,除咗佢善良嘅心,同佢嗰張滑稽嘅圓圓嘅好脾氣嘅臉。佢獨自住喺一間小茅屋裡,每天喺佢嘅花園裡工作。整個鄉間冇一座花園像佢嘅咁可愛。嗰度長住美國石竹、紫羅蘭、薺菜,同法蘭西美人花。有大馬士革玫瑰、黃玫瑰、淡紫色嘅番紅花同金色嘅,紫色嘅紫羅蘭同白色嘅。耬斗菜同布穀鳥花、馬郁蘭同野羅勒、黃花九輪草同鳶尾花、水仙同丁香石竹,隨住月份過去,依時序開花,一種花接替另一種花嘅位置,所以總有美麗嘅嘢可睇,有宜人嘅香氣可聞。",
+          "vernacularMandarin": "「不,」紅雀回答,「我想他一點也不傑出,除了他善良的心,和他那張滑稽的圓圓的好脾氣的臉。他獨自住在一間小茅屋裡,每天在他的花園裡工作。整個鄉間沒有一座花園像他的那麼可愛。那裡長著美國石竹、紫羅蘭、薺菜,和法蘭西美人花。有大馬士革玫瑰、黃玫瑰、淡紫色的番紅花和金色的,紫色的紫羅蘭和白色的。耬斗菜和布穀鳥花、馬郁蘭和野羅勒、黃花九輪草和鳶尾花、水仙和丁香石竹,隨著月份過去,依時序開花,一種花接替另一種花的位置,所以總有美麗的東西可看,有宜人的香氣可聞。"
+        },
+        {
+          "id": "hp004-17",
+          "original": "“Little Hans had a great many friends, but the most devoted friend of all was big Hugh the Miller. Indeed, so devoted was the rich Miller to little Hans, that he would never go by his garden without leaning over the wall and plucking a large nosegay, or a handful of sweet herbs, or filling his pockets with plums and cherries if it was the fruit season.",
+          "vernacular": "「小漢斯有好多朋友,但最忠實嘅朋友係大個子磨坊主休。確實,富有嘅磨坊主對小漢斯咁忠實,佢經過佢嘅花園時,從唔會不靠喺牆上摘一大束花,或一把香草,如果係水果季節,仲把口袋裝滿李子同櫻桃。",
+          "vernacularMandarin": "「小漢斯有很多朋友,但最忠實的朋友是大個子磨坊主休。確實,富有的磨坊主對小漢斯那麼忠實,他經過他的花園時,從不會不靠在牆上摘一大束花,或一把香草,如果是水果季節,還把口袋裝滿李子和櫻桃。"
+        },
+        {
+          "id": "hp004-18",
+          "original": "“‘Real friends should have everything in common,’ the Miller used to say, and little Hans nodded and smiled, and felt very proud of having a friend with such noble ideas.",
+          "vernacular": "「『真正嘅朋友應該有福同享,』磨坊主常講,小漢斯點頭微笑,為有咁樣一個有高尚思想嘅朋友感到好自豪。",
+          "vernacularMandarin": "「『真正的朋友應該有福同享,』磨坊主常說,小漢斯點頭微笑,為有這樣一個有高尚思想的朋友感到十分自豪。"
+        },
+        {
+          "id": "hp004-19",
+          "original": "“Sometimes, indeed, the neighbours thought it strange that the rich Miller never gave little Hans anything in return, though he had a hundred sacks of flour stored away in his mill, and six milch cows, and a large flock of woolly sheep; but Hans never troubled his head about these things, and nothing gave him greater pleasure than to listen to all the wonderful things the Miller used to say about the unselfishness of true friendship.",
+          "vernacular": "「有時,確實,鄰居哋覺得奇怪,富有嘅磨坊主從不回報小漢斯任何嘢,雖然佢磨坊裡貯藏住一百袋麵粉,有六頭奶牛,同一大群毛茸茸嘅羊;但漢斯從不為呢啲事操心,冇乜嘢比聽磨坊主講關於真正友誼嘅無私嘅所有奇妙話語更讓佢高興。",
+          "vernacularMandarin": "「有時,確實,鄰居們覺得奇怪,富有的磨坊主從不回報小漢斯任何東西,雖然他磨坊裡貯藏著一百袋麵粉,有六頭奶牛,和一大群毛茸茸的羊;但漢斯從不為這些事操心,沒有什麼比聽磨坊主說關於真正友誼的無私的所有奇妙話語更讓他高興。"
+        },
+        {
+          "id": "hp004-20",
+          "original": "“So little Hans worked away in his garden. During the spring, the summer, and the autumn he was very happy, but when the winter came, and he had no fruit or flowers to bring to the market, he suffered a good deal from cold and hunger, and often had to go to bed without any supper but a few dried pears or some hard nuts. In the winter, also, he was extremely lonely, as the Miller never came to see him then.",
+          "vernacular": "「於是小漢斯喺佢嘅花園裡辛勤工作。春天、夏天同秋天佢好快樂,但冬天嚟喇,佢冇水果或花攞到市場上去,佢食咗好多冷同餓嘅苦,常常唔得不空住肚子上床,只有幾個乾梨子或啲硬堅果。冬天佢都極其孤獨,因為嗰時磨坊主從不嚟睇佢。",
+          "vernacularMandarin": "「於是小漢斯在他的花園裡辛勤工作。春天、夏天和秋天他很快樂,但冬天來了,他沒有水果或花拿到市場上去,他吃了很多冷和餓的苦,常常不得不空著肚子上床,只有幾個乾梨子或一些硬堅果。冬天他也極其孤獨,因為那時磨坊主從不來看他。"
+        },
+        {
+          "id": "hp004-21",
+          "original": "“‘There is no good in my going to see little Hans as long as the snow lasts,’ the Miller used to say to his wife, ‘for when people are in trouble they should be left alone, and not be bothered by visitors. That at least is my idea about friendship, and I am sure I am right. So I shall wait till the spring comes, and then I shall pay him a visit, and he will be able to give me a large basket of primroses and that will make him so happy.’",
+          "vernacular": "「『只要雪仲喺,我去睇小漢斯就冇好處,』磨坊主常對佢嘅妻子講,『因為人哋有困難時,應該讓佢哋獨自待住,不被訪客打擾。呢至少係我對友誼嘅睇法,我肯定我係對嘅。所以我要等到春天嚟喇,然後我去拜訪佢,佢能畀我一大籃櫻草花,嗰會使佢好快樂。』",
+          "vernacularMandarin": "「『只要雪還在,我去看小漢斯就沒有好處,』磨坊主常對他的妻子說,『因為人們有困難時,應該讓他們獨自待著,不被訪客打擾。這至少是我對友誼的看法,我肯定我是對的。所以我要等到春天來了,然後我去拜訪他,他能給我一大籃櫻草花,那會使他非常快樂。』"
+        },
+        {
+          "id": "hp004-22",
+          "original": "“‘You are certainly very thoughtful about others,’ answered the Wife, as she sat in her comfortable armchair by the big pinewood fire; ‘very thoughtful indeed. It is quite a treat to hear you talk about friendship. I am sure the clergyman himself could not say such beautiful things as you do, though he does live in a three-storied house, and wear a gold ring on his little finger.’",
+          "vernacular": "「『你確實好為別人著想,』妻子回答,佢坐喺大松木火旁舒適嘅扶手椅上;『真嘅好體貼。聽你談論友誼簡直係一種享受。我肯定牧師自己都講不出像你咁樣美嘅話,雖然佢住喺三層樓嘅房子裡,小指上戴住金戒指。』",
+          "vernacularMandarin": "「『你確實非常為別人著想,』妻子回答,她坐在大松木火旁舒適的扶手椅上;『真的非常體貼。聽你談論友誼簡直是一種享受。我肯定牧師自己也說不出像你這樣美的話,雖然他住在三層樓的房子裡,小指上戴著金戒指。』"
+        },
+        {
+          "id": "hp004-23",
+          "original": "“‘But could we not ask little Hans up here?’ said the Miller’s youngest son. ‘If poor Hans is in trouble I will give him half my porridge, and show him my white rabbits.’",
+          "vernacular": "「『但我哋唔能夠請小漢斯上嚟嗎?』磨坊主最小嘅兒子講。『如果可憐嘅漢斯有困難,我會分佢一半我嘅粥,畀佢睇我嘅白兔子。』",
+          "vernacularMandarin": "「『但我們不能請小漢斯上來嗎?』磨坊主最小的兒子說。『如果可憐的漢斯有困難,我會分他一半我的粥,給他看我的白兔子。』"
+        },
+        {
+          "id": "hp004-24",
+          "original": "“‘What a silly boy you are!’ cried the Miller; ‘I really don’t know what is the use of sending you to school. You seem not to learn anything. Why, if little Hans came up here, and saw our warm fire, and our good supper, and our great cask of red wine, he might get envious, and envy is a most terrible thing, and would spoil anybody’s nature. I certainly will not allow Hans’ nature to be spoiled. I am his best friend, and I will always watch over him, and see that he is not led into any temptations. Besides, if Hans came here, he might ask me to let him have some flour on credit, and that I could not do. Flour is one thing, and friendship is another, and they should not be confused. Why, the words are spelt differently, and mean quite different things. Everybody can see that.’",
+          "vernacular": "「『你呢細路真蠢!』磨坊主喊道;『我真唔知道送你上學有乜嘢用。你似乎乜嘢都冇學到。哎呀,如果小漢斯上嚟,睇到我哋暖同嘅火、我哋豐盛嘅晚餐同我哋大桶嘅紅酒,佢可能會嫉妒,而嫉妒係最可怕嘅嘢,會敗壞任何人嘅天性。我絕唔會允許漢斯嘅天性被敗壞。我係佢最好嘅朋友,我會一直睇護佢,確保佢不被引入任何誘惑。而且,如果漢斯嚟呢度,佢可能要求我賒畀佢啲麵粉,嗰個係我做唔到嘅。麵粉係一回事,友誼係另一回事,佢哋不該被混淆。哎呀,呢兩個詞拼寫不同,意思都完全不同。每個人都睇得出嚟。』",
+          "vernacularMandarin": "「『你這孩子真蠢!』磨坊主喊道;『我真不知道送你上學有什麼用。你似乎什麼也沒學到。哎呀,如果小漢斯上來,看到我們暖和的火、我們豐盛的晚餐和我們大桶的紅酒,他可能會嫉妒,而嫉妒是最可怕的東西,會敗壞任何人的天性。我絕不會允許漢斯的天性被敗壞。我是他最好的朋友,我會一直看護他,確保他不被引入任何誘惑。而且,如果漢斯來這裡,他可能要求我賒給他一些麵粉,那是我做不到的。麵粉是一回事,友誼是另一回事,它們不該被混淆。哎呀,這兩個詞拼寫不同,意思也完全不同。每個人都看得出來。』"
+        },
+        {
+          "id": "hp004-25",
+          "original": "“‘How well you talk!’ said the Miller’s Wife, pouring herself out a large glass of warm ale; ‘really I feel quite drowsy. It is just like being in church.’",
+          "vernacular": "「『你講得多好!』磨坊主嘅妻子講,畀自己倒咗一大杯溫啤酒;『真嘅我覺得相當睏。就像喺教堂裡一樣。』",
+          "vernacularMandarin": "「『你說得多好!』磨坊主的妻子說,給自己倒了一大杯溫啤酒;『真的我覺得相當睏。就像在教堂裡一樣。』"
+        },
+        {
+          "id": "hp004-26",
+          "original": "“‘Lots of people act well,’ answered the Miller; ‘but very few people talk well, which shows that talking is much the more difficult thing of the two, and much the finer thing also’; and he looked sternly across the table at his little son, who felt so ashamed of himself that he hung his head down, and grew quite scarlet, and began to cry into his tea. However, he was so young that you must excuse him.”",
+          "vernacular": "「『好多人做得好,』磨坊主回答;『但好少人講得好,呢表明講比做難得多,都高雅得多』;佢嚴厲地隔住桌子睇佢嘅小兒子,嗰細路羞愧得垂下頭,臉變得通紅,開始哭到茶杯裡。不過,佢太年輕喇,你必須原諒佢。」",
+          "vernacularMandarin": "「『很多人做得好,』磨坊主回答;『但很少人說得好,這表明說比做難得多,也高雅得多』;他嚴厲地隔著桌子看他的小兒子,那孩子羞愧得垂下頭,臉變得通紅,開始哭到茶杯裡。不過,他太年輕了,你必須原諒他。」"
+        },
+        {
+          "id": "hp004-27",
+          "original": "“Is that the end of the story?” asked the Water-rat.",
+          "vernacular": "「呢個係故事嘅結尾嗎?」水鼠問。",
+          "vernacularMandarin": "「這是故事的結尾嗎?」水鼠問。"
+        },
+        {
+          "id": "hp004-28",
+          "original": "“Certainly not,” answered the Linnet, “that is the beginning.”",
+          "vernacular": "「當然唔係,」紅雀回答,「呢個係開頭。」",
+          "vernacularMandarin": "「當然不是,」紅雀回答,「這是開頭。」"
+        },
+        {
+          "id": "hp004-29",
+          "original": "“Then you are quite behind the age,” said the Water-rat. “Every good story-teller nowadays starts with the end, and then goes on to the beginning, and concludes with the middle. That is the new method. I heard all about it the other day from a critic who was walking round the pond with a young man. He spoke of the matter at great length, and I am sure he must have been right, for he had blue spectacles and a bald head, and whenever the young man made any remark, he always answered ‘Pooh!’ But pray go on with your story. I like the Miller immensely. I have all kinds of beautiful sentiments myself, so there is a great sympathy between us.”",
+          "vernacular": "「嗰你就落後於時代喇,」水鼠講。「而家每個好嘅講故事人都從結尾開始,然後講到開頭,以中間結束。呢個係新方法。前幾天我從一個同一個年輕人繞住池塘散步嘅評論家嗰度聽講咗呢一切。佢好詳細地談論呢件事,我肯定佢一定係對嘅,因為佢戴住藍眼鏡,頭禿喇,每當年輕人發表意見,佢總是回答『呸!』但請繼續你嘅故事。我好鍾意嗰個磨坊主。我自己都有各種各樣嘅美好情感,所以我哋之間有好大嘅共鳴。」",
+          "vernacularMandarin": "「那你就落後於時代了,」水鼠說。「現在每個好的說故事人都從結尾開始,然後講到開頭,以中間結束。這是新方法。前幾天我從一個同一個年輕人繞著池塘散步的評論家那裡聽說了這一切。他非常詳細地談論這件事,我肯定他一定是對的,因為他戴著藍眼鏡,頭禿了,每當年輕人發表意見,他總是回答『呸!』但請繼續你的故事。我非常喜歡那個磨坊主。我自己也有各種各樣的美好情感,所以我們之間有很大的共鳴。」"
+        },
+        {
+          "id": "hp004-30",
+          "original": "“Well,” said the Linnet, hopping now on one leg and now on the other, “as soon as the winter was over, and the primroses began to open their pale yellow stars, the Miller said to his wife that he would go down and see little Hans.",
+          "vernacular": "「嗯,」紅雀講,一會兒單腳跳,一會兒換另一隻腳,「冬天一過,櫻草花開始綻放佢哋淡黃色嘅星星時,磨坊主對妻子講佢要下去睇睇小漢斯。",
+          "vernacularMandarin": "「嗯,」紅雀說,一會兒單腳跳,一會兒換另一隻腳,「冬天一過,櫻草花開始綻放它們淡黃色的星星時,磨坊主對妻子說他要下去看看小漢斯。"
+        },
+        {
+          "id": "hp004-31",
+          "original": "“‘Why, what a good heart you have!’ cried his Wife; ‘you are always thinking of others. And mind you take the big basket with you for the flowers.’",
+          "vernacular": "「『哎呀,你嘅心幾咁好!』佢嘅妻子喊道;『你總是想住別人。記得帶上大籃子裝花。』",
+          "vernacularMandarin": "「『哎呀,你的心多麼好!』他的妻子喊道;『你總是想著別人。記得帶上大籃子裝花。』"
+        },
+        {
+          "id": "hp004-32",
+          "original": "“So the Miller tied the sails of the windmill together with a strong iron chain, and went down the hill with the basket on his arm.",
+          "vernacular": "「於是磨坊主用一條堅固嘅鐵鏈把風車嘅葉片綁喺一起,手臂上挎住籃子下山喇。",
+          "vernacularMandarin": "「於是磨坊主用一條堅固的鐵鏈把風車的葉片綁在一起,手臂上挎著籃子下山了。"
+        },
+        {
+          "id": "hp004-33",
+          "original": "“‘Good morning, little Hans,’ said the Miller.",
+          "vernacular": "「『早安,小漢斯,』磨坊主講。",
+          "vernacularMandarin": "「『早安,小漢斯,』磨坊主說。"
+        },
+        {
+          "id": "hp004-34",
+          "original": "“‘Good morning,’ said Hans, leaning on his spade, and smiling from ear to ear.",
+          "vernacular": "「『早安,』漢斯講,倚住佢嘅鏟子,笑得咧到耳根。",
+          "vernacularMandarin": "「『早安,』漢斯說,倚著他的鏟子,笑得咧到耳根。"
+        },
+        {
+          "id": "hp004-35",
+          "original": "“‘And how have you been all the winter?’ said the Miller.",
+          "vernacular": "「『你整個冬天過得點樣?』磨坊主講。",
+          "vernacularMandarin": "「『你整個冬天過得怎麼樣?』磨坊主說。"
+        },
+        {
+          "id": "hp004-36",
+          "original": "“‘Well, really,’ cried Hans, ‘it is very good of you to ask, very good indeed. I am afraid I had rather a hard time of it, but now the spring has come, and I am quite happy, and all my flowers are doing well.’",
+          "vernacular": "「『講真嘅,』漢斯喊道,『你肯問,真係太好喇,真嘅太好喇。我恐怕過得相當艱難,但而家春天嚟喇,我好快樂,我所有嘅花都長得好好。』",
+          "vernacularMandarin": "「『說真的,』漢斯喊道,『你肯問,真是太好了,真的太好了。我恐怕過得相當艱難,但現在春天來了,我很快樂,我所有的花都長得很好。』"
+        },
+        {
+          "id": "hp004-37",
+          "original": "“‘We often talked of you during the winter, Hans,’ said the Miller, ‘and wondered how you were getting on.’",
+          "vernacular": "「『冬天我哋常常談起你,漢斯,』磨坊主講,『想知道你過得點樣。』",
+          "vernacularMandarin": "「『冬天我們常常談起你,漢斯,』磨坊主說,『想知道你過得怎樣。』"
+        },
+        {
+          "id": "hp004-38",
+          "original": "“‘That was kind of you,’ said Hans; ‘I was half afraid you had forgotten me.’",
+          "vernacular": "「『你哋真好,』漢斯講;『我有一半怕你哋忘咗我。』",
+          "vernacularMandarin": "「『你們真好,』漢斯說;『我有一半怕你們忘了我。』"
+        },
+        {
+          "id": "hp004-39",
+          "original": "“‘Hans, I am surprised at you,’ said the Miller; ‘friendship never forgets. That is the wonderful thing about it, but I am afraid you don’t understand the poetry of life. How lovely your primroses are looking, by-the-bye!”",
+          "vernacular": "「『漢斯,你真讓我驚訝,』磨坊主講;『友誼從唔會忘記。嗰個係佢奇妙嘅地方,但我恐怕你不懂生活嘅詩意。順便講一句,你嘅櫻草花睇起嚟幾咁可愛!』",
+          "vernacularMandarin": "「『漢斯,你真讓我驚訝,』磨坊主說;『友誼從不會忘記。那是它奇妙的地方,但我恐怕你不懂生活的詩意。順便說一句,你的櫻草花看起來多麼可愛!』"
+        },
+        {
+          "id": "hp004-40",
+          "original": "“‘They are certainly very lovely,’ said Hans, ‘and it is a most lucky thing for me that I have so many. I am going to bring them into the market and sell them to the Burgomaster’s daughter, and buy back my wheelbarrow with the money.’",
+          "vernacular": "「『佢哋確實好可愛,』漢斯講,『我有咁多,對我係極其幸運嘅事。我要把佢哋攞到市場上賣畀市長嘅女兒,用嗰筆錢把我嘅手推車買回嚟。』",
+          "vernacularMandarin": "「『它們確實很可愛,』漢斯說,『我有這麼多,對我是極其幸運的事。我要把它們拿到市場上賣給市長的女兒,用那筆錢把我的手推車買回來。』"
+        },
+        {
+          "id": "hp004-41",
+          "original": "“‘Buy back your wheelbarrow? You don’t mean to say you have sold it? What a very stupid thing to do!’",
+          "vernacular": "「『把你嘅手推車買回嚟?你唔係講你把佢賣咗吧?嗰個係幾咁愚蠢嘅事!』",
+          "vernacularMandarin": "「『把你的手推車買回來?你不是說你把它賣了吧?那是多麼愚蠢的事!』"
+        },
+        {
+          "id": "hp004-42",
+          "original": "“‘Well, the fact is,’ said Hans, ‘that I was obliged to. You see the winter was a very bad time for me, and I really had no money at all to buy bread with. So I first sold the silver buttons off my Sunday coat, and then I sold my silver chain, and then I sold my big pipe, and at last I sold my wheelbarrow. But I am going to buy them all back again now.’",
+          "vernacular": "「『嗯,事實係,』漢斯講,『我唔得不賣。你睇冬天對我係好艱難嘅時期,我真嘅啲錢都冇買麵包。所以我先賣咗我星期日外套上嘅銀鈕扣,然後賣咗我嘅銀鏈子,然後賣咗我嘅大菸斗,最後賣咗我嘅手推車。但我而家要把佢哋都買回嚟。』",
+          "vernacularMandarin": "「『嗯,事實是,』漢斯說,『我不得不賣。你看冬天對我是很艱難的時期,我真的一點錢也沒有買麵包。所以我先賣了我星期日外套上的銀鈕扣,然後賣了我的銀鏈子,然後賣了我的大菸斗,最後賣了我的手推車。但我現在要把它們都買回來。』"
+        },
+        {
+          "id": "hp004-43",
+          "original": "“‘Hans,’ said the Miller, ‘I will give you my wheelbarrow. It is not in very good repair; indeed, one side is gone, and there is something wrong with the wheel-spokes; but in spite of that I will give it to you. I know it is very generous of me, and a great many people would think me extremely foolish for parting with it, but I am not like the rest of the world. I think that generosity is the essence of friendship, and, besides, I have got a new wheelbarrow for myself. Yes, you may set your mind at ease, I will give you my wheelbarrow.’",
+          "vernacular": "「『漢斯,』磨坊主講,『我把我嘅手推車畀你。佢修得不太好;確實,一邊冇喇,輻條都有點毛病;但儘管如此我定係把佢畀你。我知道呢對我來講好慷慨,好多人會認為我把佢送出去極其愚蠢,但我不像世上其他人。我認為慷慨係友誼嘅本質,而且,我畀自己有咗一輛新手推車。係嘅,你可以放心,我把我嘅手推車畀你。』",
+          "vernacularMandarin": "「『漢斯,』磨坊主說,『我把我的手推車給你。它修得不太好;確實,一邊沒了,輻條也有點毛病;但儘管如此我還是把它給你。我知道這對我來說非常慷慨,很多人會認為我把它送出去極其愚蠢,但我不像世上其他人。我認為慷慨是友誼的本質,而且,我給自己有了一輛新手推車。是的,你可以放心,我把我的手推車給你。』"
+        },
+        {
+          "id": "hp004-44",
+          "original": "“‘Well, really, that is generous of you,’ said little Hans, and his funny round face glowed all over with pleasure. ‘I can easily put it in repair, as I have a plank of wood in the house.’",
+          "vernacular": "「『嗯,真嘅,你太慷慨喇,』小漢斯講,佢滑稽嘅圓臉上洋溢住喜悅。『我可以輕易把佢修好,因為我家裡有一塊木板。』",
+          "vernacularMandarin": "「『嗯,真的,你太慷慨了,』小漢斯說,他滑稽的圓臉上洋溢著喜悅。『我可以輕易把它修好,因為我家裡有一塊木板。』"
+        },
+        {
+          "id": "hp004-45",
+          "original": "“‘A plank of wood!’ said the Miller; ‘why, that is just what I want for the roof of my barn. There is a very large hole in it, and the corn will all get damp if I don’t stop it up. How lucky you mentioned it! It is quite remarkable how one good action always breeds another. I have given you my wheelbarrow, and now you are going to give me your plank. Of course, the wheelbarrow is worth far more than the plank, but true, friendship never notices things like that. Pray get it at once, and I will set to work at my barn this very day.’",
+          "vernacular": "「『一塊木板!』磨坊主講;『哎呀,嗰正是我需要嘅,用嚟修我穀倉嘅屋頂。上面有個好大嘅洞,如果我不把佢堵上,玉米都會受潮。你提起佢真係太巧喇!一件好事總是帶嚟另一件好事,呢真係了不起。我畀咗你我嘅手推車,而家你要畀我你嘅木板。當然,手推車比木板值錢得多,但真正嘅友誼從不注意呢類事。請即刻去攞嚟,我今日就開始修我嘅穀倉。』",
+          "vernacularMandarin": "「『一塊木板!』磨坊主說;『哎呀,那正是我需要的,用來修我穀倉的屋頂。上面有個很大的洞,如果我不把它堵上,玉米都會受潮。你提起它真是太巧了!一件好事總是帶來另一件好事,這真是了不起。我給了你我的手推車,現在你要給我你的木板。當然,手推車比木板值錢得多,但真正的友誼從不注意這類事。請馬上去拿來,我今天就開始修我的穀倉。』"
+        },
+        {
+          "id": "hp004-46",
+          "original": "“‘Certainly,’ cried little Hans, and he ran into the shed and dragged the plank out.",
+          "vernacular": "「『當然,』小漢斯喊道,佢跑進棚子,把木板拖咗出嚟。",
+          "vernacularMandarin": "「『當然,』小漢斯喊道,他跑進棚子,把木板拖了出來。"
+        },
+        {
+          "id": "hp004-47",
+          "original": "“‘It is not a very big plank,’ said the Miller, looking at it, ‘and I am afraid that after I have mended my barn-roof there won’t be any left for you to mend the wheelbarrow with; but, of course, that is not my fault. And now, as I have given you my wheelbarrow, I am sure you would like to give me some flowers in return. Here is the basket, and mind you fill it quite full.’",
+          "vernacular": "「『呢唔係好大嘅木板,』磨坊主睇住佢講,『我恐怕我修完穀倉屋頂後,就唔會剩下任何畀你修手推車喇;但係,當然,呢唔係我嘅錯。而家,既然我畀咗你我嘅手推車,我肯定你想畀我啲花作為回報。籃子喺呢度,記得把佢裝得滿滿嘅。』",
+          "vernacularMandarin": "「『這不是很大的木板,』磨坊主看著它說,『我恐怕我修完穀倉屋頂後,就不會剩下任何給你修手推車了;但是,當然,這不是我的錯。現在,既然我給了你我的手推車,我肯定你想給我一些花作為回報。籃子在這裡,記得把它裝得滿滿的。』"
+        },
+        {
+          "id": "hp004-48",
+          "original": "“‘Quite full?’ said little Hans, rather sorrowfully, for it was really a very big basket, and he knew that if he filled it he would have no flowers left for the market and he was very anxious to get his silver buttons back.",
+          "vernacular": "「『裝得滿滿嘅?』小漢斯相當悲傷地講,因為嗰確實係個好大嘅籃子,佢知道如果佢裝滿喇,佢就冇花攞到市場去喇,而佢好想把佢嘅銀鈕扣買回嚟。",
+          "vernacularMandarin": "「『裝得滿滿的?』小漢斯相當悲傷地說,因為那確實是個很大的籃子,他知道如果他裝滿了,他就沒有花拿到市場去了,而他非常想把他的銀鈕扣買回來。"
+        },
+        {
+          "id": "hp004-49",
+          "original": "“‘Well, really,’ answered the Miller, ‘as I have given you my wheelbarrow, I don’t think that it is much to ask you for a few flowers. I may be wrong, but I should have thought that friendship, true friendship, was quite free from selfishness of any kind.’",
+          "vernacular": "「『嗯,真嘅,』磨坊主回答,『既然我畀咗你我嘅手推車,我不認為向你要幾朵花算得上要求好多。我可能錯喇,但我本以為友誼,真正嘅友誼,係完全冇任何自私嘅。』",
+          "vernacularMandarin": "「『嗯,真的,』磨坊主回答,『既然我給了你我的手推車,我不認為向你要幾朵花算得上要求很多。我可能錯了,但我本以為友誼,真正的友誼,是完全沒有任何自私的。』"
+        },
+        {
+          "id": "hp004-50",
+          "original": "“‘My dear friend, my best friend,’ cried little Hans, ‘you are welcome to all the flowers in my garden. I would much sooner have your good opinion than my silver buttons, any day’; and he ran and plucked all his pretty primroses, and filled the Miller’s basket.",
+          "vernacular": "「『我親愛嘅朋友,我最好嘅朋友,』小漢斯喊道,『我花園裡所有嘅花你都歡迎攞。我寧願要你嘅好評價,都唔好我嘅銀鈕扣,任何時候都係』;佢跑去摘下所有漂亮嘅櫻草花,裝滿咗磨坊主嘅籃子。",
+          "vernacularMandarin": "「『我親愛的朋友,我最好的朋友,』小漢斯喊道,『我花園裡所有的花你都歡迎拿。我寧願要你的好評價,也不要我的銀鈕扣,任何時候都是』;他跑去摘下所有漂亮的櫻草花,裝滿了磨坊主的籃子。"
+        },
+        {
+          "id": "hp004-51",
+          "original": "“‘Good-bye, little Hans,’ said the Miller, as he went up the hill with the plank on his shoulder, and the big basket in his hand.",
+          "vernacular": "「『再見,小漢斯,』磨坊主講,肩上扛住木板,手裡拎住大籃子走上山去。",
+          "vernacularMandarin": "「『再見,小漢斯,』磨坊主說,肩上扛著木板,手裡拎著大籃子走上山去。"
+        },
+        {
+          "id": "hp004-52",
+          "original": "“‘Good-bye,’ said little Hans, and he began to dig away quite merrily, he was so pleased about the wheelbarrow.",
+          "vernacular": "「『再見,』小漢斯講,佢開始相當歡快地挖地,佢為手推車嘅事咁高興。",
+          "vernacularMandarin": "「『再見,』小漢斯說,他開始相當歡快地挖地,他為手推車的事那麼高興。"
+        },
+        {
+          "id": "hp004-53",
+          "original": "“The next day he was nailing up some honeysuckle against the porch, when he heard the Miller’s voice calling to him from the road. So he jumped off the ladder, and ran down the garden, and looked over the wall.",
+          "vernacular": "「第二天佢正在門廊上釘忍冬藤,聽到磨坊主嘅聲音從路上叫佢。於是佢從梯子上跳下嚟,跑下花園,從牆上往外睇。",
+          "vernacularMandarin": "「第二天他正在門廊上釘忍冬藤,聽到磨坊主的聲音從路上叫他。於是他從梯子上跳下來,跑下花園,從牆上往外看。"
+        },
+        {
+          "id": "hp004-54",
+          "original": "“There was the Miller with a large sack of flour on his back.",
+          "vernacular": "「磨坊主背住一大袋麵粉站喺嗰度。",
+          "vernacularMandarin": "「磨坊主背著一大袋麵粉站在那裡。"
+        },
+        {
+          "id": "hp004-55",
+          "original": "“‘Dear little Hans,’ said the Miller, ‘would you mind carrying this sack of flour for me to market?’",
+          "vernacular": "「『親愛嘅小漢斯,』磨坊主講,『你介意替我把呢袋麵粉背到市場去嗎?』",
+          "vernacularMandarin": "「『親愛的小漢斯,』磨坊主說,『你介意替我把這袋麵粉背到市場去嗎?』"
+        },
+        {
+          "id": "hp004-56",
+          "original": "“‘Oh, I am so sorry,’ said Hans, ‘but I am really very busy to-day. I have got all my creepers to nail up, and all my flowers to water, and all my grass to roll.’",
+          "vernacular": "「『哦,我好抱歉,』漢斯講,『但我今日真嘅好忙。我有所有嘅攀緣植物要釘,所有嘅花要澆水,所有嘅草要碾平。』",
+          "vernacularMandarin": "「『哦,我很抱歉,』漢斯說,『但我今天真的很忙。我有所有的攀緣植物要釘,所有的花要澆水,所有的草要碾平。』"
+        },
+        {
+          "id": "hp004-57",
+          "original": "“‘Well, really,’ said the Miller, ‘I think that, considering that I am going to give you my wheelbarrow, it is rather unfriendly of you to refuse.’",
+          "vernacular": "「『嗯,真嘅,』磨坊主講,『我想,考慮到我要畀你我嘅手推車,你拒絕係相當不友好嘅。』",
+          "vernacularMandarin": "「『嗯,真的,』磨坊主說,『我想,考慮到我要給你我的手推車,你拒絕是相當不友好的。』"
+        },
+        {
+          "id": "hp004-58",
+          "original": "“‘Oh, don’t say that,’ cried little Hans, ‘I wouldn’t be unfriendly for the whole world’; and he ran in for his cap, and trudged off with the big sack on his shoulders.",
+          "vernacular": "「『哦,別咁講,』小漢斯喊道,『我為全世界都唔願不友好』;佢跑進去攞帽子,肩上扛住大袋子艱難地走喇。",
+          "vernacularMandarin": "「『哦,別這麼說,』小漢斯喊道,『我為全世界也不願不友好』;他跑進去拿帽子,肩上扛著大袋子艱難地走了。"
+        },
+        {
+          "id": "hp004-59",
+          "original": "“It was a very hot day, and the road was terribly dusty, and before Hans had reached the sixth milestone he was so tired that he had to sit down and rest. However, he went on bravely, and as last he reached the market. After he had waited there some time, he sold the sack of flour for a very good price, and then he returned home at once, for he was afraid that if he stopped too late he might meet some robbers on the way.",
+          "vernacular": "「嗰天好熱,路上塵土飛揚,漢斯仲冇走到第六塊里程碑就累得唔得不坐下休息。不過佢勇敢地繼續走,最後到咗市場。喺嗰度等咗一會兒後,佢以好好嘅價錢賣咗嗰袋麵粉,然後即刻回家,因為佢怕如果太晚停留,可能喺路上遇到強盜。",
+          "vernacularMandarin": "「那天很熱,路上塵土飛揚,漢斯還沒走到第六塊里程碑就累得不得不坐下休息。不過他勇敢地繼續走,最後到了市場。在那裡等了一會兒後,他以很好的價錢賣了那袋麵粉,然後馬上回家,因為他怕如果太晚停留,可能在路上遇到強盜。"
+        },
+        {
+          "id": "hp004-60",
+          "original": "“‘It has certainly been a hard day,’ said little Hans to himself as he was going to bed, ‘but I am glad I did not refuse the Miller, for he is my best friend, and, besides, he is going to give me his wheelbarrow.’",
+          "vernacular": "「『呢確實係辛苦嘅一天,』小漢斯上床時對自己講,『但我好高興我冇拒絕磨坊主,因為佢係我最好嘅朋友,而且,佢要畀我佢嘅手推車。』",
+          "vernacularMandarin": "「『這確實是辛苦的一天,』小漢斯上床時對自己說,『但我很高興我沒有拒絕磨坊主,因為他是我最好的朋友,而且,他要給我他的手推車。』"
+        },
+        {
+          "id": "hp004-61",
+          "original": "“Early the next morning the Miller came down to get the money for his sack of flour, but little Hans was so tired that he was still in bed.",
+          "vernacular": "「第二天一早,磨坊主下嚟攞佢嗰袋麵粉嘅錢,但小漢斯太累喇,仲喺床上。",
+          "vernacularMandarin": "「第二天一早,磨坊主下來拿他那袋麵粉的錢,但小漢斯太累了,還在床上。"
+        },
+        {
+          "id": "hp004-62",
+          "original": "“‘Upon my word,’ said the Miller, ‘you are very lazy. Really, considering that I am going to give you my wheelbarrow, I think you might work harder. Idleness is a great sin, and I certainly don’t like any of my friends to be idle or sluggish. You must not mind my speaking quite plainly to you. Of course I should not dream of doing so if I were not your friend. But what is the good of friendship if one cannot say exactly what one means? Anybody can say charming things and try to please and to flatter, but a true friend always says unpleasant things, and does not mind giving pain. Indeed, if he is a really true friend he prefers it, for he knows that then he is doing good.’",
+          "vernacular": "「『講真嘅,』磨坊主講,『你太懶喇。真嘅,考慮到我要畀你我嘅手推車,我想你應該更努力工作。懶惰係好大嘅罪,我當然不鍾意我嘅任何朋友懶惰或遲鈍。你唔好介意我對你講得相當直白。當然如果我唔係你嘅朋友,我做夢都唔會咁樣做。但如果唔能夠講出自己嘅真正意思,友誼有乜嘢好處?任何人都可以講迷人嘅話,試圖取悅同奉承,但真正嘅朋友總是講不愉快嘅話,不介意畀人痛苦。確實,如果佢係真正嘅朋友,佢更鍾意咁樣,因為佢知道嗰樣佢係喺做好事。』",
+          "vernacularMandarin": "「『說真的,』磨坊主說,『你太懶了。真的,考慮到我要給你我的手推車,我想你應該更努力工作。懶惰是很大的罪,我當然不喜歡我的任何朋友懶惰或遲鈍。你不要介意我對你說得相當直白。當然如果我不是你的朋友,我做夢也不會這樣做。但如果不能說出自己的真正意思,友誼有什麼好處?任何人都可以說迷人的話,試圖取悅和奉承,但真正的朋友總是說不愉快的話,不介意給人痛苦。確實,如果他是真正的朋友,他更喜歡這樣,因為他知道那樣他是在做好事。』"
+        },
+        {
+          "id": "hp004-63",
+          "original": "“‘I am very sorry,’ said little Hans, rubbing his eyes and pulling off his night-cap, ‘but I was so tired that I thought I would lie in bed for a little time, and listen to the birds singing. Do you know that I always work better after hearing the birds sing?’",
+          "vernacular": "「『我好抱歉,』小漢斯講,揉住眼睛,脫下瞓帽,『但我太累喇,我想我可以喺床上躺一小會兒,聽鳥唱歌。你知道我聽咗鳥唱歌後總是工作得更好嗎?』",
+          "vernacularMandarin": "「『我很抱歉,』小漢斯說,揉著眼睛,脫下睡帽,『但我太累了,我想我可以在床上躺一小會兒,聽鳥唱歌。你知道我聽了鳥唱歌後總是工作得更好嗎?』"
+        },
+        {
+          "id": "hp004-64",
+          "original": "“‘Well, I am glad of that,’ said the Miller, clapping little Hans on the back, ‘for I want you to come up to the mill as soon as you are dressed, and mend my barn-roof for me.’",
+          "vernacular": "「『嗯,我好高興聽到呢個,』磨坊主講,拍咗拍小漢斯嘅背,『因為我要你穿好衣服就到磨坊嚟,幫我修穀倉屋頂。』",
+          "vernacularMandarin": "「『嗯,我很高興聽到這個,』磨坊主說,拍了拍小漢斯的背,『因為我要你穿好衣服就到磨坊來,幫我修穀倉屋頂。』"
+        },
+        {
+          "id": "hp004-65",
+          "original": "“Poor little Hans was very anxious to go and work in his garden, for his flowers had not been watered for two days, but he did not like to refuse the Miller, as he was such a good friend to him.",
+          "vernacular": "「可憐嘅小漢斯好想去佢嘅花園工作,因為佢嘅花已經兩天冇澆水喇,但佢唔願拒絕磨坊主,因為佢對佢係咁好嘅朋友。",
+          "vernacularMandarin": "「可憐的小漢斯非常想去他的花園工作,因為他的花已經兩天沒澆水了,但他不願拒絕磨坊主,因為他對他是這麼好的朋友。"
+        },
+        {
+          "id": "hp004-66",
+          "original": "“‘Do you think it would be unfriendly of me if I said I was busy?’ he inquired in a shy and timid voice.",
+          "vernacular": "「『你認為如果我講我好忙,會不友好嗎?』佢用羞怯膽小嘅聲音問。",
+          "vernacularMandarin": "「『你認為如果我說我很忙,會不友好嗎?』他用羞怯膽小的聲音問。"
+        },
+        {
+          "id": "hp004-67",
+          "original": "“‘Well, really,’ answered the Miller, ‘I do not think it is much to ask of you, considering that I am going to give you my wheelbarrow; but of course if you refuse I will go and do it myself.’",
+          "vernacular": "「『嗯,真嘅,』磨坊主回答,『考慮到我要畀你我嘅手推車,我不認為呢個係好多要求;不過當然如果你拒絕,我自己去做。』",
+          "vernacularMandarin": "「『嗯,真的,』磨坊主回答,『考慮到我要給你我的手推車,我不認為這是很多要求;不過當然如果你拒絕,我自己去做。』"
+        },
+        {
+          "id": "hp004-68",
+          "original": "“‘Oh! on no account,’ cried little Hans and he jumped out of bed, and dressed himself, and went up to the barn.",
+          "vernacular": "「『哦!絕不,』小漢斯喊道,佢跳下床,穿好衣服,去咗穀倉。",
+          "vernacularMandarin": "「『哦!絕不,』小漢斯喊道,他跳下床,穿好衣服,去了穀倉。"
+        },
+        {
+          "id": "hp004-69",
+          "original": "“He worked there all day long, till sunset, and at sunset the Miller came to see how he was getting on.",
+          "vernacular": "「佢喺嗰度工作咗一整天,直到日落,日落時磨坊主嚟睇佢做得點樣喇。",
+          "vernacularMandarin": "「他在那裡工作了一整天,直到日落,日落時磨坊主來看他做得怎樣了。"
+        },
+        {
+          "id": "hp004-70",
+          "original": "“‘Have you mended the hole in the roof yet, little Hans?’ cried the Miller in a cheery voice.",
+          "vernacular": "「『你修好屋頂上嘅洞咗嗎,小漢斯?』磨坊主用愉快嘅聲音喊道。",
+          "vernacularMandarin": "「『你修好屋頂上的洞了嗎,小漢斯?』磨坊主用愉快的聲音喊道。"
+        },
+        {
+          "id": "hp004-71",
+          "original": "“‘It is quite mended,’ answered little Hans, coming down the ladder.",
+          "vernacular": "「『完全修好喇,』小漢斯從梯子上下嚟回答。",
+          "vernacularMandarin": "「『完全修好了,』小漢斯從梯子上下來回答。"
+        },
+        {
+          "id": "hp004-72",
+          "original": "“‘Ah!’ said the Miller, ‘there is no work so delightful as the work one does for others.’",
+          "vernacular": "「『啊!』磨坊主講,『冇乜嘢工作比為別人做嘅更令人愉快喇。』",
+          "vernacularMandarin": "「『啊!』磨坊主說,『沒有什麼工作比為別人做的更令人愉快了。』"
+        },
+        {
+          "id": "hp004-73",
+          "original": "“‘It is certainly a great privilege to hear you talk,’ answered little Hans, sitting down, and wiping his forehead, ‘a very great privilege. But I am afraid I shall never have such beautiful ideas as you have.’",
+          "vernacular": "「『聽你講話確實係好大嘅榮幸,』小漢斯坐下嚟,擦住額頭回答,『好大嘅榮幸。但我怕我永遠唔會有像你嗰樣美嘅想法。』",
+          "vernacularMandarin": "「『聽你說話確實是很大的榮幸,』小漢斯坐下來,擦著額頭回答,『非常大的榮幸。但我怕我永遠不會有像你那樣美的想法。』"
+        },
+        {
+          "id": "hp004-74",
+          "original": "“‘Oh! they will come to you,’ said the Miller, ‘but you must take more pains. At present you have only the practice of friendship; some day you will have the theory also.’",
+          "vernacular": "「『哦!佢哋會嚟嘅,』磨坊主講,『但你必須更努力。目前你只有友誼嘅實踐;有一天你都會有理論。』",
+          "vernacularMandarin": "「『哦!它們會來的,』磨坊主說,『但你必須更努力。目前你只有友誼的實踐;有一天你也會有理論。』"
+        },
+        {
+          "id": "hp004-75",
+          "original": "“‘Do you really think I shall?’ asked little Hans.",
+          "vernacular": "「『你真嘅認為我會嗎?』小漢斯問。",
+          "vernacularMandarin": "「『你真的認為我會嗎?』小漢斯問。"
+        },
+        {
+          "id": "hp004-76",
+          "original": "“‘I have no doubt of it,’ answered the Miller, ‘but now that you have mended the roof, you had better go home and rest, for I want you to drive my sheep to the mountain to-morrow.’",
+          "vernacular": "「『我毫不懷疑,』磨坊主回答,『但而家你修好咗屋頂,你最好回家休息,因為我要你聽日把我嘅羊趕到山上去。』",
+          "vernacularMandarin": "「『我毫不懷疑,』磨坊主回答,『但現在你修好了屋頂,你最好回家休息,因為我要你明天把我的羊趕到山上去。』"
+        },
+        {
+          "id": "hp004-77",
+          "original": "“Poor little Hans was afraid to say anything to this, and early the next morning the Miller brought his sheep round to the cottage, and Hans started off with them to the mountain. It took him the whole day to get there and back; and when he returned he was so tired that he went off to sleep in his chair, and did not wake up till it was broad daylight.",
+          "vernacular": "「可憐嘅小漢斯唔敢對此講乜嘢,第二天一早,磨坊主把羊趕到茅屋,漢斯趕住牠哋往山上去。佢嚟回花咗一整天;佢回嚟時累得喺椅子上瞓住喇,直到大白天才醒。",
+          "vernacularMandarin": "「可憐的小漢斯不敢對此說什麼,第二天一早,磨坊主把羊趕到茅屋,漢斯趕著牠們往山上去。他來回花了一整天;他回來時累得在椅子上睡著了,直到大白天才醒。"
+        },
+        {
+          "id": "hp004-78",
+          "original": "“‘What a delightful time I shall have in my garden,’ he said, and he went to work at once.",
+          "vernacular": "「『我喺花園裡會度過幾咁愉快嘅時光,』佢講,即刻開始工作。",
+          "vernacularMandarin": "「『我在花園裡會度過多麼愉快的時光,』他說,馬上開始工作。"
+        },
+        {
+          "id": "hp004-79",
+          "original": "“But somehow he was never able to look after his flowers at all, for his friend the Miller was always coming round and sending him off on long errands, or getting him to help at the mill. Little Hans was very much distressed at times, as he was afraid his flowers would think he had forgotten them, but he consoled himself by the reflection that the Miller was his best friend. ‘Besides,’ he used to say, ‘he is going to give me his wheelbarrow, and that is an act of pure generosity.’",
+          "vernacular": "「但唔知怎嘅,佢始終冇能照顧自己嘅花,因為佢嘅朋友磨坊主總是過嚟,派佢去辦長途差事,或者叫佢去磨坊幫忙。小漢斯有時好苦惱,因為怕佢嘅花會以為佢忘咗佢哋,但佢通過想住磨坊主係佢最好嘅朋友嚟安慰自己。『而且,』佢常講,『佢要畀我佢嘅手推車,嗰個係純粹慷慨嘅行為。』",
+          "vernacularMandarin": "「但不知怎的,他始終沒能照顧自己的花,因為他的朋友磨坊主總是過來,派他去辦長途差事,或者叫他去磨坊幫忙。小漢斯有時非常苦惱,因為怕他的花會以為他忘了它們,但他通過想著磨坊主是他最好的朋友來安慰自己。『而且,』他常說,『他要給我他的手推車,那是純粹慷慨的行為。』"
+        },
+        {
+          "id": "hp004-80",
+          "original": "“So little Hans worked away for the Miller, and the Miller said all kinds of beautiful things about friendship, which Hans took down in a note-book, and used to read over at night, for he was a very good scholar.",
+          "vernacular": "「於是小漢斯為磨坊主辛勤工作,磨坊主講咗各種關於友誼嘅美麗話語,漢斯把佢哋記喺筆記本裡,晚上常常重讀,因為佢係個好好嘅學生。",
+          "vernacularMandarin": "「於是小漢斯為磨坊主辛勤工作,磨坊主說了各種關於友誼的美麗話語,漢斯把它們記在筆記本裡,晚上常常重讀,因為他是個很好的學生。"
+        },
+        {
+          "id": "hp004-81",
+          "original": "“Now it happened that one evening little Hans was sitting by his fireside when a loud rap came at the door. It was a very wild night, and the wind was blowing and roaring round the house so terribly that at first he thought it was merely the storm. But a second rap came, and then a third, louder than any of the others.",
+          "vernacular": "「有一天晚上,小漢斯正坐喺火爐邊,門上傳嚟一聲大響。嗰個係個狂風大作嘅夜晚,風喺屋子周圍呼嘯咆哮,咁可怕,起初佢以為嗰只係風暴。但第二下敲門嚟喇,然後係第三下,比其他嘅都響。",
+          "vernacularMandarin": "「有一天晚上,小漢斯正坐在火爐邊,門上傳來一聲大響。那是個狂風大作的夜晚,風在屋子周圍呼嘯咆哮,那麼可怕,起初他以為那只是風暴。但第二下敲門來了,然後是第三下,比其他的都響。"
+        },
+        {
+          "id": "hp004-82",
+          "original": "“‘It is some poor traveller,’ said little Hans to himself, and he ran to the door.",
+          "vernacular": "「『係某個可憐嘅旅人,』小漢斯對自己講,佢跑到門口。",
+          "vernacularMandarin": "「『是某個可憐的旅人,』小漢斯對自己說,他跑到門口。"
+        },
+        {
+          "id": "hp004-83",
+          "original": "“There stood the Miller with a lantern in one hand and a big stick in the other.",
+          "vernacular": "「磨坊主站喺嗰度,一手提住燈籠,另一手攞住大棍子。",
+          "vernacularMandarin": "「磨坊主站在那裡,一手提著燈籠,另一手拿著大棍子。"
+        },
+        {
+          "id": "hp004-84",
+          "original": "“‘Dear little Hans,’ cried the Miller, ‘I am in great trouble. My little boy has fallen off a ladder and hurt himself, and I am going for the Doctor. But he lives so far away, and it is such a bad night, that it has just occurred to me that it would be much better if you went instead of me. You know I am going to give you my wheelbarrow, and so, it is only fair that you should do something for me in return.’",
+          "vernacular": "「『親愛嘅小漢斯,』磨坊主喊道,『我遇到大麻煩喇。我嘅小兒子從梯子上摔下嚟受傷喇,我要去找醫生。但佢住得咁遠,夜晚咁糟,我剛想到,如果你替我去,會好得多。你知道我要畀你我嘅手推車,所以,你為我做點乜嘢作為回報,係公平嘅。』",
+          "vernacularMandarin": "「『親愛的小漢斯,』磨坊主喊道,『我遇到大麻煩了。我的小兒子從梯子上摔下來受傷了,我要去找醫生。但他住得那麼遠,夜晚這麼糟,我剛想到,如果你替我去,會好得多。你知道我要給你我的手推車,所以,你為我做點什麼作為回報,是公平的。』"
+        },
+        {
+          "id": "hp004-85",
+          "original": "“‘Certainly,’ cried little Hans, ‘I take it quite as a compliment your coming to me, and I will start off at once. But you must lend me your lantern, as the night is so dark that I am afraid I might fall into the ditch.’",
+          "vernacular": "「『當然,』小漢斯喊道,『你嚟找我,我把佢當作一種恭維,我即刻就出發。但你必須把你嘅燈籠借畀我,因為夜晚咁黑,我怕會掉進溝裡。』",
+          "vernacularMandarin": "「『當然,』小漢斯喊道,『你來找我,我把它當作一種恭維,我馬上就出發。但你必須把你的燈籠借給我,因為夜晚這麼黑,我怕會掉進溝裡。』"
+        },
+        {
+          "id": "hp004-86",
+          "original": "“‘I am very sorry,’ answered the Miller, ‘but it is my new lantern, and it would be a great loss to me if anything happened to it.’",
+          "vernacular": "「『我好抱歉,』磨坊主回答,『但佢係我嘅新燈籠,如果佢出咗乜嘢事,對我係好大嘅損失。』",
+          "vernacularMandarin": "「『我很抱歉,』磨坊主回答,『但它是我的新燈籠,如果它出了什麼事,對我是很大的損失。』"
+        },
+        {
+          "id": "hp004-87",
+          "original": "“‘Well, never mind, I will do without it,’ cried little Hans, and he took down his great fur coat, and his warm scarlet cap, and tied a muffler round his throat, and started off.",
+          "vernacular": "「『好吧,冇關係,我唔使佢,』小漢斯喊道,佢取下佢嘅大皮大衣同暖同嘅猩紅色帽子,喺喉嚨上繫咗一條圍巾,出發喇。",
+          "vernacularMandarin": "「『好吧,沒關係,我不用它,』小漢斯喊道,他取下他的大皮大衣和暖和的猩紅色帽子,在喉嚨上繫了一條圍巾,出發了。"
+        },
+        {
+          "id": "hp004-88",
+          "original": "“What a dreadful storm it was! The night was so black that little Hans could hardly see, and the wind was so strong that he could scarcely stand. However, he was very courageous, and after he had been walking about three hours, he arrived at the Doctor’s house, and knocked at the door.",
+          "vernacular": "「嗰個係幾咁可怕嘅暴風雨!夜晚咁黑,小漢斯幾乎睇唔見,風咁強,佢幾乎站不住。不過,佢好勇敢,走咗大約三個小時後,佢到咗醫生家,敲咗門。",
+          "vernacularMandarin": "「那是多麼可怕的暴風雨!夜晚那麼黑,小漢斯幾乎看不見,風那麼強,他幾乎站不住。不過,他非常勇敢,走了大約三個小時後,他到了醫生家,敲了門。"
+        },
+        {
+          "id": "hp004-89",
+          "original": "“‘Who is there?’ cried the Doctor, putting his head out of his bedroom window.",
+          "vernacular": "「『邊個喺嗰度?』醫生從臥室窗口探出頭喊道。",
+          "vernacularMandarin": "「『誰在那裡?』醫生從臥室窗口探出頭喊道。"
+        },
+        {
+          "id": "hp004-90",
+          "original": "“‘Little Hans, Doctor.’",
+          "vernacular": "「『小漢斯,醫生。』",
+          "vernacularMandarin": "「『小漢斯,醫生。』"
+        },
+        {
+          "id": "hp004-91",
+          "original": "“’What do you want, little Hans?’",
+          "vernacular": "「『你要乜嘢,小漢斯?』",
+          "vernacularMandarin": "「『你要什麼,小漢斯?』"
+        },
+        {
+          "id": "hp004-92",
+          "original": "“‘The Miller’s son has fallen from a ladder, and has hurt himself, and the Miller wants you to come at once.’",
+          "vernacular": "「『磨坊主嘅兒子從梯子上摔下嚟受傷喇,磨坊主要你即刻去。』",
+          "vernacularMandarin": "「『磨坊主的兒子從梯子上摔下來受傷了,磨坊主要你馬上去。』"
+        },
+        {
+          "id": "hp004-93",
+          "original": "“‘All right!’ said the Doctor; and he ordered his horse, and his big boots, and his lantern, and came downstairs, and rode off in the direction of the Miller’s house, little Hans trudging behind him.",
+          "vernacular": "「『好嘅!』醫生講;佢叫人備馬,穿上大靴子,攞住燈籠,下樓,騎馬向磨坊主家嘅方向去,小漢斯艱難地跟喺佢後面。",
+          "vernacularMandarin": "「『好的!』醫生說;他叫人備馬,穿上大靴子,拿著燈籠,下樓,騎馬向磨坊主家的方向去,小漢斯艱難地跟在他後面。"
+        },
+        {
+          "id": "hp004-94",
+          "original": "“But the storm grew worse and worse, and the rain fell in torrents, and little Hans could not see where he was going, or keep up with the horse. At last he lost his way, and wandered off on the moor, which was a very dangerous place, as it was full of deep holes, and there poor little Hans was drowned. His body was found the next day by some goatherds, floating in a great pool of water, and was brought back by them to the cottage.",
+          "vernacular": "「但暴風雨越嚟越大,大雨傾盆,小漢斯睇唔見往邊度走,都跟不上馬。最後佢迷咗路,漫遊到荒原上,嗰個係個好危險嘅地方,滿係深洞,可憐嘅小漢斯就淹死喺嗰度。第二天佢嘅屍體被啲牧羊人發現,漂喺一大灘水裡,佢哋把佢帶回茅屋。",
+          "vernacularMandarin": "「但暴風雨越來越大,大雨傾盆,小漢斯看不見往哪裡走,也跟不上馬。最後他迷了路,漫遊到荒原上,那是個非常危險的地方,滿是深洞,可憐的小漢斯就淹死在那裡。第二天他的屍體被一些牧羊人發現,漂在一大灘水裡,他們把他帶回茅屋。"
+        },
+        {
+          "id": "hp004-95",
+          "original": "“Everybody went to little Hans’ funeral, as he was so popular, and the Miller was the chief mourner.",
+          "vernacular": "「每個人都去參加小漢斯嘅葬禮,因為佢咁受歡迎,磨坊主係主要嘅送葬者。",
+          "vernacularMandarin": "「每個人都去參加小漢斯的葬禮,因為他那麼受歡迎,磨坊主是主要的送葬者。"
+        },
+        {
+          "id": "hp004-96",
+          "original": "“‘As I was his best friend,’ said the Miller, ‘it is only fair that I should have the best place’; so he walked at the head of the procession in a long black cloak, and every now and then he wiped his eyes with a big pocket-handkerchief.",
+          "vernacular": "「『因為我係佢最好嘅朋友,』磨坊主講,『我應該有最好嘅位置才公平』;於是佢穿住長長嘅黑斗篷走喺送葬隊伍前面,不時用大手帕擦眼睛。",
+          "vernacularMandarin": "「『因為我是他最好的朋友,』磨坊主說,『我應該有最好的位置才公平』;於是他穿著長長的黑斗篷走在送葬隊伍前面,不時用大手帕擦眼睛。"
+        },
+        {
+          "id": "hp004-97",
+          "original": "“‘Little Hans is certainly a great loss to every one,’ said the Blacksmith, when the funeral was over, and they were all seated comfortably in the inn, drinking spiced wine and eating sweet cakes.",
+          "vernacular": "「『小漢斯對每個人都係好大嘅損失,』葬禮結束後,鐵匠講,呢陣佢哋都舒服地坐喺客棧裡,飲住香料酒,食住甜點心。",
+          "vernacularMandarin": "「『小漢斯對每個人都是很大的損失,』葬禮結束後,鐵匠說,這時他們都舒服地坐在客棧裡,喝著香料酒,吃著甜點心。"
+        },
+        {
+          "id": "hp004-98",
+          "original": "“‘A great loss to me at any rate,’ answered the Miller; ‘why, I had as good as given him my wheelbarrow, and now I really don’t know what to do with it. It is very much in my way at home, and it is in such bad repair that I could not get anything for it if I sold it. I will certainly take care not to give away anything again. One always suffers for being generous.’”",
+          "vernacular": "「『無論如何對我係好大嘅損失,』磨坊主回答;『哎呀,我差不多已經把手推車畀佢喇,而家我真嘅唔知道該點處理佢。佢喺家裡好礙事,而且修得咁差,即使賣咗都得唔到乜嘢。我一定要小心,再都不送嘢喇。慷慨總是要食虧。』」",
+          "vernacularMandarin": "「『無論如何對我是很大的損失,』磨坊主回答;『哎呀,我差不多已經把手推車給他了,現在我真的不知道該怎麼處理它。它在家裡很礙事,而且修得那麼差,即使賣了也得不到什麼。我一定要小心,再也不送東西了。慷慨總是要吃虧。』」"
+        },
+        {
+          "id": "hp004-99",
+          "original": "“Well?” said the Water-rat, after a long pause.",
+          "vernacular": "「然後呢?」水鼠停頓好久後講。",
+          "vernacularMandarin": "「然後呢?」水鼠停頓很久後說。"
+        },
+        {
+          "id": "hp004-100",
+          "original": "“Well, that is the end,” said the Linnet.",
+          "vernacular": "「好喇,就係結尾,」紅雀講。",
+          "vernacularMandarin": "「好了,就是結尾,」紅雀說。"
+        },
+        {
+          "id": "hp004-101",
+          "original": "“But what became of the Miller?” asked the Water-rat.",
+          "vernacular": "「但磨坊主後來點樣喇?」水鼠問。",
+          "vernacularMandarin": "「但磨坊主後來怎樣了?」水鼠問。"
+        },
+        {
+          "id": "hp004-102",
+          "original": "“Oh! I really don’t know,” replied the Linnet; “and I am sure that I don’t care.”",
+          "vernacular": "「哦!我真嘅唔知道,」紅雀回答;「而且我肯定我不在乎。」",
+          "vernacularMandarin": "「哦!我真的不知道,」紅雀回答;「而且我肯定我不在乎。」"
+        },
+        {
+          "id": "hp004-103",
+          "original": "“It is quite evident then that you have no sympathy in your nature,” said the Water-rat.",
+          "vernacular": "「咁好明顯你嘅天性裡冇同情心,」水鼠講。",
+          "vernacularMandarin": "「那麼很明顯你的天性裡沒有同情心,」水鼠說。"
+        },
+        {
+          "id": "hp004-104",
+          "original": "“I am afraid you don’t quite see the moral of the story,” remarked the Linnet.",
+          "vernacular": "「我恐怕你冇完全睇出呢個故事嘅寓意,」紅雀講。",
+          "vernacularMandarin": "「我恐怕你沒有完全看出這個故事的寓意,」紅雀說。"
+        },
+        {
+          "id": "hp004-105",
+          "original": "“The what?” screamed the Water-rat.",
+          "vernacular": "「乜嘢?」水鼠尖叫。",
+          "vernacularMandarin": "「什麼?」水鼠尖叫。"
+        },
+        {
+          "id": "hp004-106",
+          "original": "“The moral.”",
+          "vernacular": "「寓意。」",
+          "vernacularMandarin": "「寓意。」"
+        },
+        {
+          "id": "hp004-107",
+          "original": "“Do you mean to say that the story has a moral?”",
+          "vernacular": "「你係講呢個故事有寓意?」",
+          "vernacularMandarin": "「你是說這個故事有寓意?」"
+        },
+        {
+          "id": "hp004-108",
+          "original": "“Certainly,” said the Linnet.",
+          "vernacular": "「當然,」紅雀講。",
+          "vernacularMandarin": "「當然,」紅雀說。"
+        },
+        {
+          "id": "hp004-109",
+          "original": "“Well, really,” said the Water-rat, in a very angry manner, “I think you should have told me that before you began. If you had done so, I certainly would not have listened to you; in fact, I should have said ‘Pooh,’ like the critic. However, I can say it now”; so he shouted out “Pooh” at the top of his voice, gave a whisk with his tail, and went back into his hole.",
+          "vernacular": "「嗯,真嘅,」水鼠好生氣地講,「我想你應該喺開始之前就告訴我。如果你咁樣做,我當然唔會聽你嘅;事實上,我會像嗰個評論家一樣講『呸』。不過,我而家可以講喇」;於是佢扯開嗓子大喊「呸」,甩咗一下尾巴,回到佢嘅洞裡去喇。",
+          "vernacularMandarin": "「嗯,真的,」水鼠非常生氣地說,「我想你應該在開始之前就告訴我。如果你這樣做,我當然不會聽你的;事實上,我會像那個評論家一樣說『呸』。不過,我現在可以說了」;於是他扯開嗓子大喊「呸」,甩了一下尾巴,回到他的洞裡去了。"
+        },
+        {
+          "id": "hp004-110",
+          "original": "“And how do you like the Water-rat?” asked the Duck, who came paddling up some minutes afterwards. “He has a great many good points, but for my own part I have a mother’s feelings, and I can never look at a confirmed bachelor without the tears coming into my eyes.”",
+          "vernacular": "「你覺得水鼠點樣?」鴨子問,佢幾分鐘後划水游過嚟。「佢有好多優點,但就我自己而言,我有母親嘅情感,我睇到一個頑固嘅單身漢就禁不住眼淚湧上眼睛。」",
+          "vernacularMandarin": "「你覺得水鼠怎麼樣?」鴨子問,她幾分鐘後划水游過來。「他有很多優點,但就我自己而言,我有母親的情感,我看到一個頑固的單身漢就禁不住眼淚湧上眼睛。」"
+        },
+        {
+          "id": "hp004-111",
+          "original": "“I am rather afraid that I have annoyed him,” answered the Linnet. “The fact is, that I told him a story with a moral.”",
+          "vernacular": "「我恐怕我惹惱咗佢,」紅雀回答。「事實係,我畀佢講咗一個有寓意嘅故事。」",
+          "vernacularMandarin": "「我恐怕我惹惱了他,」紅雀回答。「事實是,我給他講了一個有寓意的故事。」"
+        },
+        {
+          "id": "hp004-112",
+          "original": "“Ah! that is always a very dangerous thing to do,” said the Duck.",
+          "vernacular": "「啊!呢總是一件好危險嘅事,」鴨子講。",
+          "vernacularMandarin": "「啊!這總是一件非常危險的事,」鴨子說。"
+        },
+        {
+          "id": "hp004-113",
+          "original": "And I quite agree with her.",
+          "vernacular": "我完全同意佢。",
+          "vernacularMandarin": "我完全同意她。"
+        }
+      ]
+    },
+    {
+      "id": "hp-005",
+      "title": "The Remarkable Rocket 了不起的火箭",
+      "passages": [
+        {
+          "id": "hp005-1",
+          "original": "THE King’s son was going to be married, so there were general rejoicings. He had waited a whole year for his bride, and at last she had arrived. She was a Russian Princess, and had driven all the way from Finland in a sledge drawn by six reindeer. The sledge was shaped like a great golden swan, and between the swan’s wings lay the little Princess herself. Her long ermine-cloak reached right down to her feet, on her head was a tiny cap of silver tissue, and she was as pale as the Snow Palace in which she had always lived. So pale was she that as she drove through the streets all the people wondered. “She is like a white rose!” they cried, and they threw down flowers on her from the balconies.",
+          "vernacular": "國王嘅兒子要結婚喇,所以到處一片歡慶。佢等佢嘅新娘等咗整整一年,佢終於到喇。佢係一位俄羅斯公主,從芬蘭一路乘住六頭馴鹿拉嘅雪橇嚟。雪橇嘅形狀像一隻巨大嘅金天鵝,小公主自己就躺喺天鵝嘅雙翼之間。佢嘅長貂皮斗篷一直垂到腳上,頭上戴住一頂銀色薄紗嘅小帽,佢蒼白得像佢一直住嘅雪宮。佢咁蒼白,佢乘車經過街道時,所有嘅人都感到驚奇。「佢像一朵白玫瑰!」佢哋喊道,從陽台上向佢拋下花朵。",
+          "vernacularMandarin": "國王的兒子要結婚了,所以到處一片歡慶。他等他的新娘等了整整一年,她終於到了。她是一位俄羅斯公主,從芬蘭一路乘著六頭馴鹿拉的雪橇來。雪橇的形狀像一隻巨大的金天鵝,小公主自己就躺在天鵝的雙翼之間。她的長貂皮斗篷一直垂到腳上,頭上戴著一頂銀色薄紗的小帽,她蒼白得像她一直住的雪宮。她那麼蒼白,她乘車經過街道時,所有的人都感到驚奇。「她像一朵白玫瑰!」他們喊道,從陽台上向她拋下花朵。"
+        },
+        {
+          "id": "hp005-2",
+          "original": "At the gate of the Castle the Prince was waiting to receive her. He had dreamy violet eyes, and his hair was like fine gold. When he saw her he sank upon one knee, and kissed her hand.",
+          "vernacular": "城堡門口王子喺等住迎接佢。佢有夢幻般嘅紫羅蘭色眼睛,頭髮像純金。佢睇到佢,單膝跪下,吻咗佢嘅手。",
+          "vernacularMandarin": "城堡門口王子在等著迎接她。他有夢幻般的紫羅蘭色眼睛,頭髮像純金。他看到她,單膝跪下,吻了她的手。"
+        },
+        {
+          "id": "hp005-3",
+          "original": "“Your picture was beautiful,” he murmured, “but you are more beautiful than your picture”; and the little Princess blushed.",
+          "vernacular": "「你嘅畫像好美,」佢低聲講,「但你比你嘅畫像更美」;小公主臉紅喇。",
+          "vernacularMandarin": "「你的畫像很美,」他低聲說,「但你比你的畫像更美」;小公主臉紅了。"
+        },
+        {
+          "id": "hp005-4",
+          "original": "“She was like a white rose before,” said a young Page to his neighbour, “but she is like a red rose now”; and the whole Court was delighted.",
+          "vernacular": "「佢之前像一朵白玫瑰,」一個年輕侍從對旁邊嘅人講,「但佢而家像一朵紅玫瑰」;整個宮廷都好高興。",
+          "vernacularMandarin": "「她之前像一朵白玫瑰,」一個年輕侍從對旁邊的人說,「但她現在像一朵紅玫瑰」;整個宮廷都很高興。"
+        },
+        {
+          "id": "hp005-5",
+          "original": "For the next three days everybody went about saying, “White rose, Red rose, Red rose, White rose”; and the King gave orders that the Page’s salary was to be doubled. As he received no salary at all this was not of much use to him, but it was considered a great honour, and was duly published in the Court Gazette.",
+          "vernacular": "接下嚟嘅三天,每個人都走嚟走去講住:「白玫瑰,紅玫瑰,紅玫瑰,白玫瑰」;國王下令把嗰個侍從嘅薪水加倍。由於佢根本冇薪水,呢對佢冇乜嘢用,但呢被認為係莫大嘅榮譽,並且正式刊登喺宮廷公報上。",
+          "vernacularMandarin": "接下來的三天,每個人都走來走去說著:「白玫瑰,紅玫瑰,紅玫瑰,白玫瑰」;國王下令把那個侍從的薪水加倍。由於他根本沒有薪水,這對他沒什麼用,但這被認為是莫大的榮譽,並且正式刊登在宮廷公報上。"
+        },
+        {
+          "id": "hp005-6",
+          "original": "When the three days were over the marriage was celebrated. It was a magnificent ceremony, and the bride and bridegroom walked hand in hand under a canopy of purple velvet embroidered with little pearls. Then there was a State Banquet, which lasted for five hours. The Prince and Princess sat at the top of the Great Hall and drank out of a cup of clear crystal. Only true lovers could drink out of this cup, for if false lips touched it, it grew grey and dull and cloudy.",
+          "vernacular": "三天過後,婚禮舉行喇。嗰個係一場壯麗嘅儀式,新娘同新郎手牽手走喺綴滿小珍珠嘅紫色天鵝絨華蓋下。然後係國宴,持續咗五個小時。王子同公主坐喺大廳嘅上首,用一個透明水晶嘅杯子飲酒。只有真正嘅情人才能用呢個杯子飲,因為如果虛假嘅嘴唇碰到佢,佢會變得灰暗、無光、混濁。",
+          "vernacularMandarin": "三天過後,婚禮舉行了。那是一場壯麗的儀式,新娘和新郎手牽手走在綴滿小珍珠的紫色天鵝絨華蓋下。然後是國宴,持續了五個小時。王子和公主坐在大廳的上首,用一個透明水晶的杯子喝酒。只有真正的情人才能用這個杯子喝,因為如果虛假的嘴唇碰到它,它會變得灰暗、無光、混濁。"
+        },
+        {
+          "id": "hp005-7",
+          "original": "“It’s quite clear that they love each other,” said the little Page, “as clear as crystal!” and the King doubled his salary a second time. “What an honour!” cried all the courtiers.",
+          "vernacular": "「好明顯佢哋彼此相愛,」小侍從講,「像水晶一樣清楚!」國王第二次把佢嘅薪水加倍。「幾咁榮耀!」所有朝臣喊道。",
+          "vernacularMandarin": "「很明顯他們彼此相愛,」小侍從說,「像水晶一樣清楚!」國王第二次把他的薪水加倍。「多麼榮耀!」所有朝臣喊道。"
+        },
+        {
+          "id": "hp005-8",
+          "original": "After the banquet there was to be a Ball. The bride and bridegroom were to dance the Rose-dance together, and the King had promised to play the flute. He played very badly, but no one had ever dared to tell him so, because he was the King. Indeed, he knew only two airs, and was never quite certain which one he was playing; but it made no matter, for, whatever he did, everybody cried out, “Charming! charming!”",
+          "vernacular": "宴會後有一場舞會。新娘同新郎要一起跳玫瑰舞,國王答應吹長笛。佢吹得好糟糕,但冇人敢告訴佢,因為佢係國王。事實上,佢只會兩首曲子,從來不太確定自己喺吹邊一首;但冇關係,因為不管佢點吹,每個人都喊:「迷人!迷人!」",
+          "vernacularMandarin": "宴會後有一場舞會。新娘和新郎要一起跳玫瑰舞,國王答應吹長笛。他吹得很糟糕,但沒有人敢告訴他,因為他是國王。事實上,他只會兩首曲子,從來不太確定自己在吹哪一首;但沒關係,因為不管他怎麼吹,每個人都喊:「迷人!迷人!」"
+        },
+        {
+          "id": "hp005-9",
+          "original": "The last item on the programme was a grand display of fireworks, to be let off exactly at midnight. The little Princess had never seen a firework in her life, so the King had given orders that the Royal Pyrotechnist should be in attendance on the day of her marriage.",
+          "vernacular": "節目單上嘅最後一項係盛大嘅煙花表演,將喺午夜整點燃放。小公主呢輩子從冇見過煙花,所以國王下令皇家煙火師要喺佢婚禮嗰天在場。",
+          "vernacularMandarin": "節目單上的最後一項是盛大的煙花表演,將在午夜整點燃放。小公主這輩子從沒見過煙花,所以國王下令皇家煙火師要在她婚禮那天在場。"
+        },
+        {
+          "id": "hp005-10",
+          "original": "“What are fireworks like?” she had asked the Prince, one morning, as she was walking on the terrace.",
+          "vernacular": "「煙花係乜嘢樣嘅?」一天早晨佢喺露台上散步時問王子。",
+          "vernacularMandarin": "「煙花是什麼樣的?」一天早晨她在露台上散步時問王子。"
+        },
+        {
+          "id": "hp005-11",
+          "original": "“They are like the Aurora Borealis,” said the King, who always answered questions that were addressed to other people, “only much more natural. I prefer them to stars myself, as you always know when they are going to appear, and they are as delightful as my own flute-playing. You must certainly see them.”",
+          "vernacular": "「佢哋像北極光,」國王講,佢總是回答別人問嘅問題,「只係自然得多。我自己更鍾意佢哋而唔係星星,因為你總是知道佢哋乜嘢時候會出現,而且佢哋像我吹長笛一樣令人愉快。你一定要睇睇佢哋。」",
+          "vernacularMandarin": "「它們像北極光,」國王說,他總是回答別人問的問題,「只是自然得多。我自己更喜歡它們而不是星星,因為你總是知道它們什麼時候會出現,而且它們像我吹長笛一樣令人愉快。你一定要看看它們。」"
+        },
+        {
+          "id": "hp005-12",
+          "original": "So at the end of the King’s garden a great stand had been set up, and as soon as the Royal Pyrotechnist had put everything in its proper place, the fireworks began to talk to each other.",
+          "vernacular": "於是喺國王花園嘅盡頭搭起咗一個大台子,皇家煙火師把一切放喺適當嘅位置後,煙花哋就開始互相交談。",
+          "vernacularMandarin": "於是在國王花園的盡頭搭起了一個大台子,皇家煙火師把一切放在適當的位置後,煙花們就開始互相交談。"
+        },
+        {
+          "id": "hp005-13",
+          "original": "“The world is certainly very beautiful,” cried a little Squib. “Just look at those yellow tulips. Why! if they were real crackers they could not be lovelier. I am very glad I have travelled. Travel improves the mind wonderfully, and does away with all one’s prejudices.”",
+          "vernacular": "「世界確實好美麗,」一個小炮竹喊道。「睇睇嗰啲黃鬱金香。哎呀!如果佢哋係真嘅爆竹,都唔會更可愛喇。我好高興我旅行過。旅行奇妙地改善頭腦,並去除人所有嘅偏見。」",
+          "vernacularMandarin": "「世界確實非常美麗,」一個小炮竹喊道。「看看那些黃鬱金香。哎呀!如果它們是真的爆竹,也不會更可愛了。我很高興我旅行過。旅行奇妙地改善頭腦,並去除人所有的偏見。」"
+        },
+        {
+          "id": "hp005-14",
+          "original": "“The King’s garden is not the world, you foolish squib,” said a big Roman Candle; “the world is an enormous place, and it would take you three days to see it thoroughly.”",
+          "vernacular": "「國王嘅花園唔係世界,你呢愚蠢嘅小炮竹,」一個大羅馬焰火筒講;「世界係個巨大嘅地方,你要花三天才能徹底睇完。」",
+          "vernacularMandarin": "「國王的花園不是世界,你這愚蠢的小炮竹,」一個大羅馬焰火筒說;「世界是個巨大的地方,你要花三天才能徹底看完。」"
+        },
+        {
+          "id": "hp005-15",
+          "original": "“Any place you love is the world to you,” exclaimed a pensive Catherine Wheel, who had been attached to an old deal box in early life, and prided herself on her broken heart; “but love is not fashionable any more, the poets have killed it. They wrote so much about it that nobody believed them, and I am not surprised. True love suffers, and is silent. I remember myself once—But it is no matter now. Romance is a thing of the past.”",
+          "vernacular": "「你愛嘅任何地方對你來講就係世界,」一個深思嘅旋轉煙花輪喊道,佢早年曾依戀一個舊木箱,並以佢破碎嘅心為榮;「但愛情唔再流行喇,詩人把佢殺死喇。佢哋寫咗咁多,冇人再相信佢哋,我並不驚訝。真正嘅愛承受痛苦,並保持沉默。我自己記得有一次——但而家冇關係喇。浪漫已成過去。」",
+          "vernacularMandarin": "「你愛的任何地方對你來說就是世界,」一個深思的旋轉煙花輪喊道,她早年曾依戀一個舊木箱,並以她破碎的心為榮;「但愛情不再流行了,詩人把它殺死了。他們寫了那麼多,沒有人再相信他們,我並不驚訝。真正的愛承受痛苦,並保持沉默。我自己記得有一次——但現在沒關係了。浪漫已成過去。」"
+        },
+        {
+          "id": "hp005-16",
+          "original": "“Nonsense!” said the Roman Candle, “Romance never dies. It is like the moon, and lives for ever. The bride and bridegroom, for instance, love each other very dearly. I heard all about them this morning from a brown-paper cartridge, who happened to be staying in the same drawer as myself, and knew the latest Court news.”",
+          "vernacular": "「胡講!」羅馬焰火筒講,「浪漫永不死亡。佢像月亮,永遠活住。例如,新娘同新郎好深愛彼此。我今日早晨從一個牛皮紙筒嗰度聽到咗佢哋嘅一切,佢碰巧同我住喺同一個抽屜裡,知道最新嘅宮廷新聞。」",
+          "vernacularMandarin": "「胡說!」羅馬焰火筒說,「浪漫永不死亡。它像月亮,永遠活著。例如,新娘和新郎非常深愛彼此。我今天早晨從一個牛皮紙筒那裡聽到了他們的一切,他碰巧和我住在同一個抽屜裡,知道最新的宮廷新聞。」"
+        },
+        {
+          "id": "hp005-17",
+          "original": "But the Catherine Wheel shook her head. “Romance is dead, Romance is dead, Romance is dead,” she murmured. She was one of those people who think that, if you say the same thing over and over a great many times, it becomes true in the end.",
+          "vernacular": "但旋轉煙花輪搖咗搖頭。「浪漫死喇,浪漫死喇,浪漫死喇,」佢喃喃講。佢係嗰種人,認為如果你把同一件事講好多遍,最後佢就會成真。",
+          "vernacularMandarin": "但旋轉煙花輪搖了搖頭。「浪漫死了,浪漫死了,浪漫死了,」她喃喃說。她是那種人,認為如果你把同一件事說很多遍,最後它就會成真。"
+        },
+        {
+          "id": "hp005-18",
+          "original": "Suddenly, a sharp, dry cough was heard, and they all looked round.",
+          "vernacular": "突然,聽到一聲尖銳乾澀嘅咳嗽,佢哋都轉過頭。",
+          "vernacularMandarin": "突然,聽到一聲尖銳乾澀的咳嗽,他們都轉過頭。"
+        },
+        {
+          "id": "hp005-19",
+          "original": "It came from a tall, supercilious-looking Rocket, who was tied to the end of a long stick. He always coughed before he made any observation, so as to attract attention.",
+          "vernacular": "嗰來自一枚高高嘅睇起嚟傲慢嘅火箭,佢被綁喺一根長棍嘅末端。佢喺發表任何意見之前總是咳嗽,以吸引注意。",
+          "vernacularMandarin": "那來自一枚高高的看起來傲慢的火箭,他被綁在一根長棍的末端。他在發表任何意見之前總是咳嗽,以吸引注意。"
+        },
+        {
+          "id": "hp005-20",
+          "original": "“Ahem! ahem!” he said, and everybody listened except the poor Catherine Wheel, who was still shaking her head, and murmuring, “Romance is dead.”",
+          "vernacular": "「嗯哼!嗯哼!」佢講,除咗可憐嘅旋轉煙花輪,每個人都喺聽,佢仍喺搖頭,喃喃講:「浪漫死喇。」",
+          "vernacularMandarin": "「嗯哼!嗯哼!」他說,除了可憐的旋轉煙花輪,每個人都在聽,她仍在搖頭,喃喃說:「浪漫死了。」"
+        },
+        {
+          "id": "hp005-21",
+          "original": "“Order! order!” cried out a Cracker. He was something of a politician, and had always taken a prominent part in the local elections, so he knew the proper Parliamentary expressions to use.",
+          "vernacular": "「秩序!秩序!」一個爆竹喊道。佢有點像政客,總是喺地方選舉中扮演突出角色,所以佢知道該用嘅恰當嘅議會用語。",
+          "vernacularMandarin": "「秩序!秩序!」一個爆竹喊道。他有點像政客,總是在地方選舉中扮演突出角色,所以他知道該用的恰當的議會用語。"
+        },
+        {
+          "id": "hp005-22",
+          "original": "“Quite dead,” whispered the Catherine Wheel, and she went off to sleep.",
+          "vernacular": "「完全死喇,」旋轉煙花輪低聲講,佢瞓住喇。",
+          "vernacularMandarin": "「完全死了,」旋轉煙花輪低聲說,她睡著了。"
+        },
+        {
+          "id": "hp005-23",
+          "original": "As soon as there was perfect silence, the Rocket coughed a third time and began. He spoke with a very slow, distinct voice, as if he was dictating his memoirs, and always looked over the shoulder of the person to whom he was talking. In fact, he had a most distinguished manner.",
+          "vernacular": "一旦完全安靜,火箭第三次咳嗽,開始喇。佢講話聲音好緩慢清晰,好像喺口述回憶錄,總是越過跟佢講話嘅人嘅肩膀睇。事實上,佢有一種最傑出嘅風度。",
+          "vernacularMandarin": "一旦完全安靜,火箭第三次咳嗽,開始了。他說話聲音非常緩慢清晰,好像在口述回憶錄,總是越過跟他說話的人的肩膀看。事實上,他有一種最傑出的風度。"
+        },
+        {
+          "id": "hp005-24",
+          "original": "“How fortunate it is for the King’s son,” he remarked, “that he is to be married on the very day on which I am to be let off. Really, if it had been arranged beforehand, it could not have turned out better for him; but, Princes are always lucky.”",
+          "vernacular": "「對國王嘅兒子來講幾咁幸運,」佢講,「佢要喺我被點燃嘅同一天結婚。真嘅,如果事先安排,都唔會對佢更好喇;但係,王子哋總是幸運嘅。」",
+          "vernacularMandarin": "「對國王的兒子來說多麼幸運,」他說,「他要在我被點燃的同一天結婚。真的,如果事先安排,也不會對他更好了;但是,王子們總是幸運的。」"
+        },
+        {
+          "id": "hp005-25",
+          "original": "“Dear me!” said the little Squib, “I thought it was quite the other way, and that we were to be let off in the Prince’s honour.”",
+          "vernacular": "「天呀!」小炮竹講,「我以為完全相反,我哋係要為王子嘅榮耀被點燃嘅。」",
+          "vernacularMandarin": "「天哪!」小炮竹說,「我以為完全相反,我們是要為王子的榮耀被點燃的。」"
+        },
+        {
+          "id": "hp005-26",
+          "original": "“It may be so with you,” he answered; “indeed, I have no doubt that it is, but with me it is different. I am a very remarkable Rocket, and come of remarkable parents. My mother was the most celebrated Catherine Wheel of her day, and was renowned for her graceful dancing. When she made her great public appearance she spun round nineteen times before she went out, and each time that she did so she threw into the air seven pink stars. She was three feet and a half in diameter, and made of the very best gunpowder. My father was a Rocket like myself, and of French extraction. He flew so high that the people were afraid that he would never come down again. He did, though, for he was of a kindly disposition, and he made a most brilliant descent in a shower of golden rain. The newspapers wrote about his performance in very flattering terms. Indeed, the Court Gazette called him a triumph of Pylotechnic art.”",
+          "vernacular": "「對你來講可能如此,」佢回答;「確實,我毫不懷疑係咁樣,但對我就不同喇。我係一枚好了不起嘅火箭,出身於了不起嘅父母。我母親係佢嗰個時代最著名嘅旋轉煙花輪,以優雅嘅舞蹈聞名。佢大規模公開亮相時,喺熄滅前旋轉咗十九圈,每次旋轉都向空中拋出七顆粉紅色嘅星星。佢嘅直徑有三呎半,用最好嘅火藥做成。我父親係像我一樣嘅火箭,有法國血統。佢飛得咁高,人哋怕佢再都唔會下嚟。不過佢下嚟喇,因為佢性情善良,佢以一陣金雨作咗一次最輝煌嘅降落。報紙用好讚美嘅詞語寫佢嘅表演。確實,宮廷公報稱佢係焰火藝術嘅勝利。」",
+          "vernacularMandarin": "「對你來說可能如此,」他回答;「確實,我毫不懷疑是這樣,但對我就不同了。我是一枚非常了不起的火箭,出身於了不起的父母。我母親是她那個時代最著名的旋轉煙花輪,以優雅的舞蹈聞名。她大規模公開亮相時,在熄滅前旋轉了十九圈,每次旋轉都向空中拋出七顆粉紅色的星星。她的直徑有三呎半,用最好的火藥做成。我父親是像我一樣的火箭,有法國血統。他飛得那麼高,人們怕他再也不會下來。不過他下來了,因為他性情善良,他以一陣金雨作了一次最輝煌的降落。報紙用非常讚美的詞語寫他的表演。確實,宮廷公報稱他是焰火藝術的勝利。」"
+        },
+        {
+          "id": "hp005-27",
+          "original": "“Pyrotechnic, Pyrotechnic, you mean,” said a Bengal Light; “I know it is Pyrotechnic, for I saw it written on my own canister.”",
+          "vernacular": "「係焰火,焰火,你嘅意思係,」一個孟加拉焰火講;「我知道係焰火,因為我睇到我自己嘅罐子上咁樣寫住。」",
+          "vernacularMandarin": "「是焰火,焰火,你的意思是,」一個孟加拉焰火說;「我知道是焰火,因為我看到我自己的罐子上這樣寫著。」"
+        },
+        {
+          "id": "hp005-28",
+          "original": "“Well, I said Pylotechnic,” answered the Rocket, in a severe tone of voice, and the Bengal Light felt so crushed that he began at once to bully the little squibs, in order to show that he was still a person of some importance.",
+          "vernacular": "「嗯,我講嘅係焰火,」火箭用嚴厲嘅聲音回答,孟加拉焰火覺得被擊垮喇,即刻開始欺負小炮竹,以顯示佢仍係個有些重要性嘅人物。",
+          "vernacularMandarin": "「嗯,我說的是焰火,」火箭用嚴厲的聲音回答,孟加拉焰火覺得被擊垮了,馬上開始欺負小炮竹,以顯示他仍是個有些重要性的人物。"
+        },
+        {
+          "id": "hp005-29",
+          "original": "“I was saying,” continued the Rocket, “I was saying—What was I saying?”",
+          "vernacular": "「我頭先講,」火箭繼續講,「我頭先講——我頭先講乜嘢?」",
+          "vernacularMandarin": "「我剛才說,」火箭繼續說,「我剛才說——我剛才說什麼?」"
+        },
+        {
+          "id": "hp005-30",
+          "original": "“You were talking about yourself,” replied the Roman Candle.",
+          "vernacular": "「你喺談論你自己,」羅馬焰火筒回答。",
+          "vernacularMandarin": "「你在談論你自己,」羅馬焰火筒回答。"
+        },
+        {
+          "id": "hp005-31",
+          "original": "“Of course; I knew I was discussing some interesting subject when I was so rudely interrupted. I hate rudeness and bad manners of every kind, for I am extremely sensitive. No one in the whole world is so sensitive as I am, I am quite sure of that.”",
+          "vernacular": "「當然;我知道我喺討論某個有趣嘅話題,被咁無禮地打斷。我討厭任何種類嘅無禮同壞禮貌,因為我極其敏感。全世界冇人像我咁樣敏感,我對此好確定。」",
+          "vernacularMandarin": "「當然;我知道我在討論某個有趣的話題,被這麼無禮地打斷。我討厭任何種類的無禮和壞禮貌,因為我極其敏感。全世界沒有人像我這樣敏感,我對此很確定。」"
+        },
+        {
+          "id": "hp005-32",
+          "original": "“What is a sensitive person?” said the Cracker to the Roman Candle.",
+          "vernacular": "「乜嘢係敏感嘅人?」爆竹問羅馬焰火筒。",
+          "vernacularMandarin": "「什麼是敏感的人?」爆竹問羅馬焰火筒。"
+        },
+        {
+          "id": "hp005-33",
+          "original": "“A person who, because he has corns himself, always treads on other people’s toes,” answered the Roman Candle in a low whisper; and the Cracker nearly exploded with laughter.",
+          "vernacular": "「一個因為自己有雞眼,所以總是踩別人腳趾嘅人,」羅馬焰火筒低聲回答;爆竹幾乎笑爆喇。",
+          "vernacularMandarin": "「一個因為自己有雞眼,所以總是踩別人腳趾的人,」羅馬焰火筒低聲回答;爆竹幾乎笑爆了。"
+        },
+        {
+          "id": "hp005-34",
+          "original": "“Pray, what are you laughing at?” inquired the Rocket; “I am not laughing.”",
+          "vernacular": "「請問,你喺笑乜嘢?」火箭問;「我冇笑。」",
+          "vernacularMandarin": "「請問,你在笑什麼?」火箭問;「我沒笑。」"
+        },
+        {
+          "id": "hp005-35",
+          "original": "“I am laughing because I am happy,” replied the Cracker.",
+          "vernacular": "「我笑係因為我快樂,」爆竹回答。",
+          "vernacularMandarin": "「我笑是因為我快樂,」爆竹回答。"
+        },
+        {
+          "id": "hp005-36",
+          "original": "“That is a very selfish reason,” said the Rocket angrily. “What right have you to be happy? You should be thinking about others. In fact, you should be thinking about me. I am always thinking about myself, and I expect everybody else to do the same. That is what is called sympathy. It is a beautiful virtue, and I possess it in a high degree. Suppose, for instance, anything happened to me to-night, what a misfortune that would be for every one! The Prince and Princess would never be happy again, their whole married life would be spoiled; and as for the King, I know he would not get over it. Really, when I begin to reflect on the importance of my position, I am almost moved to tears.”",
+          "vernacular": "「嗰個係個好自私嘅理由,」火箭生氣地講。「你有乜嘢權利快樂?你應該想住別人。事實上,你應該想住我。我總是想住我自己,我期望其他每個人都咁樣。呢就叫同情。佢係美麗嘅美德,我喺好高嘅程度上擁有佢。比如講,假如今晚我出咗乜嘢事,對每個人係多大嘅不幸!王子同公主再都唔會快樂,佢哋嘅整個婚姻生活都會被毀;至於國王,我知道佢永遠唔會恢復過嚟。真嘅,當我開始思考我嘅地位嘅重要性時,我幾乎感動得要流淚。」",
+          "vernacularMandarin": "「那是個非常自私的理由,」火箭生氣地說。「你有什麼權利快樂?你應該想著別人。事實上,你應該想著我。我總是想著我自己,我期望其他每個人也這樣。這就叫同情。它是美麗的美德,我在很高的程度上擁有它。比如說,假如今晚我出了什麼事,對每個人是多大的不幸!王子和公主再也不會快樂,他們的整個婚姻生活都會被毀;至於國王,我知道他永遠不會恢復過來。真的,當我開始思考我的地位的重要性時,我幾乎感動得要流淚。」"
+        },
+        {
+          "id": "hp005-37",
+          "original": "“If you want to give pleasure to others,” cried the Roman Candle, “you had better keep yourself dry.”",
+          "vernacular": "「如果你想畀別人帶嚟快樂,」羅馬焰火筒喊道,「你最好保持乾燥。」",
+          "vernacularMandarin": "「如果你想給別人帶來快樂,」羅馬焰火筒喊道,「你最好保持乾燥。」"
+        },
+        {
+          "id": "hp005-38",
+          "original": "“Certainly,” exclaimed the Bengal Light, who was now in better spirits; “that is only common sense.”",
+          "vernacular": "「當然,」孟加拉焰火喊道,佢而家精神好些喇;「嗰只係常識。」",
+          "vernacularMandarin": "「當然,」孟加拉焰火喊道,他現在精神好些了;「那只是常識。」"
+        },
+        {
+          "id": "hp005-39",
+          "original": "“Common sense, indeed!” said the Rocket indignantly; “you forget that I am very uncommon, and very remarkable. Why, anybody can have common sense, provided that they have no imagination. But I have imagination, for I never think of things as they really are; I always think of them as being quite different. As for keeping myself dry, there is evidently no one here who can at all appreciate an emotional nature. Fortunately for myself, I don’t care. The only thing that sustains one through life is the consciousness of the immense inferiority of everybody else, and this is a feeling that I have always cultivated. But none of you have any hearts. Here you are laughing and making merry just as if the Prince and Princess had not just been married.”",
+          "vernacular": "「常識,真嘅!」火箭憤慨地講;「你忘咗我係好不尋常、好了不起嘅。哎呀,任何人只要冇想像力,都可以有常識。但我有想像力,因為我從不按事物嘅真實面貌去想;我總是把佢哋想成完全不同。至於保持乾燥,呢度顯然冇一個人能欣賞一種感性嘅天性。對我自己幸運嘅係,我不在乎。唯一支持一個人度過一生嘅係對其他每個人嘅極大低劣嘅意識,而呢個係我一直培養嘅感覺。但你哋邊個都冇心。你哋喺呢度笑住、取樂,好像王子同公主啱啱冇結婚似嘅。」",
+          "vernacularMandarin": "「常識,真的!」火箭憤慨地說;「你忘了我是非常不尋常、非常了不起的。哎呀,任何人只要沒有想像力,都可以有常識。但我有想像力,因為我從不按事物的真實面貌去想;我總是把它們想成完全不同。至於保持乾燥,這裡顯然沒有一個人能欣賞一種感性的天性。對我自己幸運的是,我不在乎。唯一支持一個人度過一生的是對其他每個人的極大低劣的意識,而這是我一直培養的感覺。但你們誰也沒有心。你們在這裡笑著、取樂,好像王子和公主剛剛沒有結婚似的。」"
+        },
+        {
+          "id": "hp005-40",
+          "original": "“Well, really,” exclaimed a small Fire-balloon, “why not? It is a most joyful occasion, and when I soar up into the air I intend to tell the stars all about it. You will see them twinkle when I talk to them about the pretty bride.”",
+          "vernacular": "「嗯,真嘅,」一個小火氣球喊道,「點解不?呢個係一個最歡樂嘅場合,我升到空中時,打算把呢一切告訴星星。我同佢哋談起漂亮嘅新娘時,你會睇到佢哋閃爍。」",
+          "vernacularMandarin": "「嗯,真的,」一個小火氣球喊道,「為什麼不?這是一個最歡樂的場合,我升到空中時,打算把這一切告訴星星。我同它們談起漂亮的新娘時,你會看到它們閃爍。」"
+        },
+        {
+          "id": "hp005-41",
+          "original": "“Ah! what a trivial view of life!” said the Rocket; “but it is only what I expected. There is nothing in you; you are hollow and empty. Why, perhaps the Prince and Princess may go to live in a country where there is a deep river, and perhaps they may have one only son, a little fair-haired boy with violet eyes like the Prince himself; and perhaps some day he may go out to walk with his nurse; and perhaps the nurse may go to sleep under a great elder-tree; and perhaps the little boy may fall into the deep river and be drowned. What a terrible misfortune! Poor people, to lose their only son! It is really too dreadful! I shall never get over it.”",
+          "vernacular": "「啊!幾咁瑣碎嘅人生觀!」火箭講;「但呢只係我預料到嘅。你裡面乜嘢都冇;你係空心嘅,空空如都。哎呀,或者王子同公主可能去住喺一個有深河嘅國家,或者佢哋可能只有一個獨生子,一個金髮嘅小男孩,像王子本人一樣有紫羅蘭色嘅眼睛;或者某天佢可能同佢嘅保姆出去散步;或者保姆可能喺一棵大接骨木樹下瞓住;或者小男孩可能掉進深河淹死。幾咁可怕嘅不幸!可憐嘅人,失去佢哋唯一嘅兒子!真係太可怕喇!我永遠唔會恢復過嚟。」",
+          "vernacularMandarin": "「啊!多麼瑣碎的人生觀!」火箭說;「但這只是我預料到的。你裡面什麼也沒有;你是空心的,空空如也。哎呀,也許王子和公主可能去住在一個有深河的國家,也許他們可能只有一個獨生子,一個金髮的小男孩,像王子本人一樣有紫羅蘭色的眼睛;也許某天他可能同他的保姆出去散步;也許保姆可能在一棵大接骨木樹下睡著;也許小男孩可能掉進深河淹死。多麼可怕的不幸!可憐的人,失去他們唯一的兒子!真是太可怕了!我永遠不會恢復過來。」"
+        },
+        {
+          "id": "hp005-42",
+          "original": "“But they have not lost their only son,” said the Roman Candle; “no misfortune has happened to them at all.”",
+          "vernacular": "「但佢哋冇失去佢哋唯一嘅兒子,」羅馬焰火筒講;「佢哋根本冇遇到任何不幸。」",
+          "vernacularMandarin": "「但他們沒有失去他們唯一的兒子,」羅馬焰火筒說;「他們根本沒有遇到任何不幸。」"
+        },
+        {
+          "id": "hp005-43",
+          "original": "“I never said that they had,” replied the Rocket; “I said that they might. If they had lost their only son there would be no use in saying anything more about the matter. I hate people who cry over spilt milk. But when I think that they might lose their only son, I certainly am very much affected.”",
+          "vernacular": "「我從冇講佢哋失去喇,」火箭回答;「我講嘅係佢哋可能。如果佢哋失去咗獨生子,就冇必要再多講呢件事喇。我討厭嗰啲為打翻嘅牛奶哭泣嘅人。但當我想到佢哋可能失去獨生子時,我確實好受感動。」",
+          "vernacularMandarin": "「我從沒說他們失去了,」火箭回答;「我說的是他們可能。如果他們失去了獨生子,就沒有必要再多說這件事了。我討厭那些為打翻的牛奶哭泣的人。但當我想到他們可能失去獨生子時,我確實非常受感動。」"
+        },
+        {
+          "id": "hp005-44",
+          "original": "“You certainly are!” cried the Bengal Light. “In fact, you are the most affected person I ever met.”",
+          "vernacular": "「你確實係!」孟加拉焰火喊道。「事實上,你係我見過嘅最做作嘅人。」",
+          "vernacularMandarin": "「你確實是!」孟加拉焰火喊道。「事實上,你是我見過的最做作的人。」"
+        },
+        {
+          "id": "hp005-45",
+          "original": "“You are the rudest person I ever met,” said the Rocket, “and you cannot understand my friendship for the Prince.”",
+          "vernacular": "「你係我見過最無禮嘅人,」火箭講,「你唔能夠理解我對王子嘅友誼。」",
+          "vernacularMandarin": "「你是我見過最無禮的人,」火箭說,「你不能理解我對王子的友誼。」"
+        },
+        {
+          "id": "hp005-46",
+          "original": "“Why, you don’t even know him,” growled the Roman Candle.",
+          "vernacular": "「哎呀,你連佢都不認識,」羅馬焰火筒咆哮。",
+          "vernacularMandarin": "「哎呀,你連他也不認識,」羅馬焰火筒咆哮。"
+        },
+        {
+          "id": "hp005-47",
+          "original": "“I never said I knew him,” answered the Rocket. “I dare say that if I knew him I should not be his friend at all. It is a very dangerous thing to know one’s friends.”",
+          "vernacular": "「我從冇講我認識佢,」火箭回答。「我敢講如果我認識佢,我根本唔會成為佢嘅朋友。認識自己嘅朋友係好危險嘅事。」",
+          "vernacularMandarin": "「我從沒說我認識他,」火箭回答。「我敢說如果我認識他,我根本不會成為他的朋友。認識自己的朋友是非常危險的事。」"
+        },
+        {
+          "id": "hp005-48",
+          "original": "“You had really better keep yourself dry,” said the Fire-balloon. “That is the important thing.”",
+          "vernacular": "「你真嘅最好保持乾燥,」火氣球講。「呢個係最重要嘅。」",
+          "vernacularMandarin": "「你真的最好保持乾燥,」火氣球說。「這是最重要的。」"
+        },
+        {
+          "id": "hp005-49",
+          "original": "“Very important for you, I have no doubt,” answered the Rocket, “but I shall weep if I choose”; and he actually burst into real tears, which flowed down his stick like rain-drops, and nearly drowned two little beetles, who were just thinking of setting up house together, and were looking for a nice dry spot to live in.",
+          "vernacular": "「對你好重要,我毫不懷疑,」火箭回答,「但如果我願意我就要哭」;佢真嘅爆出咗眼淚,像雨滴一樣沿住佢嘅棍子流下,差點淹死兩隻小甲蟲,牠哋正想一起安家,正在找一個好嘅乾燥地方住。",
+          "vernacularMandarin": "「對你很重要,我毫不懷疑,」火箭回答,「但如果我願意我就要哭」;他真的爆出了眼淚,像雨滴一樣沿著他的棍子流下,差點淹死兩隻小甲蟲,牠們正想一起安家,正在找一個好的乾燥地方住。"
+        },
+        {
+          "id": "hp005-50",
+          "original": "“He must have a truly romantic nature,” said the Catherine Wheel, “for he weeps when there is nothing at all to weep about”; and she heaved a deep sigh, and thought about the deal box.",
+          "vernacular": "「佢一定有一個真正浪漫嘅天性,」旋轉煙花輪講,「因為佢喺根本冇乜嘢值得哭嘅時候哭」;佢深深歎咗口氣,想起咗嗰個木箱。",
+          "vernacularMandarin": "「他一定有一個真正浪漫的天性,」旋轉煙花輪說,「因為他在根本沒有什麼值得哭的時候哭」;她深深歎了口氣,想起了那個木箱。"
+        },
+        {
+          "id": "hp005-51",
+          "original": "But the Roman Candle and the Bengal Light were quite indignant, and kept saying, “Humbug! humbug!” at the top of their voices. They were extremely practical, and whenever they objected to anything they called it humbug.",
+          "vernacular": "但羅馬焰火筒同孟加拉焰火相當憤慨,扯開嗓子不停地喊:「騙人!騙人!」佢哋極其實際,每當佢哋反對任何事,就稱之為騙人。",
+          "vernacularMandarin": "但羅馬焰火筒和孟加拉焰火相當憤慨,扯開嗓子不停地喊:「騙人!騙人!」他們極其實際,每當他們反對任何事,就稱之為騙人。"
+        },
+        {
+          "id": "hp005-52",
+          "original": "Then the moon rose like a wonderful silver shield; and the stars began to shine, and a sound of music came from the palace.",
+          "vernacular": "然後月亮像一面奇妙嘅銀盾升起;星星開始閃耀,宮殿裡傳嚟音樂聲。",
+          "vernacularMandarin": "然後月亮像一面奇妙的銀盾升起;星星開始閃耀,宮殿裡傳來音樂聲。"
+        },
+        {
+          "id": "hp005-53",
+          "original": "The Prince and Princess were leading the dance. They danced so beautifully that the tall white lilies peeped in at the window and watched them, and the great red poppies nodded their heads and beat time.",
+          "vernacular": "王子同公主喺領舞。佢哋跳得咁美,高高嘅白百合從窗口偷睇佢哋,大紅罌粟花點住頭打拍子。",
+          "vernacularMandarin": "王子和公主在領舞。他們跳得那麼美,高高的白百合從窗口偷看他們,大紅罌粟花點著頭打拍子。"
+        },
+        {
+          "id": "hp005-54",
+          "original": "Then ten o’clock struck, and then eleven, and then twelve, and at the last stroke of midnight every one came out on the terrace, and the King sent for the Royal Pyrotechnist.",
+          "vernacular": "然後十點鐘響,然後十啲,然後十二點,午夜最後一響時,每個人都嚟到露台上,國王派人叫皇家煙火師。",
+          "vernacularMandarin": "然後十點鐘響,然後十一點,然後十二點,午夜最後一響時,每個人都來到露台上,國王派人叫皇家煙火師。"
+        },
+        {
+          "id": "hp005-55",
+          "original": "“Let the fireworks begin,” said the King; and the Royal Pyrotechnist made a low bow, and marched down to the end of the garden. He had six attendants with him, each of whom carried a lighted torch at the end of a long pole.",
+          "vernacular": "「讓煙花開始吧,」國王講;皇家煙火師深深鞠躬,大步走到花園盡頭。佢帶住六個隨從,每人喺長竿嘅末端攞住一支點燃嘅火把。",
+          "vernacularMandarin": "「讓煙花開始吧,」國王說;皇家煙火師深深鞠躬,大步走到花園盡頭。他帶著六個隨從,每人在長竿的末端拿著一支點燃的火把。"
+        },
+        {
+          "id": "hp005-56",
+          "original": "It was certainly a magnificent display.",
+          "vernacular": "嗰確實係壯麗嘅表演。",
+          "vernacularMandarin": "那確實是壯麗的表演。"
+        },
+        {
+          "id": "hp005-57",
+          "original": "Whizz! Whizz! went the Catherine Wheel, as she spun round and round. Boom! Boom! went the Roman Candle. Then the Squibs danced all over the place, and the Bengal Lights made everything look scarlet. “Good-bye,” cried the Fire-balloon, as he soared away, dropping tiny blue sparks. Bang! Bang! answered the Crackers, who were enjoying themselves immensely. Every one was a great success except the Remarkable Rocket. He was so damp with crying that he could not go off at all. The best thing in him was the gunpowder, and that was so wet with tears that it was of no use. All his poor relations, to whom he would never speak, except with a sneer, shot up into the sky like wonderful golden flowers with blossoms of fire. Huzza! Huzza! cried the Court; and the little Princess laughed with pleasure.",
+          "vernacular": "嗖!嗖!旋轉煙花輪一圈一圈地轉住。砰!砰!羅馬焰火筒響住。然後小炮竹哋喺各處跳舞,孟加拉焰火把一切變成猩紅色。「再見,」火氣球喊道,佢飛走喇,落下細小嘅藍色火花。砰!砰!爆竹哋回應,佢哋玩得好開心。每個都大獲成功,除咗了不起嘅火箭。佢哭得太濕喇,根本點不住。佢身上最好嘅嘢係火藥,而佢被眼淚弄得咁濕,毫無用處。佢所有嘅窮親戚,佢從不同佢哋講話,除非係冷笑,像奇妙嘅金色花朵一樣帶住火焰嘅花朵射上咗天空。萬歲!萬歲!宮廷喊道;小公主高興地笑喇。",
+          "vernacularMandarin": "嗖!嗖!旋轉煙花輪一圈一圈地轉著。砰!砰!羅馬焰火筒響著。然後小炮竹們在各處跳舞,孟加拉焰火把一切變成猩紅色。「再見,」火氣球喊道,他飛走了,落下細小的藍色火花。砰!砰!爆竹們回應,他們玩得非常開心。每個都大獲成功,除了了不起的火箭。他哭得太濕了,根本點不著。他身上最好的東西是火藥,而它被眼淚弄得那麼濕,毫無用處。他所有的窮親戚,他從不同他們說話,除非是冷笑,像奇妙的金色花朵一樣帶著火焰的花朵射上了天空。萬歲!萬歲!宮廷喊道;小公主高興地笑了。"
+        },
+        {
+          "id": "hp005-58",
+          "original": "“I suppose they are reserving me for some grand occasion,” said the Rocket; “no doubt that is what it means,” and he looked more supercilious than ever.",
+          "vernacular": "「我想佢哋係把我留作某個盛大嘅場合,」火箭講;「毫無疑問,嗰個就係佢嘅意思,」佢睇起嚟比以往更傲慢。",
+          "vernacularMandarin": "「我想他們是把我留作某個盛大的場合,」火箭說;「毫無疑問,那就是它的意思,」他看起來比以往更傲慢。"
+        },
+        {
+          "id": "hp005-59",
+          "original": "The next day the workmen came to put everything tidy. “This is evidently a deputation,” said the Rocket; “I will receive them with becoming dignity” so he put his nose in the air, and began to frown severely as if he were thinking about some very important subject. But they took no notice of him at all till they were just going away. Then one of them caught sight of him. “Hallo!” he cried, “what a bad rocket!” and he threw him over the wall into the ditch.",
+          "vernacular": "第二天,工人哋嚟把一切收拾整齊。「呢顯然係代表團,」火箭講;「我要以適當嘅尊嚴接見佢哋」於是佢把鼻子昂向空中,開始嚴厲地皺眉,好像喺思考某個好重要嘅問題。但佢哋根本冇理睬佢,直到佢哋快要離開。然後其中一個人睇到咗佢。「喂!」佢喊道,「多糟糕嘅火箭!」佢把佢扔過牆,扔進溝裡。",
+          "vernacularMandarin": "第二天,工人們來把一切收拾整齊。「這顯然是代表團,」火箭說;「我要以適當的尊嚴接見他們」於是他把鼻子昂向空中,開始嚴厲地皺眉,好像在思考某個非常重要的問題。但他們根本沒有理睬他,直到他們快要離開。然後其中一個人看到了他。「喂!」他喊道,「多糟糕的火箭!」他把他扔過牆,扔進溝裡。"
+        },
+        {
+          "id": "hp005-60",
+          "original": "“BAD Rocket? BAD Rocket?” he said, as he whirled through the air; “impossible! GRAND Rocket, that is what the man said. BAD and GRAND sound very much the same, indeed they often are the same”; and he fell into the mud.",
+          "vernacular": "「糟糕嘅火箭?糟糕嘅火箭?」佢喺空中旋轉時講;「唔可能!係了不起嘅火箭,嗰人講嘅係呢個。糟糕同了不起聽起嚟好相似,確實常常係一樣嘅」;佢掉進咗泥裡。",
+          "vernacularMandarin": "「糟糕的火箭?糟糕的火箭?」他在空中旋轉時說;「不可能!是了不起的火箭,那人說的是這個。糟糕和了不起聽起來非常相似,確實常常是一樣的」;他掉進了泥裡。"
+        },
+        {
+          "id": "hp005-61",
+          "original": "“It is not comfortable here,” he remarked, “but no doubt it is some fashionable watering-place, and they have sent me away to recruit my health. My nerves are certainly very much shattered, and I require rest.”",
+          "vernacular": "「呢度不舒服,」佢講,「但毫無疑問呢個係某個時髦嘅療養勝地,佢哋把我送嚟恢復健康。我嘅神經確實被嚴重震壞喇,我需要休息。」",
+          "vernacularMandarin": "「這裡不舒服,」他說,「但毫無疑問這是某個時髦的療養勝地,他們把我送來恢復健康。我的神經確實被嚴重震壞了,我需要休息。」"
+        },
+        {
+          "id": "hp005-62",
+          "original": "Then a little Frog, with bright jewelled eyes, and a green mottled coat, swam up to him.",
+          "vernacular": "然後一隻小青蛙,有明亮嘅寶石般嘅眼睛,穿住綠色斑點外衣,游到佢身邊。",
+          "vernacularMandarin": "然後一隻小青蛙,有明亮的寶石般的眼睛,穿著綠色斑點外衣,游到他身邊。"
+        },
+        {
+          "id": "hp005-63",
+          "original": "“A new arrival, I see!” said the Frog. “Well, after all there is nothing like mud. Give me rainy weather and a ditch, and I am quite happy. Do you think it will be a wet afternoon? I am sure I hope so, but the sky is quite blue and cloudless. What a pity!”",
+          "vernacular": "「我睇係新嚟嘅!」青蛙講。「嗯,畢竟冇乜嘢比得上泥。畀我雨天同一條溝,我就好快樂。你認為今日下午會下雨嗎?我肯定希望會,但天空好藍,冇雲。多可惜!」",
+          "vernacularMandarin": "「我看是新來的!」青蛙說。「嗯,畢竟沒有什麼比得上泥。給我雨天和一條溝,我就非常快樂。你認為今天下午會下雨嗎?我肯定希望會,但天空很藍,沒有雲。多可惜!」"
+        },
+        {
+          "id": "hp005-64",
+          "original": "“Ahem! ahem!” said the Rocket, and he began to cough.",
+          "vernacular": "「嗯哼!嗯哼!」火箭講,開始咳嗽。",
+          "vernacularMandarin": "「嗯哼!嗯哼!」火箭說,開始咳嗽。"
+        },
+        {
+          "id": "hp005-65",
+          "original": "“What a delightful voice you have!” cried the Frog. “Really it is quite like a croak, and croaking is of course the most musical sound in the world. You will hear our glee-club this evening. We sit in the old duck pond close by the farmer’s house, and as soon as the moon rises we begin. It is so entrancing that everybody lies awake to listen to us. In fact, it was only yesterday that I heard the farmer’s wife say to her mother that she could not get a wink of sleep at night on account of us. It is most gratifying to find oneself so popular.”",
+          "vernacular": "「你嘅聲音幾咁悅耳!」青蛙喊道。「真嘅好像呱呱叫,呱呱叫當然係世界上最有音樂感嘅聲音。你今晚會聽到我哋嘅合唱團。我哋坐喺農夫房子旁邊嘅老鴨塘裡,月亮一升起我哋就開始。佢咁迷人,每個人都醒住聽我哋。事實上,就喺尋日,我聽到農夫嘅妻子對佢母親講,因為我哋,佢晚上啲都瞓不住。發現自己咁受歡迎真令人好滿意。」",
+          "vernacularMandarin": "「你的聲音多麼悅耳!」青蛙喊道。「真的很像呱呱叫,呱呱叫當然是世界上最有音樂感的聲音。你今晚會聽到我們的合唱團。我們坐在農夫房子旁邊的老鴨塘裡,月亮一升起我們就開始。它那麼迷人,每個人都醒著聽我們。事實上,就在昨天,我聽到農夫的妻子對她母親說,因為我們,她晚上一點也睡不著。發現自己這麼受歡迎真令人非常滿意。」"
+        },
+        {
+          "id": "hp005-66",
+          "original": "“Ahem! ahem!” said the Rocket angrily. He was very much annoyed that he could not get a word in.",
+          "vernacular": "「嗯哼!嗯哼!」火箭生氣地講。佢好惱火,因為插不上一句話。",
+          "vernacularMandarin": "「嗯哼!嗯哼!」火箭生氣地說。他非常惱火,因為插不上一句話。"
+        },
+        {
+          "id": "hp005-67",
+          "original": "“A delightful voice, certainly,” continued the Frog; “I hope you will come over to the duck-pond. I am off to look for my daughters. I have six beautiful daughters, and I am so afraid the Pike may meet them. He is a perfect monster, and would have no hesitation in breakfasting off them. Well, good-bye: I have enjoyed our conversation very much, I assure you.”",
+          "vernacular": "「確實係悅耳嘅聲音,」青蛙繼續講;「我希望你會到鴨塘嚟。我要去找我嘅女兒哋。我有六個美麗嘅女兒,我好怕梭子魚遇到佢哋。佢係個十足嘅怪物,會毫不猶豫地把佢哋當早餐食喇。好喇,再見:我向你保證我好享受我哋嘅談話。」",
+          "vernacularMandarin": "「確實是悅耳的聲音,」青蛙繼續說;「我希望你會到鴨塘來。我要去找我的女兒們。我有六個美麗的女兒,我非常怕梭子魚遇到她們。他是個十足的怪物,會毫不猶豫地把她們當早餐吃了。好了,再見:我向你保證我非常享受我們的談話。」"
+        },
+        {
+          "id": "hp005-68",
+          "original": "“Conversation, indeed!” said the Rocket. “You have talked the whole time yourself. That is not conversation.”",
+          "vernacular": "「談話,真嘅!」火箭講。「整個時間都係你自己喺講。嗰唔係談話。」",
+          "vernacularMandarin": "「談話,真的!」火箭說。「整個時間都是你自己在說。那不是談話。」"
+        },
+        {
+          "id": "hp005-69",
+          "original": "“Somebody must listen,” answered the Frog, “and I like to do all the talking myself. It saves time, and prevents arguments.”",
+          "vernacular": "「總得有人聽,」青蛙回答,「我鍾意自己講所有嘅話。佢節省時間,防止爭論。」",
+          "vernacularMandarin": "「總得有人聽,」青蛙回答,「我喜歡自己說所有的話。它節省時間,防止爭論。」"
+        },
+        {
+          "id": "hp005-70",
+          "original": "“But I like arguments,” said the Rocket.",
+          "vernacular": "「但我鍾意爭論,」火箭講。",
+          "vernacularMandarin": "「但我喜歡爭論,」火箭說。"
+        },
+        {
+          "id": "hp005-71",
+          "original": "“I hope not,” said the Frog complacently. “Arguments are extremely vulgar, for everybody in good society holds exactly the same opinions. Good-bye a second time; I see my daughters in the distance:” and the little Frog swam away.",
+          "vernacular": "「我希望唔係,」青蛙自滿地講。「爭論極其庸俗,因為上流社會嘅每個人持嘅意見都完全一樣。再講一次再見;我睇到我嘅女兒哋喺遠處喇:」小青蛙游走喇。",
+          "vernacularMandarin": "「我希望不是,」青蛙自滿地說。「爭論極其庸俗,因為上流社會的每個人持的意見都完全一樣。再說一次再見;我看到我的女兒們在遠處了:」小青蛙游走了。"
+        },
+        {
+          "id": "hp005-72",
+          "original": "“You are a very irritating person,” said the Rocket, “and very ill-bred. I hate people who talk about themselves, as you do, when one wants to talk about oneself, as I do. It is what I call selfishness, and selfishness is a most detestable thing, especially to any one of my temperament, for I am well known for my sympathetic nature. In fact, you should take example by me; you could not possibly have a better model. Now that you have the chance you had better avail yourself of it, for I am going back to Court almost immediately. I am a great favourite at Court; in fact, the Prince and Princess were married yesterday in my honour. Of course you know nothing of these matters, for you are a provincial.”",
+          "vernacular": "「你係個好令人惱火嘅人,」火箭講,「而且教養好差。我討厭嗰啲像你一樣談論自己嘅人,而一個人想像我咁樣談論自己。呢個就係我所稱嘅自私,而自私係最可憎嘅嘢,尤其係對我呢種氣質嘅人來講,因為我以富同情心嘅天性而聞名。事實上,你應該以我為榜樣;你唔可能有更好嘅榜樣喇。而家你有機會,你最好利用佢,因為我幾乎即刻要回宮廷去。我喺宮廷係個大紅人;事實上,王子同公主尋日為了向我致敬而結婚。當然你對呢啲事一無所知,因為你係個鄉下人。」",
+          "vernacularMandarin": "「你是個非常令人惱火的人,」火箭說,「而且教養很差。我討厭那些像你一樣談論自己的人,而一個人想像我這樣談論自己。這就是我所稱的自私,而自私是最可憎的東西,尤其是對我這種氣質的人來說,因為我以富同情心的天性而聞名。事實上,你應該以我為榜樣;你不可能有更好的榜樣了。現在你有機會,你最好利用它,因為我幾乎馬上要回宮廷去。我在宮廷是個大紅人;事實上,王子和公主昨天為了向我致敬而結婚。當然你對這些事一無所知,因為你是個鄉下人。」"
+        },
+        {
+          "id": "hp005-73",
+          "original": "“There is no good talking to him,” said a Dragon-fly, who was sitting on the top of a large brown bulrush; “no good at all, for he has gone away.”",
+          "vernacular": "「同佢講話冇好處,」一隻蜻蜓講,牠坐喺一根大棕色蒲草嘅頂上;「啲好處都冇,因為佢已經走喇。」",
+          "vernacularMandarin": "「同他說話沒好處,」一隻蜻蜓說,牠坐在一根大棕色蒲草的頂上;「一點好處也沒有,因為他已經走了。」"
+        },
+        {
+          "id": "hp005-74",
+          "original": "“Well, that is his loss, not mine,” answered the Rocket. “I am not going to stop talking to him merely because he pays no attention. I like hearing myself talk. It is one of my greatest pleasures. I often have long conversations all by myself, and I am so clever that sometimes I don’t understand a single word of what I am saying.”",
+          "vernacular": "「嗯,嗰個係佢嘅損失,唔係我嘅,」火箭回答。「我唔會僅僅因為佢不理睬就停止同佢講話。我鍾意聽自己講話。呢個係我最大嘅樂趣之一。我常常自己進行長篇談話,我咁聰明,有時連我自己講嘅一個字都不懂。」",
+          "vernacularMandarin": "「嗯,那是他的損失,不是我的,」火箭回答。「我不會僅僅因為他不理睬就停止同他說話。我喜歡聽自己說話。這是我最大的樂趣之一。我常常自己進行長篇談話,我那麼聰明,有時連我自己說的一個字也不懂。」"
+        },
+        {
+          "id": "hp005-75",
+          "original": "“Then you should certainly lecture on Philosophy,” said the Dragon-fly; and he spread a pair of lovely gauze wings and soared away into the sky.",
+          "vernacular": "「咁你一定該講授哲學,」蜻蜓講;牠展開一雙可愛嘅薄紗翅膀,飛向天空。",
+          "vernacularMandarin": "「那麼你一定該講授哲學,」蜻蜓說;牠展開一雙可愛的薄紗翅膀,飛向天空。"
+        },
+        {
+          "id": "hp005-76",
+          "original": "“How very silly of him not to stay here!” said the Rocket. “I am sure that he has not often got such a chance of improving his mind. However, I don’t care a bit. Genius like mine is sure to be appreciated some day”; and he sank down a little deeper into the mud.",
+          "vernacular": "「佢不留喺呢度真係太蠢喇!」火箭講。「我肯定佢不常有咁樣改善頭腦嘅機會。不過,我啲都不在乎。像我咁樣嘅天才總有一天一定會得到賞識」;佢往泥裡沉得更深咗啲。",
+          "vernacularMandarin": "「他不留在這裡真是太蠢了!」火箭說。「我肯定他不常有這樣改善頭腦的機會。不過,我一點也不在乎。像我這樣的天才總有一天一定會得到賞識」;他往泥裡沉得更深了一點。"
+        },
+        {
+          "id": "hp005-77",
+          "original": "After some time a large White Duck swam up to him. She had yellow legs, and webbed feet, and was considered a great beauty on account of her waddle.",
+          "vernacular": "過咗一會兒,一隻大白鴨游到佢身邊。佢有黃色嘅腿同蹼足,因為佢搖搖擺擺嘅走路,被認為係大美人。",
+          "vernacularMandarin": "過了一會兒,一隻大白鴨游到他身邊。她有黃色的腿和蹼足,因為她搖搖擺擺的走路,被認為是大美人。"
+        },
+        {
+          "id": "hp005-78",
+          "original": "“Quack, quack, quack,” she said. “What a curious shape you are! May I ask were you born like that, or is it the result of an accident?”",
+          "vernacular": "「呱,呱,呱,」佢講。「你嘅形狀幾咁奇特!請問你生來就係咁樣,定係意外嘅結果?」",
+          "vernacularMandarin": "「呱,呱,呱,」她說。「你的形狀多麼奇特!請問你生來就是這樣,還是意外的結果?」"
+        },
+        {
+          "id": "hp005-79",
+          "original": "“It is quite evident that you have always lived in the country,” answered the Rocket, “otherwise you would know who I am. However, I excuse your ignorance. It would be unfair to expect other people to be as remarkable as oneself. You will no doubt be surprised to hear that I can fly up into the sky, and come down in a shower of golden rain.”",
+          "vernacular": "「好明顯你一直住喺鄉下,」火箭回答,「否則你會知道我係邊個。不過,我原諒你嘅無知。期望別人像自己一樣了不起係不公平嘅。你聽到我能飛向天空,以一陣金雨降落,無疑會感到驚訝。」",
+          "vernacularMandarin": "「很明顯你一直住在鄉下,」火箭回答,「否則你會知道我是誰。不過,我原諒你的無知。期望別人像自己一樣了不起是不公平的。你聽到我能飛向天空,以一陣金雨降落,無疑會感到驚訝。」"
+        },
+        {
+          "id": "hp005-80",
+          "original": "“I don’t think much of that,” said the Duck, “as I cannot see what use it is to any one. Now, if you could plough the fields like the ox, or draw a cart like the horse, or look after the sheep like the collie-dog, that would be something.”",
+          "vernacular": "「我不覺得嗰有乜嘢了不起,」鴨子講,「因為我睇不出佢對任何人有乜嘢用。而家,如果你能像牛一樣犁田,或像馬一樣拉車,或像牧羊犬一樣照睇羊,嗰才算點乜嘢。」",
+          "vernacularMandarin": "「我不覺得那有什麼了不起,」鴨子說,「因為我看不出它對任何人有什麼用。現在,如果你能像牛一樣犁田,或像馬一樣拉車,或像牧羊犬一樣照看羊,那才算點什麼。」"
+        },
+        {
+          "id": "hp005-81",
+          "original": "“My good creature,” cried the Rocket in a very haughty tone of voice, “I see that you belong to the lower orders. A person of my position is never useful. We have certain accomplishments, and that is more than sufficient. I have no sympathy myself with industry of any kind, least of all with such industries as you seem to recommend. Indeed, I have always been of opinion that hard work is simply the refuge of people who have nothing whatever to do.”",
+          "vernacular": "「我嘅好傢伙,」火箭用好傲慢嘅聲音喊道,「我睇出你屬於下等階層。像我呢種地位嘅人從不有用。我哋有某些才藝,嗰就綽綽有餘喇。我自己對任何種類嘅勤勞都冇同情,對你似乎推薦嘅嗰種勤勞更係如此。確實,我一直認為努力工作只係無事可做嘅人嘅避難所。」",
+          "vernacularMandarin": "「我的好傢伙,」火箭用非常傲慢的聲音喊道,「我看出你屬於下等階層。像我這種地位的人從不有用。我們有某些才藝,那就綽綽有餘了。我自己對任何種類的勤勞都沒有同情,對你似乎推薦的那種勤勞更是如此。確實,我一直認為努力工作只是無事可做的人的避難所。」"
+        },
+        {
+          "id": "hp005-82",
+          "original": "“Well, well,” said the Duck, who was of a very peaceable disposition, and never quarrelled with any one, “everybody has different tastes. I hope, at any rate, that you are going to take up your residence here.”",
+          "vernacular": "「好吧,好吧,」鴨子講,佢性情好平和,從不同任何人爭吵,「每個人品味不同。我希望,無論如何,你打算喺呢度定居。」",
+          "vernacularMandarin": "「好吧,好吧,」鴨子說,她性情非常平和,從不同任何人爭吵,「每個人品味不同。我希望,無論如何,你打算在這裡定居。」"
+        },
+        {
+          "id": "hp005-83",
+          "original": "“Oh! dear no,” cried the Rocket. “I am merely a visitor, a distinguished visitor. The fact is that I find this place rather tedious. There is neither society here, nor solitude. In fact, it is essentially suburban. I shall probably go back to Court, for I know that I am destined to make a sensation in the world.”",
+          "vernacular": "「哦!當然不,」火箭喊道。「我只係個訪客,一個傑出嘅訪客。事實係我覺得呢個地方相當乏味。呢度既冇社交,都冇孤獨。事實上,佢本質上係郊區。我大概會回宮廷去,因為我知道我註定要在世界上引起轟動。」",
+          "vernacularMandarin": "「哦!當然不,」火箭喊道。「我只是個訪客,一個傑出的訪客。事實是我覺得這個地方相當乏味。這裡既沒有社交,也沒有孤獨。事實上,它本質上是郊區。我大概會回宮廷去,因為我知道我註定要在世界上引起轟動。」"
+        },
+        {
+          "id": "hp005-84",
+          "original": "“I had thoughts of entering public life once myself,” remarked the Duck; “there are so many things that need reforming. Indeed, I took the chair at a meeting some time ago, and we passed resolutions condemning everything that we did not like. However, they did not seem to have much effect. Now I go in for domesticity, and look after my family.”",
+          "vernacular": "「我自己曾經都想過進入公共生活,」鴨子講;「有咁多事需要改革。確實,不久前我主持過一次會議,我哋通過咗決議,譴責所有我哋不鍾意嘅事。不過,佢哋似乎冇乜嘢效果。而家我專心於家庭生活,照顧我嘅家人。」",
+          "vernacularMandarin": "「我自己曾經也想過進入公共生活,」鴨子說;「有那麼多事需要改革。確實,不久前我主持過一次會議,我們通過了決議,譴責所有我們不喜歡的事。不過,它們似乎沒什麼效果。現在我專心於家庭生活,照顧我的家人。」"
+        },
+        {
+          "id": "hp005-85",
+          "original": "“I am made for public life,” said the Rocket, “and so are all my relations, even the humblest of them. Whenever we appear we excite great attention. I have not actually appeared myself, but when I do so it will be a magnificent sight. As for domesticity, it ages one rapidly, and distracts one’s mind from higher things.”",
+          "vernacular": "「我係為公共生活而生嘅,」火箭講,「我所有嘅親戚都係,連最卑微嘅都係。我哋無論喺邊度出現,都會引起極大嘅注意。我自己仲冇真正出現過,但我出現時會係壯麗嘅景象。至於家庭生活,佢使人迅速變老,並使人嘅心思從更高嘅事物上分散。」",
+          "vernacularMandarin": "「我是為公共生活而生的,」火箭說,「我所有的親戚也是,連最卑微的也是。我們無論在哪裡出現,都會引起極大的注意。我自己還沒有真正出現過,但我出現時會是壯麗的景象。至於家庭生活,它使人迅速變老,並使人的心思從更高的事物上分散。」"
+        },
+        {
+          "id": "hp005-86",
+          "original": "“Ah! the higher things of life, how fine they are!” said the Duck; “and that reminds me how hungry I feel”: and she swam away down the stream, saying, “Quack, quack, quack.”",
+          "vernacular": "「啊!生活中更高嘅事物,幾咁美好!」鴨子講;「呢使我想起我覺得多餓」:佢沿住溪流游走,講住:「呱,呱,呱。」",
+          "vernacularMandarin": "「啊!生活中更高的事物,多麼美好!」鴨子說;「這使我想起我覺得多餓」:她沿著溪流游走,說著:「呱,呱,呱。」"
+        },
+        {
+          "id": "hp005-87",
+          "original": "“Come back! come back!” screamed the Rocket, “I have a great deal to say to you”; but the Duck paid no attention to him. “I am glad that she has gone,” he said to himself, “she has a decidedly middle-class mind”; and he sank a little deeper still into the mud, and began to think about the loneliness of genius, when suddenly two little boys in white smocks came running down the bank, with a kettle and some faggots.",
+          "vernacular": "「回嚟!回嚟!」火箭尖叫,「我有好多話要對你講」;但鴨子不理佢。「我好高興佢走喇,」佢對自己講,「佢明顯有中產階級嘅頭腦」;佢又往泥裡沉得更深啲,開始思考天才嘅孤獨,呢陣突然兩個穿白罩衫嘅小男孩帶住水壺同啲柴捆跑下河岸。",
+          "vernacularMandarin": "「回來!回來!」火箭尖叫,「我有很多話要對你說」;但鴨子不理他。「我很高興她走了,」他對自己說,「她明顯有中產階級的頭腦」;他又往泥裡沉得更深一點,開始思考天才的孤獨,這時突然兩個穿白罩衫的小男孩帶著水壺和一些柴捆跑下河岸。"
+        },
+        {
+          "id": "hp005-88",
+          "original": "“This must be the deputation,” said the Rocket, and he tried to look very dignified.",
+          "vernacular": "「呢一定係代表團,」火箭講,佢試圖顯得好有尊嚴。",
+          "vernacularMandarin": "「這一定是代表團,」火箭說,他試圖顯得很有尊嚴。"
+        },
+        {
+          "id": "hp005-89",
+          "original": "“Hallo!” cried one of the boys, “look at this old stick! I wonder how it came here”; and he picked the rocket out of the ditch.",
+          "vernacular": "「喂!」一個男孩喊道,「睇呢根舊棍子!我想知道佢點到呢度嘅」;佢把火箭從溝裡撿起嚟。",
+          "vernacularMandarin": "「喂!」一個男孩喊道,「看這根舊棍子!我想知道它怎麼到這裡的」;他把火箭從溝裡撿起來。"
+        },
+        {
+          "id": "hp005-90",
+          "original": "“OLD Stick!” said the Rocket, “impossible! GOLD Stick, that is what he said. Gold Stick is very complimentary. In fact, he mistakes me for one of the Court dignitaries!”",
+          "vernacular": "「舊棍子!」火箭講,「唔可能!係金棍,佢講嘅係呢個。金棍係好恭維嘅。事實上,佢把我誤認為宮廷顯貴之一喇!」",
+          "vernacularMandarin": "「舊棍子!」火箭說,「不可能!是金棍,他說的是這個。金棍是很恭維的。事實上,他把我誤認為宮廷顯貴之一了!」"
+        },
+        {
+          "id": "hp005-91",
+          "original": "“Let us put it into the fire!” said the other boy, “it will help to boil the kettle.”",
+          "vernacular": "「我哋把佢放進火裡!」另一個男孩講,「佢能幫助把水壺燒開。」",
+          "vernacularMandarin": "「我們把它放進火裡!」另一個男孩說,「它能幫助把水壺燒開。」"
+        },
+        {
+          "id": "hp005-92",
+          "original": "So they piled the faggots together, and put the Rocket on top, and lit the fire.",
+          "vernacular": "於是佢哋把柴捆堆喺一起,把火箭放喺上面,點住咗火。",
+          "vernacularMandarin": "於是他們把柴捆堆在一起,把火箭放在上面,點著了火。"
+        },
+        {
+          "id": "hp005-93",
+          "original": "“This is magnificent,” cried the Rocket, “they are going to let me off in broad day-light, so that every one can see me.”",
+          "vernacular": "「呢太壯麗喇,」火箭喊道,「佢哋要喺大白天點燃我,咁樣每個人都能睇到我。」",
+          "vernacularMandarin": "「這太壯麗了,」火箭喊道,「他們要在大白天點燃我,這樣每個人都能看到我。」"
+        },
+        {
+          "id": "hp005-94",
+          "original": "“We will go to sleep now,” they said, “and when we wake up the kettle will be boiled”; and they lay down on the grass, and shut their eyes.",
+          "vernacular": "「我哋而家去瞓覺,」佢哋講,「等我哋醒嚟水壺就燒開喇」;佢哋躺喺草地上,閉上咗眼睛。",
+          "vernacularMandarin": "「我們現在去睡覺,」他們說,「等我們醒來水壺就燒開了」;他們躺在草地上,閉上了眼睛。"
+        },
+        {
+          "id": "hp005-95",
+          "original": "The Rocket was very damp, so he took a long time to burn. At last, however, the fire caught him.",
+          "vernacular": "火箭好潮濕,所以佢花咗好長時間才燒起嚟。不過最後火點住咗佢。",
+          "vernacularMandarin": "火箭很潮濕,所以他花了很長時間才燒起來。不過最後火點著了他。"
+        },
+        {
+          "id": "hp005-96",
+          "original": "“Now I am going off!” he cried, and he made himself very stiff and straight. “I know I shall go much higher than the stars, much higher than the moon, much higher than the sun. In fact, I shall go so high that—”",
+          "vernacular": "「而家我要發射喇!」佢喊道,把自己弄得好僵硬好直。「我知道我會飛得比星星高得多,比月亮高得多,比太陽高得多。事實上,我會飛得咁高,以致——」",
+          "vernacularMandarin": "「現在我要發射了!」他喊道,把自己弄得很僵硬很直。「我知道我會飛得比星星高得多,比月亮高得多,比太陽高得多。事實上,我會飛得那麼高,以致——」"
+        },
+        {
+          "id": "hp005-97",
+          "original": "Fizz! Fizz! Fizz! and he went straight up into the air.",
+          "vernacular": "嘶嘶!嘶嘶!嘶嘶!佢直直地衝上咗空中。",
+          "vernacularMandarin": "嘶嘶!嘶嘶!嘶嘶!他直直地衝上了空中。"
+        },
+        {
+          "id": "hp005-98",
+          "original": "“Delightful!” he cried, “I shall go on like this for ever. What a success I am!”",
+          "vernacular": "「太美妙喇!」佢喊道,「我會永遠咁樣飛下去。我係幾咁成功!」",
+          "vernacularMandarin": "「太美妙了!」他喊道,「我會永遠這樣飛下去。我是多麼成功!」"
+        },
+        {
+          "id": "hp005-99",
+          "original": "But nobody saw him.",
+          "vernacular": "但冇人睇見佢。",
+          "vernacularMandarin": "但沒有人看見他。"
+        },
+        {
+          "id": "hp005-100",
+          "original": "Then he began to feel a curious tingling sensation all over him.",
+          "vernacular": "然後佢開始感到全身有一種奇怪嘅刺痛感。",
+          "vernacularMandarin": "然後他開始感到全身有一種奇怪的刺痛感。"
+        },
+        {
+          "id": "hp005-101",
+          "original": "“Now I am going to explode,” he cried. “I shall set the whole world on fire, and make such a noise that nobody will talk about anything else for a whole year.” And he certainly did explode. Bang! Bang! Bang! went the gunpowder. There was no doubt about it.",
+          "vernacular": "「而家我要爆炸喇,」佢喊道。「我會讓整個世界住火,發出咁大嘅聲響,整整一年冇人會談論別嘅事。」佢確實爆炸喇。砰!砰!砰!火藥響喇。呢毫無疑問。",
+          "vernacularMandarin": "「現在我要爆炸了,」他喊道。「我會讓整個世界著火,發出那麼大的聲響,整整一年沒有人會談論別的事。」他確實爆炸了。砰!砰!砰!火藥響了。這毫無疑問。"
+        },
+        {
+          "id": "hp005-102",
+          "original": "But nobody heard him, not even the two little boys, for they were sound asleep.",
+          "vernacular": "但冇人聽見佢,連兩個小男孩都冇,因為佢哋瞓得好沉。",
+          "vernacularMandarin": "但沒有人聽見他,連兩個小男孩也沒有,因為他們睡得很沉。"
+        },
+        {
+          "id": "hp005-103",
+          "original": "Then all that was left of him was the stick, and this fell down on the back of a Goose who was taking a walk by the side of the ditch.",
+          "vernacular": "然後佢剩下嘅只有嗰根棍子,佢掉喺一隻正在溝邊散步嘅鵝嘅背上。",
+          "vernacularMandarin": "然後他剩下的只有那根棍子,它掉在一隻正在溝邊散步的鵝的背上。"
+        },
+        {
+          "id": "hp005-104",
+          "original": "“Good heavens!” cried the Goose. “It is going to rain sticks”; and she rushed into the water.",
+          "vernacular": "「天呀!」鵝喊道。「要下棍子雨喇」;佢衝進咗水裡。",
+          "vernacularMandarin": "「天哪!」鵝喊道。「要下棍子雨了」;她衝進了水裡。"
+        },
+        {
+          "id": "hp005-105",
+          "original": "“I knew I should create a great sensation,” gasped the Rocket, and he went out.",
+          "vernacular": "「我就知道我會引起大轟動,」火箭喘住氣講,然後佢熄滅喇。",
+          "vernacularMandarin": "「我就知道我會引起大轟動,」火箭喘著氣說,然後他熄滅了。"
+        }
+      ]
+    }
+  ]
+}
