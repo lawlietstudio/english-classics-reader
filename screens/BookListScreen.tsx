@@ -1,6 +1,7 @@
-import React, { useMemo } from 'react';
-import { FlatList, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
+import React, { useMemo, useState } from 'react';
+import { FlatList, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { books } from '../data/books';
+import { bookCategories } from '../data/categories';
 import { Progress } from '../hooks/useProgress';
 import { ThemeColors } from '../theme/colors';
 
@@ -21,6 +22,22 @@ export default function BookListScreen({
 }: Props) {
   const styles = useMemo(() => createStyles(colors), [colors]);
   const continueBook = progress ? books.find((b) => b.id === progress.bookId) : undefined;
+  const [categoryId, setCategoryId] = useState('all');
+  const tabs = useMemo(
+    () => [
+      { id: 'all', label: '全部', count: books.length },
+      ...bookCategories.map((c) => ({
+        id: c.id,
+        label: c.label,
+        count: books.filter((b) => c.bookIds.includes(b.id)).length,
+      })),
+    ],
+    [],
+  );
+  const visibleBooks = useMemo(() => {
+    const cat = bookCategories.find((c) => c.id === categoryId);
+    return cat ? books.filter((b) => cat.bookIds.includes(b.id)) : books;
+  }, [categoryId]);
 
   return (
     <View style={styles.container}>
@@ -41,8 +58,27 @@ export default function BookListScreen({
         </Pressable>
       )}
 
+      <View style={styles.tabsWrap}>
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.tabs}>
+          {tabs.map((t) => {
+            const active = t.id === categoryId;
+            return (
+              <Pressable
+                key={t.id}
+                style={[styles.tab, active && styles.tabActive]}
+                onPress={() => setCategoryId(t.id)}
+              >
+                <Text style={[styles.tabText, active && styles.tabTextActive]}>
+                  {t.label} {t.count}
+                </Text>
+              </Pressable>
+            );
+          })}
+        </ScrollView>
+      </View>
+
       <FlatList
-        data={books}
+        data={visibleBooks}
         keyExtractor={(item) => item.id}
         contentContainerStyle={styles.list}
         renderItem={({ item }) => (
@@ -87,6 +123,17 @@ const createStyles = (c: ThemeColors) =>
     },
     continueLabel: { color: c.inverseMuted, fontSize: 12, marginBottom: 4 },
     continueTitle: { color: c.inverseText, fontSize: 18, fontWeight: '600' },
+    tabsWrap: { marginBottom: 12, marginHorizontal: -20 },
+    tabs: { paddingHorizontal: 20, gap: 8 },
+    tab: {
+      backgroundColor: c.pill,
+      borderRadius: 16,
+      paddingHorizontal: 14,
+      paddingVertical: 7,
+    },
+    tabActive: { backgroundColor: c.inverse },
+    tabText: { fontSize: 14, color: c.textSecondary },
+    tabTextActive: { color: c.inverseText, fontWeight: '600' },
     list: { paddingBottom: 40 },
     bookCard: {
       backgroundColor: c.surface,
